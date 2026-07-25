@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="#s"?>
+<i>
+  <!--
+mikufans录播姬 2.18.0+Branch.tags-v2.18.0.Sha.fbb85583d8ca570d77b88637f105c4984e8231dd
+https://rec.danmuji.org/user/danmaku/
+本文件的弹幕信息兼容mikufans主站视频弹幕XML格式
+本XML自带样式可以在浏览器里打开（推荐使用Chrome）
+
+sc 为SuperChat
+gift为礼物
+guard为上船
+
+attribute "raw" 为原始数据
+-->
+  <chatserver>chat.bilibili.com</chatserver>
+  <chatid>0</chatid>
+  <mission>0</mission>
+  <maxlimit>1000</maxlimit>
+  <state>0</state>
+  <real_name>0</real_name>
+  <source>0</source>
+  <BililiveRecorder version="2.18.0" />
+  <BililiveRecorderRecordInfo roomid="31368705" shortid="0" name="米汀Nagisa" title="「桌面探索者」初见" areanameparent="虚拟主播" areanamechild="虚拟日常" start_time="2026-07-25T23:33:33.2632651+08:00" />
+  <BililiveRecorderXmlStyle><z:stylesheet version="1.0" id="s" xml:id="s" xmlns:z="http://www.w3.org/1999/XSL/Transform"><z:output method="html"/><z:template match="/"><html><meta name="viewport" content="width=device-width"/><title>mikufans录播姬弹幕文件 - <z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></title><style>body{margin:0}h1,h2,p,table{margin-left:5px}table{border-spacing:0}td,th{border:1px solid grey;padding:1px}th{position:sticky;top:0;background:#4098de}tr:hover{background:#d9f4ff}div{overflow:auto;max-height:80vh;max-width:100vw;width:fit-content}</style><h1><a href="https://rec.danmuji.org">mikufans录播姬</a>弹幕XML文件</h1><p>本文件不支持在 IE 浏览器里预览，请使用 Chrome Firefox Edge 等浏览器。</p><p>文件用法参考文档 <a href="https://rec.danmuji.org/user/danmaku/">https://rec.danmuji.org/user/danmaku/</a></p><table><tr><td>录播姬版本</td><td><z:value-of select="/i/BililiveRecorder/@version"/></td></tr><tr><td>房间号</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@roomid"/></td></tr><tr><td>主播名</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></td></tr><tr><td>录制开始时间</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@start_time"/></td></tr><tr><td><a href="#d">弹幕</a></td><td>共<z:value-of select="count(/i/d)"/>条记录</td></tr><tr><td><a href="#guard">上船</a></td><td>共<z:value-of select="count(/i/guard)"/>条记录</td></tr><tr><td><a href="#sc">SC</a></td><td>共<z:value-of select="count(/i/sc)"/>条记录</td></tr><tr><td><a href="#gift">礼物</a></td><td>共<z:value-of select="count(/i/gift)"/>条记录</td></tr></table><h2 id="d">弹幕</h2><div id="dm"><table><tr><th>用户名</th><th>出现时间</th><th>用户ID</th><th>弹幕</th><th>参数</th></tr><z:for-each select="/i/d"><tr><td><z:value-of select="@user"/></td><td></td><td></td><td><z:value-of select="."/></td><td><z:value-of select="@p"/></td></tr></z:for-each></table></div><script>Array.from(document.querySelectorAll('#dm tr')).slice(1).map(t=>t.querySelectorAll('td')).forEach(t=>{let p=t[4].textContent.split(','),a=p[0];t[1].textContent=`${(Math.floor(a/60/60)+'').padStart(2,0)}:${(Math.floor(a/60%60)+'').padStart(2,0)}:${(a%60).toFixed(3).padStart(6,0)}`;t[2].innerHTML=`&lt;a target=_blank rel="nofollow noreferrer" href="https://space.bilibili.com/${p[6]}"&gt;${p[6]}&lt;/a&gt;`})</script><h2 id="guard">舰长购买</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>舰长等级</th><th>购买数量</th><th>出现时间</th></tr><z:for-each select="/i/guard"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@level"/></td><td><z:value-of select="@count"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="sc">SuperChat 醒目留言</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>内容</th><th>显示时长</th><th>价格</th><th>出现时间</th></tr><z:for-each select="/i/sc"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="."/></td><td><z:value-of select="@time"/></td><td><z:value-of select="@price"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="gift">礼物</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>礼物名</th><th>礼物数量</th><th>出现时间</th></tr><z:for-each select="/i/gift"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@giftname"/></td><td><z:value-of select="@giftcount"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div></html></z:template></z:stylesheet></BililiveRecorderXmlStyle>
+  <d p="0.814,4,25,14893055,1784993617056,0,351531386,0" user="invins-">要点火吗</d>
+  <d p="2.114,1,25,16777215,1784993618213,0,631592,0" user="绘星马克罗夫">火烧藤蔓？</d>
+  <d p="4.301,1,25,65532,1784993620397,0,1641301,0" user="RYKD">他这个第一关破关到第二关是elephas吗</d>
+  <d p="19.003,1,25,16777215,1784993634950,0,507645990,0" user="elecRui">不一样在哪</d>
+  <d p="24.205,4,25,14893055,1784993640438,0,10788384,0" user="soulのtouch">大象是靠后一点的吧</d>
+  <d p="25.545,1,25,16777215,1784993642457,0,1629759589,0" user="霍尔莫斯先生">喜欢</d>
+  <d p="32.920,1,25,65532,1784993649566,0,1641301,0" user="RYKD">那elephas是第几关来着</d>
+  <d p="34.616,4,25,14893055,1784993651360,0,360569,0" user="米汀家的夜阑梦雪">藤蔓缠着鳄鱼的嘴巴，用火烧一下呢</d>
+  <d p="35.543,4,25,16772431,1784993652150,0,25942909,0" user="鸦天狗狗文">唔</d>
+  <d p="35.543,1,25,16777215,1784993652581,0,1852745,0" user="全肯定">Inanna是苏美尔神话的 居然不全是埃及的</d>
+  <d p="43.702,1,25,16777215,1784993660271,0,631592,0" user="绘星马克罗夫">刚好像看到个点火咒语</d>
+  <d p="56.704,4,25,14893055,1784993672644,0,360569,0" user="米汀家的夜阑梦雪">要打开鳄鱼嘴巴吧</d>
+  <d p="67.101,4,25,14893055,1784993682995,0,351531386,0" user="invins-">呼唤点火时的咒语把场景里的火把都点燃？</d>
+  <d p="69.335,1,25,65532,1784993685271,0,1641301,0" user="RYKD">把咒语改成elephas试试？</d>
+  <d p="73.620,1,25,16777215,1784993689653,0,1629759589,0" user="霍尔莫斯先生">哈哈</d>
+  <d p="82.366,4,25,16772431,1784993699466,0,25942909,0" user="鸦天狗狗文">唔</d>
+  <d p="82.706,4,25,14893055,1784993699122,0,360569,0" user="米汀家的夜阑梦雪">在源码喊一下fire</d>
+  <d p="85.305,1,25,16777215,1784993701444,0,631592,0" user="绘星马克罗夫">🤔</d>
+  <d p="87.511,1,25,14893055,1784993703945,0,678736548,0" user="星脉注射器_pulsar">咬合的下颌会不会是提示？</d>
+  <d p="95.719,4,25,14893055,1784993712355,0,210653,0" user="晴色">咒语改成正确的吧</d>
+  <d p="110.002,1,25,16777215,1784993726388,0,1629759589,0" user="霍尔莫斯先生">早</d>
+  <d p="129.500,4,25,14893055,1784993746433,0,351531386,0" user="invins-">换成Inanna试试</d>
+  <d p="134.299,1,25,65532,1784993751127,0,1641301,0" user="RYKD">能改，但是不是elephas</d>
+  <d p="138.225,1,25,16777215,1784993754756,0,29179911,0" user="千禧狐">都输一遍呢</d>
+  <d p="139.920,4,25,14893055,1784993757029,0,360569,0" user="米汀家的夜阑梦雪">那就输入鳄鱼吗</d>
+  <d p="150.298,1,25,16777215,1784993766772,0,507645990,0" user="elecRui">图片重新打开会有变化吗</d>
+  <d p="151.232,1,25,16777215,1784993767554,0,3546706056579918,0" user="凡苍Vencent">尚未点燃的火把？Inanna？</d>
+  <d p="155.511,4,25,14893055,1784993772188,0,351531386,0" user="invins-">哈哈</d>
+  <d p="156.798,4,25,14893055,1784993773367,0,10788384,0" user="soulのtouch">大喊鳄鱼</d>
+  <d p="162.002,1,25,16777215,1784993778833,0,1629759589,0" user="霍尔莫斯先生">谢谢</d>
+  <d p="165.520,1,25,16777215,1784993782322,0,29179911,0" user="千禧狐">草</d>
+  <d p="167.204,4,25,14893055,1784993784036,0,360569,0" user="米汀家的夜阑梦雪">爪痕毁掉的是第一关吗</d>
+  <d p="168.498,1,25,16777215,1784993784962,0,507645990,0" user="elecRui">鳄鱼都不是密码</d>
+  <d p="169.420,1,25,16777215,1784993785496,0,1852745,0" user="全肯定">哈哈</d>
+  <d p="169.420,1,25,65532,1784993785933,0,1641301,0" user="RYKD">但是elephas是第二关吗</d>
+  <d p="178.514,1,25,16777215,1784993795673,0,3546706056579918,0" user="凡苍Vencent">鳄鱼当时我们输入的真的是鳄鱼</d>
+  <d p="180.199,1,25,16777215,1784993796413,0,631592,0" user="绘星马克罗夫">刚那个点火咒语在这边念？</d>
+  <d p="182.836,4,25,14893055,1784993799448,0,66621878,0" user="霊音はなこ">能不能复制图片名称</d>
+  <d p="188.910,1,25,65532,1784993804887,0,1641301,0" user="RYKD">那他头上这个数字何意</d>
+  <d p="189.310,1,25,14893055,1784993806294,0,1977481159,0" user="落烨了吗">唔</d>
+  <d p="193.215,4,25,14893055,1784993809858,0,210653,0" user="晴色">这个第几关是不是看文件目录就知道了</d>
+</i>
