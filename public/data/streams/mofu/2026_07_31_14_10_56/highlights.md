@@ -1,0 +1,135 @@
+---
+generatedAt: "2026-07-31T09:19:34.728Z"
+sourceHighlight: "录制-1791260716-20260731-141056-173-中午好！病弱狗狗来了！【周年舰礼追加中】_AI_HIGHLIGHT.txt"
+provider: "daiYu"
+model: "gpt-5.6-luna"
+fallback: false
+attempts:
+  - provider: "daiYu"
+    model: "gpt-5.6-luna"
+    status: "success"
+    finishReason: "stop"
+    maxTokens: 100000
+    completionTokens: 160
+    totalTokens: 15006
+---
+绒绒今天生病还陪我们看了这么久蜘蛛侠，嗓子和身上起疹子都让人好心疼呜呜，三蛛同框时你喊“值了”也太可爱了，被你看死的反派都数不过来捏！今晚好好休息、喝水养嗓子，绒绒民一直陪着你，晚安呀( ́∀`)
+
+---
+
+【摘要】(保留率: 前35%热度 + 10%随机)
+---
+[0m] 🔥 看片儿的UI放一下。因为我下播之后想下播之后想看蜘蛛侠皮。多侠。不是不是出了那个什么丁秋侠。不是出了出了四吗。我想看他。大家说就是前面三部必须都看过。不然的话看不懂。但是三的话当时听说很熟。我就没看我们一起看一下吧。怎么样。我们一起看一下看一下三吧。低度侠。对了。看片。最终吃屎b站有人传。怎么很b站b站的人传的。站内过审视频有懂的吧。站内过审视频啊啊  (💬 干嘛 / 呆呆 / 我去这能播吗 / 绒绒好点了没 / 什么叫狗又开播了)
+[2m] ▫️ 买了那么多UI都不不知道去哪了。我要是被扒了我就下播自己看了哈。大家你们可别说我我是被搬了。我就下播自己看了我就不开播了。嗯什么咋这样。没办法呀。剪映狂确实哎这个这个弹幕看的。不是很清楚呢  (💬 咋这样(x3) / 爱你 / 你已急哭 / 现在来看电影吗 / 绒绒你人呢)
+[5m] ▫️ 都学习学习中耶行。晚上就可以保证一下这个声音嗓子。晚上就不说话了。areyousureyouwanttocomment。thejounnchaack。Therewillbesignificantcasalties。丢一脸。你第二部没看过第二部。我看过看过了吗。Videowasreleasedearliertoday。onthecontroversialnewswebsite  (💬 来啦 / 还有加播？！ / 贴贴 / 绒姐要是身体不舒服晚上就歇吧 / 养好病明天唱歌)
+[6m] 🔥 thedailyvehgledot。Now噔等噔。ineedterdimensionalwarare。Areyou。你别说。theprotectorplanetand。whowillnodoubtgodowninthe。historyasthegreatestsuper。heroabouttime。我带着大招。我不去。你是不是要管人们  (💬 嘻嘻 / 老大，我们这样真的能骗过超管吗 / 下面没有剪辑条 / 没声 / 怎么放到剪映里去了，伪装吗)
+[6m] 🔥 这是奥皮卖花的血量。稍等。背着民族要。nameisspirarais。Dsmeispearpartner。你itriedbox。这样可以吗。aseventeenyearoldhighschool。delink只能i。macyleleyouused。bymysggfriendfriend。Areyousweetmsgoingtothebalance  (💬 声音好小 / 最喜欢的学剪辑 / tianc / 天才 / 聪明小狗🐕)
+[7m] 🔥 我的心被开了。这些人真的是没没有威德。把人家周围人开了好烦啊。No。i还得哎坏了。问alwayssideze。peoplelookup。不是不是三呢这个我哪里考人。Howplicatemynumber。哈很就帅吧别进不去。raanty快还能有人我不听了。对呀不是拆了吗。Ok哎。是我去没啦。我靠咋没了这视频这个这个这个。传的人传的没了我靠  (💬 嘻嘻 / 完全ok / 宝宝你这个是新的电影吗 / 好像没问题了 / 爆了)
+[8m] 🔥 我的发这跟我没关系吧。我说跟我没关他能怎么是我看死的。我靠怎么可能我靠。怎么死了呀我的饭怎么死啦。是这个reaction这个如何呢。对零用液的beready。这个可以这可以拆这个猜这个有事演员啊。Ohmygod。Okok给我拿出来。Ok俺浇下来稀饭。Itjustfeelsortdumbandreally。asyouwere  (💬 被你看似了(x3) / 哈哈哈 / 哈哈哈哈哈 / 都怪你，把人家看似了 / 我去，好快的杀)
+[11m] ▫️ 他们。什么谁吃谁哦哦嘿这个样儿啊  (💬 omg(x3) / 你怎么又播了！ / 黄昏恋 / 不可思议 / 这两谈上了)
+[13m] ▫️ peterparkerAKA。我想等我好了打算去电影院看。It。andyoucanexplaineverything。Lawyerfive  (💬 那很厉害了～ / 对不起 / 带好口罩 / 犬绒mofu aka 蒜蓉蘑菇 / 剪辑说是)
+[15m] ▫️ Youshoulddefinitelylower。Feterreligions。toknowexactly。youaregotreally。greatlawyer。我dothat。mareallygoodlawyer。tolive哦这样的吗。one赢行peoples教练。Relilessoptimism。下我操你在吗。Whatif是什么来着  (💬 三虫同框你都不看吗😰 / 主播剪的还好 / 那太能剪了 / 还真是，纯靠情怀营销了 / 夜魔侠来了)
+[18m] ▫️ phonehaveoneweekwheremy。但为什么youfoundout。好好笑。Tiger儿我是来c晚一点白的。好可怜啊我操。行吓住你野狗侠那也不行。用然是鱼不能whoareyou。他真真是有那个带货天分啊。对呀。Imysterialwasright。大家一都的世界。powersincludethemalespiderability  (💬 漫威的if 动画剧集 / 就是各种平行宇宙的漫威剧情 / 就是有僵尸宇宙那个 / 吐魂 / 在床上打电话好青春。。。)
+[22m] 🔥 toopipnotizefemales。whichsheusedtosubducejones。wageniithiscoldofperson。onparties。Imeaniyes。iisbetterlord。嗯哼说three我不知道。我不知道你为什么要亲嘴呀。我靠。socrazydownthere。不许亲哦。thinking我没跟他  (💬 滴嘟滴嘟 / 滴嘟的世界 / 这是第几部啊 / 话说你知道虫3大致结尾最后怎样了吗 / hbt)
+[22m] 🔥 toMItea。五十多万。你们这个能还能进去麻省理工吗。怎么感觉像男朋友和女朋友和steve。smiling。妈呀。嗯loveveyougetit。看他们成绩很好呢啊。actually。Heycomeon完了。麻省理工是一个很牛掰很牛掰的学校。tdoanythingwrong。Imean。youcaneeverythingdn  (💬 嘻嘻 / 这是三代同框那部吗 / 这种三个人的小团体里面有对情侣太尴尬了有懂的吗 / 诡秘和老公和宠物狗 / 对啊 你也知道了)
+[25m] 🔥 doanythingwrong。expectdisappointment。andyouwillneverget。他这是效应嗯要睡觉爸。他身上啊isdidntgetin。Yeah。becausewe。reactually。friendswithspidermen。no呃yeah。iverygetgonetherere。sabmixture  (💬 MIT就是很厉害，理工科的第一圣地 / 含金量感觉不如vr / 设定上要给他们点目标 / 世界第一 / 那可是麻省理工啊)
+[25m] 🔥 Er我想起来了他是另一个霸凌。itsmyparents。这不是还没摁呢就已经开了  (💬 普通大专而已，你看它只叫学院 / 呆呆 / 麻省理工世界排名第一( / 嘻嘻 / 不许吃)
+[27m] ▫️ 我要慢慢说说supreme。stopshockingsurpiter。Ithinkwe。butiallowit啊。imean。couldgobackintimeandmake。间宝石了吧。Myantmayhappymybestfriend。对对呢  (💬 这是失败的曼？ / 猪哼)
+[30m] ▫️ Andtheyshotanepisodedeequalize。康铁侠吗。everyone啊cat。offorgetabouteverythingwe。idon。sgoingtoforgetthejourspyratic。accept又多少回。啥一点的我操唉。有病是不是。不仅不仅是这个不仅是这个这个低度虾。低度虾有病。这个goodwork这个奇博士也有病  (💬 不出事怎么演下去 / 这也是漫威电影吗 / 绒小妹起了这个头 以后就得从钢铁侠一开始陪rrm全部看一遍！ / 那你还真猜对了() / 不出事这电影就没法演了)
+[32m] 🔥 Wellsixtimes玩具。你就不能就是摇好了之后再确定嘛。我靠。你也不早点说。这个会忘记所有人。Somethingkindofstrophiccould。havehappened。我好太客气了是少二星。them没有  (💬 不刻晴怎么演下去 / 小时候还真没想到这些 / 还真是 / 奇异博士也陪他发疯 / 强行降智)
+[34m] ▫️ 蜘蛛侠主卫来了。我们看丢下直接能飞啊  (💬 肯定不是成绩吧 / 只是滑翔 / 变成超人了　( / 嚯嚯，史塔克工业 / 是翼装滑翔不算飞)
+[35m] ▫️ life。哇一秒变变粘音追出有些战斗形态。嗯章鱼博士确实好客气。powerofsuninthepalm。Thisiscerr。哇车没了万一万一没有车贷怎么办。我靠。那电影的话我其实更喜欢一代猪。但是但是一代猪太苦了。你们懂吗。我每次看一代猪都很难过。能一得住太可怜了吓人呢。这是不附魔了吗。你是谁。detected。不是父母呀。好行找错人了是这样  (💬 笑嘻了 / 演讲不提前准备 / hyw / 我去 / 太刻晴了)
+[40m] 🔥 youlistentome。呵呵嘿。嗯哈换中人了啊。好笑啊。哈对哈哈呃呃。好幽默我请问的这是咱没有到五单。maybeyouhavefeel。thatwas。Unbelieable过去啊  (💬 换中之人了 / 归我啦 / 连上蓝牙了 / 哈哈哈哈 / 蓝牙设备已连接)
+[43m] ▫️ Yeswasthathim。我靠。hewaslikeyoulike。Iftheschoolseesmefighting。doyoustillthis啊  (💬 确实啊 / 为了一碟醋包的饺子 / 呆呆 / 马上有更降智的 / 这编剧就硬来)
+[45m] ▫️ scwer。eventhoughwithyourspell。Youknowthatway。thatcouldbreaktheuniverse。somethingorrainstormideas。deal来。Ohdudeidontcare。丹的色我花号在那个好幽默啊。tyouonthebridge。igothewasgreedy  (💬 无奈的乙方[dog])
+[49m] ▫️ Why  (💬 突然解释又突然发狂 / 一惊一乍的（ / 这么暴燥 / 带电的来了 / 爱你)
+[50m] ▫️ 第二个因为我是御姐啊。妈听过thingis是听过。thinghappiness。You听过teling这人打个手机。我去应该应该行好关向。Hewasgreen。hisguysblue。有问题。Lookathescharging。renotmypeter。howdisguyok。这就是谁这是谁来呀。大家杀人哼哼。嗯对呀哎天奥利吧  (💬 战衣反穿 / 不知道 / 绒绒的嗓子好像好多了 / 绑了个手机这是？ / 呆呆)
+[52m] 🔥 乔尔杀人是哪。有有一代的哦哦干嘛  (💬 一代3的好像 / 第一版蜘蛛侠第三部 / 沙人，初代第三部的 / 一代第三部的 / 1代的)
+[53m] ▫️ Easybody。Youjusthavethetrustme。Itturnsteuptoalist。Maexitwasthenextstepandhuman。rightspeaking。sarerecording。Didyougotnamakeout。peter。andblockedupperfect。Pleasehidingintheshadows  (💬 哈哈哈哈 / 黑哥们的语言是不通的 / 荷兰蛛1和2的boss客观上都挺菜的 / 可能是每个宇宙设定的美国标准电压都不一样（）)
+[56m] ▫️ Andamoneoftheguysyou。elsetogosomeone。Andidon。tmeanjustinthecosmos。imeaninhismind。关起来。等youlikelikethis。他会偷吃哦呦偷东西他。metaltalphysical。issues小手不是哎呦。小手不是很干净对偷啥呢。Butyoudon  (💬 面具这么脆？ / 真能修好啊 / 石头做的面具（ / 偷家)
+[58m] 🔥 tmeannometer。Thisisntmyproblem。Peter。notyourproblemmethere。chance。Ancegettinghelpiswaybetter。backwheretheycameforsending。themhome。Well。哎不知道完了裙子也没人要呀  (💬 顺手的事 / 绿魔本性 / 毛了 / 犬绒mofu行为 / 偷吃的（)
+[60m] ▫️ Whathappenedtoyou。doing。youdockockdrowin  (💬 黑子们别喷了，再喷蜘蛛侠要毕业了（ / 在里面怎么上厕所 / 有剧透狗)
+[62m] ▫️ strangetohaveaheart。那真接有屁了还你干嘛。Calculusofthemultiverse。你想干嘛。我请问你你想干嘛。对不是imsorry。goodiftheydie。theydie。他们本来就在死啊让他们去死和英文。就喊你两句。他怎可我爸爸。你的巴克里是不是想死。我亲问了你给我鸡毛啊。givemethebox搞鸡毛啊  (💬 何意味 / 纯纯的小孩 / 善良人格发力了 / 圣母了呗[dog] / qrmf怎么摔倒了)
+[65m] 🔥 特效特效真的好酷。妈子疼我靠。这特效我靠无敌了。要是剧情你再好点就好了。剧情好狗屎特效好好看幽灵。剧情好公屎特效好好看又懂了吗。Pleasejusttalkaboutitmarker。Don。这还没有到最。Themriroometryisjustgeometry。他就是数学题。这儿bassive。Andtheniwasbackwhecywhisy  (💬 哇去这特效 / 没得说 / 展示经费 / 嗓子；； / 宝宝宝宝喝口热水)
+[68m] 🔥 你知不知道这些boss回到原来的世界。他们能杀多少人。Whatourtechnologyisit。icanhelpyou。youknowsomethingofascientist。myself。这个isno。就你眼前的人力是命呗。Youmeanlikeadog。irefuse。icantpromiseyou。guysanything  (💬 狗王 / 还真是 / 别搞别搞 / 至尊法师内德 / 正义の狗)
+[68m] 🔥 你想你想感化这群这群反派吗。Letmecomeon。Isn。tthatworthtryingtrust。me。Peter。whenyoutrytofixpeople。我是有点心疼其他两代蜘蛛侠打斗的时。编剧真的是用用脚写的吧。weallbelieveinmachine。girlfriend  (💬 恶人绞尽脑汁不如纯人灵机一动（ / 圣母这块 / 嘻嘻 / 摆了 / 他命由我不由天( ))
+[70m] ▫️ 感觉嗯没有别的味儿还没桌子。sunundraw。So咱把这些坏人全都放下来。iamthirstyfreshwater。嗯他说的这是啊呵呵嗯嗯。ableelectricgillsbekilling。anditoracafesaysthereckless。Pleasetellmemegolsstill。这家hiswear  (💬 为了一碟醋，包了一锅饺子皮 / 绿巨人跑回去当老师了 / 饺子也不好吃 / 笑死了（ / 只有钢铁侠似了)
+[74m] ▫️ whenigetoutthis。我最后一在解除了帅欧通帅在哪  (💬 omg / 我记得纵横宇宙里有2，3次元小蜘蛛见面来着 / 丈育博士好强的攻击性 / 生死不明了（ / 帅otto帅)
+[76m] ▫️ justyoujustyoujust。mnot。刚才学科学学理工男发力了啊。再加一个阿阿比白。iwantancriminating。界一点都不负。Somenatricatsenseofyours。reblindto。Wedon。Wedon。retalkingabout。抽走了那是那是杀人也走了。怎么把人家那个那萨克的东西偷走了  (💬 不应该让博士帮忙吗，还要那个多重人格干什么 / 贴贴 / 肯定有)
+[80m] 🔥 把这个又凉了还来几个人不错。要把他背后后面的那个东西拔走吗。也没有uppear。你说这儿你们干成的棍子。现在又要死多少人我请问了又要死掉多少。人学长。这这些人的家的钱又要谁来赔。Strongenoughtohaveatall。哎他蜘蛛侠的数值不也很高吗。为什么为什么打他呢。感觉一点都不疼呢。感觉我靠人家看了不疼。嘻嘻不疼。利好投入又是三个呗  (💬 偷走吗，不是光明正大抢走了 / 坏了，无限电池来了 / 沙人hide了 / 抛瓦！ / 沙人直接跑路)
+[82m] 🔥 我请问了这样一被这样被一拳打下。居然你居然就觉得很痛吗。蜘蛛侠你不是蜘蛛侠吗。我天哪超越来兵高知昆山山。我好像这样被乱揍。蜘蛛侠你干嘛呀。No。weeknesslaterisprobabity。Itsshock。You谁别累。不是普通人过来给你扎一针。你都感觉不到吗。Dimework。howmentwasright。Hegotitfromyouthatpathetic  (💬 区区 / 三拳给人打笑了 / 因为这个不是变异的 / 没用劲 / 唯心力量还没发力)
+[84m] 🔥 Peterpeter。peter。no好。petergoesunpunished。Youcanthankmelater。没艺术啦回忆美女在这里数啦。就蜘蛛侠非要死个亲人。这样才能让蜘蛛侠成长呗。但是这个又全都是自己作死的。我说实话这不还能走呢吗。死在哪。我去问呀对对哎呀。来brokingright。Yeah那小门人你还没走带走  (💬 鼠了(x3) / 是的 / 喜欢当圣母 / 哎呀 / 梅姨！！！)
+[85m] 🔥 theycanmokmyrips。是的对的。我我的这个还是onmyphoneme。ishouldijustlistenastrange。andletwhoyousendhedidthe。rightthingtheywouldhavebeen。killed。都还在没事啊。二是不要理妹哦。withenenorancy卖。moral  (💬 吐魂 / 醋来了 / 还有肾上腺支持 / 最后煽情一波逗逗你的呀 / 普通人挨一下估计坐都坐不起来)
+[85m] 🔥 我没事。Nonoyouknow。youlisten。youlistentome。youhaveagift。youhaveapowerandwithgreat。power。Theymustalsocomegreatresponsibility。好无语的剧情。大家reskedhihere。okayletsgo。感觉好无语的剧情啊大家太无语了  (💬 吐魂(x5) / 醋来了 / 做的对吗 / 我上次车祸手断了都没有很疼，感谢肾上腺素 / 不检查受伤的来了)
+[86m] 🔥 Whathappenareyou。Okokareareyouokwhathappen。不是不是太工具了。不是钢铁侠不是死了吗。死钢铁侠不够吗。非要必须要亲的死了。大家死干的不够大。大家因为要死青的没有血缘。大家要不了吗。大家因家那是一定是是you。reokyoure。ok没说悄悄话哦。最后就是要告别。说告别侠应该就是强着一口气对  (💬 吐魂(x7) / 说完就死，你们有这样的剧情工具人吗[dog] / 荷兰蛛现在才有这句话 / 不要说辣句话，你会消失的！ / 你咋了？)
+[87m] 🔥 蜘蛛侠说责任越大啊能力越大。责任越大。哼不说这句话蜘蛛侠就成长不了我。Ok因为他忘记说了嗯。七哎就你害死的呗。有一个秘妹成长的代价。你神秘没有意见。没事可以让可以让那个那个谁啊。可以让那个奇异博士可以。大家可以让奇异博士回到回到没还没死的。时候。大家没事儿那你去找时间宝石了。大家俺不是二爷你是不是二爷。俺不是别的宇宙的可能都没有没  (💬 你已急哭(x4) / 吐魂 / 无法触发家人侠buff / 哦，对，钢铁侠忘了跟他说，能力越大责任越大了 / 钢铁侠是死在外星战场上，和死在眼前还是不同的)
+[89m] 🔥 我去怎么都没有一怎么都没有一颗子弹射。到他脑门。的呢给他射死得了tragedy。Whatelsecanicallit。Whatmoreneedbe。andwe。我天哪。他前为止没有一个巨型高光点。但是荣明我在我身体上好痒啊。我一直在挠我自己我听他起小疹子了。我不会我不会得什么得什么病了吧。再见是上音色老姥一人死亡。这死的还是梅姨呗猫呃  (💬 嘻嘻 / ？？ / 以后就和奇异博士不熟了 / 绒神多补水 / 没关奇异博士，这里真随便救吧)
+[90m] 🔥 不知道哎那么是person。不不。No。no。hetoldmetowait。but我没人丢呀是不去。回去个职业。嗯不会吧你看他不会能啊。我知道了。大家peter算了这个这个这个魔法。这个这个magic。它就是亚裔学的比较快。你知道吗。亚裔学的就是快啊网也是亚裔这选的。第一天空的两块钱四川来的。除非主播请你这体什么情况。我阳了。新冠新冠再说新冠得牛的都没人教  (💬 还真是 / 帮你舔舔 / 这部里还真就梅姨一个死了 / 烂剧过敏 / 朋友要发力了)
+[91m] 🔥 他自己就会了。Yeah托比不带我一个。Andpeterparkerhbby。iamspidermaninmyworld。Butthenyesterdayiwas。还不是第一here哦。他昨天就来了啊所以他也来了。Multidimensionary哦。我说错了可恶了加菲。allreal天啊。有位题我不是运动我说错了。哎呦。thespell挠头spell  (💬 这是加菲 / 狗王 / 对的，你没看神庙都在尼泊尔 / 绒绒夺冠了 / 奇异博士：？？)
+[92m] 🔥 nomagicrealhere。你放屁。No。itsitsnotreal。Imeanthere。smagiciansand。stuff。buttheresnolike是的。不知道previnprefred。Letyoupeayparker。ihadonacarryyingideawith。me。Youknow。kindofdefesthewhole  (💬 狗王(x3) / 嘻嘻 / 易拉罐来了 / 云狗经典理由，说错了/记错了 / 另一个在后面)
+[92m] 🔥 notsuperheralthing。mystudentshcanseeseeyouat。thetinglething。Ihavethetinglething。justnotforbread。igiesasulookhh。Mylovewasaskedifyoucould。justgetthecowwebthere。Tearlikeupthere都在那  (💬 云狗经典理由，说错了/记错了 / 另一个在后面 / qrmf是什么品种的🐶 / 小绒喝水 / 狗王)
+[93m] 🔥 边欺负加菲。他说的谁的话呀。他们说的是哪里。哪个哪个地方的话。大家goodgoodfeel骚。EryeahIIguess。youjustkeepdoingittofind。Ouch老反正OKOK批改了哦。Fine。可以送randomguy。ihopeitsok。Ijustcamethroughthethird。justclosed  (💬 其实就是想看人爬 / 好烂 / 西语吧 / 外国话 / 不知道呀)
+[94m] 🔥 有个鄙人老头来了。大家呵IIseenyouto。hi啥意思。老爸到了没提示。hesnotyourfriend。respiderman。Butidon。nonumbernowisneedneedtoto。Wedon。tknowwhereyes。antomhonestyou。right。纳然后很了亚索。我要asthere。ssomeplace  (💬 耶！ / 老爸到了 / 谁家路人甲大半夜在屋顶啊 / 初代做题龙 / 这位更是数值怪)
+[96m] 🔥 天哪。荣民我的身上真的起了那种小一个一个的。种小肿肿的小点点起来。Please我天啊。getawayfromeverythingfor。me。Itwasthetopofthecrisiser。buildingandparastday。Itsbetterview。买的是税费。我不知道。哎yes呀不知道就是那种。而且还有点密集的那种感觉  (💬 omg(x3) / 过敏了吧 / 吐魂 / 妈呀 / 湿疹了吗)
+[96m] 🔥 是还能养痒痒。嗯可能是我吃药过敏了。有可能行放着吧。哎呦我嗯树山这种剧情一般来说的话。我是要缩面的。但是我一点都不难过怎么回事呢。这剧情太不合理了。peter那儿像身体剥线。哎可以可以可以呵呵sorry。aboutmay多人一起看。更难说没有我我非常容易共情。Sorry氛围到了。我就会哭的但是剧情太烂了。yourworld。right说you丢我的  (💬 夏季起疹子很正常 / 要成蜘蛛狗侠了 / 什么直径的 / omg / 先别管)
+[98m] 🔥 Iftheydie。ifyoukillthem。iloveyou。上班抓不。给二零五看不到嗯他们的来。荷兰弟的演技还可以啦。但是剧情太差了。Youhavetogohomenow。不要goon。trytogogogo。go。goandtrytokeepbeingthe。ethafriendly。Neverneverhadspiderman  (💬 剧情很难绷[手机] / 现在甩手不干了？1 / 托比没科技，他衣服都自己做的，而且托比世界已经很久没有超级罪犯了 / 抱抱 / 早干嘛了)
+[99m] 🔥 Soiknowthat。swhatshewould。havewanted。butsoiwentIIstostpltting。mypuncheslikearachel。你猜的来啊。没事。ijustdontwantyou。toenduplike那个妹在哪一。爹爹。Igotwhatiwanted。evenaftershewashurt  (💬 绒姐别嗦 / 比惨来了 / 太快了吧 / 比惨最难绷摁头让你哭 / 正常，这剧情普通人都共情不了)
+[101m] 🔥 Shetoldme。itwasagreatpower。No。can。tcreteresponsibility。whathadyouknowthat。不好意思那我在剁碎这个咸鸭蛋。我想把它捣的碎碎的。是你在捣这个咸鸭蛋。好客气啊  (💬 什么小狗动静 / 刻晴 / 好啊，对暗号是吧 / 编剧的大手 / 这里 是泪点，崩住)
+[102m] 🔥 Doyoueverbestfriendto。对了。getdinmyarmsafterhe。triedtokillme。一点点呢。我要跟你gettogether。农民也会吗。我的天哪。youthatsasolittle。complicated。You喜欢一代的女友peter。peter你来哦sorry。sorrypeter。peterpeter  (💬 少食多餐这一块 / mua / 大大方方吃 / 又踩雷 / 蜘蛛侠都很聪明啊)
+[105m] ▫️ Sonowoh。this就是一代数值牛。三代有吗。三代目前还没看到的感觉。thatgameareyou。Yeah应该对的啊。对的。应该没人帮衬。会不会一旦从小我kit。sisolated。sonotwhenyougethurt。嗯你那太可怜了看着好难过啊。Wehavetodoisfigureouthow。we。regoingtogetthere啊  (💬 一代没人帮衬是这样的 / 穷小伙 / 一代有点太打工人了 / 蜘蛛精来了 / 三代有钢铁爹)
+[105m] 🔥 beaportalwherewhat。在那有。爹哎呀为什么。Yeahyes。是一旦有好兄弟就是了。二代的不行。二代很帅。我要亲一听。itsnotthatireally。didtrytohelpyou。可以q我呀。水咋的。butidid哦。确实二代的二代的票房比较差。一代票房比较好。Aplacetorepresentsecondchances  (💬 三代有钢铁侠的遗产已经是前两个一辈子了 / 一代有好兄弟吧 / 1代被毒液附身以后干的最坏的事是买一身二手打折西装上街尬舞 / 好一个学一学剪辑 / 这代比较像蝙蝠侠吗（)
+[107m] 🔥 thestatueoflibertygood  (💬 蚁人 / 难绷自由女神举盾 / 也许三个蜘蛛侠趴下的时候比鼠姐矮 / [花礼Harei收藏集表情包_何意味] / 大黑鼠！)
+[108m] 🔥 不是什么什么动作。letsgetright。thatsbetter。Yeah哦看看这车库。我什么都不知道。这是。Soyoulikemakeyourownwebfluid。inyourbodybody。好温馨啊大家不该背顶背顶起来吗。Wecantdothat。likedoesitjustcomeout。thatiwasoh。Ohmygod  (💬 给给(x3) / 嘻嘻 / 好变态 / 抱抱 / 一代:年纪大了干啥都心酸)
+[109m] ▫️ Whatareyoulike。svillains。那是个快事。Noyeah。youreamazing。youareamazing。一个动的嘛。你要干脆就弄个喜剧呗。对吧。Buttheis雪man。就这样。东元宇宙还可以引个死侍过来。或许还能卖一波死虫。完了怎么就关不上了了喝水。喝水啊。安装之后啊必须跑这个four继续有。No。imean  (💬 一代蜘蛛精 唯心的 / 打过👽 / 好像当初手腕能喷出白白黏黏的液体这事就有争议 / 聊起来了 / 还聊起家常了)
+[111m] 🔥 likeopensome嗯the。maxmaxjusttalkKA。Second。juststuandme。justtalkagood的。Oh。friendtimetosaveyoumatch。isalleveryone。因为我因为我是御姐啊。Dontwordaboutme。小朋友们要乖乖的亲蓉柔姐姐的哦。看到我开笑声也比开店多十号吧  (💬 对不起 / 呃呃 / 不管是游戏电影还是动漫，蜘蛛侠就是话痨 / mua / 绒绒的声音怎么变成姐姐的声音了)
+[112m] 🔥 加油油这是改第六个。但是看不起secure呀。我抱你怎么是q二。Okok怎么敢杀人。怎么变这么大一个我也是far。屁人滚。Wegethelp。Everyone。idontcare这儿。哪种是怎么自己给自己撞了。sorry呀笑死了。姐妹。no。巴里斯卡特蜘蛛女士是哪一个。帝都侠谢自然要加萝卜。萝卜确实动画片里的对呀。neitherlet  (💬 呃呃 / 御姐小狗 / 能骂我两句吗 / 之前死侍一直没有被纳入漫威宇宙的计划 / 好的绒绒姐姐)
+[113m] 🔥 spickone。target不去。Wetakethemofftheboardone。atatime。Nowyougotit。Okaypeterone。petertwopeter。twothreethree。fiveathree。Iloveyouguys给给。thankyou。Alright。Thestudention猪开。会中猴子来了  (💬 给给 / 沙人去干土建挣大钱 / 情绪价值 / 哈哈哈 / 要去看新的那一部了么)
+[114m] 🔥 喂哇哇塞哇哇塞哇哇塞哇塞哇。好帅哇好帅哇好帅。值了值了前面看一坨狗屎。就看这个画面就对了吧。对的对的对的对的我就是要看这个。我就是要看这个。我cssforthereasal。别three。他们是为他们站着下去。Tellmetothetalk。是啊上了看一眼三d的话好像没看过。你漫威迷就是那样的你不懂。接到了ok给解药哦。Howdowestopup  (💬 三给同框 / mua / 笑死 / 哈哈哈哈 / 耶！)
+[117m] 🔥 我请问啦我还盖个小被儿。还真是我都给一家。完了。我知道了。待会那个吸引人过来的时候。要被这个圈砍了又不能吧  (💬 沙男一脸：“完了，托比别打我”的表情 / 3架一个一个送 / 我不会告诉你任何事情 / 葫芦娃救爷爷的添油战术 / 沙人一开始就是穿着衣服一起被沙化的)
+[118m] ▫️ 我靠你们这群蜘蛛基督侠还没有。你吃吧还有别的人了吗。不是。这一这一步。让就为了让这些反派全变成人。Ohmygod天哪。我让你们这些小孩儿。theverywaything。things。sodockstrarasserve。peoplesplan。worworkingwhatplanhe。scaring。them。哪一个反派迷做的这一步三啊  (💬 就是 / 顶级智斗　( / 章鱼bossnb / 是啊 / 还得是老登MVP)
+[119m] 🔥 操人内部被反派迷给入清了。是吧。我的外孙illbedown。Didyoujustopenaportal。Yesyes。ordid嗯怒了next愤怒的max。nobody小卫置这小卫置。嗯ohmyloamsorry。Idon。tposeisabbeblackspimman。somewhere。确实有确实有这样gotdomeals  (💬 草！ / 草都来了 / 小狗愤怒了 / hhh好有树脂 / mua)
+[120m] 🔥 Thepower的son。theproblemofyourhand。你呢。嗯ihasgoodtoseeyou。theirboy。Itsgoodtoseeyou。Howareyounotryingtodobetter。vebeendanglingoverthegrand。Now。谁都能从你手上抢走你的东西是吧。我请问问干嘛  (💬 搞了个大笑 / 学小绒说话 / 有没有黑人小狗 / otto帅 / 老登会晤)
+[122m] 🔥 战士们MJ干嘛。又是为了这个剧情包了醋呗。不停了了。我知道啦嘉菲要来救了。iknow我就我我嗯嗯哎呀好客气人家。嗯哎呀但是我要流眼泪了。呵哼嗯哼如何。嗯嗯哼嗯嗯哼呵哼。太客气了你娘也累了。但是但是你你看到加菲加菲救完MJ。之后。眼神。我一看我就想哭不行。我不能哭一哭的话我呼吸不了了。我鼻子我鼻子完全堵住的。嗯嗯哼快去不是开车。其他的其他这金猪侠呢  (💬 贴贴 / 哈哈哈哈哈哈哈 / 在三个蜘蛛侠和奇异博士手上抢过东西 / 干嘛 / 剧情杀是这样的)
+[125m] 🔥 嗯还是这边还压着打。嗯哼打那么多钱都没给他打死吗。这儿哼嗯特别寻思这孩子咋没幼劲儿呢。嗯嗯呃嗯哼。特别是这孩子真善良。也没打算用劲儿呵。我靠。你的敌震反应呢不是啥意思啊。那精度精度感应呢。becauseofyou。imayhavestrucktheblow。Areyou啥意思啊。低度感应的。andonetheculor看这里。嗯哼嘿干嘛呀  (💬 不疼(x3) / 轻松接住 / 现在又打得动了 / 他的八蛛矛呢，开不出了吗 / 初代数值最高)
+[127m] 🔥 嗯heather嗯。干嘛呀。我靠我真服了善良人格。有顶好的没劲儿啊。大哥depenenstep好。hinicefatch太小。thathappening。hermytime。Iahknowthat。shappening。That。sreholtherpeopleinthe。sky干嘛呢。我靠啥意思爱干这个耶也爱干的。Ok。what  (💬 托比：我的腰子 / 因为数值太低，伤害不足 / 绒绒也是反派 / 嘶 不痛 / 谁能做掉恶霸)
+[128m] 🔥 shappeningthisstarting。comethrough。andican。tstopthethere。sgotto。besomethingwecoulddocatch。Justjustcastthefellagain。fortheoriginal。Waitbeforeiscrewing。We。retoowaghtforthat  (💬 没了 / 修复现实中 / 多元宇宙认识彼得的全来了 / 拉不住了博士 / 其他宇宙的反派要来了)
+[128m] 🔥 Theyrehere。Theyrehere。becauseofyou。郭运你这认识peter的全来了。还有一场比赛吗。还有一场打架吗。Cominghere。becauseinme。right。becauseiampeterparker。socastthenewspell。butthistimemakeeveryoneforget  (💬 没了 / 《再见了，所有的彼得帕克》 / 多元宇宙认识彼得的全来了 / 拉不住了博士 / 其他宇宙的反派要来了)
+[128m] 🔥 whopeterparkersmake。Everyoneforgetme。no。butitwouldworkgreat。你还是不准。Ifyougottounderstandthat。Callmestephenmakeisseven。stillfeelsweird。Iseeyouround怎么给啊。Ithinkitisthatithinkyouabout  (💬 没了 / 《再见了，所有的彼得帕克》 / 团建呢 / 来揍蜘蛛侠 / 多元宇宙碰撞预告)
+[129m] 🔥 togohome。让我们不然了视频没了。在家有没有看哪一个啊。大家啊哈对不对。要不要焊死一个。这哎呀我操哼。唉没事还有还有别急。还有呢喂阿妹我弄吧。唉还有还有还有还有继续看继他。哼那是嗯哼哼。stillfeelsweird。嗯iseeyourit是哪个。嗯好就这么在左上角OK。我该啊。Thankyou。Ijustwantediwantyouto  (💬 被你看似了(x4) / 又被你看似了(x4) / 哈哈哈 / 又被你看鼠了 / 被你看死了)
+[131m] 🔥 Iwanttotellyouit。Iidon。thavetosaythishere。Iwantyoutoknowitlike。youknowsowedo  (💬 4k影厅就是高清 / 帮b站审核的忙了 / 这就是英雄 / 托比：你能不能等我包扎一下再送我回去 / 吃什么呢)
+[132m] ▫️ Wecan。你们知道闲话是什么意思吗。你知道吗。你们知道显化是什么意思。他们就是荷兰弟是最懂显化之人。笑死我了。嗯好像是有些人会就是干嘛。反正就好像是我也不知道。好像他们就听说什么听什么歌。就会能让自己变得更漂亮什么的。反正心里暗示的那种感觉。反正就是那种很玄的东西。感觉就是性六的人这辈子就有了。但是我感之前看到一个这个闲话。说荷兰妮是最懂闲话之人  (💬 显化？ / 弦化喵 / 你已急哭 / 第四部就被牛了（） / 真情流露说是)
+[133m] 🔥 给我笑死了真就是类似玄学的那个。因为荷兰妮就是所有说过想合作的人。最后都合作了。说他的crash是谁。说crash是战争。这个哎这个演员叫赞达雅。还是赞雅达赞达雅结果还结婚了。说贺兰妮是最懂写话之人。小时候说像演蜘蛛侠长大也演上了。是对了类似于演出发型的感觉吧。哎我不要害这个亲嘴巴。我不要看这个亲嘴子。谁要看你这个亲嘴子。人家搁这缝补世界的你搁这亲嘴嘴心  (💬 感觉和塔罗牌一桌啊 / 信徒你 / 有传闻说本来是想安排积聚侠和新女主炒cp的 被mj演员拒绝了[dog] / 弦化喵 / 卡拉比丘来了喵）)
+[134m] 🔥 我们不说明我们不能我们不能不能输啦。不能输爱情。蜘蛛侠一直都是有女朋友的设计。嗯嗯我们言轻新冠微闹的亲亲。这搞那么悲壮干嘛。我真的一点都没被这个氛围渲染到。主要其实我感觉这这三代猪他和他女友之。间的那个那个。关系其实也没有到这种程度嘛。我嗯我怎么感觉他们俩之间的那个爱情。你懂吗。Hedon。taschhimselfandtell  (💬 mua(x11) / ？？？(x3) / 么么么 / muamuamua / 爱你)
+[136m] 🔥 uswhohereallyis。becauseonlyacowardconceals。isidentity。Onlyacoward。Hiistrue。Inhero人感觉小孩谈恋爱的感觉。哎呦。我的天是时候不用接那个独为上上下学了。大家啊那肯定。但是我觉得荷兰丽就是长得太小孩了。Mynameispeterparker。Please好  (💬 你不懂 / 加起来没有你绒姐鞋码大 / 看上去小孩，做事也小孩 / 毒唯：还会接送我上下学吗 / 小绒还小)
+[137m] 🔥 可怜kanogrampaper怎。么连皮特发。哥都不认识了。我还以为他认他只是嗯没事。Formyfellowengineer。全忘了哦。北环。MITthattheengineersthe。mascot。Ohiveryright。Ishouldprobablyknowthatwhat。canshoyouwiththeschoolspirit  (💬 都忘了 / 我也要一杯小绒咖啡 / 不熟 / 皮特?（ / 感觉是童星后遗症，两个人看着都像小孩)
+[137m] 🔥 tlbody。iabletoknowit。getexcitedaboutthings。justjustkindoffeelsdifferent。thistime。史塔克那个公司不是没法给他用了吗。不能靠干爹啊嗯他不能快靠干爹了呀。Ok嗯哼that。searlyeranymore。还真是那四那那四的时候。岂不是又岂不是又成为最朴素的帝毒侠了  (💬 甜甜圈真好吃啊(╹ڡ╹ ) / 牛？！ / 现在是所有人都忘记他这个人 / 我去，不会有牛吧 / 主播看 痴迷 了嘛)
+[139m] 🔥 anythingelse干爹干爹也清。零了。我估计是看看很多人都说三代烤概念。想重启一下吧。毕竟荷兰你年纪还小还可以。还可以再多拍几组几部漫威的帝毒侠。Thankyou。没办法。Hello媳妇儿。干念是十毫久那么还有遗产能用吗。哎你们有没有看那个京东下首映的呀。我看他们说说还可以确实有点小老头。感觉英国人很容易有那种小老头的感觉  (💬 确实是的 / 对啊 / 友好邻居蜘蛛侠 / 回归最初蜘蛛侠是平民英雄的点了 / 但是4用上了ROG笔记本)
+[140m] 🔥 那小辣椒也忘了呀。小辣椒也会把他忘了吧。还真是赶紧回来变反变反派了。我感觉我感觉就是漫威的电影。威迷你就是能去看是这个意思。确实我说的跟没说一样。我是真觉得挺好看的。有没有人能懂我呀。完毕过也那个我是真的觉得挺好看。剧情一般。但是拍的有意思点比较多吧。虽然剧情确实也一般。但是剧情没有这么实。嗯哼美队拍的又好看到哪里去。我说出话我觉得每个谁也一般是看嘛  (💬 看了 还行吧 / 我还没看 打算明天看 / 今天晚上看 / 周末去看 / 没看我也听说还可以)
+[142m] 🔥 可能因为我看的时候我比较喜欢钢铁侠。我对美队赛非常的抱有意见。你知道看完赛就很长一段时间。我都不喜欢美美国队长了都。WehaveregallytheMSthething。这个呢美队有点无聊吧。太长了。看的时候有点想睡觉是吧。没毛吧喜欢钢铁侠的人看不了。三看三看的气死了两个变异人。搁那殴打殴打老人火车头四确实不赖嘛。哎我还是蛮喜欢帝蛛侠的设利  (💬 哭哭 / 哈哈哈哈哈哈哈 / 主要还是卖老角色的情怀 / 美队3好看 / 我看出来了，主播喜欢特效大片)
+[143m] 🔥 但是美军哦确实他们都都比美钢铁侠大。快点快点还认识。但是两个人两个人都那个什么。我你能给我到爱tion。做梦不成因为你怕跑我弄吧。Whenleseningisbrustter。canbruceterusapartyelse。Igoatthismagicintheair。这异地还挺有意思的。动画电影的我也看过了。锻那个好看啊  (💬 爱你(x3) / 什么时候看动画电影的 / 有彩蛋吧 / 那是gay / 原来主播真是漫威迷，那不得不关注了[比心])
+[144m] 🔥 跑跑小黑都是真好看吧。马上就有人要来问你你看过漫画吗。你对漫画了解了多少。如果你只看过电影的话。不可以说那是漫威米的。我不是漫威迷我只是电影爱好者。还是天。Wehavehavenumber把它。伸到我看过洛。基洛基好看洛基好看。但是我不是磕男女洛基水仙。我不怎么磕那个岂不是不认识。复联五主要技器嗯。雷霆特工队是联系复联五的吗。那回头可以看一下就是有点考考我了  (💬 那我问你(x3) / 那我考考你 / 该学习剪辑自己的下头切片了 / 女漫威迷好少见啊 / 蛮多的啊 我同事（女）就看的很多漫威)
+[145m] 🔥 感觉我说实话。我感觉就是如果因为我小的时候。我以前是还是有一段时间是喜欢过BL的。那段那段时间就是我特别就是我那个。时候我有。点磕就是锤锤击这对这对尾骨嗯。你们也都那么喜欢维扑克。但我以前因为是看过一段时。我也喜喜欢过一段时间毕有的。我所以我以前看那个洛基电视剧的时。我不是很能吃的吃得下那个那个不是很能。吃得下。男女男女那个水仙  (💬 ？！给给？！ / ？？？ / 给给 / 是的 / 漫威电影宇宙和漫画已经是两种东西了)
+[146m] 🔥 你你懂我意思吧。因为我以前可是那个吃吃锤机了。维顾很好吃呀虽然是给给。但是很好吃呀。团子yes很好吃呀。很凉。hesbeendoyingit。虽然我现在不怎么那个什么这啥东西啊。toldmeagain。imsorry同意。哎itwasgoodinit。哎这不是那个谁吗。哎叫什么来着。是ok。唉这不毒液那个中毒毒液中之人吗。Howk好看又酸  (💬 姐妹我不懂你 / ？！给给？！ / 给给 / 😨 / 恨海情天)
+[146m] 🔥 Poctorwasashit。Yeah。becauseitisnowtellme。againaboutyourpurplealien。lovestone哦。handyhandy。社会人主页也挺好看的。Becausethat。swhattheydo。哪位。你第一次听说。那你是听说少makemyfamily。disappear。嗯我感觉漫威的男童CP特别火  (💬 汤姆哈迪 / 艾迪 / 毒液 / 毒液3彩蛋 / 老汤)
+[147m] 🔥 属于是欧美圈顶流吧。双胞胎女为骨。你你有蒸骨吃不别明面修口的。另外给钱笔记给他上嗯。experiment原来如此。哎不用等等letsgogo。当然嗯哼好的。笑死我了。嗯是嗯非常火。更加非常红只有好坏的。没有好的没有坏的只有好坏的对呀。分就是每队三周吵得更凶啊。没关系大蛋可以可以。嗑南通的话。可以嗑一口那个铁铁虫呢这个特。别是这个妇联荷兰荷兰猪出之后  (💬 爆了(x4) / 咬你 / 中之人暴露 / 冲毒液的塔了 / 真的假的)
+[148m] 🔥 铁虫铁虫特别多铁课铁容量特别多。游犬吗。犬游有啊。你不知道男同就是喜欢男童的腐女最喜欢。么兄弟要么要么父子。他们最喜欢这种东西。最喜欢这种乱这种一种聋类的聋。类的东西就是因为父子才磕呢。你以为呢他们就喜欢嗑这种东西。我是不给吃了令人感叹。有男磕男童吗。男童会磕吧直男会磕男头吗。直男磕男童我看他也并并不是很直吧。蜘蛛侠粉不喜欢钢铁侠抢风头这样  (💬 好变态 / 投降 / 铁虫都磕 / 铁虫有代沟我说 / 我自己就是男的所以不嗑南通)
+[149m] 🔥 的吗。母女百合嘛母女百合也不错啊。母女百合也不错。可爱笨蛋嗯是是我去那里变态了。嗯啊呃老贱人肯定不喜欢。他在接着看吗。嗯母女版应该有吧哪个番是母女版  (💬 好变态 / qrmf是我了解这个圈子唯一的方式 / 别学277 少看点吧 / 何意味 / 唉唉ao3)
+[152m] ▫️ 幽灵和小龙能磕吗。我靠嗯有点变态好变态难腔了。我感觉这样感觉三的那个三的观后感。制作组在做的时候。就已经想到之后会上哪些热搜了的感觉。你们懂吗。比如什么三株同框什么什么什么追梦。什么什么什么什么那个什么什么加菲猪就。MJ之类的。嗯嗯也很变态啊。公式电影大家都是我也觉得太公顺了  (💬 omg / 什么东西？ / Oh, my god. / 说鱿鱼和你 / 狗和章鱼omg)
+[156m] 🔥 嗯嗯啥我靠我说我说他们。我说蜘蛛侠。他们两个以后不可能不谈吧。应该是应该就是又要谈了。但是三这么令人失望四出了。大家居然还去看。实在是有点我们漫威米就是这样的。大家我们漫威迷就是这样的。嗯嗯。小馋猫哦。这个雷霆特工队是我想起来了。这雷霆特工队嗯不是他们新的。这一群那个这一群人都很菜吗。我记得逆天匹配匹配极致。嗯我记得这群人都很菜呀  (💬 嘻嘻 / 感觉有8分了 / 4风评好一些吧 / 准备三剪一了 / 原来是暗示)
+[159m] ▫️ 是不是这是是个是不是x教授怎么又要灭。sgetmefarless。hi不好。美国队长怎么又回来了。他不是退休了吗。我请问末日崛起。复仇者联盟十二月就上线了呢。说起来钱给太多了太点了  (💬 挺杂的 / 神奇四侠，雷霆特工队 / 世界又要毁灭了 / 毁灭博士就是来干这个的 / 咩个事)
+[164m] ▫️ Imspiderman。我可以说是thry在这里等你我。怎么号可就出现了呀。ipromiseyouthatiwillkeep  (💬 还真是 / 漫威悲情英雄还挺多的 / 虫就得惨 / 非得跟失败的曼过不去 / 怎么还有手合会啊，马律师来不来啊)
+[166m] 🔥 我的天哪柔明我接受不了了。我闺蜜跟我其他的朋友聊他们家猫的事情。估计估计也想跟我说一下。就就把那个就就那个聊天记录转给我了。转的中间忘记忘记忘记起。全选了。就导致他们聊天记录中间还有黑屏。我的环节滴滴传给我了。啥啥意思。不是接到他们黑屏吗。我要气死我了啊哼哭了。怎么这个样子我去太坏了。咋这样嗯看怎么黑屁呢。无关透痒的黑屁吧。可是我生病生病了也要那个生病了  (💬 嘻嘻(x5) / 哈哈哈哈哈(x4) / 哈哈哈(x3) / 咋了 / 故意的)
+[167m] 🔥 还要生病了。还要还要在这里在这里看电影。对不对啊。看着呢不一样吗。renotthehappyyou。明天呢。MCcomeon。pretendlikeyoure。Enow只能在镜头的你ican啊假装。wastomakeeveryoneforget。becauseimnotjust。peterparker。爱你spider名了。也许蔡明为能背不久  (💬 我从来不跟别人聊第三个人 / 怎么还被黑屁 / 没有把柄之人 / 生病也要被80 / 生病就是要看电影)
+[169m] 🔥 会不会是yourself有牛。妈的。gohomeissometimesspiderman。hastodothehardthing。evenifitbreakspeterpartk。hard。Ohmygod。whatishappening。你的是不要牛啊。报告我天他也能自产了吗。Excusemegotthebetter。百米绝首  (💬 有牛啊 / 不至于吧 / 跟内德是室友关系 / emo / 咋还有惩罚者)
+[169m] 🔥 模具塞上来。thednaismutatingveryenormously。Englishspidershavefreelife。Itcanleavespiteitevulnerable。Wecanevenseestayoutofmyway。itthroughitamountstoakind。Ohthereareahouse  (💬 进化了 / 夜魔侠没出场 / 贴贴 / 该进化成蜘蛛精了 / 绿巨人的退休生活)
+[171m] 🔥 反派啊哦叶博霞没出过电影吗。嗯哦原来如此啊美剧原来如此  (💬 嘻嘻 / 手合会是夜魔侠里的反派 / 可以复活私人脑控 / 你已急哭 / 在地狱厨房的日本忍者组织)
+[172m] ▫️ 嗯哎呦我去好了大家哼下播了。拜拜有你拜拜。嗯ohmygod。最重要选一杯好喝的奶茶。这里是不是你要差广告位了。嗯晚上还来吗。看嘛我不我现在不去。我我现在不去等了再去啊。我者我现在去我去到处传染别人。你也给我新冠你也给我。新冠是吧。好变态不出去不出去。晚上晚上可能晚上可能不来了。晚上晚上可能保护一下嗓子。明天要唱歌是嗯嗯辛苦了。大家拜拜是怎么怪我  (💬 88(x3) / 贴贴(x3) / 掰掰 / 拜拜拜拜 / 888)
+[174m] 🔥 我隔着网线传给你是吧。是不是拜拜闺蜜。发短信发消息过来说你别难过。请你看帝都侠钱那我要买。我要买我这里最贵的那张电影票了。气死我了。嗯嗯。是的。切mmax巨末杜比激光三d是嗯啊。嗯是拜拜黑蜜啥啊。那你说我生病了也要看电影之类的吧。是嗯imy男的听这个再见吧。压抑吧。Ohmygod依旧晚安。那有啊他们我感谢爱的  (💬 摆了(x6) / 888888 / 想你，拜拜 / 保护好嗓子 / 88888888888)
+[178m] ▫️ 感觉明天中午也可以来同步视频的感觉。明天中午的话。喜欢洗澡。谢谢。接下来老头的粉闪灯牌拜拜  (💬 mua / 8888 / 88888 / 抱抱 / 今晚也要早睡哦)
+
+---
+
+分镜一：直播间里，犬绒Mofu坐在电脑前，棕粉渐变长发、黄蓝异瞳，桌上打开剪辑与播放界面，神情认真又心虚，准备和观众一起看片。屏幕角落字幕：“一起看电影”。
+分镜二：电影画面占满屏幕，三位蜘蛛英雄并肩出现，特效光芒炸开。Mofu抱着靠枕瞪大眼睛，双手举起欢呼，周围白色小狗绒绒民戴粉色蝴蝶结蹦跳。画面上方大字：“三人同框！”。
+分镜三：屏幕里反派战斗、城市特效与告别场面交替闪过。Mofu一边擦眼泪一边吐槽，鼻尖和手臂画出细小红疹，旁边放着热水。台词框：“剧情好狗屎，特效好好看”。
+分镜四：直播结束，Mofu裹着小被子向镜头挥手，声音沙哑却露出笑容；绒绒民们举着小旗送别。右侧字幕：“晚上保护嗓子”“明天唱歌”，底部写：“拜拜”。
