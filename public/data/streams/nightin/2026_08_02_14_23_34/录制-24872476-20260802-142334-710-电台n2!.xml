@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="#s"?>
+<i>
+  <!--
+mikufans录播姬 2.18.0+Branch.tags-v2.18.0.Sha.fbb85583d8ca570d77b88637f105c4984e8231dd
+https://rec.danmuji.org/user/danmaku/
+本文件的弹幕信息兼容mikufans主站视频弹幕XML格式
+本XML自带样式可以在浏览器里打开（推荐使用Chrome）
+
+sc 为SuperChat
+gift为礼物
+guard为上船
+
+attribute "raw" 为原始数据
+-->
+  <chatserver>chat.bilibili.com</chatserver>
+  <chatid>0</chatid>
+  <mission>0</mission>
+  <maxlimit>1000</maxlimit>
+  <state>0</state>
+  <real_name>0</real_name>
+  <source>0</source>
+  <BililiveRecorder version="2.18.0" />
+  <BililiveRecorderRecordInfo roomid="24872476" shortid="0" name="南町Nightin" title="电台n2!" areanameparent="虚拟主播" areanamechild="虚拟日常" start_time="2026-08-02T14:23:34.7109110+08:00" />
+  <BililiveRecorderXmlStyle><z:stylesheet version="1.0" id="s" xml:id="s" xmlns:z="http://www.w3.org/1999/XSL/Transform"><z:output method="html"/><z:template match="/"><html><meta name="viewport" content="width=device-width"/><title>mikufans录播姬弹幕文件 - <z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></title><style>body{margin:0}h1,h2,p,table{margin-left:5px}table{border-spacing:0}td,th{border:1px solid grey;padding:1px}th{position:sticky;top:0;background:#4098de}tr:hover{background:#d9f4ff}div{overflow:auto;max-height:80vh;max-width:100vw;width:fit-content}</style><h1><a href="https://rec.danmuji.org">mikufans录播姬</a>弹幕XML文件</h1><p>本文件不支持在 IE 浏览器里预览，请使用 Chrome Firefox Edge 等浏览器。</p><p>文件用法参考文档 <a href="https://rec.danmuji.org/user/danmaku/">https://rec.danmuji.org/user/danmaku/</a></p><table><tr><td>录播姬版本</td><td><z:value-of select="/i/BililiveRecorder/@version"/></td></tr><tr><td>房间号</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@roomid"/></td></tr><tr><td>主播名</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></td></tr><tr><td>录制开始时间</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@start_time"/></td></tr><tr><td><a href="#d">弹幕</a></td><td>共<z:value-of select="count(/i/d)"/>条记录</td></tr><tr><td><a href="#guard">上船</a></td><td>共<z:value-of select="count(/i/guard)"/>条记录</td></tr><tr><td><a href="#sc">SC</a></td><td>共<z:value-of select="count(/i/sc)"/>条记录</td></tr><tr><td><a href="#gift">礼物</a></td><td>共<z:value-of select="count(/i/gift)"/>条记录</td></tr></table><h2 id="d">弹幕</h2><div id="dm"><table><tr><th>用户名</th><th>出现时间</th><th>用户ID</th><th>弹幕</th><th>参数</th></tr><z:for-each select="/i/d"><tr><td><z:value-of select="@user"/></td><td></td><td></td><td><z:value-of select="."/></td><td><z:value-of select="@p"/></td></tr></z:for-each></table></div><script>Array.from(document.querySelectorAll('#dm tr')).slice(1).map(t=>t.querySelectorAll('td')).forEach(t=>{let p=t[4].textContent.split(','),a=p[0];t[1].textContent=`${(Math.floor(a/60/60)+'').padStart(2,0)}:${(Math.floor(a/60%60)+'').padStart(2,0)}:${(a%60).toFixed(3).padStart(6,0)}`;t[2].innerHTML=`&lt;a target=_blank rel="nofollow noreferrer" href="https://space.bilibili.com/${p[6]}"&gt;${p[6]}&lt;/a&gt;`})</script><h2 id="guard">舰长购买</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>舰长等级</th><th>购买数量</th><th>出现时间</th></tr><z:for-each select="/i/guard"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@level"/></td><td><z:value-of select="@count"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="sc">SuperChat 醒目留言</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>内容</th><th>显示时长</th><th>价格</th><th>出现时间</th></tr><z:for-each select="/i/sc"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="."/></td><td><z:value-of select="@time"/></td><td><z:value-of select="@price"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="gift">礼物</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>礼物名</th><th>礼物数量</th><th>出现时间</th></tr><z:for-each select="/i/gift"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@giftname"/></td><td><z:value-of select="@giftcount"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div></html></z:template></z:stylesheet></BililiveRecorderXmlStyle>
+  <d p="26.641,4,25,14893055,1785651841576,0,14133962,0" user="胖次今天会画了吗">暗示了</d>
+  <d p="26.641,1,25,16777215,1785651842058,0,2082362452,0" user="况且况且况且呜呜">？</d>
+  <d p="27.941,4,25,14893055,1785651842736,0,1486616374,0" user="达观甲申神将怨面">探索者启航？</d>
+  <d p="27.941,4,25,14893055,1785651842757,0,5521368,0" user="三魔枪枪">年费总督吗</d>
+  <d p="31.821,4,25,14893055,1785651846262,0,14133962,0" user="胖次今天会画了吗">笑蜥了</d>
+  <d p="34.021,1,25,14893055,1785651849324,0,187130,0" user="白毛此方">？</d>
+  <d p="35.360,1,25,16777215,1785651850116,0,663134933,0" user="Xjixodjzixmcidi">nn下午好呀[惊喜]</d>
+  <gift ts="35.360" user="-我想我是一只奶狗-" uid="9127012" giftname="牛哇牛哇" giftcount="1" />
+  <d p="36.655,4,25,14893055,1785651851435,0,473567038,0" user="达观甲申神将达观猫">哦？面总欠了什么债[滑稽]</d>
+  <d p="42.224,1,25,16777215,1785651856709,0,2082362452,0" user="况且况且况且呜呜">总督一号</d>
+  <d p="43.520,1,25,65532,1785651858850,0,6473777,0" user="松岛丰子">做梦都要擂肥</d>
+  <d p="46.139,4,25,14893055,1785651861274,0,14133962,0" user="胖次今天会画了吗">知道主播想要了</d>
+  <d p="46.139,1,25,16777215,1785651861786,0,11712289,0" user="有所待">笑蜥了</d>
+  <d p="48.332,4,25,14893055,1785651863169,0,6746622,0" user="达观甲申神将流水">梦都梦了，板面不会不送吧</d>
+  <d p="48.332,1,25,16777215,1785651863703,0,10444443,0" user="byb0の阿布丿wO">贪婪</d>
+  <d p="48.724,4,25,14893055,1785651864119,0,14133962,0" user="胖次今天会画了吗">笑蜥了</d>
+  <d p="49.642,4,25,14893055,1785651864764,0,12355835,0" user="Kikya-">做梦都想着擂肥kbq</d>
+  <d p="52.621,4,25,14893055,1785651867983,0,5521368,0" user="三魔枪枪">面总什么时候补一下</d>
+  <d p="53.544,4,25,14893055,1785651868679,0,473567038,0" user="达观甲申神将达观猫">探索者启航？[滑稽]</d>
+  <d p="55.241,4,25,14893055,1785651870565,0,1486616374,0" user="达观甲申神将怨面">你别梦了，梦了也没有</d>
+  <d p="55.241,1,25,16777215,1785651870824,0,550498198,0" user="是谁偷了我的脑子">说明送的人多都记住了</d>
+  <d p="57.821,4,25,14893055,1785651872738,0,309553490,0" user="达观甲申神将刘备">面总，你就送一个呗，梦都梦了</d>
+  <d p="61.722,4,25,14893055,1785651877049,0,437504152,0" user="哈基米爱哈气">只是想想就笑了吗</d>
+  <d p="66.939,1,25,16777215,1785651881289,0,2082362452,0" user="况且况且况且呜呜">总督一号</d>
+  <d p="66.939,4,25,14893055,1785651882283,0,5521368,0" user="三魔枪枪">吾好梦中收米</d>
+  <d p="70.420,4,25,14893055,1785651885951,0,12355835,0" user="Kikya-">反正不是我</d>
+  <d p="73.422,4,25,14893055,1785651888650,0,14133962,0" user="胖次今天会画了吗">意思是除了面总还有人欠nn一个探索者</d>
+  <d p="76.022,4,25,14893055,1785651891524,0,14133962,0" user="胖次今天会画了吗">笑蜥了</d>
+  <d p="79.922,4,25,14893055,1785651895114,0,309553490,0" user="达观甲申神将刘备">我去开始随机擂肥了</d>
+  <d p="83.850,4,25,14893055,1785651899448,0,17093190,0" user="TheBrains">这何尝不是一种牛头人</d>
+  <d p="98.124,4,25,14893055,1785651913271,0,437504152,0" user="哈基米爱哈气">梦里啥都有</d>
+  <d p="99.439,4,25,14893055,1785651914416,0,309553490,0" user="达观甲申神将刘备">冷夜叔叔把欠的总督记得还了</d>
+  <d p="99.439,1,25,16777215,1785651914740,0,375314257,0" user="问书以问道">糖糖糖</d>
+  <d p="107.220,1,25,16777215,1785651921574,0,23827762,0" user="古兰雅辛">大N老师说过做梦梦中有多开心醒来就有多失望</d>
+  <d p="108.124,4,25,14893055,1785651922846,0,12355835,0" user="Kikya-">懂你意思</d>
+  <sc ts="108.861" user="流風舞枼" uid="58237" price="30" time="60">还没跟主包说 前2天跟一起住了3天的妹妹分开后 拥抱了一下 说了句旅途愉快 </sc>
+  <d p="124.123,1,25,16777215,1785651939529,0,550498198,0" user="是谁偷了我的脑子">现在没有不代表以后没有</d>
+  <d p="128.027,1,25,16777215,1785651942696,0,2082362452,0" user="况且况且况且呜呜">？</d>
+  <d p="130.243,4,25,14893055,1785651945642,0,473567038,0" user="达观甲申神将达观猫">还能在梦里签合同[滑稽]</d>
+  <d p="137.121,4,25,14893055,1785651952695,0,1486616374,0" user="达观甲申神将怨面">他们不一定认识</d>
+  <d p="143.269,4,25,14893055,1785651958228,0,58237,0" user="流風舞枼">认识了很久的网友</d>
+  <d p="146.220,1,25,16772431,1785651960741,0,295672176,0" user="帘幕后的人">青年旅舍吧？</d>
+  <d p="152.399,4,25,14893055,1785651967733,0,473567038,0" user="达观甲申神将达观猫">什么叫一起住了3天[妙]</d>
+  <d p="162.786,1,25,16777215,1785651977367,0,249531301,0" user="小鬼与大仙">笑蜥了</d>
+  <d p="165.721,1,25,16777215,1785651980082,0,11712289,0" user="有所待">笑蜥了</d>
+  <d p="169.241,1,25,16777215,1785651984005,0,780014,0" user="乌鸦是锅变得">笑蜥了</d>
+  <d p="169.620,1,25,16777215,1785651985027,0,11712289,0" user="有所待">有猪</d>
+  <d p="174.819,1,25,16777215,1785651989429,0,2082362452,0" user="况且况且况且呜呜">？</d>
+  <d p="176.122,4,25,14893055,1785651990782,0,1486616374,0" user="达观甲申神将怨面">网友住一张床还是太暧昧了</d>
+  <d p="182.224,4,25,14893055,1785651997328,0,58237,0" user="流風舞枼">住一个房间（</d>
+  <d p="184.827,1,25,16777215,1785651999271,0,780014,0" user="乌鸦是锅变得">网友住一张床还是太暧昧了</d>
+  <d p="188.756,4,25,14893055,1785652004097,0,58237,0" user="流風舞枼">2张床</d>
+  <d p="192.625,1,25,16777215,1785652008202,0,332881447,0" user="眼泪成诗已无所谓">NN最强</d>
+  <d p="193.928,1,25,16777215,1785652009125,0,332881447,0" user="眼泪成诗已无所谓">小N咪</d>
+  <d p="195.257,1,25,16777215,1785652010592,0,332881447,0" user="眼泪成诗已无所谓">打call</d>
+  <d p="197.832,1,25,16777215,1785652012221,0,332881447,0" user="眼泪成诗已无所谓">害羞惹</d>
+  <d p="197.832,1,25,16777215,1785652012289,0,780014,0" user="乌鸦是锅变得">NN最强</d>
+  <d p="200.443,1,25,16777215,1785652015086,0,332881447,0" user="眼泪成诗已无所谓">喜欢NN</d>
+  <d p="200.822,4,25,14893055,1785652015353,0,1486616374,0" user="达观甲申神将怨面">太暧昧了</d>
+  <d p="203.024,1,25,16777215,1785652017633,0,663134933,0" user="Xjixodjzixmcidi">害羞惹</d>
+  <d p="206.035,1,25,16777215,1785652020735,0,22032566,0" user="亚德雷特D">啧啧</d>
+  <d p="206.035,4,25,14893055,1785652021679,0,309553490,0" user="达观甲申神将刘备">具体说说吧，把麦克风交给你</d>
+  <d p="211.222,4,25,14893055,1785652025622,0,1486616374,0" user="达观甲申神将怨面">网恋就网恋，说什么网友</d>
+  <d p="213.446,1,25,16777215,1785652028612,0,13115631,0" user="鹿长脖儿">还有多人</d>
+  <d p="215.138,1,25,16777215,1785652029897,0,2082362452,0" user="况且况且况且呜呜">两张床分工明确</d>
+  <d p="222.919,4,25,14893055,1785652038228,0,437504152,0" user="哈基米爱哈气">还真是</d>
+  <d p="223.859,1,25,16777215,1785652038569,0,332881447,0" user="眼泪成诗已无所谓">喜欢NN</d>
+  <d p="223.859,4,25,14893055,1785652038629,0,58237,0" user="流風舞枼">没恋呢</d>
+  <d p="225.172,1,25,16777215,1785652040128,0,332881447,0" user="眼泪成诗已无所谓">害羞惹</d>
+  <d p="226.437,1,25,16777215,1785652041252,0,332881447,0" user="眼泪成诗已无所谓">在干嘛</d>
+  <d p="227.742,4,25,14893055,1785652042837,0,473567038,0" user="达观甲申神将达观猫">我干过三男生挤一张床的事儿[妙]</d>
+  <d p="229.079,1,25,16777215,1785652044102,0,332881447,0" user="眼泪成诗已无所谓">打call</d>
+  <d p="235.919,1,25,16777215,1785652050930,0,100467388,0" user="海蜇皮皮伊">霍霍霍</d>
+  <d p="237.220,4,25,14893055,1785652052577,0,309553490,0" user="达观甲申神将刘备">？</d>
+  <d p="245.042,1,25,16777215,1785652059305,0,550498198,0" user="是谁偷了我的脑子">床多只是为了干湿分离</d>
+  <d p="245.042,1,25,16777215,1785652059793,0,2082362452,0" user="况且况且况且呜呜">玩恁大</d>
+  <d p="253.777,1,25,16777215,1785652069036,0,498927031,0" user="抽井">从3个人直接跳到了7，8个人了吗</d>
+  <d p="255.419,4,25,14893055,1785652070011,0,309553490,0" user="达观甲申神将刘备">我们只有三四个人睡两张大床</d>
+  <d p="269.331,4,25,14893055,1785652084852,0,58237,0" user="流風舞枼">可惜主包没玩鸣潮3.1 不懂旅途愉快！</d>
+  <d p="273.629,1,25,16777215,1785652089082,0,2082362452,0" user="况且况且况且呜呜">7，8个人玩得不大吗？</d>
+</i>
