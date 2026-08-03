@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="#s"?>
+<i>
+  <!--
+mikufans录播姬 2.18.0+Branch.tags-v2.18.0.Sha.fbb85583d8ca570d77b88637f105c4984e8231dd
+https://rec.danmuji.org/user/danmaku/
+本文件的弹幕信息兼容mikufans主站视频弹幕XML格式
+本XML自带样式可以在浏览器里打开（推荐使用Chrome）
+
+sc 为SuperChat
+gift为礼物
+guard为上船
+
+attribute "raw" 为原始数据
+-->
+  <chatserver>chat.bilibili.com</chatserver>
+  <chatid>0</chatid>
+  <mission>0</mission>
+  <maxlimit>1000</maxlimit>
+  <state>0</state>
+  <real_name>0</real_name>
+  <source>0</source>
+  <BililiveRecorder version="2.18.0" />
+  <BililiveRecorderRecordInfo roomid="31368705" shortid="0" name="米汀Nagisa" title="周一的歌杂" areanameparent="虚拟主播" areanamechild="虚拟日常" start_time="2026-08-03T21:07:26.3559846+08:00" />
+  <BililiveRecorderXmlStyle><z:stylesheet version="1.0" id="s" xml:id="s" xmlns:z="http://www.w3.org/1999/XSL/Transform"><z:output method="html"/><z:template match="/"><html><meta name="viewport" content="width=device-width"/><title>mikufans录播姬弹幕文件 - <z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></title><style>body{margin:0}h1,h2,p,table{margin-left:5px}table{border-spacing:0}td,th{border:1px solid grey;padding:1px}th{position:sticky;top:0;background:#4098de}tr:hover{background:#d9f4ff}div{overflow:auto;max-height:80vh;max-width:100vw;width:fit-content}</style><h1><a href="https://rec.danmuji.org">mikufans录播姬</a>弹幕XML文件</h1><p>本文件不支持在 IE 浏览器里预览，请使用 Chrome Firefox Edge 等浏览器。</p><p>文件用法参考文档 <a href="https://rec.danmuji.org/user/danmaku/">https://rec.danmuji.org/user/danmaku/</a></p><table><tr><td>录播姬版本</td><td><z:value-of select="/i/BililiveRecorder/@version"/></td></tr><tr><td>房间号</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@roomid"/></td></tr><tr><td>主播名</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></td></tr><tr><td>录制开始时间</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@start_time"/></td></tr><tr><td><a href="#d">弹幕</a></td><td>共<z:value-of select="count(/i/d)"/>条记录</td></tr><tr><td><a href="#guard">上船</a></td><td>共<z:value-of select="count(/i/guard)"/>条记录</td></tr><tr><td><a href="#sc">SC</a></td><td>共<z:value-of select="count(/i/sc)"/>条记录</td></tr><tr><td><a href="#gift">礼物</a></td><td>共<z:value-of select="count(/i/gift)"/>条记录</td></tr></table><h2 id="d">弹幕</h2><div id="dm"><table><tr><th>用户名</th><th>出现时间</th><th>用户ID</th><th>弹幕</th><th>参数</th></tr><z:for-each select="/i/d"><tr><td><z:value-of select="@user"/></td><td></td><td></td><td><z:value-of select="."/></td><td><z:value-of select="@p"/></td></tr></z:for-each></table></div><script>Array.from(document.querySelectorAll('#dm tr')).slice(1).map(t=>t.querySelectorAll('td')).forEach(t=>{let p=t[4].textContent.split(','),a=p[0];t[1].textContent=`${(Math.floor(a/60/60)+'').padStart(2,0)}:${(Math.floor(a/60%60)+'').padStart(2,0)}:${(a%60).toFixed(3).padStart(6,0)}`;t[2].innerHTML=`&lt;a target=_blank rel="nofollow noreferrer" href="https://space.bilibili.com/${p[6]}"&gt;${p[6]}&lt;/a&gt;`})</script><h2 id="guard">舰长购买</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>舰长等级</th><th>购买数量</th><th>出现时间</th></tr><z:for-each select="/i/guard"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@level"/></td><td><z:value-of select="@count"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="sc">SuperChat 醒目留言</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>内容</th><th>显示时长</th><th>价格</th><th>出现时间</th></tr><z:for-each select="/i/sc"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="."/></td><td><z:value-of select="@time"/></td><td><z:value-of select="@price"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="gift">礼物</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>礼物名</th><th>礼物数量</th><th>出现时间</th></tr><z:for-each select="/i/gift"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@giftname"/></td><td><z:value-of select="@giftcount"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div></html></z:template></z:stylesheet></BililiveRecorderXmlStyle>
+  <d p="4.008,4,25,16772431,1785762449809,0,25942909,0" user="鸦天狗狗文">米米米米</d>
+  <d p="5.331,1,25,16777215,1785762450939,0,589228731,0" user="伶舟沉月">喜欢</d>
+  <gift ts="9.249" user="清月照天心" uid="546108139" giftname="人气票" giftcount="1" />
+  <gift ts="10.560" user="清月照天心" uid="546108139" giftname="人气票" giftcount="1" />
+  <gift ts="10.560" user="清月照天心" uid="546108139" giftname="人气票" giftcount="1" />
+  <gift ts="10.561" user="清月照天心" uid="546108139" giftname="人气票" giftcount="1" />
+  <gift ts="10.561" user="清月照天心" uid="546108139" giftname="人气票" giftcount="1" />
+  <gift ts="10.561" user="清月照天心" uid="546108139" giftname="人气票" giftcount="1" />
+  <gift ts="11.890" user="清月照天心" uid="546108139" giftname="人气票" giftcount="1" />
+  <gift ts="11.890" user="清月照天心" uid="546108139" giftname="人气票" giftcount="1" />
+  <gift ts="11.890" user="清月照天心" uid="546108139" giftname="人气票" giftcount="1" />
+  <gift ts="13.153" user="清月照天心" uid="546108139" giftname="人气票" giftcount="1" />
+  <gift ts="17.044" user="Felix喝无糖可乐" uid="398005172" giftname="粉丝团灯牌" giftcount="1" />
+  <d p="21.359,4,25,16772431,1785762467802,0,66621878,0" user="霊音はなこ">老公老公老公老公</d>
+  <d p="25.262,1,25,14893055,1785762470685,0,16503097,0" user="芝芝识识">喜欢</d>
+  <d p="33.942,4,25,14893055,1785762480014,0,546108139,0" user="清月照天心">呜</d>
+  <d p="34.362,4,25,14893055,1785762480626,0,4897,0" user="宫古芳香">喜欢</d>
+  <d p="43.046,1,25,16777215,1785762488663,0,540811,0" user="低配周杰倫">妈米妈米妈米妈米</d>
+  <d p="57.769,4,25,16772431,1785762503577,0,66621878,0" user="霊音はなこ">米米米米米米米</d>
+  <d p="64.263,1,25,16777215,1785762510774,0,349868369,0" user="匿名QMQ">喝茶</d>
+  <d p="75.959,1,25,16777215,1785762522135,0,21981285,0" user="白桦青叶">歌杂吗。早上看过一集了</d>
+  <d p="81.172,4,25,14893055,1785762526429,0,6969680,0" user="周新宇">喜欢</d>
+  <d p="88.554,1,25,16777215,1785762534787,0,1852745,0" user="全肯定">喜欢</d>
+  <d p="113.660,1,25,16777215,1785762559787,0,341022655,0" user="雪洞_">早上没唱</d>
+  <d p="114.539,4,25,14893055,1785762560869,0,546108139,0" user="清月照天心">喜欢</d>
+  <d p="114.957,4,25,14893055,1785762561469,0,360569,0" user="米汀家的夜阑梦雪">米米米米米米啊啊啊啊啊</d>
+</i>
