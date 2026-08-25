@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="#s"?>
+<i>
+  <!--
+mikufans录播姬 2.18.1-codex-offline-recording-reconciliation.1+12.Branch.codex-offline-recording-reconciliation.Sha.e9cf592ec4fdde9fda6af1b85ea5a42f7b66f324
+https://rec.danmuji.org/user/danmaku/
+本文件的弹幕信息兼容mikufans主站视频弹幕XML格式
+本XML自带样式可以在浏览器里打开（推荐使用Chrome）
+
+sc 为SuperChat
+gift为礼物
+guard为上船
+
+attribute "raw" 为原始数据
+-->
+  <chatserver>chat.bilibili.com</chatserver>
+  <chatid>0</chatid>
+  <mission>0</mission>
+  <maxlimit>1000</maxlimit>
+  <state>0</state>
+  <real_name>0</real_name>
+  <source>0</source>
+  <BililiveRecorder version="2.18.1-codex-offline-recording-reconciliation.1+12" />
+  <BililiveRecorderRecordInfo roomid="24872476" shortid="0" name="南町Nightin" title="re一下" areanameparent="虚拟主播" areanamechild="虚拟日常" start_time="2026-08-25T21:07:06.2051462+08:00" />
+  <BililiveRecorderXmlStyle><z:stylesheet version="1.0" id="s" xml:id="s" xmlns:z="http://www.w3.org/1999/XSL/Transform"><z:output method="html"/><z:template match="/"><html><meta name="viewport" content="width=device-width"/><title>mikufans录播姬弹幕文件 - <z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></title><style>body{margin:0}h1,h2,p,table{margin-left:5px}table{border-spacing:0}td,th{border:1px solid grey;padding:1px}th{position:sticky;top:0;background:#4098de}tr:hover{background:#d9f4ff}div{overflow:auto;max-height:80vh;max-width:100vw;width:fit-content}</style><h1><a href="https://rec.danmuji.org">mikufans录播姬</a>弹幕XML文件</h1><p>本文件不支持在 IE 浏览器里预览，请使用 Chrome Firefox Edge 等浏览器。</p><p>文件用法参考文档 <a href="https://rec.danmuji.org/user/danmaku/">https://rec.danmuji.org/user/danmaku/</a></p><table><tr><td>录播姬版本</td><td><z:value-of select="/i/BililiveRecorder/@version"/></td></tr><tr><td>房间号</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@roomid"/></td></tr><tr><td>主播名</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></td></tr><tr><td>录制开始时间</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@start_time"/></td></tr><tr><td><a href="#d">弹幕</a></td><td>共<z:value-of select="count(/i/d)"/>条记录</td></tr><tr><td><a href="#guard">上船</a></td><td>共<z:value-of select="count(/i/guard)"/>条记录</td></tr><tr><td><a href="#sc">SC</a></td><td>共<z:value-of select="count(/i/sc)"/>条记录</td></tr><tr><td><a href="#gift">礼物</a></td><td>共<z:value-of select="count(/i/gift)"/>条记录</td></tr></table><h2 id="d">弹幕</h2><div id="dm"><table><tr><th>用户名</th><th>出现时间</th><th>用户ID</th><th>弹幕</th><th>参数</th></tr><z:for-each select="/i/d"><tr><td><z:value-of select="@user"/></td><td></td><td></td><td><z:value-of select="."/></td><td><z:value-of select="@p"/></td></tr></z:for-each></table></div><script>Array.from(document.querySelectorAll('#dm tr')).slice(1).map(t=>t.querySelectorAll('td')).forEach(t=>{let p=t[4].textContent.split(','),a=p[0];t[1].textContent=`${(Math.floor(a/60/60)+'').padStart(2,0)}:${(Math.floor(a/60%60)+'').padStart(2,0)}:${(a%60).toFixed(3).padStart(6,0)}`;t[2].innerHTML=`&lt;a target=_blank rel="nofollow noreferrer" href="https://space.bilibili.com/${p[6]}"&gt;${p[6]}&lt;/a&gt;`})</script><h2 id="guard">舰长购买</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>舰长等级</th><th>购买数量</th><th>出现时间</th></tr><z:for-each select="/i/guard"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@level"/></td><td><z:value-of select="@count"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="sc">SuperChat 醒目留言</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>内容</th><th>显示时长</th><th>价格</th><th>出现时间</th></tr><z:for-each select="/i/sc"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="."/></td><td><z:value-of select="@time"/></td><td><z:value-of select="@price"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="gift">礼物</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>礼物名</th><th>礼物数量</th><th>出现时间</th></tr><z:for-each select="/i/gift"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@giftname"/></td><td><z:value-of select="@giftcount"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div></html></z:template></z:stylesheet></BililiveRecorderXmlStyle>
+  <d p="50.741,4,25,14893055,1787663276671,0,196798359,0" user="南町家的星耀">陛下竟然双播</d>
+  <d p="65.899,1,25,16777215,1787663292557,0,39075336,0" user="达观甲申神将晞女">往下看就知道了</d>
+  <d p="69.823,4,25,14893055,1787663295745,0,58237,0" user="流風舞枼">这也算实机</d>
+  <d p="93.225,1,25,65532,1787663319613,0,408302,0" user="沧陌">您好，新来的，请问这里是chatnn的直播间吗?</d>
+  <d p="110.130,4,25,14893055,1787663336857,0,6746622,0" user="达观甲申神将流水">哪有石几</d>
+  <d p="118.338,4,25,14893055,1787663344203,0,14133962,0" user="胖次今天会画了吗">你好你好，酬勤酬勤</d>
+  <d p="127.437,1,25,16772431,1787663353377,0,277460158,0" user="星汐Seki老公粉陈千茗">嗯？你没看过这个实机吗？</d>
+  <d p="132.205,1,25,14893055,1787663358410,0,352083721,0" user="Jigsaw_Fall1ng">吃啥呢</d>
+  <d p="138.807,1,25,16777215,1787663364361,0,39075336,0" user="达观甲申神将晞女">野马跳涧</d>
+  <d p="139.150,4,25,14893055,1787663365666,0,14133962,0" user="胖次今天会画了吗">钟馗的闪避动作没那么大了</d>
+  <d p="143.050,1,25,16772431,1787663369521,0,277460158,0" user="星汐Seki老公粉陈千茗">哦哦</d>
+  <d p="157.349,1,25,16772431,1787663383182,0,277460158,0" user="星汐Seki老公粉陈千茗">晕3D么[dog]</d>
+  <d p="165.154,1,25,16772431,1787663390950,0,277460158,0" user="星汐Seki老公粉陈千茗">准备开玩么[dog]</d>
+  <d p="165.154,4,25,14893055,1787663391727,0,14133962,0" user="胖次今天会画了吗">感觉招架做了很多卸力的动作</d>
+  <d p="168.586,1,25,14893055,1787663395191,0,187130,0" user="白毛此方">有可能是演示音效</d>
+  <d p="171.670,1,25,16777215,1787663398159,0,17093190,0" user="TheBrains">分不清游戏和现实了😭</d>
+  <d p="174.236,4,25,14893055,1787663401019,0,196798359,0" user="南町家的星耀">音效有时候怎么有点黑猴的感觉</d>
+  <d p="179.439,4,25,14893055,1787663405518,0,196798359,0" user="南町家的星耀">笑蜥了</d>
+  <d p="195.038,4,25,14893055,1787663421179,0,196798359,0" user="南町家的星耀">那就不奇怪了</d>
+  <d p="197.635,1,25,16772431,1787663424242,0,277460158,0" user="星汐Seki老公粉陈千茗">就是黑猴的，应该还没改</d>
+  <d p="201.540,4,25,14893055,1787663427962,0,14133962,0" user="胖次今天会画了吗">我感觉不少音效可能暂时借用</d>
+  <d p="203.728,4,25,14893055,1787663430225,0,58237,0" user="流風舞枼">音效还是黑猴的</d>
+  <d p="211.937,1,25,16777215,1787663438198,0,1635185,0" user="云清枫舞">[抓狂]</d>
+  <d p="214.219,1,25,16777215,1787663440381,0,333706521,0" user="RadiumTs">喜欢NN</d>
+  <d p="214.556,4,25,14893055,1787663440486,0,14133962,0" user="胖次今天会画了吗">做了很多弹反动作，可能是吧</d>
+  <d p="214.556,4,25,14893055,1787663441385,0,1486616374,0" user="达观甲申神将忧面">小妹妹，一个人在这儿直播吗～</d>
+  <d p="218.436,1,25,16777215,1787663444693,0,1635185,0" user="云清枫舞">好菜</d>
+  <d p="219.765,1,25,16777215,1787663445466,0,1635185,0" user="云清枫舞">有猪</d>
+  <d p="219.765,1,25,16777215,1787663446264,0,1635185,0" user="云清枫舞">小N咪</d>
+  <d p="219.765,1,25,16772431,1787663446377,0,277460158,0" user="星汐Seki老公粉陈千茗">当然也可能不改了，就直接素材复用也可能</d>
+</i>
