@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="#s"?>
+<i>
+  <!--
+mikufans录播姬 2.18.1-alpha.1+8.Branch.dev.Sha.eb906e8597bd2dc52896034c55f78a0ef92e0b87
+https://rec.danmuji.org/user/danmaku/
+本文件的弹幕信息兼容mikufans主站视频弹幕XML格式
+本XML自带样式可以在浏览器里打开（推荐使用Chrome）
+
+sc 为SuperChat
+gift为礼物
+guard为上船
+
+attribute "raw" 为原始数据
+-->
+  <chatserver>chat.bilibili.com</chatserver>
+  <chatid>0</chatid>
+  <mission>0</mission>
+  <maxlimit>1000</maxlimit>
+  <state>0</state>
+  <real_name>0</real_name>
+  <source>0</source>
+  <BililiveRecorder version="2.18.1-alpha.1+8" />
+  <BililiveRecorderRecordInfo roomid="1986461465" shortid="0" name="克罗雅Kloa" title="被窝电台～" areanameparent="虚拟主播" areanamechild="虚拟日常" start_time="2026-09-04T23:05:38.0027595+08:00" />
+  <BililiveRecorderXmlStyle><z:stylesheet version="1.0" id="s" xml:id="s" xmlns:z="http://www.w3.org/1999/XSL/Transform"><z:output method="html"/><z:template match="/"><html><meta name="viewport" content="width=device-width"/><title>mikufans录播姬弹幕文件 - <z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></title><style>body{margin:0}h1,h2,p,table{margin-left:5px}table{border-spacing:0}td,th{border:1px solid grey;padding:1px}th{position:sticky;top:0;background:#4098de}tr:hover{background:#d9f4ff}div{overflow:auto;max-height:80vh;max-width:100vw;width:fit-content}</style><h1><a href="https://rec.danmuji.org">mikufans录播姬</a>弹幕XML文件</h1><p>本文件不支持在 IE 浏览器里预览，请使用 Chrome Firefox Edge 等浏览器。</p><p>文件用法参考文档 <a href="https://rec.danmuji.org/user/danmaku/">https://rec.danmuji.org/user/danmaku/</a></p><table><tr><td>录播姬版本</td><td><z:value-of select="/i/BililiveRecorder/@version"/></td></tr><tr><td>房间号</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@roomid"/></td></tr><tr><td>主播名</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></td></tr><tr><td>录制开始时间</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@start_time"/></td></tr><tr><td><a href="#d">弹幕</a></td><td>共<z:value-of select="count(/i/d)"/>条记录</td></tr><tr><td><a href="#guard">上船</a></td><td>共<z:value-of select="count(/i/guard)"/>条记录</td></tr><tr><td><a href="#sc">SC</a></td><td>共<z:value-of select="count(/i/sc)"/>条记录</td></tr><tr><td><a href="#gift">礼物</a></td><td>共<z:value-of select="count(/i/gift)"/>条记录</td></tr></table><h2 id="d">弹幕</h2><div id="dm"><table><tr><th>用户名</th><th>出现时间</th><th>用户ID</th><th>弹幕</th><th>参数</th></tr><z:for-each select="/i/d"><tr><td><z:value-of select="@user"/></td><td></td><td></td><td><z:value-of select="."/></td><td><z:value-of select="@p"/></td></tr></z:for-each></table></div><script>Array.from(document.querySelectorAll('#dm tr')).slice(1).map(t=>t.querySelectorAll('td')).forEach(t=>{let p=t[4].textContent.split(','),a=p[0];t[1].textContent=`${(Math.floor(a/60/60)+'').padStart(2,0)}:${(Math.floor(a/60%60)+'').padStart(2,0)}:${(a%60).toFixed(3).padStart(6,0)}`;t[2].innerHTML=`&lt;a target=_blank rel="nofollow noreferrer" href="https://space.bilibili.com/${p[6]}"&gt;${p[6]}&lt;/a&gt;`})</script><h2 id="guard">舰长购买</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>舰长等级</th><th>购买数量</th><th>出现时间</th></tr><z:for-each select="/i/guard"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@level"/></td><td><z:value-of select="@count"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="sc">SuperChat 醒目留言</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>内容</th><th>显示时长</th><th>价格</th><th>出现时间</th></tr><z:for-each select="/i/sc"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="."/></td><td><z:value-of select="@time"/></td><td><z:value-of select="@price"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="gift">礼物</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>礼物名</th><th>礼物数量</th><th>出现时间</th></tr><z:for-each select="/i/gift"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@giftname"/></td><td><z:value-of select="@giftcount"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div></html></z:template></z:stylesheet></BililiveRecorderXmlStyle>
+  <d p="0.289,1,25,14893055,1788534339650,0,6164849,0" user="一般通过阿福君">足小子出击</d>
+  <d p="0.289,1,25,14893055,1788534340044,0,3546858894920318,0" user="小士多_0x0">雅神说了那么久，我问你一句，我老公呢</d>
+  <d p="2.892,1,25,65532,1788534342443,0,17771410,0" user="哪有什么坐忘道">宝宝­我突然好想略雅</d>
+  <d p="4.193,1,25,16777215,1788534344122,0,545274228,0" user="揚げません">嘿嘿</d>
+  <d p="4.239,4,25,14893055,1788534343387,0,32567483,0" user="如拉如拉蓝">嘿嘿</d>
+  <d p="4.239,1,25,16772431,1788534343628,0,442074666,0" user="沧海桑田5027">人生黑暗</d>
+  <d p="4.239,1,25,16777215,1788534343632,0,178398894,0" user="不太会读书">­宝宝­我突然好想略雅</d>
+  <d p="5.492,1,25,16777215,1788534344728,0,307434,0" user="-青眼-">摸摸我的</d>
+  <d p="5.492,1,25,65532,1788534344876,0,122334,0" user="Shinku">足考子</d>
+  <d p="6.825,1,25,14893055,1788534346077,0,18197195,0" user="羽希_">嘿嘿</d>
+  <d p="6.825,1,25,14893055,1788534347030,0,414398266,0" user="升沌风行">足小子来了</d>
+  <d p="8.084,4,25,14893055,1788534348281,0,11811680,0" user="-老key-">鸭肾摸摸我的</d>
+  <d p="9.344,4,25,14893055,1788534349205,0,18925944,0" user="JtL-_-xD">雅雅有pad吗</d>
+  <d p="11.985,4,25,14893055,1788534351985,0,9900196,0" user="带火星的小木条404">给我摸摸</d>
+  <d p="13.284,4,25,14893055,1788534352477,0,161859181,0" user="N的初心丶">人生黑暗</d>
+  <d p="24.986,4,25,14893055,1788534364599,0,9900196,0" user="带火星的小木条404">对的对的，只摸考子</d>
+  <d p="26.283,1,25,16772431,1788534365756,0,178398894,0" user="不太会读书">对的对的，只摸考子­</d>
+  <d p="27.582,1,25,14893055,1788534366691,0,1364371685,0" user="ライムグリーン芸術家">摸我的</d>
+  <d p="30.187,1,25,14893055,1788534369970,0,414398266,0" user="升沌风行">也是</d>
+  <d p="31.484,4,25,14893055,1788534370779,0,161859181,0" user="N的初心丶">前面忘了 后面忘了 不患寡而患不均</d>
+  <d p="32.790,1,25,14893055,1788534371934,0,12535027,0" user="画方圆规">无所谓吧，后面的像我这种都没啥所谓</d>
+  <d p="32.791,4,25,14893055,1788534372049,0,243761631,0" user="n3Mes1s_5ive">嘻嘻</d>
+  <d p="39.277,1,25,16777215,1788534379422,0,32794337,0" user="可月难明">大家我好困</d>
+  <d p="39.341,1,25,14893055,1788534378220,0,1282053,0" user="Moonlight_Neet">雅姐你还有两首歌没唱，别赖了</d>
+  <d p="39.341,4,25,14893055,1788534378702,0,9900196,0" user="带火星的小木条404">不患寡而患不均</d>
+  <d p="39.341,4,25,14893055,1788534379544,0,109232158,0" user="流年丿月下丶">前面忘了 后面忘了 不患寡而患不均</d>
+  <d p="40.580,1,25,16772431,1788534380026,0,178398894,0" user="不太会读书">大家我好困­</d>
+  <d p="43.189,1,25,16772431,1788534382860,0,114427706,0" user="IMPLOSION-">五百也叫考子？大大方方提纯</d>
+  <d p="43.189,4,25,14893055,1788534382737,0,21742347,0" user="超次元宅男">500死士是对的</d>
+  <d p="45.796,1,25,14893055,1788534385895,0,12535027,0" user="画方圆规">我们非战力厨不怎么看重，你把前面那些战力厨搞掂就行</d>
+  <d p="49.693,4,25,14893055,1788534389861,0,9900196,0" user="带火星的小木条404">不患寡而患不均😠不患寡而患不均😠不患寡而患不均😠</d>
+  <d p="52.283,4,25,14893055,1788534391711,0,243761631,0" user="n3Mes1s_5ive">嘻嘻</d>
+  <d p="60.084,4,25,14893055,1788534399281,0,400603711,0" user="wzc547">没问题，大部分考团子都在前面</d>
+  <d p="60.084,1,25,14893055,1788534400379,0,3546858894920318,0" user="小士多_0x0">你基本把前面的摸了就行吧</d>
+  <d p="61.414,1,25,14893055,1788534401610,0,414398266,0" user="升沌风行">再无悲喜</d>
+  <d p="65.284,1,25,16772431,1788534404363,0,235764781,0" user="狄更斯没有漫画">铐子怎么越来越多了</d>
+  <d p="67.844,1,25,16777215,1788534407390,0,545274228,0" user="揚げません">嘿嘿</d>
+  <d p="67.890,4,25,14893055,1788534407817,0,35068151,0" user="沙沙沙沙福林">人生黑暗</d>
+  <d p="70.502,1,25,65532,1788534409879,0,17771410,0" user="哪有什么坐忘道">再无悲喜</d>
+  <d p="70.502,1,25,16777215,1788534410754,0,17271900,0" user="拉莱耶的守梦人">开动了</d>
+  <d p="75.641,1,25,65532,1788534415720,0,122334,0" user="Shinku">你怎么也反流</d>
+  <d p="79.589,1,25,16777215,1788534419093,0,32794337,0" user="可月难明">什么时候直播睡着</d>
+  <d p="80.884,1,25,16772431,1788534420332,0,178398894,0" user="不太会读书">什么­时候直播睡着</d>
+  <d p="80.885,1,25,14893055,1788534420575,0,12535027,0" user="画方圆规">食管反流实打实是胃病引发的吧</d>
+  <d p="82.184,4,25,14893055,1788534422089,0,11811680,0" user="-老key-">考团子好多</d>
+</i>
