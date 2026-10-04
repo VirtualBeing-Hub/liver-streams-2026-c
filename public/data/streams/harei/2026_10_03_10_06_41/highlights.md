@@ -1,3 +1,5 @@
+## 晚安回复
+
 ---
 generatedAt: "2026-10-03T04:19:42.793Z"
 sourceHighlight: "录制-1820703922-20261003-100641-030-睡觉很舒服^^_merged_AI_HIGHLIGHT.txt"
@@ -29,6 +31,8 @@ attempts:
 说好播一小时，结果聊到两小时多，四十分钟睡眠还硬撑开播，礼礼也太拼啦！从喝牛奶“怀孕”到癞蛤蟆冷知识，脑洞一路狂飙，后面看短睡视频更是笑到清醒。记得补觉、好好吃饭，今晚九点的恐怖游戏也别把自己吓着啦。
 
 ---
+
+## Highlight
 
 【摘要】(保留率: 前35%热度 + 10%随机)
 ---
@@ -178,12 +182,3 @@ attempts:
 [123m] 🔥 [UNKNOWN] 花礼人走了三d的不行。[UNKNOWN] AI的还是算了吧我走了。[UNKNOWN] 拜拜。[UNKNOWN] 小毛耳朵痛我要睡觉了。[UNKNOWN] 我困的要命了我天哪。[UNKNOWN] 太恐怖了太恐怖了太恐怖了。[UNKNOWN] 喝不我也很我开p了。[UNKNOWN] p完睡觉先干活再睡  (💬 [花礼Harei收藏集表情包_晚安](x28) / 午安(x5) / 88 / 拜拜拜 / [花礼Harei收藏集表情包_prpr])
 [123m] 🔥 [UNKNOWN] 我去我这人脸怎么是马赛克居下。[UNKNOWN] 好吓人拜拜我连是马赛克。[UNKNOWN] 好恐怖。[UNKNOWN] 嗯。[UNKNOWN] 嘶。[UNKNOWN] 拜拜。[UNKNOWN] 辛苦大家今天开开心心的哦。[UNKNOWN] 哈我我已经快p好了。[UNKNOWN] 萌萌其实好休息吧  (💬 [花礼Harei收藏集表情包_晚安](x19) / [花礼Harei收藏集表情包_贴贴](x3) / [花礼Harei收藏集表情包_prpr] / 88 / 啵啵啵啵)
 [124m] 🔥 [UNKNOWN] 大家也拜拜  (💬 [花礼Harei收藏集表情包_贴贴])
-
----
-
-分镜1：早上直播间，黑发蓝瞳、鼠耳的花礼Harei困得眼皮打架，桌边闹钟显示10点；戴帽子的小猫们挤在屏幕边陪她。画面上方小标题：“睡觉很舒服^^”
-分镜2：Harei捧着一杯牛奶，眼睛稍稍睁开；杯边画一圈轻快的清醒感符号，不加台词。
-分镜3：直播将结束，Harei裹着毯子向屏幕挥手道别，小猫们也挥爪回应；背景收起麦克风与耳机，气氛安静下来。
-{"kind":"reference","timestampsSeconds":[0],"referenceUsage":"核对开播时房间中Harei的可见外观、坐姿与直播设备，不推断未确认话语的说话人","captureMode":"individual"}
-{"kind":"reference","timestampsSeconds":[2400],"referenceUsage":"核对约40分钟时画面中是否出现牛奶及其数量、摆放位置","captureMode":"individual"}
-{"kind":"reference","timestampsSeconds":[7380],"referenceUsage":"核对直播结束前Harei的可见姿态、挥手动作及桌面设备状态","captureMode":"individual"}

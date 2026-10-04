@@ -1,3 +1,5 @@
+## 晚安回复
+
 ---
 generatedAt: "2026-09-27T17:38:24.556Z"
 sourceHighlight: "录制-1967216004-20260927-200304-560-嘟嘟！R&B之夜_AI_HIGHLIGHT.txt"
@@ -29,6 +31,8 @@ attempts:
 从八点唱到凌晨一点多，四个多小时连唱四十多首，R&B之夜也太能打了吧！中间还摇来摇去，被弹幕夸可爱完全不冤，聊衣服时那句“公式上我是C”也笑死我了。嗓子和身体都辛苦啦，快喝点水好好休息，晚安捏！
 
 ---
+
+## Highlight
 
 【摘要】(保留率: 前35%热度 + 10%随机)
 ---
@@ -468,13 +472,3 @@ attempts:
 [320m] 🔥 [UNKNOWN] 老妈我不信可能压完好。[UNKNOWN] 嗯。[UNKNOWN] 老师出现这些。[UNKNOWN] 我没念都还记得后面的moscow。[UNKNOWN] 啊。[UNKNOWN] 姐爷晚安拜拜。[UNKNOWN] 大家玩gthering。[UNKNOWN] 晚安。[UNKNOWN] Youdontlove  (💬 [UPOWER_2030198123_晚安](x4) / 爱理(x4) / 拜拜拜拜(x4) / 爱理 戒断了 好不真实(x4) / 애리가 중독에서 벗어났다니 정말 믿기지 않아(x4))
 [320m] 🔥 [UNKNOWN] Youdoesbelieve。[UNKNOWN] 拜拜。[UNKNOWN] Youneedtogetoffthistrain。[UNKNOWN] Thereisjustnothingtoday。[UNKNOWN] 怎么说。[UNKNOWN] 嗯comeoneday。[UNKNOWN] youwillfindsomebodynew  (💬 爱理(x4) / 拜拜拜拜(x4) / 爱理 戒断了 好不真实(x4) / 애리가 중독에서 벗어났다니 정말 믿기지 않아(x4) / 愛理がやめてしまったなんて、とてもリアルだ(x4))
 [320m] 🔥 [UNKNOWN] 很美。[UNKNOWN] maybeiwilltoo。[UNKNOWN] butstillnotwantmeyou。[UNKNOWN] 他们就恐怕热闹的来发比学院的心。[UNKNOWN] Guessijustwanto我的分  (💬 爱理 戒断了 好不真实(x4) / 애리가 중독에서 벗어났다니 정말 믿기지 않아(x4) / 愛理がやめてしまったなんて、とてもリアルだ(x4) / 爱理(x3) / [UPOWER_2030198123_晚安](x3))
-
----
-
-分镜1：舞台灯下，淡紫发、戴挡风镜的实验室少女握着麦克风唱R&B，身体随节奏轻轻摇摆；小电池观众在台下挥舞荧光棒。角落拟声字“啦啦啦”。
-分镜2：她举起酒杯又放回桌面，旁边的歌单越叠越高；小电池们举杯应援，她笑着继续唱。桌边小字“慢慢来”。
-分镜3：她站在镜前展示宽松白衬衫与表演服，手指比划衣服的版型；镜边贴一张小纸条“隐藏属性”，不强调身体细节。
-分镜4：深夜收播前，她对着镜头挥手告别，身旁堆着写有“41首”的歌单和打哈欠的小电池；窗外夜色，气泡字“晚安”。
-{"kind":"reference","timestampsSeconds":[2220,2280],"referenceUsage":"核对唱歌时三理的可见外观、麦克风与摇摆动作，以及酒杯在桌上的位置和状态","captureMode":"sheet"}
-{"kind":"reference","timestampsSeconds":[16020],"referenceUsage":"核对讨论表演服装时实际展示的衣服款式、颜色与穿着状态","captureMode":"individual"}
-{"kind":"reference","timestampsSeconds":[18840,18900],"referenceUsage":"核对收播时的可见场景与告别动作，并确认画面中是否出现可辨认的歌单或计数信息","captureMode":"sheet"}

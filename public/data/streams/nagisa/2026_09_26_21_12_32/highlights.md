@@ -1,3 +1,5 @@
+## 晚安回复
+
 ---
 generatedAt: "2026-09-26T17:20:18.373Z"
 sourceHighlight: "录制-31368705-20260926-211232-310-一起「破烂艺术家」_merged_AI_HIGHLIGHT.txt"
@@ -53,6 +55,8 @@ sharedGenerationId: "fee9489c-3752-4b92-802d-91ba8a0a422a"
 这场画画猜词也太有节目效果了：洗衣机被弹幕吐槽画得像锅，手机题更是“谜底就在谜面上”。美食回里八个蛋挞的提示直接把答案送到眼前，后面电影题又把大家的阅片盲区都翻出来了。辛苦啦，记得好好休息，期待下次再一起玩！
 
 ---
+
+## Highlight
 
 【摘要】(保留率: 前35%热度 + 10%随机)
 ---
@@ -542,12 +546,3 @@ sharedGenerationId: "fee9489c-3752-4b92-802d-91ba8a0a422a"
 [232m] 🔥 [UNKNOWN] 明天放松电动日子。[UNKNOWN] 请到了中秋后的三天假。[UNKNOWN] 也可以用长段时间做一些想做的事情了。[UNKNOWN] 好的中秋后的三天假。[UNKNOWN] 加油。[UNKNOWN] 晚安蓝色兄弟呀假期好好休息啊。[UNKNOWN] 明天就还有我要举报直播。[UNKNOWN] 不管你说破了我爱你  (💬 谢谢 / 拜拜拜拜 / 晚安哦米米，好好休息，下午再见 / 原来你也干了！ / 惊讶)
 [233m] 🔥 [UNKNOWN] 然后谢谢欧强豆。[UNKNOWN] sseenightnightnight。[UNKNOWN] 奈night。[UNKNOWN] 晚安欧城让我现在去看看剑脑SC。[UNKNOWN] 明天晚安。[UNKNOWN] 要玩阿布拉丁的话。[UNKNOWN] 可以试试这里的防云补丁和汉化修。[UNKNOWN] 正  (💬 晚安晚安(x4) / 晚安米米 / 谢谢 / 喜欢 / 辛苦啦)
 [233m] 🔥 [UNKNOWN] 好的看一眼嗯谢谢对不对。[UNKNOWN] 无刷自在图案吉他在小西之小息之的。[UNKNOWN] 像夜幕去你早点休息。[UNKNOWN] 好期待你开心。[UNKNOWN] 诶不先期待一下啊鬼舞者的完结呢。[UNKNOWN] 失宠他魁无者嗯  (💬 喜欢(x3) / 晚安晚安 / 谢谢 / 晚安米米)
-
----
-
-分镜1：剪贴画小窗里，画布上的谜样家电让人联想到锅；旁边猜词气泡接连冒出“洗衣机？”，营造猜中时的惊讶感。
-分镜2：另一格画布呈现刀、山与火焰的成语谜面，答案气泡写“刀山火海”；一角留着被白色图形误导的痕迹。
-分镜3：八个蛋挞整齐摆开，旁边的提示气泡写“八个蛋挞啊”，用突然说出数量的小乌龙收尾。
-{"kind":"reference","timestampsSeconds":[484,521,529],"referenceUsage":"核对画画猜词片段中画布与当时可见的猜词游戏状态，避免把洗衣机谜题画成未经证实的具体游戏界面或其他物品","captureMode":"sheet"}
-{"kind":"reference","timestampsSeconds":[4145,4171],"referenceUsage":"核对刀山火海成语题的画布内容，以及白色图形是否出现在画面中","captureMode":"sheet"}
-{"kind":"reference","timestampsSeconds":[7223,7239,7251],"referenceUsage":"核对世界美食猜词片段中蛋挞提示及画面可见数量，确认八个蛋挞是否实际画出","captureMode":"sheet"}

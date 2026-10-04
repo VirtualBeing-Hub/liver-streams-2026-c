@@ -1,3 +1,5 @@
+## 晚安回复
+
 ---
 generatedAt: "2026-10-03T07:10:29.829Z"
 sourceHighlight: "录制-1791260716-20261003-120215-479-午台小汪_merged_AI_HIGHLIGHT.txt"
@@ -29,6 +31,8 @@ attempts:
 苏南苏北聊着聊着评论区都两万播放了，犬绒还忙着喊别把火烧到主播身上，结果自己也被逗急哭，笑死。聊到独居厨房和可爱锅具又突然好温馨；下播还要去买肉，记得吃饱喝水、好好歇歇嗓子，今天辛苦啦。
 
 ---
+
+## Highlight
 
 【摘要】(保留率: 前35%热度 + 10%随机)
 ---
@@ -363,12 +367,3 @@ attempts:
 [178m] 🔥 [UNKNOWN] 很爆炸的那我被那我那你们就当我没说过。[UNKNOWN] 吧  (💬 8888 / 晚上见 / 丨吧宝宝 / 拜拜拜拜 / 吐魂)
 [178m] 🔥 [犬绒Mofu] 那不就当我没说过吧  (💬 8888 / 晚上见 / 丨吧宝宝 / 拜拜拜拜 / rrm不会举报qrmf的)
 [178m] 🔥 [UNKNOWN] 嗯拜晚上见。[UNKNOWN] 晚上见。[UNKNOWN] 拜拜  (💬 8888 / 晚上见 / 丨吧宝宝 / 拜拜拜拜 / rrm不会举报qrmf的)
-
----
-
-分镜1：午间直播中的犬绒Mofu抱着小风扇，面对飘来的地图和吵闹弹幕缩起肩膀，举起小牌子写“别烧我”，气氛热闹又慌张。
-分镜2：犬绒Mofu盯着《原神》云游戏排队界面等候，队列数字不断跳动；终于看到自己的小保底时，她惊讶地凑近屏幕。界面只画《原神》实际可见内容。
-分镜3：下播后，犬绒Mofu拎着购物袋准备出门买肉，白色小狗绒绒民戴着粉蝴蝶结在画面边缘挥爪道别；窗外是明亮的午后。
-{"kind":"reference","timestampsSeconds":[6840],"referenceUsage":"核对云游戏排队画面是否清楚显示《原神》标题或可辨认的游戏界面；这是游戏屏幕内容，不是本场互动角色","captureMode":"individual"}
-{"kind":"reference","timestampsSeconds":[9960],"referenceUsage":"核对犬绒Mofu所说的小保底对应的《原神》游戏画面与界面状态","captureMode":"individual"}
-{"kind":"reference","timestampsSeconds":[10620],"referenceUsage":"核对下播前犬绒Mofu提到下午出门买菜、买肉的语境；画面中不应增加其他实际出声角色","captureMode":"individual"}

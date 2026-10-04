@@ -1,3 +1,5 @@
+## 晚安回复
+
 ---
 generatedAt: "2026-10-02T18:48:41.126Z"
 sourceHighlight: "录制-23260993-20261002-205458-111-健身房冲刺初见体验_AI_HIGHLIGHT.txt"
@@ -29,6 +31,8 @@ attempts:
 听到“我刚刚那四下就铁片砰的一下”，我脑子里立刻有画面了，前面还觉得重量轻松，知道要控制、不能打铁以后才发现每一下都累，讲得又好笑又特别真实。后来在《渔帆暗涌》里开船撞得分崩离析，一边心疼修船钱一边还说捕鱼让人心情平静，反差也太可爱了。喜欢你这样把初体验讲得像我们也跟着探了一趟健身房、出了一趟海，五个多小时都听得很开心。已经凌晨啦，今天辛苦了，快去好好休息，别让粉光把脑袋照得更兴奋了。
 
 ---
+
+## Highlight
 
 【摘要】(保留率: 前35%热度 + 10%随机)
 ---
@@ -394,12 +398,3 @@ attempts:
 [342m] ▫️ [UNKNOWN] itall。[UNKNOWN] ifyoukissplaying。[UNKNOWN] thethesame  (💬 万能(x7) / 怎么感觉画面有点卡了)
 [344m] 🔥 [UNKNOWN] babyissoworth。[UNKNOWN] butyoufeelingdown。[UNKNOWN] i。[UNKNOWN] mwrapmyyoungsaroundshshldn。[UNKNOWN] t。[UNKNOWN] betowanttomakeit。[UNKNOWN] Thankyouwhatthefeelssurrounded  (💬 万能(x4) / 两眼一黑 / 永远爱你 / 那很坏了 / 的大)
 [344m] 🔥 [UNKNOWN] butmylovermadeajob  (💬 還說啥 / 永远爱你 / 万能 / 神志不清了已经)
-
----
-
-{"format":"immersive_v1","composition":"单一斜向连续动作构图：前景以瑞娅在健身房的运动身影为视觉中心，椭圆机的圆弧轨迹引向她控制髋外展器械的动作；轨迹在画面下方自然转为《DREDGE》的海面与小船，远处带出撞船后的狼狈收束。瑞世糖作为方形小助手陪在画面边缘，不增加其他人物。","narrativeArc":"初次健身从椭圆机和爬坡一路加码；误把铁片碰撞当作轻松完成，随后学会控制动作；深夜转入《DREDGE》，小船撞坏，在捕鱼与修船中结束。","textPlan":[{"text":"脸红彤彤","scene":"椭圆机进阶教程后，瑞娅脸红出汗","visualForm":"手写旁注，靠近脸侧留白处"},{"text":"又去爬坡十分钟","scene":"椭圆机后继续爬坡，表现初体验越练越猛","visualForm":"道具标签，贴近坡度跑步机边缘"},{"text":"铁片砰了四下","scene":"髋外展器械初试时没控制住铁片","visualForm":"冲击字幕，放在器械下方而不遮动作"},{"text":"不能让铁片碰一起","scene":"重新控制髋外展器械的回程","visualForm":"短台词框，置于器械侧边"},{"text":"我的船已分崩离析","scene":"《DREDGE》中小船撞坏后的狼狈时刻","visualForm":"冲击字幕，沿船身破损方向排布"}]}
-{"kind":"beat","timestampSeconds":960,"scene":"健身房初体验的想象场景：瑞娅在椭圆机上跟着进阶教程踩动，脸红出汗后转去跑步机爬坡；她保持白发紫瞳的识别特征，瑞世糖在旁边陪着。画面呈现运动后的酸与畅快，不暗示直播现场真的转播了健身房。","visualIntent":"近景人物与椭圆机占主导，跑步机坡面向画面纵深延伸；冷白顶灯映出汗光，动作轨迹带出渐强节奏，表情是疲惫又有点过瘾。","referenceUsage":"表现本场口述的健身初体验；不依赖截图还原未在直播画面中确认的健身房服装、器械细节或现场环境。"}
-{"kind":"beat","timestampSeconds":1560,"scene":"髋外展器械前，瑞娅先轻松开合四下，铁片碰撞后才发现动作太快；她收住回程，专注控制双腿，让铁片不再碰在一起。","visualIntent":"中近景，器械与腿部动作清楚可读；前半动作带短促震动线，后半转为稳定缓慢的张力，形成明确的失误与领会。","referenceUsage":"把“误以为重量很轻，后来学会控制铁片”的口述事件画成想象演绎；无需虚构直播实况中的器械画面。"}
-{"kind":"beat","timestampSeconds":10200,"scene":"瑞娅进入《DREDGE》的真实钓鱼世界，驾驶小船探索雾气水域，撞上危险地形后船体受损；她慌忙返航，瑞世糖在船边帮忙看路。画面是游戏世界中的演绎，不把被观看的滑板追逐视频混入本场游戏事件。","visualIntent":"宽幅低机位主画面，船只斜切过海面，前方雾气与礁石压迫视线；船身破损和返航方向清楚，紧张中带着手忙脚乱的喜感。","referenceUsage":"还原《DREDGE》的游戏身份、海面与船只外观，以及撞坏后返航的事件结果；以截图中的标题或代表性玩法界面核对作品，不把画面泛化成原创钓鱼游戏。"}
-{"kind":"reference","timestampsSeconds":[9840],"referenceUsage":"个人截图核对《DREDGE》的作品标题或代表性玩法界面，以及游戏中船只、海面和基本UI的实际外观；最终插画沿用可见的作品身份与视觉特征。","captureMode":"individual"}
-{"kind":"reference","timestampsSeconds":[10200,12540],"referenceUsage":"对照游戏中船只受损与后续航行阶段，核对损坏状态、海上环境和返航相关可见事实；只用于画出本场实际游玩的《DREDGE》，不引用被观看视频的滑板人物。","captureMode":"sheet"}

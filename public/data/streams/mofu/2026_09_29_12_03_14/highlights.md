@@ -1,3 +1,5 @@
+## 晚安回复
+
 ---
 generatedAt: "2026-09-29T07:16:54.528Z"
 sourceHighlight: "录制-1791260716-20260929-120314-762-午台好舒服呀_AI_HIGHLIGHT.txt"
@@ -29,6 +31,8 @@ attempts:
 午台陪着挑礼物、看玩偶，还聊到医院和剪头，三个小时一下就过去啦。昨天播了那么久，今天先办好医院的事再歇歇呀。粉色挂件和路边小草的反差太可爱了，喜欢犬绒，也会一直支持你捏。
 
 ---
+
+## Highlight
 
 【摘要】(保留率: 前35%热度 + 10%随机)
 ---
@@ -191,12 +195,3 @@ attempts:
 [178m] 🔥 [UNKNOWN] 是一个那种自助小火锅。[UNKNOWN] 我去。[UNKNOWN] 好羡慕南京没有好像。[UNKNOWN] 因为我从来没有吃过肉肉大米。[UNKNOWN] 我打算去吃一次肉肉大米。[UNKNOWN] 荣明。[UNKNOWN] 你们吃过肉肉大米吗。[UNKNOWN] 好像很好吃的样子耶。[UNKNOWN] 嗯  (💬 贴贴(x3) / 摆了 / 寿司郎不如沙县（ / 宙斯郎 / 爱你)
 [179m] 🔥 [UNKNOWN] 好像还有个叫什么烤肉LIKE的。[UNKNOWN] 也是那种是那种一人食烤肉。[UNKNOWN] 还有点想吃。[UNKNOWN] 哦。[UNKNOWN] 盛香亭。[UNKNOWN] 对。[UNKNOWN] 啊。[UNKNOWN] 南京没有啊。[UNKNOWN] 南京好像没有。[UNKNOWN] 哪都有  (💬 贴贴(x3) / 狗王 / 摆了 / 盛香亭吧 / 绒绒大民)
 [179m] 🔥 [UNKNOWN] 真的有。[UNKNOWN] 你有吗。[UNKNOWN] 荣荣大米。[UNKNOWN] 肉肉大米。[UNKNOWN] 下雨中。[UNKNOWN] 嗯。[UNKNOWN] 我打个车吧。[UNKNOWN] 拜拜。[UNKNOWN] 拜拜。[UNKNOWN] 晚上见哦。[UNKNOWN] 撒油娜啦。[UNKNOWN] 嗯  (💬 8888(x3) / 贴贴(x3) / 狗王 / 摆了 / 拜拜拜拜)
-
----
-
-分镜1：午间直播间里，犬绒Mofu坐在窗边看着镜头，阳光落在桌面；顶部用小字标题“午台好舒服呀”。
-分镜2：Mofu在屏幕前挑选小挂件和玩偶，桌边摆着几只候选礼物；她认真比对大小与价格，画面不出现收礼的人。
-分镜3：Mofu看着屏幕里的奥特曼视频露出惊讶表情，屏幕内容与直播间明确分隔；作品角色外观以截图为准，不添加身份不明的人物。
-{"kind":"reference","timestampsSeconds":[4080,4260],"referenceUsage":"核对正在播放的视频是否显示作品标题或Logo，以确认作品身份；屏幕中的内容属于被观看的视频，不是本场互动角色","captureMode":"individual"}
-{"kind":"reference","timestampsSeconds":[4140,4380],"referenceUsage":"核对视频画面中主要人物的外观与数量，并确认他们属于屏幕内容而非本场互动角色","captureMode":"individual"}
-{"kind":"reference","timestampsSeconds":[5940,6240],"referenceUsage":"核对直播中浏览的玩偶与挂件款式、大小和数量","captureMode":"sheet"}

@@ -1,3 +1,5 @@
+## 晚安回复
+
 ---
 generatedAt: "2026-09-27T17:44:33.570Z"
 sourceHighlight: "录制-1791260716-20260927-210344-509-晚上好！来掰头！_AI_HIGHLIGHT.txt"
@@ -29,6 +31,8 @@ attempts:
 DQ纠结半天，牛排吃了，沙拉却被嫌难吃，笑死；《猛兽派对》掰头开房重来，还边观战边乱入，躺赢小狗实锤！《带我走》唱得好听，听得人舍不得下播。都一点多了，记得护嗓子、早点休息呀，晚安犬绒～
 
 ---
+
+## Highlight
 
 【摘要】(保留率: 前35%热度 + 10%随机)
 ---
@@ -380,12 +384,3 @@ DQ纠结半天，牛排吃了，沙拉却被嫌难吃，笑死；《猛兽派对
 [269m] 🔥 [UNKNOWN] 在啊嗯嗯都你用心买的。[UNKNOWN] thismoney的孤独的我。[UNKNOWN] 记得何给也对有一个门对  (💬 zzz(x4))
 [270m] ▫️ [UNKNOWN] 三个一晚搜过我那一刻孤苦的安。[UNKNOWN] death。[UNKNOWN] 一定觉得好。[UNKNOWN] 那个悠悠三爱go德爱的妈好。[UNKNOWN] 我还有你的走啊。[UNKNOWN] 那别看得喂安安吉拉哎呀。[UNKNOWN] 使命天喵请望咱们能陪你。[UNKNOWN] 谢谢大家晚安喽我要思命很要生命  (💬 摆了(x9) / zzz(x3) / 888 / 还没下播? / 这次是真的晚安了哦)
 [271m] 🔥 [UNKNOWN] 就是你拜晚安窗外的的天情  (💬 zzz(x5) / 8888 / 贴贴 / 哦呀斯密 / 88)
-
----
-
-分镜1：剪贴画小场景，犬绒Mofu在桌前吃牛排，盘里留着最后一块；桌边放着外卖袋，突出夜宵氛围。角落小字：“最后一块”
-分镜2：犬绒Mofu对着麦克风投入唱歌，眼角带泪光，音符飞散；只画她一人。顶部小字：“好有感情”
-分镜3：犬绒Mofu在屏幕前玩《猛兽派对》，屏幕里的动物角色混战，她兴奋地挥拳；游戏角色只出现在屏幕内，不画成现实联动者。
-{"kind":"reference","timestampsSeconds":[6960],"referenceUsage":"核对犬绒Mofu提到吃掉最后一块牛排时，画面中的牛排和餐盘状态。","captureMode":"individual"}
-{"kind":"reference","timestampsSeconds":[1860,12300],"referenceUsage":"核对犬绒Mofu独自唱歌时的姿态与麦克风；不将其他声音画成合唱者。","captureMode":"sheet"}
-{"kind":"reference","timestampsSeconds":[3180],"referenceUsage":"核对《猛兽派对》的标题或代表性游戏界面，并确认屏幕内动物角色的外观与数量；这些角色属于游戏画面，不是本场互动角色。","captureMode":"individual"}
