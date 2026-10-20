@@ -1,0 +1,257 @@
+## 晚安回复
+
+---
+generatedAt: "2026-10-20T17:26:26.146Z"
+sourceHighlight: "录制-23260993-20261020-203856-594-你知道什么叫歌杂吗_merged_AI_HIGHLIGHT.txt"
+provider: "daiYu"
+model: "gpt-6-luna"
+fallback: false
+attempts:
+  - provider: "daiYu"
+    model: "gpt-6-luna"
+    status: "success"
+    finishReason: "completed"
+    maxTokens: 100000
+    completionTokens: 508
+    promptTokens: 34706
+    cachedTokens: 4224
+    cacheWriteTokens: 0
+    reasoningTokens: 325
+    apiModeRequested: "responses"
+    apiModeUsed: "responses"
+    sharedPromptCacheKey: "8434d67945e160a884c050b5400449fa7d2c560b8f9ff777d1769fccbb1a0c61"
+    sharedPromptPrefixChars: 45032
+    explicitPromptCache: "implicit_routed"
+    promptCacheRolloutBucket: 5289
+    totalTokens: 35214
+    requestId: "813b1fd6-a2b6-4f08-b064-4bfe6573fc56"
+    responseId: "resp_09be6702abbcbe41016ad7a43ca93c819198d66e2e454ea863"
+    requestStarted: true
+---
+从《一千年以后》唱到《一个人撑伞》，再一路唱到“灵魂从嘴巴里出去”，这场歌杂的含歌量和两眼一黑浓度都超标了哈哈。中途还被 Steam 鬼图吓到差点呛水，转头认真讨论薯条要不要蘸番茄酱，瑞瑞的脑回路真的很难不爱。听到聊睡眠和开车那段还是有点心疼，嗓子唱累了就好好休息，别再把自己熬到糊和火之间反复横跳啦。动态里说回复晚安的是考子，那我就直白承认一下：今天听得很开心，辛苦啦，早点休息捏。
+
+---
+
+## Highlight
+
+【摘要】(保留率: 前35%热度 + 10%随机)
+---
+【参与者】计划参与: 无
+【参与者】实际出声: 无
+【归属说明】名单不证明逐句身份；实际出声仅指音轨匹配，也可能来自被观看内容。UNKNOWN和匿名标签不可归给房主。
+---
+[5m] ▫️ [UNKNOWN] 唉明天我记得是注水日吧。[UNKNOWN] 不是明天了吗。[UNKNOWN] 哇不会没脱稿吧还好他一直在画。[UNKNOWN] 但是我感觉对吧。[UNKNOWN] 应该明天能出来了
+[7m] ▫️ [UNKNOWN] 明天要大降温了。[UNKNOWN] 谢谢无敌微信大大王舰舰长利利都都活在。[UNKNOWN] 和异味。[UNKNOWN] 你们大家原来大家都用米画石啊
+[10m] ▫️ [UNKNOWN] 别说我这周也有点害怕。[UNKNOWN] 我操他就直接说了我操两个字。[UNKNOWN] 他说你怎么。[UNKNOWN] 来。[UNKNOWN] 嗯我不知道吗
+[12m] ▫️ [UNKNOWN] 我有一些事情要处理包括和代发沟通。[UNKNOWN] 明天懂的都懂。[UNKNOWN] 大猛寺正好也对
+[14m] ▫️ [UNKNOWN] 我本来想明天割仔的想一下。[UNKNOWN] 明天的嗓子不一定爽快。[UNKNOWN] 如果明天嗓子不太好的话。[UNKNOWN] 我们就来。[UNKNOWN] 我想想明天看状态状态好。[UNKNOWN] 我们来久违的健身环了。[UNKNOWN] 择明天啊。[UNKNOWN] 那你如果想明天有人上舰插队的话
+[15m] ▫️ [UNKNOWN] 明天可能有很多人会续费的话。[UNKNOWN] 那明天到底算不算插队呢。[UNKNOWN] 不行哦对的明天感觉处理不过来的。[UNKNOWN] 画到很晚啊。[UNKNOWN] 这个月因为生病。[UNKNOWN] 早就休完了跟不别的地方不一样
+[18m] 🔥 [UNKNOWN] 不会应该呃。[UNKNOWN] 鬼舞者。[UNKNOWN] 我应该现在也不会再玩了。[UNKNOWN] 二十九号我想想啊。[UNKNOWN] 影之刃灵不是那个偏中式的吗。[UNKNOWN] 哦。[UNKNOWN] 怎么这么多零啊。[UNKNOWN] 想当零直说二十九号周四游戏我。[UNKNOWN] 很难首发买来我买来还要安装  (💬 两眼一黑(x4) / 0000000000000000000000000000000000000000咋这样 / 咋这样 / 接下来一个月好多游戏 / 影零好玩)
+[19m] 🔥 [UNKNOWN] 如果我要开一个游戏坑这个游戏。[UNKNOWN] 它如果连贯性很强的话。[UNKNOWN] 我就得周四周五周六我就得连着玩儿。[UNKNOWN] 把它连完连着玩玩否则的话。[UNKNOWN] 下一次玩儿的话可能那个风都过去了。[UNKNOWN] 对的就是我我的时间安排比较散。[UNKNOWN] 如果要玩儿的话  (💬 等真玩了再说 / 也不一定有时间 / 你是不是来不及 / 两眼一黑 / 毕竟不是暑假了)
+[19m] 🔥 [UNKNOWN] 可能这智商黑粉要连着玩玩吧。[UNKNOWN] 唉我血缘是不是没有玩过。[UNKNOWN] 我上次倒是想到我想玩儿血缘来。[UNKNOWN] 我们能不能就是错开啊。[UNKNOWN] 人家播影子眼灵我们播血缘。[UNKNOWN] 到时候满屏幕的影子认灵。[UNKNOWN] 然后我玩血缘却没上皮  (💬 连续玩不是直播间风格 / 需要较长的大段时间 / 首发24小时通关的还是交给别人吧 / 很難沈浸式 / 一定是全网都在播)
+[19m] 🔥 [UNKNOWN] 哦怪不得我一直没玩。[UNKNOWN] 我怪不得我就说嘛嗯怪不得我就说我怎么。[UNKNOWN] 没玩儿。[UNKNOWN] 是你感觉影视或我会喜欢的类型。[UNKNOWN] 影不是影不是类猴吗。[UNKNOWN] 他不是跟黑猴差不多吗。[UNKNOWN] 我记得我看过他的。[UNKNOWN] 我记得我看过他的那个宣传呀  (💬 血缘没pc / 有连续大段时间玩起来才舒服 / 你有ps5吗 / 血缘30帧真的可以吗？ / 血源只能下载模拟器玩乐)
+[20m] 🔥 [UNKNOWN] 就有点像那种什么中国刺客是吧。[UNKNOWN] 古代泪魂八月十二号发的最新十十九分钟。[UNKNOWN] 时机演示看一。[UNKNOWN] 下。[UNKNOWN] 那我要玩它的话。[UNKNOWN] 我可能周末也要赶着玩。[UNKNOWN] 哎没事儿吗。[UNKNOWN] 不然的话下一次我都点开它  (💬 差挺多的吧 / 不是战神？ / 差很多 / 开战 / 不算吧)
+[20m] 🔥 [UNKNOWN] 我都不知道是什么时候了  (💬 不一定没事 / 永远爱你 / 非要说跟忍者龙剑传挺像 / 有点像师傅 / 嘟嘟嘟)
+[23m] ▫️ [UNKNOWN] 那你应该不会作为主要节目。[UNKNOWN] 很很慢的所以我要挤出大量的时间。[UNKNOWN] 还没有啊我们现在才播刚播第二场的。[UNKNOWN] 第三的还有第三场嗯  (💬 268标准定价了 / 这个你不一定直播打，1可以尝尝再说 / 万圣节啥时候来着 / 我们万圣是30号吧 / 燃尽了)
+[26m] 🔥 [UNKNOWN] 谢佩尔吉萨斯的粉丝团灯牌。[UNKNOWN] 他这个动作是系系统还挺复杂的。[UNKNOWN] 我要掌尽战斗时命啊。[UNKNOWN] 放了一句狠话之后  (💬 👀 / 还是要看怎么按 / 看着有点帅 / 这个动作有两块，基础和伴攻 / 武器系统感觉挺帅的)
+[28m] ▫️ [UNKNOWN] 嗯是你们当时测。[UNKNOWN] 你们还有那一测GTA六都被骂翻。[UNKNOWN] 了这些六已经发售了吗。[UNKNOWN] 我都已经过得昏天黑地了。[UNKNOWN] 居然已经发售了质量如何。[UNKNOWN] 质量如何又在羞死什么了。[UNKNOWN] 我说没发售为什么会被骂。[UNKNOWN] 能问一下吗  (💬 GTA6都被骂翻了 / ？？？ / 羞死了 / 还有玳瑁 / 可爱捏)
+[29m] 🔥 [UNKNOWN] 对啊没发售为什么会被骂。[UNKNOWN] 是因为出做出来的预览的这个质量相当差。[UNKNOWN] 吗  (💬 我朋友也在骂骂咧咧 / 别看了，反正不给播（ / 没光驱版的了 / PS5独占，还有光盘的事情 / 有大量泄露)
+[30m] 🔥 [UNKNOWN] 突然感觉跟大家没话说了。[UNKNOWN] 唱歌吧。[UNKNOWN] 当瑞瑞的歌杂浓度歌大于砸的时候。[UNKNOWN] 就有一点点危险了。[UNKNOWN] 说明跟瑞士堂没话说了。[UNKNOWN] 对真的没话说了。[UNKNOWN] 我还以为你还以为你还以。[UNKNOWN] 为什么我还以为画师不会脱稿  (💬 两眼一黑(x3) / 我还以为 / 可爱捏 / 草、 / 我们已经没话说了吗；；)
+[30m] 🔥 [UNKNOWN] 嗯。[UNKNOWN] 哦我可以给你们看一个就是印象稿吧。[UNKNOWN] 他没有他没有画出来吗。[UNKNOWN] 就是他早八在播什么呀。[UNKNOWN] 能不能解解答一下他到底在播什么。[UNKNOWN] 嗯对啊早八播什么呢。[UNKNOWN] 是我当时想说是活人吗。[UNKNOWN] 嗯他在播AI测试点播机点播什么  (💬 两眼一黑(x3) / 反正是歌杂 / 没话说就去建设它 / 又碰到了吗 / 永远有话说；；)
+[31m] 🔥 [UNKNOWN] 早上八点在车里我去哦。[UNKNOWN] 他是不是最不怕这种看AI自动点歌打弹。[UNKNOWN] 幕就可以了吗。[UNKNOWN] 这个是他老早给我的他。[UNKNOWN] 今天应该是在是的。[UNKNOWN] 他今天应该是在是在细化最后的。[UNKNOWN] 但是目前的线稿来说。[UNKNOWN] 他只是得给我单独的线稿  (💬 可爱捏 / 视频 / 什么都点 / 那很印象了 / 迪d前十讲讲)
+[32m] 🔥 [UNKNOWN] 这稿子也不便宜稿子也不便宜的。[UNKNOWN] 没有比那种正式的稿件便宜多少。[UNKNOWN] 是的但是因为他有点赶啊。[UNKNOWN] 所以我的意思啊这么贵。[UNKNOWN] 呃一个一个提多一个体都肿。[UNKNOWN] 没有啊。[UNKNOWN] 现在AI查证查了一严。[UNKNOWN] 真人是真人吗  (💬 啊？ / 这有点太初期了 / 感觉很好看 / kksk / 可爱捏)
+[34m] 🔥 [UNKNOWN] 我已经装了一起了。[UNKNOWN] 为了适应现在的工作强度。[UNKNOWN] 我是不是很牛我是不是心声很大。[UNKNOWN] 我是不是牺牲很大。[UNKNOWN] 不然真人的话感觉这个强度已经鲍。[UNKNOWN] 冰说起来动态动态表情今天已经在收尾阶。[UNKNOWN] 段了。[UNKNOWN] 比我想象中的要晚  (💬 两眼一黑(x3) / kksk(x3) / 永远爱你(x3) / 你睡太少了哦 / 是真人)
+[35m] 🔥 [UNKNOWN] 因为他之前跟我说。[UNKNOWN] 是国庆的时候打算先发。[UNKNOWN] 然后到现在才做好好笑。[UNKNOWN] 大家都是一个非常萌萌的草台班子。[UNKNOWN] 虽然比我想象中的还是快一点。[UNKNOWN] 嗨two。[UNKNOWN] 但我最近的过敏有点比以前厉害了。[UNKNOWN] 动不动就是坐在这里的时候  (💬 kksk(x5) / 啊啾(x3) / 永远爱你 / 是不是很大胆.jpg / 多喝水，别练出金丹)
+[35m] 🔥 [UNKNOWN] 动不动就会打喷嚏比以前要厉害了。[UNKNOWN] 我能说很快乐吗。[UNKNOWN] 确实其实进度上面比很多那种画的笔都要。[UNKNOWN] 快。[UNKNOWN] 嗯嗯。[UNKNOWN] 嗯我去steam这个页面吓死了。[UNKNOWN] 切我刚刚把steam垫在后面。[UNKNOWN] 然后然后只露出左半边嘛  (💬 kksk(x3) / 两眼一黑(x3) / 啊啾 / [瑞娅收藏集表情包_爱你] / 是小猪潜伏？)
+[36m] 🔥 [UNKNOWN] 你们知道我看到啥吗。[UNKNOWN] 就是这样子我是这样子的。[UNKNOWN] 我这后面就露出来这个让我看到这个。[UNKNOWN] 我看到左边突然轮到这个图把我吓坏了。[UNKNOWN] 是鬼图啊吓坏了好吗。[UNKNOWN] 突然给我轮到个鬼图我喝到一喝水。[UNKNOWN] 喝到半差点吐出来  (💬 两眼一黑(x4) / 表情包肯定不嫌多 / 还有个班 / 哈哈哈哈哈哈哈 / 卧槽)
+[36m] 🔥 [UNKNOWN] 我去是太坏了steve天天欺负我。[UNKNOWN] 嗯。[UNKNOWN] 还有谁没满一啊。[UNKNOWN] 这你们都玩过午夜轮班。[UNKNOWN] 嗯调查前来的顾客哈哈人嗯。[UNKNOWN] 轮班是联动的吧  (💬 还有谁没买1 / 两眼一黑 / 精神状态很对了 / 轮班 / 物业轮班)
+[38m] 🔥 [UNKNOWN] 那那个那个谁在不在了。[UNKNOWN] 就是他之前都天天跟我们联机。[UNKNOWN] 最近都不来连了我们来这里找他一下。[UNKNOWN] 有一种就是来找走失的走失的小伙伴。[UNKNOWN] 感觉真的有人真的。[UNKNOWN] 我以为是我以为是他们串通好来串。[UNKNOWN] 的。[UNKNOWN] 没想到晚上的时候就下播后那个瑞莎来跟  (💬 两眼一黑 / 怎么会是呢 / 哈哈哈 / 真假 / onp)
+[38m] 🔥 [UNKNOWN] 我划跪了。[UNKNOWN] 就是他跟我说是他跟我说对不起。[UNKNOWN] 对不起我已经在群里面骂过他们了。[UNKNOWN] 就是我看了一下骂的真的很认真。[UNKNOWN] 是的。[UNKNOWN] 不让你看直播然后让你去玩游戏。[UNKNOWN] 你会是什么心情啊。[UNKNOWN] 嗯  (💬 两眼一黑(x3) / 名声在外了 233 / 是真的 / 壞女人 把兄弟綁走 / www)
+[39m] 🔥 [UNKNOWN] 我总觉得是装的。[UNKNOWN] 我总觉得是苦肉计。[UNKNOWN] 只是在我面前演的。[UNKNOWN] 故意在我面前装成这个这个被绑架。[UNKNOWN] 的样子。[UNKNOWN] 绝对的中魅惑了一定是被这妖女魅惑。[UNKNOWN] 赶紧给她驳回  (💬 两眼一黑(x4) / 答案是挂着直播打游戏 / 我会偷偷的玩 / 確實糾結 / 第一年会抱怨，三年了他们都无所谓了)
+[40m] ▫️ [UNKNOWN] 后来发现我发现就是直播加魔法学已经切。[UNKNOWN] 没办法吧有取舍。[UNKNOWN] 我去又又下了什么东西。[UNKNOWN] 我的c盘临时文件有四十g啊。[UNKNOWN] 能不能把它清了。[UNKNOWN] 唉为什么也没有空出来多少。[UNKNOWN] 瑞瑞今天天冷吗。[UNKNOWN] 怎么都穿上长袖了她就是有点冷  (💬 两眼一黑 / 0993是无法忘记的地方 / 你好像被塞满了 / 说起固定队 / 我说像是交完公粮的强行抓起来打游戏一个感觉有懂的吗)
+[42m] ▫️ [UNKNOWN] 不然的话我们这个组不起来这样子。[UNKNOWN] 因为我想到之前有人会来嘛。[UNKNOWN] 或者感觉现在啊能有一个人天天拉着你打  (💬 那这种人一开始就不会成为朋友 / 不太会吧 / 看直播这种我觉得很难管得到… / 道德攻击是不行 / 好朋友是不会互相绑架的)
+[44m] 🔥 [UNKNOWN] 我现在脑子也有点空空的。[UNKNOWN] 不算瑞玉女妖吧都五年多了。[UNKNOWN] 我都没有意识到我都是第六年。[UNKNOWN] 对的泼妹改UI了。[UNKNOWN] 所以我刚刚奇怪。[UNKNOWN] 我刚刚是想去看我的那个提问箱来的。[UNKNOWN] 然后一跟了以后我的我的天哪。[UNKNOWN] 所有的重要的界面全被移走了  (💬 两眼一黑(x6) / 什么瑞女妖 / 有人拉着打游戏 / 发电就该实名发 / pome改ui了wok)
+[46m] ▫️ [UNKNOWN] 一七版奇诺之丽约看了我喜欢看旧版。[UNKNOWN] 唱点什么东西先开开嗓  (💬 抓心挠肝 / 打call 隊出動 / 笔记一下，加入到训练语料库里面 / 旧版看完力 / 好听的🔑)
+[48m] ▫️ [UNKNOWN] 拿钱办事儿办的要厚道一点  (💬 可爱捏 / www / 好听好听 / 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑 / 这不显得您枪法准吗w)
+[49m] 🔥 [UNKNOWN] 爱是个绝对承诺不说。[UNKNOWN] 撑到一千年以后仿任。[UNKNOWN] 无奈淹没尘埃。[UNKNOWN] 我在废墟之中守着你走来。[UNKNOWN] 我的泪光承载不了无法一切你要的爱。[UNKNOWN] 因为在一千年以后世界。[UNKNOWN] 早已没有我无法深情挽着你的手。[UNKNOWN] 亲吻着你  (💬 瑞娅酱！~瑞娅酱！~瑞娅酱！~瑞娅酱！~瑞娅酱！~瑞娅酱！~(x3) / 好听的🔑好听的🔑好听的🔑好听的🔑 / 嘟嘟嘟 / 好听的🔑 / 啊啊啊啊啊 好聽好聽)
+[49m] 🔥 [UNKNOWN] 额头别等到一千年以后。[UNKNOWN] 所有人都遗忘了我那是红色。[UNKNOWN] 黄昏的沙漠能有谁泪解开缠绕千年的寂寞。[UNKNOWN] 我分爱。[UNKNOWN] 淹没尘埃。[UNKNOWN] 我在废墟之中守着你的我的泪。[UNKNOWN] 结果承载不了一切。[UNKNOWN] 你是要的  (💬 豪庭的🔑豪庭的🔑豪庭的🔑豪庭的🔑 / 好听 好听 好听 好听 / ✋️😭✋️好听的🔑 / ✋️😭✋️好听的🔑✋️😭✋️好听的🔑✋️😭✋️好听的🔑)
+[50m] 🔥 [UNKNOWN] 嗯啊因为还在一千年。[UNKNOWN] 你后。[UNKNOWN] 谢谢。[UNKNOWN] 都已没有我无法深情挽着你的手。[UNKNOWN] 千万抱着你。[UNKNOWN] 额还在别等待有一千年。[UNKNOWN] 你好所有人都已忘了我。[UNKNOWN] 那是红色黄昏的沙漠。[UNKNOWN] 那没有谁解开承热八千年的寂寞耶  (💬 瑞娅酱！~瑞娅酱！~瑞娅酱！~瑞娅酱！~瑞娅酱！~瑞娅酱！~(x6) / 好聽的🔑好聽的🔑好聽的🔑好聽的🔑好聽的🔑好聽的🔑好聽的🔑好聽的🔑 / 好听 好听 好听 好听 / 豪庭的🔑豪庭的🔑豪庭的🔑豪庭的🔑 / p😭q)
+[51m] 🔥 [UNKNOWN] 好我我不我深情挽着你的手。[UNKNOWN] 就这里还在别动一千年。[UNKNOWN] 所有人都遗忘那是红色。[UNKNOWN] 黄昏的夏不解开缠绕了千年寂寞。[UNKNOWN] 趁如今你真的很寂寞。[UNKNOWN] 嗯我写在要昏过去了。[UNKNOWN] 给我插人中非常上帮我掐人中把他敲回来  (💬 好聽的🔑好聽的🔑好聽的🔑好聽的🔑好聽的🔑好聽的🔑好聽的🔑好聽的🔑 / 好听 好听 好听 好听 / 瑞娅酱！~瑞娅酱！~瑞娅酱！~瑞娅酱！~瑞娅酱！~瑞娅酱！~ / [瑞娅收藏集表情包_祈祷] / ✋️😭✋️👌🚧的🔑)
+[52m] 🔥 [UNKNOWN] 然后我给我打call啊。[UNKNOWN] 哈啊大喊就在和那个在昏死过去。[UNKNOWN] 谢谢斯拉格纳。[UNKNOWN] 喜欢你梦雨是谁。[UNKNOWN] 喜欢你我的那些傻话。[UNKNOWN] 我怎么只觉得这觉得觉得嗓子有  (💬 感觉还是小学的时候喜欢听的歌 / kksk / 瑞瑞救一下 / 晕了晕了 / 万能)
+[54m] ▫️ [UNKNOWN] 老林好有我现在虽然老林以前也油吧。[UNKNOWN] 但是那种油还行。[UNKNOWN] 哦  (💬 现在的不行了 / 回过神来，已是爽听 / 宝宝原来你唱歌这么好听我们重新认识一下吧 / 冬临（） / 他是不是都要50了)
+[57m] 🔥 [UNKNOWN] 一个人撑伞。[UNKNOWN] 一个人也曾的泪一个也好累。[UNKNOWN] 哎在你有的鱼怎样我的眼怎样的。[UNKNOWN] 我能让你更想念雨游多的天涯。[UNKNOWN] 多黑才能。[UNKNOWN] 哥有你的季节其实没你是不爱情的。[UNKNOWN] 谢结局还没一的你谢谢。[UNKNOWN] 别说你会  (💬 喜歡喜歡好喜歡[喝彩]喜歡喜歡好喜歡[喝彩]喜歡喜歡好喜歡[喝彩] / 好的的鱼虎纹鲨鱼[花] / 瑞娅酱！~瑞娅酱！~瑞娅酱！~瑞娅酱！~瑞娅酱！~瑞娅酱！~)
+[58m] 🔥 [UNKNOWN] 那如果别说不想改别爱的人。[UNKNOWN] 看不用的钱期待着正月越来越疲惫。[UNKNOWN] 爱上你我总在学会寂寞的。[UNKNOWN] 我最因为一个人撑伞。[UNKNOWN] 一个人赞美一个人好累。[UNKNOWN] 在你有的雨怎样的夜。[UNKNOWN] 怎样的我能让你更想念鱼。[UNKNOWN] 要多的天涯
+[59m] 🔥 [UNKNOWN] 多黑。[UNKNOWN] 你才能够有你的季节。[UNKNOWN] 谢实对对你发么情的的心是别谢。[UNKNOWN] 这还能断一些。[UNKNOWN] 别说你会能我别说你想改。[UNKNOWN] 别对爱的人不用道歉。[UNKNOWN] 怎样的雨。[UNKNOWN] 怎样的夜。[UNKNOWN] 怎样跟我能让你更想年雨要多大天  (💬 好听 好听 好听 好听)
+[60m] 🔥 [UNKNOWN] 要多黑才能够有你的体贴。[UNKNOWN] 其实没有我你分不清那些差别陷界还能多。[UNKNOWN] 明显。[UNKNOWN] 别说你会难过别说你想改变爱的人。[UNKNOWN] 不用道歉怎么还被口水呛。[UNKNOWN] 我还被口水呛了。[UNKNOWN] 好的因为你看到一分钟不到。[UNKNOWN] 其实脑子已经直接屏蔽了  (💬 好听 好听 好听 好听 / 咳咳咳 / 两眼一黑 / 啊啾 / 给你一拳)
+[62m] ▫️ [UNKNOWN] 嗯你你这独轮车吗。[UNKNOWN] 但为什么是好听好听好听好听两眼一。[UNKNOWN] 能不能翻到全是眼白我做不到  (💬 两眼一黑 / 这两首发挥真的好 / 两眼一白 / 也没人发两眼一黑吧 / 好聽到我親鼠你)
+[67m] 🔥 [UNKNOWN] 是有过几个不错对象。[UNKNOWN] 说起来并不寂寞孤单。[UNKNOWN] 可能我不单让真假不问才会泪。[UNKNOWN] 结果都指望我没有什么的一一幕。[UNKNOWN] 我就你见不要放在心上。[UNKNOWN] 不我又不不在快乐。[UNKNOWN] 嗯啊空了算什么多少分。[UNKNOWN] 爱情我就真我有哦花  (💬 两眼一黑 / 另一个老林 / 优雅 / 哇哦，这首好有感觉 / 调完key好完美)
+[68m] 🔥 [UNKNOWN] 你说我你你走我就不会。[UNKNOWN] 这说听的消失是我逞强。[UNKNOWN] 我在狂暴找歌词中等一下。[UNKNOWN] 这歌词怎么全是一分钟以内的。[UNKNOWN] 嗯哦哦好就这样吧。[UNKNOWN] 就这样吧。[UNKNOWN] 亲打住。[UNKNOWN] 这歌词对我好不友好不行。[UNKNOWN] 垃圾歌词全是一分钟以内的  (💬 两眼一黑(x3) / www / 好聽的🔑 / 还给我一句 / 好高)
+[69m] 🔥 [UNKNOWN] 怎么回事。[UNKNOWN] 你们喜欢唱一分钟以内的呃。[UNKNOWN] 歌吗。[UNKNOWN] 我调了半天怎么这样对我嗯嗯  (💬 两眼一黑 / 也不是不行)
+[71m] 🔥 [UNKNOWN] 我想爱请给我机会。[UNKNOWN] 如果我错了也承担认定你就是答案。[UNKNOWN] 我不怕谁嘲笑我极端。[UNKNOWN] 相信自己的拒绝顽固的人。[UNKNOWN] 不含泪爱上你我不撤退。[UNKNOWN] 黑夜你是我说我不闪躲。[UNKNOWN] 我非要这我做想不听也偏要爱感动你。[UNKNOWN] 爱让你明白没有到别别走  (💬 \瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/ / 好听的🔑 / 好听好听好听好听！)
+[71m] 🔥 [UNKNOWN] 能走你决定给我想不停偏爱。[UNKNOWN] 可我感觉爱等你的一被你偏爱。[UNKNOWN] 如果我做了也承担认定你就是答案。[UNKNOWN] 我不怕谁嘲笑我极端我飞大声怎么做。[UNKNOWN] 想不停也偏要爱更努力的爱。[UNKNOWN] 让你明白。[UNKNOWN] 嗯。[UNKNOWN] 没有  (💬 \瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/)
+[73m] 🔥 [UNKNOWN] 别找能走你确定要不要给我当不停。[UNKNOWN] 偏安靠我感觉爱拥抱我不想多。[UNKNOWN] 我非你要求那么做寞将多情也骗到爱。[UNKNOWN] 有人为爱两个一明白。[UNKNOWN] 没没有别。[UNKNOWN] 叫你一切定要不要给我想过今偏爱。[UNKNOWN] 靠我感觉啊爱你的一给你偏爱  (💬 [喝彩] / 好聽的🔑 / 好聽的🔑好聽的🔑好聽的🔑好聽的🔑好聽的🔑好聽的🔑好聽的🔑好聽的🔑 / 好听😭好听😭好听😭好听😭好听😭好听😭好听😭好听😭好听😭好听😭)
+[73m] 🔥 [UNKNOWN] 嗯哼海痛也很愉快。[UNKNOWN] 嗯谢谢墨鱼十四的喜欢你啊。[UNKNOWN] 嗯谢谢black的音乐盒。[UNKNOWN] 但他那个伴奏太难调了。[UNKNOWN] 其实就是慢慢的苏醒来的哦  (💬 好聽的🔑好聽的🔑好聽的🔑好聽的🔑好聽的🔑好聽的🔑好聽的🔑好聽的🔑 / 好听😭好听😭好听😭好听😭好听😭好听😭好听😭好听😭好听😭好听😭 / 好聽愛了 / 好听好听！ / 太好听了)
+[78m] ▫️ [UNKNOWN] 我喜慕的一自带给看那你都如的风。[UNKNOWN] 不能够一连来扛住那孤独的梦。[UNKNOWN] I king就stall all e。[UNKNOWN] and keep。[UNKNOWN] she day do like。[UNKNOWN] 这次你一切都不可能塞开一多么难。[UNKNOWN] 太多你是否温柔  (💬 唱的真好)
+[79m] 🔥 [UNKNOWN] 一滴落fooful boy爱的无心无。[UNKNOWN] 内甲。[UNKNOWN] 意义独自到家  (💬 豪庭的🔑豪庭的🔑豪庭的🔑豪庭的🔑)
+[81m] ▫️ [UNKNOWN] 其实也是我的日文。[UNKNOWN] 我感觉我真的很跟他相信很好。[UNKNOWN] 谢。[UNKNOWN] 哎可不敢可不敢哈人了。[UNKNOWN] 可不敢不敢不敢啊我不敢啊。[UNKNOWN] 不敢说。[UNKNOWN] 哎雨多情逛超话来的。[UNKNOWN] 我也不问瑞娅是谁了。[UNKNOWN] 我就问你们碰瓷的起吗  (💬 可爱捏 / 两眼一黑 / 好听 / 天哪 这简直就是你 / 音域很像)
+[82m] 🔥 [UNKNOWN] 多少同街碰瓷一座天啊。[UNKNOWN] 金砖什么时候啊。[UNKNOWN] 呃我感觉他现在都已经是养老时期了  (💬 两眼一黑 / 熊光现在高音好点了 / 糯小瑞 / 新专等着吧 / 快了）)
+[83m] 🔥 [UNKNOWN] 我呦你做哈的你我敢我的心的记得孩子截。[UNKNOWN] 图。[UNKNOWN] 我们无意的可以自己自你们和你是你几个。[UNKNOWN] 我把高不是那给三来。[UNKNOWN] 也点老列度这里那一朵。[UNKNOWN] 你的一叶思他迷问思四个戏子。[UNKNOWN] 自我都羁把那喜怒做自己。[UNKNOWN] 那想记得讲记得讲你们可以要心  (💬 瑞瑞瑞瑞 / kksk)
+[86m] 🔥 [UNKNOWN] 算无弄南no的达阿达嘛呢。[UNKNOWN] 我句假是be day。[UNKNOWN] do you。[UNKNOWN] 那以仔细的you吻就跟我问。[UNKNOWN] 我对不待你去离地孤影爱hello的空。[UNKNOWN] 呼吸卡西。[UNKNOWN] 他的一首我思念的那一的话。[UNKNOWN] 可以爱y在一对
+[88m] ▫️ [UNKNOWN] slack night的撒花。[UNKNOWN] 唱歌的时候看了半天不能白嫖。[UNKNOWN] 嗯。[UNKNOWN] 那不能一起看。[UNKNOWN] 那不看了余额不足哦。[UNKNOWN] 干嘛要你提醒。[UNKNOWN] 怎么点开就顶美啊啊我幸福啊啊。[UNKNOWN] 谢谢瑞瑞大c支持许思欣可爱心的鱼员  (💬 kksk / 好听好听 / 完美排气 / 换气确实是技术） / 很难啊很难)
+[90m] 🔥 [UNKNOWN] 哎呀谢谢瑞。[UNKNOWN] 唉这个以以后点开就顶美。[UNKNOWN] 我真是服了。[UNKNOWN] 说呢这个去那个叫什么布布伦希尔德吗。[UNKNOWN] 不要不要在提了不要再提了。[UNKNOWN] 今天不是希尔今天不是布伦希尔德的。[UNKNOWN] 是世界观啊。[UNKNOWN] 没在意女生很在意细节  (💬 看看顶美(x4) / 两眼一黑(x4) / 别抢我舰长红包 / 顶美 / 哈哈哈哈哈哈哈哈哈)
+[92m] ▫️ [UNKNOWN] 哦我今天发现了一个巨好喝的是咖啡。[UNKNOWN] 唱完告诉我麻路的苦诺色改的的给太大的。[UNKNOWN] 你的是过去的。[UNKNOWN] 我给you给我的喜马达的街斯马萨克尼。[UNKNOWN] 尼兹己阿格里哈纳达巴诺离开我。[UNKNOWN] 你you与你分月碧在有那的某一个能那。[UNKNOWN] 个  (💬 熊光三连 / 點～ / 是什么！ / 分享一下分享一下 / 哪家的)
+[93m] ▫️ [UNKNOWN] 我是哦你guy总那么可的心太多的  (💬 原唱没有淡淡的魅惑感)
+[95m] 🔥 [UNKNOWN] 那妈妈爱这个可以是你的路过的。[UNKNOWN] 你喜惯的可怜。[UNKNOWN] 面对我stay cool。[UNKNOWN] oh你个送的。[UNKNOWN] 我该在需要太多别人阿姨。[UNKNOWN] 你偏马路的够了我谁该对你的的片  (💬 完美)
+[98m] ▫️ [UNKNOWN] 我求你了  (💬 vr自研苹果zaima / 一般都是旁人認證 / 嘟嘟嘟 / 🏳 / 小瑞已经一直流汗了)
+[99m] ▫️ [UNKNOWN] 大度的为我好。[UNKNOWN] 吗。[UNKNOWN] 的路嗯的路去问我。[UNKNOWN] its na be my love。[UNKNOWN] 一次一个哎的一个多么的高意。[UNKNOWN] 我记得hurry。[UNKNOWN] man number to了。[UNKNOWN] it的。[UNKNOWN] 你好  (💬 给你一拳)
+[100m] 🔥 [UNKNOWN] you啊。[UNKNOWN] its gonna be the。[UNKNOWN] 的。[UNKNOWN] 在我的就是他记忆都一间甲
+[101m] 🔥 [UNKNOWN] Yeah yeah yeah。[UNKNOWN] You are always。[UNKNOWN] being inside。[UNKNOWN] My hole is怎么im。[UNKNOWN] not get a。[UNKNOWN] get by。[UNKNOWN] I have better  (💬 豪庭)
+[101m] 🔥 [UNKNOWN] furber place。[UNKNOWN] in your potoon。[UNKNOWN] No unfavorite。[UNKNOWN] You was still。[UNKNOWN] though。[UNKNOWN] One你们妈可能心不敢和爱你的心。[UNKNOWN] You时候你他嗯you want一个  (💬 豪庭)
+[102m] 🔥 [UNKNOWN] 人对对那的心。[UNKNOWN] 也很那能否为的分。[UNKNOWN] 嗯。[UNKNOWN] 嘿你的故忆嗨呦啊晚上听没了是吗。[UNKNOWN] 最后有点难啊。[UNKNOWN] 时刻斯拉克纳喜欢你这个强度如果明天来。[UNKNOWN] 嗯这个天气就是很很干很间戒  (💬 好爽 / 神了 / 好！ / 感人 / 好听)
+[105m] 🔥 [UNKNOWN] 反正我就感觉他们谁声线好拉谁这种感觉。[UNKNOWN] 今天上强度了。[UNKNOWN] 呃。[UNKNOWN] 还好还好。[UNKNOWN] 来下一个怎么妈咪叫妈咪啊。[UNKNOWN] 再说来来点数据还乐意零。[UNKNOWN] 嗯还内衣把它他的的hold me。[UNKNOWN] 流量的哥bobaby等等待步  (💬 妈咪 / 特色定位才是一切 / 是的 / 情感也要很饱满那种 / 声线很重要，就比如瑞娅瑞亚声线很好听)
+[106m] 🔥 [UNKNOWN] 嗨可以吗。[UNKNOWN] 狩猎的那个岛的桑不可nice。[UNKNOWN] baby y globy的omme走。[UNKNOWN] 早该那么进了。[UNKNOWN] 那个tasol我看到对吗。[UNKNOWN] 啦。[UNKNOWN] 巴西当代男道有baby的芭比的笨带包。[UNKNOWN] 现在克拉达怎么no那呆弄moy  (💬 \瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/(x5) / 这个帅)
+[106m] 🔥 [UNKNOWN] doesny你的。[UNKNOWN] 所有妈妈也能等待快乐的一诺。[UNKNOWN] 淡淡的落。[UNKNOWN] 都那年梦多。[UNKNOWN] 你诺recording的你懂得。[UNKNOWN] 我刚给吗。[UNKNOWN] 嗯哎啊哒到了到乐多哒啦哒啦哒啦。[UNKNOWN] 摩衣特斯的萨卡纳诺棉袄所来的那个记录  (💬 \瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/(x7))
+[107m] 🔥 [UNKNOWN] 没是非on晚安男性都这么难吧。[UNKNOWN] 哇哦a哎哎。[UNKNOWN] 所有宝大的什么咪的等比的bobaby。[UNKNOWN] baby你不看了一幕。[UNKNOWN] 我i mick me。[UNKNOWN] the hand都能么大到clash。[UNKNOWN] day。[UNKNOWN] 你看那大地怒当ok当他感到有个底座  (💬 \瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/(x6))
+[107m] 🔥 [UNKNOWN] 对吗。[UNKNOWN] 哎呀。[UNKNOWN] 你分那你呢白色scared把咖啡的拥。[UNKNOWN] 比。[UNKNOWN] 的芭比的对吗。[UNKNOWN] 那可能的太多。[UNKNOWN] 他的可能奶奶no啦。[UNKNOWN] 是恭喜那对吗。[UNKNOWN] 所谓的你多大的漫的落lonning  (💬 \瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/(x8) / 嘟嘟嘟嘟嘟嘟)
+[107m] 🔥 [UNKNOWN] lonning。[UNKNOWN] morning sorry。[UNKNOWN] 快飞吗。[UNKNOWN] 哒哒哦。[UNKNOWN] h哒在魔里塔AFADB来点帅气。[UNKNOWN] 连发。[UNKNOWN] 看着马的诺尼给的朵莉b at。[UNKNOWN] city的灯。[UNKNOWN] 嘟起哒斯啦起啦地去救住你  (💬 \瑞瑞/\瑞瑞/\瑞瑞/\瑞瑞/(x6) / 嘟嘟嘟嘟嘟嘟 / 强强强)
+[109m] 🔥 [UNKNOWN] 一栋栋阿北雾霾的乌我一日三大胆子从头。[UNKNOWN] 来了。[UNKNOWN] 找不到歌词。[UNKNOWN] 所谓的等会儿蓬来啊。[UNKNOWN] 这个歌词软件好难调啊  (💬 可爱捏(x3) / 哈哈哈哈 / kksk / 垮掉 / 嘻嘻)
+[112m] ▫️ [UNKNOWN] 那你莫名也能没有  (💬 指挥棒 / woooo)
+[114m] 🔥 [UNKNOWN] 我一次是你个拿来夏日大的。[UNKNOWN] 也吧一次看不哭了快点开爱的歌。[UNKNOWN] 约day孤单可以一个都我爱在说。[UNKNOWN] 嗯你愿mickiy不要偷偷听我。[UNKNOWN] 嗯老白小明给我。[UNKNOWN] 我私信信。[UNKNOWN] 说你这我会说会这首mickey  (💬 愛了愛了 / [瑞娅收藏集表情包_MUA] / 全力瑞我很怕 火力全開了[比心] / 爽爽爽)
+[115m] 🔥 [UNKNOWN] top。[UNKNOWN] 的我会的mik top的多的去。[UNKNOWN] 是哎他没在播吗。[UNKNOWN] 他不一边在播一边在第一吧。[UNKNOWN] 哦刚有个舰长啊谢一下。[UNKNOWN] 谢谢斯拉克蛋喜欢你。[UNKNOWN] 然后近期撒花。[UNKNOWN] 木鱼十四的喜欢你快打招呼  (💬 已老弥 / 两眼一黑 / 2333333 / 已老（ / 老弥经典拉答辩刷手机)
+[115m] 🔥 [UNKNOWN] 快说快表示我们零九九三是一个非常好客。[UNKNOWN] 的直播间。[UNKNOWN] 小什么啊。[UNKNOWN] 嗯你好他怎么他怎么在播呀。[UNKNOWN] 你怎么在播啊。[UNKNOWN] 你好好那个那个一下。[UNKNOWN] 你能不能专心一点。[UNKNOWN] 你知道这样有可能会引起那个什么疮的吗  (💬 2333333 / 看了下，去上厕所了 / 这不是和小瑞一样！？ / 她在上厕所 / 她在无掩体干拉)
+[116m] 🔥 [UNKNOWN] 痔疮是吧。[UNKNOWN] 事情专心一点。[UNKNOWN] 专心集中在你的十二支长大肠。[UNKNOWN] 小肠直肠上好吗。[UNKNOWN] 嗯谢谢。[UNKNOWN] 一垃圾的第一天。[UNKNOWN] 见着阿里嘎度过在一吗。[UNKNOWN] 四嗯先请小明出厕所。[UNKNOWN] 这好像假上你是不是你是不是在百子王子  (💬 2333333 / 小弥怎么不说话；； / 两眼一黑 / 能不能专心一点 / 老弥还没复活，请小弥)
+[117m] 🔥 [UNKNOWN] 今天上歌居然有人上镜。[UNKNOWN] 他喜欢了那小小明你在看吗。[UNKNOWN] 我把这首离去之缘送给送给你的排泄物。[UNKNOWN] 祝他离去畅快。[UNKNOWN] 好变态好变态啊。[UNKNOWN] 我自己的心个特觉变态的程度啊。[UNKNOWN] 真首我刚想到这个看到这个歌名。[UNKNOWN] 对吧  (💬 两眼一黑(x4) / 我们直播间不是很纯良吗QQ / miao / 感觉不如。。。脱毛（ / 可爱Nya)
+[119m] 🔥 [UNKNOWN] 等会儿等会重来重来出来。[UNKNOWN] 不是我靠你们不要再烦老弥了。[UNKNOWN] 好不好。[UNKNOWN] 弹幕善意引导。[UNKNOWN] 我靠。[UNKNOWN] 带着混响的这么大一个称呼就出。[UNKNOWN] 去了。[UNKNOWN] 我操小咪小迷。[UNKNOWN] 祝你祝你离去顺畅喵大一  (💬 老弥(x7) / 已老弥(x6) / 两眼一黑(x4) / 哈哈哈哈 / 还好)
+[119m] 🔥 [UNKNOWN] 最多过多嫁个几k奶扑克吧。[UNKNOWN] 给你哆哆罗尼阿杜。[UNKNOWN] She much guy。[UNKNOWN] 下次no放得过我听一到一布塞罗。[UNKNOWN] 嘎嘎雅皮擦略过多难得。[UNKNOWN] 我细嘻那呦嘿哆啊嘿呦。[UNKNOWN] 你呢喃的小嘎纳依多哭。[UNKNOWN] 就就那撒野  (💬 已老弥 / 大大方方老弥 / 瑞姨：已叫老弥 / 小弥也老了吗)
+[120m] 🔥 [UNKNOWN] 波波i get you kiss。[UNKNOWN] no哪一个路mis the。[UNKNOWN] good day。[UNKNOWN] 他的心隔必那么美。[UNKNOWN] 爱对你做你的把你写歌。[UNKNOWN] 那太高了。[UNKNOWN] 你说心你的回来我大的。[UNKNOWN] so lady我给你的自己  (💬 小弥也老了吗 / 两眼一黑)
+[120m] 🔥 [UNKNOWN] 你在拥都和你有多爱的。[UNKNOWN] 你你的一什么靠可惜的一个够的爱。[UNKNOWN] 那一天。[UNKNOWN] 如果多找good dnight on。[UNKNOWN] go。[UNKNOWN] 咪咪哆哆模拟大陆期待。[UNKNOWN] 对每夜色都有糊度有朵那样一朵赛罗。[UNKNOWN] 别耽误你那一幕幕的滴滴答滴  (💬 两眼一黑)
+[121m] 🔥 [UNKNOWN] 哪有一米把多有可难的说。[UNKNOWN] 戛纳依look。[UNKNOWN] could you就know撒。[UNKNOWN] 一波我要给的伊米诺。[UNKNOWN] yes。[UNKNOWN] 一口see the good day。[UNKNOWN] 每个秘密给的打击。[UNKNOWN] 你能对你知道爱梦的来自爸爸空一  (💬 两眼一黑 / 展现前辈歌力的时候到了)
+[121m] 🔥 [UNKNOWN] 了。[UNKNOWN] 答没你给我我听在自我。[UNKNOWN] 可会给就雷达kimme过了的。[UNKNOWN] 我they did感面一给四。[UNKNOWN] 记得你你在梦。[UNKNOWN] 是的  (💬 展现前辈歌力的时候到了)
+[123m] 🔥 [UNKNOWN] 你再有都来和你有的。[UNKNOWN] 你你的怎么看妈妈了。[UNKNOWN] 每一个的你我歌那多苦。[UNKNOWN] 我的忧都和你今他的手就和你什么替你歌。[UNKNOWN] 喉。[UNKNOWN] 不可期待的眼。[UNKNOWN] 那么轻易在心口的对对心埋的默不够。[UNKNOWN] 你一不可套装套装套套装套中套  (💬 永远爱你 / kksk / 这下离去了 / 哈哈哈哈哈哈哈哈哈哈哈哈 / 大大方方看)
+[124m] 🔥 [UNKNOWN] 但是好感动啊。[UNKNOWN] 你居然会听完一整首歌感动了。[UNKNOWN] 谢谢明月mijokey送出的呃心愿水。[UNKNOWN] 晶球爱哦。[UNKNOWN] 没送的没事儿了看错了啊。[UNKNOWN] 给我唱我就听了呀。[UNKNOWN] 谢谢弥月mitrc key送出。[UNKNOWN] 的呃心愿水晶球啊我哪有送啊  (💬 暗示(x4) / 两眼一黑(x3) / 哈哈哈哈哈哈 / 哈哈哈哈 / 2333333)
+[124m] 🔥 [UNKNOWN] 怎么咋这样怎么听不出来是在骗啊。[UNKNOWN] 别话了说错了说错了。[UNKNOWN] 听错了呃看错了看错了。[UNKNOWN] 谢谢喵咪jokey的一个小花花。[UNKNOWN] 谢谢。[UNKNOWN] 这个够无透了吧。[UNKNOWN] 感谢感谢啊不是感谢你的全程围观。[UNKNOWN] 哇感动了  (💬 暗示(x4) / 两眼一黑 / www / 暗示来了 / 老弥免费看直播)
+[125m] 🔥 [UNKNOWN] 怎么在把这么宝贵的晚上播的时间花在我。[UNKNOWN] 身上。[UNKNOWN] 有点不好意思谢谢。[UNKNOWN] 弥月咪猪屁的十个薯条呀啊我吃好吃。[UNKNOWN] 怎么这么多薯条啊好吃快闻快答。[UNKNOWN] 没有腻子体。[UNKNOWN] 请问你吃薯条是喜欢吃硬的。[UNKNOWN] 先炸出来的  (💬 两眼一黑(x3) / 软的能吃？ / [赞] / 薯條🍟 / 小弥有点没有眼力见了)
+[125m] 🔥 [UNKNOWN] 然后还是呃放了放的稍微久一点。[UNKNOWN] 软掉凉掉了。[UNKNOWN] 请问你吃薯条是反正吃硬的先炸出来的。[UNKNOWN] 然后还是呃放了放了肯定是先砸了。[UNKNOWN] 好第二个问题ok有品啊。[UNKNOWN] 第二个问题。[UNKNOWN] 请问你喜欢蘸薯条吃还是生吃。[UNKNOWN] 俺不要蘸番茄酱这番茄酱嗯的问题  (💬 两眼一黑(x4) / 软的能吃？ / omg，好多 / 不会有人喜欢吃冷薯条吧 / 番茄酱！)
+[125m] 🔥 [UNKNOWN] 请问你喜欢蘸薯条吃。[UNKNOWN] 还是生吃上车上贪车蛇。[UNKNOWN] 盐他没听出来好好像不是暂时的。[UNKNOWN] 他就我被吃好疼粘薯调试。[UNKNOWN] 他没听错啊。[UNKNOWN] 还真没他没听出来好好笑干嘛呀。[UNKNOWN] 我们真是臭味相投啊我说没听啊。[UNKNOWN] 没事说明我们很有在里面的  (💬 两眼一黑(x4) / 可爱捏 / 番茄酱！ / 牛福還有這種聯動 / ？？？？？？？)
+[126m] ▫️ [UNKNOWN] 下次学niki dop的歌给你听。[UNKNOWN] 下次来你直播间点歌。[UNKNOWN] 嗯咱这样老弥刚才说他爱我。[UNKNOWN] 又在扰迷。[UNKNOWN] 又在钓我。[UNKNOWN] 谁知谁不知道这个你们不是来叔。[UNKNOWN] 啊小迷弟来了为什么咋了。[UNKNOWN] 为什么地雷了  (💬 可爱捏 / 嘟嘟嘟 / 生吃和蘸薯条吃是什么东西的分支 / 老弥好🐷 / 生吃番茄酱蘸薯条)
+[127m] 🔥 [UNKNOWN] 我没爱他。[UNKNOWN] 我靠女人好麻烦唱首歌都不够啊。[UNKNOWN] 嗯女人太麻烦了。[UNKNOWN] 什么意思。[UNKNOWN] 哎呀我进进队没有啊。[UNKNOWN] 我进队没有啊我去我进队没有啊。[UNKNOWN] 我好像进出来噔噔我听错了。[UNKNOWN] 好像打一点脑过到家  (💬 瑞❤️弥 / 把冷掉的薯条搅拌一下放上酱再吃 / 哦， 你没说 / 哈哈哈哈 / 好麻烦啊....)
+[128m] 🔥 [UNKNOWN] 快去开奶博口发给你的。[UNKNOWN] 多么啊你啊撸多固执就no下一波。[UNKNOWN] 我可给罗吉米诺可以扛。[UNKNOWN] 我mis the good。[UNKNOWN] day。[UNKNOWN] 戴拉西逗比的诺猫a队。[UNKNOWN] 你早底得早。[UNKNOWN] 你see good night卡奶  (💬 气压好高啊宝宝 / kksk / 對了對了 / 可爱捏 / 进错就是进对)
+[129m] 🔥 [UNKNOWN] 像请你大衣脑day。[UNKNOWN] No no。[UNKNOWN] no。[UNKNOWN] can now送来的猫。[UNKNOWN] kimi goa去加油。[UNKNOWN] A杠二零老公就叫那下一把  (💬 www / 弥？ / wuwuwuwuwu / dududududud)
+[132m] 🔥 [UNKNOWN] 你要亲我可以了现在可以来了。[UNKNOWN] 你要轻熟。[UNKNOWN] 我你为什么要在亲我之前先亲数哈蕾哈蕾。[UNKNOWN] 对不起。[UNKNOWN] 别这样呀。[UNKNOWN] 我们不是这样的关系话里还来。[UNKNOWN] 你就替我挡一下吧。[UNKNOWN] 我们来亲干什么。[UNKNOWN] 你们怎么好恶心呢  (💬 两眼一黑 / 我要亲鼠你 / hyw / 暗中观察 / 敢躲 Mua)
+[133m] 🔥 [UNKNOWN] 好恶心呢你们干什么干什么。[UNKNOWN] 一带二呃问先问一下小礼貌吧。[UNKNOWN] 要不然不然的话容易引发一些。[UNKNOWN] 哎呦你们今天双十一买什么吗。[UNKNOWN] 刚刚有有阿唐提醒我说八点钟的时候。[UNKNOWN] 嗯双十一我一醒来时候。[UNKNOWN] 我已经是八点半前了  (💬 有牛 / 要被鼠姐绊倒了 / 礼礼高度不够挡不住（x） / 小瑞我亲鼠你小瑞我亲鼠你小瑞我亲鼠你小瑞我亲鼠你小瑞我亲鼠你小瑞我亲鼠你 / 還有擋劍鼠)
+[133m] 🔥 [UNKNOWN] 你们有没有买什么东西啊。[UNKNOWN] 我买了啥。[UNKNOWN] 我买了两两瓶洗面奶。[UNKNOWN] 就是洗面奶是我一年中最最便宜。[UNKNOWN] 的时候。[UNKNOWN] 所以我买了我挑我我之前买的淘宝买的东。[UNKNOWN] 西和。[UNKNOWN] 今天双十一没有任何区别  (💬 看看👀 / 两眼一黑 / 没事 亲不到的 / 不买 / 耳机头梁断了，买了个新耳机)
+[134m] 🔥 [UNKNOWN] 请问呃买的衣服爽爽六折优衣库。[UNKNOWN] 优衣库确实好买啊寡肉没有任何区别。[UNKNOWN] 买了BB啊BB可以双十一买吗。[UNKNOWN] 真的假的我真的会搜哦。[UNKNOWN] 你要骗我会不会生气。[UNKNOWN] Bb充值便宜五毛钱呃。[UNKNOWN] 便宜五毛钱。[UNKNOWN] 我对什么我对衣服好像真的没执念  (💬 依然没想到 / 买了一副眼镜 / 不如说今天卖了点东西 / [喝彩] / 优衣库最近没联名)
+[135m] ▫️ [UNKNOWN] 不多阿姨发明。[UNKNOWN] 但是总之她和三十三十的一样也是要念的。[UNKNOWN] 所以其实从体验上来说。[UNKNOWN] 那个视频不知道你们有没有看到过。[UNKNOWN] 所以我今天晚饭没有吃吃。[UNKNOWN] 两块雪花酥也挺挺那个我想再去进来。[UNKNOWN] 但是很好吃是挺好吃的  (💬 福利（忠诚考验） / kksk / 还真是 / 钢镚还真是好发明 / 一天一次，蛮有巧思)
+[137m] ▫️ [UNKNOWN] 虽然它真的很好吃。[UNKNOWN] 捡瓶捡赛博瓶子来了是吧。[UNKNOWN] 我们这里北欧回收价蛮高的。[UNKNOWN] 克力吃不一定非要盯着来的啦。[UNKNOWN] 所以它不需要大量购是  (💬 看看有没有双1促销 / 可以先看看促销 / 万一有促销 / 没事的没事的 / 吃吃也还好啦)
+[141m] 🔥 [UNKNOWN] 然后专属客户经理这个人我从来没出现过。[UNKNOWN] 专属客户经理。[UNKNOWN] 的那个名字和魔法老头的一样。[UNKNOWN] 我操吓死了我去给我虎躯一震。[UNKNOWN] 我说吓我一跳那不能吧  (💬 两眼一黑(x7) / 之前公司里买了山姆的垃圾袋，还挺好用 / 哇！ / omg / 我超)
+[142m] ▫️ [UNKNOWN] 钱。[UNKNOWN] 可以买吗。[UNKNOWN] 没事儿没有没有说起来。[UNKNOWN] 感觉比那张图还要恐怖。[UNKNOWN] 从昨天到今天。[UNKNOWN] 容易留疤。[UNKNOWN] 受浪男生的肉量在哪里。[UNKNOWN] 看看嗯白子王做一下。[UNKNOWN] 然后去拿个那个回来吃了吃了糖分以后继  (💬 一般就选能直接用积分换的 / 可爱捏 / 也是一种促进消费的手段 / 找仅用积分可兑换的看看？没有就算了)
+[145m] 🔥 [UNKNOWN] 续聊。[UNKNOWN] 等我一下啊稍等嗯嗯  (💬 两眼一黑 / 抓挠听着是虫族入侵 / 肚子上吧 / 喝点水喝点水 / 快去吧)
+[151m] ▫️ [UNKNOWN] 我明天还会再点我今天就中午喝了。[UNKNOWN] 嗯。[UNKNOWN] 都拿来吃一个吧  (💬 估计像咖啡奶昔？ / 试试 / 神奇 / 两眼一黑 / 咖啡酸奶之后找机会试试)
+[153m] ▫️ [UNKNOWN] 在很饿的时候按住自己像晚上。[UNKNOWN] 平时如果不吃的会落实。[UNKNOWN] 就各做各种事情都是那种很差的状态。[UNKNOWN] 所以其实并不打算他没有打算瘦下去。[UNKNOWN] 不怎么饿肚子了也没有反弹回去。[UNKNOWN] 就比如说下面那外面那种盖浇饭。[UNKNOWN] 一个套餐你们会吃完吗  (💬 啊啾 / 吃點心情好吧 / 一天一顿肯定不影响 / 那以后可以经常点点了 / 听馋了)
+[156m] 🔥 [UNKNOWN] 然后每次都被瑞妈骂嗯。[UNKNOWN] 每次都被瑞妈骂说我浪费粮食。[UNKNOWN] 我说我真的吃不下吃不饱。[UNKNOWN] 因为你睡不好觉挨饿劳累还被压力。[UNKNOWN] 身体玩命给你分泌体质醇啊。[UNKNOWN] 我把自己养的好差哦瑞瑞也在减肥吗。[UNKNOWN] 但是但是胃有滞后性哦  (💬 两眼一黑(x4) / 吃一半吧 / 现在不会了 / 吃完（ / 吃不完..)
+[158m] ▫️ [UNKNOWN] 日月果可以包馄饨吗。[UNKNOWN] 这么压抑是能不能去看一下。[UNKNOWN] 已经发展到全自动发情了吗。[UNKNOWN] 你这家伙零九九三比较平静。[UNKNOWN] 那哪里不平静。[UNKNOWN] 嘻嘻包馄饨也是黑话吗。[UNKNOWN] 包裹车就是我我醒鼻涕的纸。[UNKNOWN] 有人要那个纸所以每次都说馄饨抽我  (💬 两眼一黑 / 672345 / 不问，直接抽可以吗 / [瑞娅收藏集表情包_宕机] / 怪怪的)
+[159m] ▫️ [UNKNOWN] 呃什么这是叫善隐党。[UNKNOWN] 嗯嗯。[UNKNOWN] 我每次晚上回来都是一脸懵的状态。[UNKNOWN] 我拍了就好了我好哎呀。[UNKNOWN] 我好怕我拍了。[UNKNOWN] 变成一个好吃懒做的人。[UNKNOWN] 虽然这是我的人生目标啊。[UNKNOWN] 嗯摸鱼也不能吗。[UNKNOWN] 没有摸鱼的机会  (💬 包馄饨感觉是上初中的时候会和同学讲的笑话 / 哪裡不平靜（ / 不要停止引导 / 拍了就好了 / 听不懂哦)
+[160m] 🔥 [UNKNOWN] 有人在的情况下就没有摸鱼的机会。[UNKNOWN] 怎么个好吃懒做法睡觉睡到八小时。[UNKNOWN] 无所谓。[UNKNOWN] 你尽管黑皮嗯嗯你尽管黑皮。[UNKNOWN] 瑞瑞确实是过出了和平时不一样的人生。[UNKNOWN] 我们一般不把正常生活叫好吃。[UNKNOWN] 会不会是你们没有想过这会不会是瑞  (💬 等等 不好說 / 怎么个好吃懒做法 / 好吃是真好吃，懒做倒没有 / 好像真有可能 / 变成良子可以拍吃播vlog)
+[161m] ▫️ [UNKNOWN] 把自己塑造的很累的样子。[UNKNOWN] 然后实际上把那个睡眠时间报少一点。[UNKNOWN] 我其实睡了五个半小时。[UNKNOWN] 我抱我抱我睡了三个半小时。[UNKNOWN] 给你们营造出一种我很累的样子。[UNKNOWN] 这样你们就不会压力我了。[UNKNOWN] 好吧rai raa你不要做梦了  (💬 23333 / 可爱捏 / 我去不早说 / 不累嗎大姐[手机] / 骗骗自己就好了）)
+[162m] 🔥 [UNKNOWN] 或者啊这是瑞安瑞娅你不要做梦啊。[UNKNOWN] 你怎么可能睡五个半小时。[UNKNOWN] 怎么算都不会了。[UNKNOWN] 我的我的坏想什么啊。[UNKNOWN] 嗯嗯好吧好吧骗不到你五个半小时。[UNKNOWN] 其实还好第二天早上我起码能正常。[UNKNOWN] 我今天早上起来是真的是懵了  (💬 我去 不早说 / 这话说了你信吗 / 真的吗那很好了 / 阿糖看的出來的www / 5个半小时很多吗)
+[162m] 🔥 [UNKNOWN] 这个人然后早上就坐在那里听东西。[UNKNOWN] 听着听着眼睛都快闭上。[UNKNOWN] 嗯嗯。[UNKNOWN] 嗯嗯我大概现在是三个半到五个小时之间。[UNKNOWN] 然后深度睡眠的时间大概分布在一个小时。[UNKNOWN] 之间真睡五个小时就不会瞳孔发紫了。[UNKNOWN] 天天下播后也walk了没有  (💬 宁愿 / 五个半小时也好短...是深度睡眠吗 / 如果真能多睡那很好了 / 催眠……你是每天睡9个小时的一只小猪…… / 其实晚上睡五个半，午睡三十分钟，也不太累，但是对身体不好就是了)
+[163m] ▫️ [UNKNOWN] 昨天下播后。[UNKNOWN] 抓紧把那个你态态最后一关打了。[UNKNOWN] 我每次都是压着呆。[UNKNOWN] 在那里打的深度睡眠时间倒是多。[UNKNOWN] 就是嗯你们可能承受不住全力的瑞。[UNKNOWN] 就是你们看另一个月你们集体上书求我不。[UNKNOWN] 要我熬那么久。[UNKNOWN] 这集体上书问什么时候能够对呀  (💬 可爱捏(x3) / 两眼一黑 / 不管睡眠質量多好[出窍] / 是的 / 昨天差点要结束了)
+[164m] 🔥 [UNKNOWN] 什么时候能够不要熬成。[UNKNOWN] 不要榨干我们我们要早起的。[UNKNOWN] 真的。[UNKNOWN] 然后被我那两天明显就是有一种面黄肌瘦。[UNKNOWN] 我不知道为什么能通过弹幕来看出来瑞士。[UNKNOWN] 堂的面黄肌瘦。[UNKNOWN] 嗯这就是前一天大概两三点下播吧  (💬 两眼一黑(x5) / 23333 / 白帽子算了算了,jpg / 黄豆流汗 / 全力瑞说是)
+[164m] 🔥 [UNKNOWN] 大家真的考到两三点第二天是周三。[UNKNOWN] 哎晚上八点半瑞士堂已经打不出字了。[UNKNOWN] 这种感觉我真的能通过弹幕能看出你的表。[UNKNOWN] 情。[UNKNOWN] 哼好不不是两三点吗。[UNKNOWN] 啊我没有很晚啊四五点那是世界杯。[UNKNOWN] 他不一样边边数边数  (💬 两眼一黑(x5) / 字里行间（ / 被主播榨干了，有头绪吗 / 2 3点？ / 你确定嘛www)
+[165m] 🔥 [UNKNOWN] 嗯嗯为什么多播只能在半夜多播。[UNKNOWN] 加上我下午没状态。[UNKNOWN] 然后而且有一个问题是我试过下午播了以。[UNKNOWN] 我会觉得一整天没有了。[UNKNOWN] 三四点不方便说话。[UNKNOWN] 就是最早起这个东西我已经有PTSD。[UNKNOWN] 了。[UNKNOWN] 嗯嗯  (💬 那可不止世界杯 / 大家还是太厉害了 / 3点吧 / 纯瘾大 / 两眼一黑原来是写实)
+[167m] ▫️ [UNKNOWN] 但是下播时间控制不了啊。[UNKNOWN] 来令说宝。[UNKNOWN] 是的很危险。[UNKNOWN] 想起来想起来之前有太多人看雪会结果撞。[UNKNOWN] 就是和别的主播不一样。[UNKNOWN] 我是有带入的。[UNKNOWN] 我以前有过早上困的要命。[UNKNOWN] 然后有一次真的很危险  (💬 以前说早起久了就能适应，是谎言 / 嘟嘟嘟 / 早台的时间也困得没心思看直播 / 两眼一黑 / 万一刚好聊到爆的停不下来呢 懂你意思)
+[169m] 🔥 [UNKNOWN] 我在高架上面。[UNKNOWN] 然后我看着右边是没车啊。[UNKNOWN] 然后我就过去了结果右边突然出来了。[UNKNOWN] 一辆黑色的就是狂按喇叭。[UNKNOWN] 我都不知道他从哪钻出来。[UNKNOWN] 但是我确认我看过后视镜是没有车的。[UNKNOWN] 然后那天真的把我吓得浑身出了一斤的汗  (💬 两眼一黑(x3) / 燃尽了 / 是的 / 正好和homo一起 这下顶级智驾广告了 / 又看一集)
+[169m] 🔥 [UNKNOWN] 所以所以我我是遇到过这种生死时速的时。[UNKNOWN] 候。[UNKNOWN] 消息  (💬 燃尽了 / 確實冒冷汗了 / 有没有摇下车窗骂人 / 有时候就是盲区 / 开车是要全神贯注的)
+[171m] ▫️ [UNKNOWN] 一脚一脚给你晃的娘瑶。[UNKNOWN] 在那里司机娘摇上了。[UNKNOWN] 好。[UNKNOWN] 就是你们会冒出什么。[UNKNOWN] 他都播五年了随他吧。[UNKNOWN] 他爱播什么播什么这种感觉吗。[UNKNOWN] 嗯。[UNKNOWN] 特别是我看到来看的新人多了以后可能会。[UNKNOWN] 可能是瑞  (💬 我用公司经费打专车还能睡一会 / 快车不行 / 早跟你说了电车不行——八木 / 那你说的还是有点问题的，摇摇车哪有那么晃 / 好在我在限行区外生活，没有什么早高峰)
+[173m] 🔥 [UNKNOWN] 瑞娅瑞娅是一个全自动。[UNKNOWN] 那什么自卷机。[UNKNOWN] 就是你不用你不用太抽打。[UNKNOWN] 他他自己会抽打自己谢谢。[UNKNOWN] 不能再买键盘了的一百个鼓掌鼓鼓掌。[UNKNOWN] 谢谢你啊。[UNKNOWN] 算了谢谢皇家炼金术士安给的送花花。[UNKNOWN] 我真的打算送到这鼓捣一百个  (💬 👀 / 永远爱你 / 对直播内容还是很期待的 / 还好，因为我是萌新（ / 不懂 我新人)
+[174m] ▫️ [UNKNOWN] 你知道吗。[UNKNOWN] 无论是播翻g同步试听。[UNKNOWN] 还是播游戏都是散的这是这是每周平均分。[UNKNOWN] 布。[UNKNOWN] 然后固定有一次总部视听固定。[UNKNOWN] 可能会分两到三个月才玩完。[UNKNOWN] 离远点又给我贴上了。[UNKNOWN] 不要自己在那里瞎蹭哦  (💬 两眼一黑(x3) / 23333 / 看看没看过的 / 魔都看下来了，还有什么不能看 / 哈哈，不看还能咋的)
+[175m] 🔥 [UNKNOWN] 说是神之天平。[UNKNOWN] 神之天平的那个色彩有点不利于工作日。[UNKNOWN] 然后然后我是经过分析的。[UNKNOWN] 其实我有个自动分析机。[UNKNOWN] 就是在分析我要连续播这个游戏。[UNKNOWN] 还是还是呃怎么说。[UNKNOWN] 做的。[UNKNOWN] 所以我晚上想做更自由的  (💬 两眼一黑(x4) / 离原点 / 可爱捏 / 啊… 没有结啊….. / 永远爱你)
+[177m] 🔥 [UNKNOWN] 怎么还有锈湖啊。[UNKNOWN] 听一下锈湖短信利特村呢。[UNKNOWN] 既然这么好听不如嗯声音好听。[UNKNOWN] 我说白字怎么样才能被容易捡到。[UNKNOWN] 我在想嗯我在想会不会是因为蓝字紫。[UNKNOWN] 字偏一般都比较偏向考。[UNKNOWN] 任以声音公认的很好听  (💬 两眼一黑 / 倒也正常？ / 那既然这么好听不如…… / 可爱捏 / 声音好听这个没办法，没办法抵抗)
+[179m] 🔥 [UNKNOWN] 我以为你是白字我信你。[UNKNOWN] 你看白子如果给了个蓝自子。[UNKNOWN] 这腰卡我也会减的。[UNKNOWN] 有没有数据支支撑啊。[UNKNOWN] 说说看的哪里哪里来的数据还是。[UNKNOWN] 你疯的。[UNKNOWN] 嗯太变态。[UNKNOWN] 呸你就是不想承认。[UNKNOWN] 嗯对的只要比水更烤就行  (💬 两眼一黑(x3) / ？？？ / 还好我是对抗路的 / 不可思议 / ？？？？？)
+[179m] 🔥 [UNKNOWN] 昧着良心你知道吗。[UNKNOWN] 捏着鼻子昧着良心都要呕出来了。[UNKNOWN] 要吐出来了也得把这句话说出来。[UNKNOWN] 数字来源心我靠真的要吐出来了  (💬 嘟嘟嘟 / 还要数据支撑？客观事实罢了 / 0993也要考试了吗 / 倒也不必 / ？？？)
+[181m] ▫️ [UNKNOWN] 嗯嗯就我使劲浑身解数。[UNKNOWN] 我我在我在抓着那个铁栏杆。[UNKNOWN] 我说让我串串吗。[UNKNOWN] 我想想我要搞事情让我搞搞事情。[UNKNOWN] 然后被这被瑞小角踹回来。[UNKNOWN] 搞什么事情啊不想要直播间啊。[UNKNOWN] 嗯do我还想看直播啊。[UNKNOWN] 你不要给我乱搞  (💬 23333 / 那是真的考 / 完了入脑了 / 爆爆爆 / rst有自己的气氛调节器)
+[181m] 🔥 [UNKNOWN] 嗯弹幕氛围还是很重要  (💬 凿⛏️凿⛏️凿⛏️凿⛏️ / 老弥✋️ / 害怕 / 弹幕氛围还是很重要的，dlc真刷起来很烦 / 有你串就可以了)
+[182m] ▫️ [UNKNOWN] 看见念你。[UNKNOWN] 好像年下你还是太年轻了。[UNKNOWN] 来的太时间太晚。[UNKNOWN] 在岁月的长河中其实莉亚蛮少。[UNKNOWN] 刷独轮车的集体两眼一黑。[UNKNOWN] 不算它算一种逗号吧。[UNKNOWN] 就是它没有大批量的侵占你的眼。[UNKNOWN] 球。[UNKNOWN] 哎还好认识他们都很好  (💬 两眼一黑(x4) / 妈妈(x4) / [瑞娅收藏集表情包_姐姐](x3) / 可爱捏 / 独轮车是蹲站的特色)
+[183m] 🔥 [UNKNOWN] 再叫瑞娅姐姐试试相思了。[UNKNOWN] 你看你们叫妈妈的时候也不遗余力啊。[UNKNOWN] 就别说人家了吧半斤八两。[UNKNOWN] 迷群说喜欢刷妈妈的中年人。[UNKNOWN] 有什么资格说别人穿。[UNKNOWN] 真是别人都会捏着。[UNKNOWN] 别八有人扫我是想这种集体啊。[UNKNOWN] 这白天没地方撒娇  (💬 妈妈(x5) / 两眼一黑 / 可爱捏 / [瑞娅收藏集表情包_姐姐] / 都是外站传过来的)
+[184m] 🔥 [UNKNOWN] 朋里基种算撒娇来了。[UNKNOWN] 想被管理了。[UNKNOWN] 嗯是你怎么能假定不是一拨人呢。[UNKNOWN] 不能因为你自己不是就说是不是一拨人我。[UNKNOWN] 只能说这是一。[UNKNOWN] 种释放底层的代码是我没有拒绝来的。[UNKNOWN] 我没有拒绝。[UNKNOWN] 你看每次叫妈妈的时候  (💬 两眼一黑(x5) / 妈妈姐姐宝宝妈妈姐姐宝宝妈妈姐姐宝宝妈妈姐姐宝宝妈妈姐姐宝宝妈妈姐姐宝宝妈妈姐姐 / 玛雅 / 瑞娅是能成为我妈妈的女人😭 / 捏鼻子说是)
+[184m] 🔥 [UNKNOWN] 我也没有怼回去说不让叫能够理解。[UNKNOWN] 嗯我以前还会叫妈妈。[UNKNOWN] 我现在已经想不到了。[UNKNOWN] 我在我现在只会想到自己。[UNKNOWN] 就是我只会想给自己吃点好吃的妈。[UNKNOWN] 妈妈姐姐宝宝妈妈姐姐宝宝是吗。[UNKNOWN] 身份外。[UNKNOWN] 等会儿这个刷刷妈妈姐姐宝宝的  (💬 两眼一黑(x4) / 妈妈姐姐宝宝妈妈姐姐宝宝妈妈姐姐宝宝妈妈姐姐宝宝妈妈姐姐宝宝妈妈姐姐宝宝妈妈姐姐 / 我看直播间串的也不少啊 / 万能 / 那就是能叫[汤圆])
+[185m] 🔥 [UNKNOWN] 不是魔法师吗。[UNKNOWN] 你也疯啦。[UNKNOWN] 亲我记得是男性魔法师同行来的。[UNKNOWN] 你也疯啦。[UNKNOWN] 哎嗯嗯你看魔法师这个行业就是会把人逼。[UNKNOWN] 疯。[UNKNOWN] 天哪心疼你宝宝多叫几句吧。[UNKNOWN] 我理解你大大方方就是的。[UNKNOWN] 他是幼师来的  (💬 两眼一黑(x4) / 燃尽了 / 妈妈妈妈妈妈妈妈妈妈妈妈妈妈妈妈妈妈妈妈妈妈妈妈妈妈妈妈妈妈妈妈妈妈妈妈 / 哈哈哈 / 大大方方叫)
+[185m] 🔥 [UNKNOWN] 我记得心疼你啊魔法师的压力很大。[UNKNOWN] 都特别是我。[UNKNOWN] 我觉得我觉得呃就是在我感觉这这个。[UNKNOWN] 幼师的话应该。[UNKNOWN] 是为数不多的呢。[UNKNOWN] 我觉得能比我抱怨的再多一点的那种。[UNKNOWN] 就是我他他怎么跟我涂黑泥我都能理解  (💬 燃尽了 / 姨姨姨姨姨姨姨姨姨姨姨姨 / 唉唉 魔法师害人 / 真正意义上的男妈妈 / 可敬)
+[186m] 🔥 [UNKNOWN] 跟一群没有开支的家伙讲话。[UNKNOWN] 真累吧躺在怀里也没有关系的哟。[UNKNOWN] 啊。[UNKNOWN] 其实班如果带入到白天那种不当人的同事。[UNKNOWN] 的话。[UNKNOWN] 好像也挺正常给你梳梳头发。[UNKNOWN] 也没有关系的哟。[UNKNOWN] 在这里你可以做小孩来的  (💬 可爱捏(x5) / 姐姐你好 / [UPOWER_690608698_分号分号] / 什么都行？！那更应该叫姐姐了 / 要流口水了)
+[187m] 🔥 [UNKNOWN] 除了不给零花钱之外。[UNKNOWN] 其他的一些关怀都是可以给的。[UNKNOWN] 零花钱打妹得死。[UNKNOWN] 你还没有形成正确的财富观。[UNKNOWN] 嗯。[UNKNOWN] 啊你再过十五分钟可以狂野狂野一下。[UNKNOWN] 我跟嘛那个给可以给你一点零花钱去。[UNKNOWN] 你去你喜欢的直播间消费吧  (💬 两眼一黑 / 啊啾 / 要躺在瑞瑞妈妈怀里了 / 想喝🍼🍼 / 有头发可以梳吗)
+[187m] 🔥 [UNKNOWN] 这有头发可以梳吗。[UNKNOWN] 你没有不代表人家没有强行带入别人。[UNKNOWN] 再过十五分钟给你点零花钱去自己喜欢直。[UNKNOWN] 播间消费的。[UNKNOWN] 嗯。[UNKNOWN] 哦。[UNKNOWN] 当然我们的家的电视频道正阅礼物。[UNKNOWN] 除了雪哥还有啥  (💬 两眼一黑(x7) / 可爱捏 / 啊啾 / 那啵啵呢 / 可以给啵啵啊)
+[187m] 🔥 [UNKNOWN] 还有那个手作饼干舰长的话。[UNKNOWN] 还是我们饼图。[UNKNOWN] 然后我们用饼图礼物来的。[UNKNOWN] 你怎么哎不是只有十五分钟了。[UNKNOWN] 你为什么现在上切完了击穿心之壁了。[UNKNOWN] 谢谢阿伟SO的舰长。[UNKNOWN] 那个毒�么拿自己的压压箱底的零花  (💬 两眼一黑(x7) / [瑞娅收藏集表情包_囚鸟] / 啊啾 / 我有头顶有一撮胎毛 / 脱发感觉都是地中海)
+[188m] 🔥 [UNKNOWN] 钱就上了。[UNKNOWN] 宝宝病土应该在画吧。[UNKNOWN] 他说他今天会赶出来给我。[UNKNOWN] 这是我没有饼图的常规礼物。[UNKNOWN] 一些摆件啊。[UNKNOWN] 然后那个嗯钥匙扣之类的舰长。[UNKNOWN] 感觉这个会比较有趣。[UNKNOWN] 但我估计可能用OVS六了  (💬 两眼一黑(x5) / 可爱捏(x3) / [瑞娅收藏集表情包_囚鸟] / www / 真安慰到了)
+[189m] 🔥 [UNKNOWN] 我可能没有办法用那个就是就是你们不知。[UNKNOWN] 不知道你们有。[UNKNOWN] 没有看过b站上面有那种模拟采耳唐菜吧。[UNKNOWN] 滚庞彩我们是这关机三级赞二点先生。[UNKNOWN] 请你出现。[UNKNOWN] 先生请你请你左转那边的啊。[UNKNOWN] 请你左我们这里是正经擦耳钉啊  (💬 两眼一黑(x8) / 羞死了(x3) / 躺采吗 / omg / 我要我要)
+[189m] 🔥 [UNKNOWN] 唐彩那就不是这个价格了。[UNKNOWN] 先生那可能是体租的价格了。[UNKNOWN] 我我题都在后面加一个加好题。[UNKNOWN] 都来唐彩英声来就是正经之后接一段。[UNKNOWN] 哎先生你要升级吗。[UNKNOWN] 啊那我们就去进去里面的房间。[UNKNOWN] 想来这个是吧。[UNKNOWN] 行嗯我我就陪你玩玩  (💬 两眼一黑(x4) / 羞死了(x4) / 111真躺采吗 / 采耳是不是以触发音为主 / 躺採+1[妙])
+[190m] 🔥 [UNKNOWN] 我给我你你别后悔就行了。[UNKNOWN] 你别后悔就行。[UNKNOWN] 你想嗯二楼没有二楼买不起。[UNKNOWN] 二楼听不懂你唐彩啊。[UNKNOWN] 当然是躺踩了客人。[UNKNOWN] 你不躺我怎么踩呢。[UNKNOWN] 呵呵我去我去过的采耳店不少了。[UNKNOWN] 对但直接想想了一下  (💬 [瑞娅收藏集表情包_柿子] / 先上二楼 / 两眼一黑 / 听不懂诶 / 上二楼了)
+[190m] ▫️ [UNKNOWN] 我提前先把音声给录了。[UNKNOWN] 接上轻声细语或者说连哪一天啊。[UNKNOWN] 就反正那天要轻声细语了。[UNKNOWN] 我就先把麦拿出来。[UNKNOWN] 然后连好嗯先把它录嗯。[UNKNOWN] 这样防止哪天那个嗓子状态不好。[UNKNOWN] 对我已经很久没搞阴声了。[UNKNOWN] 周日轻声细语压力会很大嘛  (💬 [瑞娅收藏集表情包_柿子] / 看情况吧 / 也ok / 好像不錯 / 周日轻声细语压力会很大吗)
+[191m] 🔥 [UNKNOWN] 其其实是拿麦出来的那一刻。[UNKNOWN] 压力有点大但是你一定好了。[UNKNOWN] 主题之后我其实就放松很多了。[UNKNOWN] 嗯换一个日子青山雪。[UNKNOWN] 它的那个消毒不是做的很好。[UNKNOWN] 就是包括采耳店。[UNKNOWN] 它其实底层代码就是女的好做啊。[UNKNOWN] 你们懂我意思吗  (💬 一次完成兩件事挺好 / 有道具吗 / 怕做不好吧 / 其实可以不需要周日 / 不是说换一个日子轻声细语吗)
+[192m] 🔥 [UNKNOWN] 嗯。[UNKNOWN] 牛踩杯式泰式按摩就是踩杯式可以啊。[UNKNOWN] 他才有感染了。[UNKNOWN] 哎呦。[UNKNOWN] 那有点害人。[UNKNOWN] 泰式的话它会踩着你的背。[UNKNOWN] 然后把你整个人往后拉。[UNKNOWN] 我上次遇到一个劲儿很足的大姐。[UNKNOWN] 给我给我暗爽就是一定要劲很足才行  (💬 主要是耳屎本身也有保护耳道作用的 / 两眼一黑 / 一般都是服务女性 / 有踩背师吗 / 合理)
+[193m] 🔥 [UNKNOWN] 抱枕加色纸胶嗯能吗。[UNKNOWN] 唐彩我也是干上唐彩了。[UNKNOWN] 真是下海了。[UNKNOWN] 这三种下就感觉正经采耳技师去做堂才就。[UNKNOWN] 是下海呀。[UNKNOWN] 我去我去你万一被我做成搞笑音声。[UNKNOWN] 你不要下海了。[UNKNOWN] 嗯嗯。[UNKNOWN] 哦我其实看到过那种躺彩的那种照片的小  (💬 两眼一黑(x10) / 哈哈哈哈 / [瑞娅收藏集表情包_柿子] / [瑞娅收藏集表情包_宕机] / 嘟嘟嘟)
+[194m] 🔥 [UNKNOWN] 红书。[UNKNOWN] 有嗯摸到。[UNKNOWN] 我里面穿了件防弹衣这种事情。[UNKNOWN] 小瑞是新人技师。[UNKNOWN] 由于太过太第一天进这个唐彩店上班。[UNKNOWN] 由于太过担心太过害怕客人动手动脚。[UNKNOWN] 所以在里面穿了件防弹衣。[UNKNOWN] 嗯是的而且非常的紧张  (💬 两眼一黑(x8) / ？？(x3) / 永远爱你 / 搞笑說是 / 舅妈糖？)
+[195m] ▫️ [UNKNOWN] 唉。[UNKNOWN] 我甚至觉得有一些男生如果能他他躺才能。[UNKNOWN] 赚到钱。[UNKNOWN] 我觉得有些男生是愿意的。[UNKNOWN] 愿意出卖自己的色相了。[UNKNOWN] 可惜客人可能是不一定受得了啊。[UNKNOWN] 哼嗯躺彩是谁躺着。[UNKNOWN] 这就是你不管是什么采耳人  (💬 两眼一黑(x6) / 其实不是防弹衣，是瑞瑞的膘（ / [UPOWER_690608698_铁咩] / 三级头戴好 / 原来是防弹衣垫的吗)
+[196m] 🔥 [UNKNOWN] 呃客人都一定是躺着的。[UNKNOWN] 不然的话踩不了。[UNKNOWN] 但是唐彩的话好像是那个技技师躺着。[UNKNOWN] 那你问你嘛如果赚的多。[UNKNOWN] 你去不去生活不易不含称好吧。[UNKNOWN] 你不去啊。[UNKNOWN] 呃那万一客人是女的呢。[UNKNOWN] 有这种需求呢你别说  (💬 两眼一黑(x7) / 666 / 瑞瑞生活不易 已下（ / 可以去四川发展业务 / 啊？)
+[197m] 🔥 [UNKNOWN] 虽然我没有这种需求啊。[UNKNOWN] 但是好。[UNKNOWN] 但是万一那种探店博主什么的需求。[UNKNOWN] 那到底踩不踩踩啊客人是富婆有的呀。[UNKNOWN] 你怎么能确定没有呢。[UNKNOWN] 我可以有我不一定点到你哦。[UNKNOWN] 点不到你就没就不能有。[UNKNOWN] 是吧  (💬 两眼一黑(x7) / 那到底采不采 / 那不行 / ？？？ / 感觉没有多到会让我想去的程度吧)
+[197m] 🔥 [UNKNOWN] 我不一定点得到瑞士堂哦。[UNKNOWN] 好奇不会被抓吗。[UNKNOWN] 这是不能说的滑稽。[UNKNOWN] 你猜为什么这么多外面的那种采耳店。[UNKNOWN] 可以大大方方把招牌挂出来。[UNKNOWN] 你懂吧。[UNKNOWN] 嗯你是十四号技师。[UNKNOWN] 不太吉利这不会你能不能换个数字  (💬 两眼一黑(x8) / www / 那一定也有 / 瑞怎么这么懂 / 啊啊啊啊 我是14號技師（)
+[198m] 🔥 [UNKNOWN] 八号技师是谁。[UNKNOWN] 那我要扁谁。[UNKNOWN] 目前没有这样的店了放心对的。[UNKNOWN] 但是小红书经常提到一个词叫素菜婚嫁。[UNKNOWN] 就是说就是它标的很高。[UNKNOWN] 然后让你它价格标的很高。[UNKNOWN] 让你觉得会心痒痒的会动手动脚。[UNKNOWN] 然后结果进去了以后  (💬 两眼一黑(x4) / 十万rst入驻北欧采耳店 / 哈哈哈 / 我想起了好多故事 / 0993技师在吗)
+[198m] 🔥 [UNKNOWN] 发现这是很正常的菜。[UNKNOWN] 你也没法说什么。[UNKNOWN] 因为它是灰色地带的东西。[UNKNOWN] 就是有一种杀猪盘的感觉。[UNKNOWN] 就是品就暗示你什么什么。[UNKNOWN] 嗯。[UNKNOWN] 就是那个糖他有一个帖子专门引流的。[UNKNOWN] 你知道吧。[UNKNOWN] 那种装作什么女朋友查男朋友岗的说  (💬 两眼一黑(x4) / 不划算嗎[出窍] / 主播咋知道那么多啊 / 禁止动手脚 / 很多这种)
+[198m] 🔥 [UNKNOWN] 哎呀。[UNKNOWN] 我在男朋友的手机里看到的这个这种糖彩。[UNKNOWN] 电正规。[UNKNOWN] 吗。[UNKNOWN] 然后下面一堆人开始科普起来了。[UNKNOWN] 我说你们怎么懂那么多。[UNKNOWN] 懂得太多了。[UNKNOWN] 嗯那我不知道我不知道。[UNKNOWN] 哎  (💬 两眼一黑(x3) / 都是这种 / 无疑确有其事 / 瑞老师好懂哦 / 现在这个年代还敢动手动脚是真不怕告你啊)
+[199m] 🔥 [UNKNOWN] 正规采耳店的话。[UNKNOWN] 北欧的话正规采耳店大概呃其实。[UNKNOWN] 几十块钱就可以擦半个小时了。[UNKNOWN] 挺挺快的主要而且采耳对采耳不花时间。[UNKNOWN] 半个小时就可以搞定。[UNKNOWN] 那个踩太久的话会痛。[UNKNOWN] 就是他会捅到里面。[UNKNOWN] 然后嗯太久的话会痛  (💬 主播对采耳心动了吗想入行了吗 / 都推你什么呀！ / 抓痒都能告你，还敢去这种地方 / 被下套确实活该 / 100上下)
+[199m] 🔥 [UNKNOWN] 比如说在那个耳膜上刮的时候。[UNKNOWN] 谢谢金一二幺九的你真好看啊。[UNKNOWN] 奥利给多。[UNKNOWN] 嗯嗯是是的然后上次你们记得吗。[UNKNOWN] 我说我我讲了没有。[UNKNOWN] 我说我去采耳电容。[UNKNOWN] 他夸我耳道非常干净。[UNKNOWN] 说我非常健康  (💬 羞死了 / 怎么感觉尺度越来越大了 / 想去采耳，然鹅耳朵没啥东西，感觉会亏 / 耳膜还是要保护一下 / 会损伤耳道)
+[200m] 🔥 [UNKNOWN] 我问号这个词居然跟我有关系。[UNKNOWN] 一嗯干净好吗。[UNKNOWN] 但是我的其中一边有没有有点有点红。[UNKNOWN] 嗯嗯。[UNKNOWN] 嗯嗯。[UNKNOWN] 马上就要对临了是对灵隐零deing逮。[UNKNOWN] 林逮铃逮铃一周过得很快  (💬 两眼一黑 / day0 / 这里果然是成熟大人的直播间 / 现在人戴耳机的时间太长了，耳膜要好好保护的 / 意思是不用常来)
+[202m] 🔥 [UNKNOWN] 嘟谢谢约的扣子的续费舰长。[UNKNOWN] 阿里嘎多哥在吗。[UNKNOWN] 数注水日开始了哦开始了。[UNKNOWN] 没有人能学习功了。[UNKNOWN] 就是刷到的帖子冤枉哦。[UNKNOWN] 谢谢天之王牌的续费舰长。[UNKNOWN] 你看帅宝了气压还算高吧。[UNKNOWN] 谢谢无能狂怒仁慈的茶唐彩开始啊  (💬 不是周五吗 / 注水日开始了 / 懂得少在哪里是为了唐彩认真学习过了吗 / 不幸盲盒的活动是绑航海日的 / 周五是城堡)
+[205m] 🔥 [UNKNOWN] 嗯谢谢运输或许所以才刚蹦哦。[UNKNOWN] 四十一紫色别忘记呜哒。[UNKNOWN] 不要介意其他的没啥。[UNKNOWN] 就是你你也可以多挑几首歌给我选哦。[UNKNOWN] 对了。[UNKNOWN] 对嗯就是客观上面的有点唱不来。[UNKNOWN] 翻了好多cut。[UNKNOWN] 发现主播是v娅最纯情的少女主  (💬 两眼一黑 / 之前175还是176 / 10个左右其实还好 / 问下瑞瑞学歌有什么要求吗 / 蛮不错)
+[207m] 🔥 [UNKNOWN] 播。[UNKNOWN] 哦你是不是上次那个串我什么你们群。[UNKNOWN] 你们主播好像很闲的那个人啊。[UNKNOWN] 哦就你ok ok o好了。[UNKNOWN] 标记到ID那就没事了。[UNKNOWN] 今天要不要剪你的弹幕。[UNKNOWN] 看我心情对教你一个。[UNKNOWN] 教你一个让我立刻解你  (💬 两眼一黑(x13) / 嗯嗯 / 不是我不是我 / 这下被认知了 / 仇恨之书)
+[207m] 🔥 [UNKNOWN] Id的方法就是加入紫禁城和不得不剪。[UNKNOWN] 嗯嗯。[UNKNOWN] wlly。[UNKNOWN] 你比你何必得我的喜怒。[UNKNOWN] 我今天声音会不会有点记错吧。[UNKNOWN] 不是啊。[UNKNOWN] 就是他记得其实我之前唱的好几首歌都是。[UNKNOWN] 交作。[UNKNOWN] 业来的只是他本人没有出现  (💬 两眼一黑(x11) / -6硬币 / [雪绘新收藏集表情包_紧张] / 记错吧 / Call of Silence換夏與罰)
+[208m] ▫️ [UNKNOWN] 哎哎下雨乏下对的这首我心去哭泣。[UNKNOWN] 一对夏雨凡上还是夏雨。[UNKNOWN] 谢谢QWERTXYK的启督大龙。[UNKNOWN] 感谢呃打个样什么打哦。[UNKNOWN] 不是又跟你有关系了啊。[UNKNOWN] 嗯是示范是吧。[UNKNOWN] 跟他说在我们直播间串是有代价的  (💬 两眼一黑(x5) / 貼心捏 / 你这家伙怎么那么记仇的 阔哇一 / 上还是下 / 是下)
+[209m] 🔥 [UNKNOWN] 你你小子做个白字。[UNKNOWN] 就想来游龙先过我们这关再说啊。[UNKNOWN] 我去啊不对看错了。[UNKNOWN] 不好意思看错了。[UNKNOWN] 哇等一下哦吓死我了。[UNKNOWN] 我以为第一天第一天就上体度呢。[UNKNOWN] 我说我去有点考谢谢新气度。[UNKNOWN] 谢谢金一二幺九的体度大容  (💬 两眼一黑(x3) / 可爱捏(x3) / 这对吗 / omg / ε=ε=(ノ≧∇≦)ノ.)
+[209m] 🔥 [UNKNOWN] 感谢感谢欢迎你提都免费了。[UNKNOWN] 我我私底下和他们进行了糖财交易啊。[UNKNOWN] 然后收到音声发现是素在回家啊。[UNKNOWN] 剧本已经写好了谢谢。[UNKNOWN] 空腹的小花色茶晚安晚安。[UNKNOWN] 明天带老妈去做复查巡视。[UNKNOWN] 好结果完完祝愿祝愿你老妈身体健康  (💬 可爱捏 / 这对吗 / 两眼一黑 / 经常被读id 不会成为明星观众吗？去那动眼熟 / 不赖)
+[209m] 🔥 [UNKNOWN] 祝愿你也身体健康早点睡觉哦。[UNKNOWN] 发现是唐三才赏析你我还唐三藏呢。[UNKNOWN] 第一个出现呢第一个出现的对啊。[UNKNOWN] 就是每次采耳的时候会比较轻放松。[UNKNOWN] 嗯。[UNKNOWN] 考虑一下看下一步嗯什么意思。[UNKNOWN] 边缘行者什么鬼不太懂什么心梗  (💬 12:08 / 唐三彩那我们发财了 / 我就说主播最串 / wwww / 唐三彩那赚大了)
+[212m] ▫️ [UNKNOWN] 你完了你满脑子都是婚恋。[UNKNOWN] 但是浪客剑心我没有看过前面的。[UNKNOWN] 没问题吗。[UNKNOWN] 哎呦。[UNKNOWN] 我去今天这个亲密度好像是有点加成。[UNKNOWN] 上了起多直接到三十五级了。[UNKNOWN] 我去是吧。[UNKNOWN] 以前好像只有三十二还是三十三来的  (💬 那个居然是假的吗 / 2077边缘行者啊 / 你说你看边缘行者看歪了吧 / 查查是不是wtm / VR第一婚恋直播间)
+[214m] 🔥 [UNKNOWN] 浪客们可以参看看准杀多days洒脱电。[UNKNOWN] 视。[UNKNOWN] 佐藤剑是挺帅的嗯荡刻剑心了。[UNKNOWN] 感觉嗯年纪有点大了。[UNKNOWN] 我倒是有点有点想看日剧。[UNKNOWN] 就是可能不一定是番剧。[UNKNOWN] 有点想看日军。[UNKNOWN] 说实话  (💬 两眼一黑(x3) / omg / 好想要他的签名 / 嘟嘟嘟 / 40-300%)
+[214m] 🔥 [UNKNOWN] 我有点想看白色巨塔和你们一起白色巨塔。[UNKNOWN] 我是今年的年初看的冬天的时候看的哇。[UNKNOWN] 哭的稀里哗啦的。[UNKNOWN] 然后现在也其实有点细节。[UNKNOWN] 有点忘得差不多了。[UNKNOWN] 是的想一起前一段时间。[UNKNOWN] 我记得哪个前辈看过。[UNKNOWN] 是海海看过还是什么啊  (💬 我表哥传给我的碟片，小时候看的dvd / 人老酸了 / 看看老日剧吧 / 那就真人浪客呀 / 嚯嚯)
+[215m] 🔥 [UNKNOWN] 被被拿下好几次。[UNKNOWN] Oh my god。[UNKNOWN] 那有点我们试一次吧。[UNKNOWN] 我不行的话就掐了浪客剑心的题材。[UNKNOWN] 我不一定感兴趣。[UNKNOWN] 对。[UNKNOWN] b站是有版权的。[UNKNOWN] 要大会员的这这种顶级这种顶级。[UNKNOWN] 的日剧一般都会买  (💬 会不会被干掉啊 / 海海吧 / 这几年没啥新剧 / 印象里是鲨鱼 / b站是不是有版权)
+[215m] 🔥 [UNKNOWN] 嗯魔法师看龙吟呃。[UNKNOWN] 不要不要工伤深情看看别申。[UNKNOWN] 请经典陷阱。[UNKNOWN] 七月有一个韩剧现在不是出轨的问题。[UNKNOWN] 然后再给黄s对的  (💬 可爱捏(x3) / 剑心看帅的就完事了 / o那没办法， / 那没办法了，有版权反而没法看 / 先申請看看？)
+[217m] ▫️ [UNKNOWN] 我一直没看来的无穷无尽的膜。[UNKNOWN] 嗯你看吧。[UNKNOWN] 反正我估计不一定是黄金时间来的。[UNKNOWN] 你说你要去看live。[UNKNOWN] 可能还逆反了。[UNKNOWN] 哈哈我就趁你不在的时候上播。[UNKNOWN] 确实那这样吧我就我我不播。[UNKNOWN] 嗯周四我不播你放心买票吧  (💬 两眼一黑 / 对了对了 / 周末了 / 我们周四要休息吗 / (^・ω・^ ).)
+[219m] 🔥 [UNKNOWN] 嗯嗯开始博弈了你买吧。[UNKNOWN] 你买吧你不要因为我来决定行程。[UNKNOWN] 该看就看。[UNKNOWN] 不要不要把那个看直播当任务了。[UNKNOWN] 那ok那我知道要不要播了是吧。[UNKNOWN] 没有没有没有嗯暂定先先休吧。[UNKNOWN] 就是我我确实觉得最近状态不是很好  (💬 ok / 信嗎[妙] / 狠狠突击， / 开始进入八奇领域了 / 社交的手腕)
+[219m] 🔥 [UNKNOWN] 但我真的没有办法保证。[UNKNOWN] 我没有能保证的。[UNKNOWN] 就是连休息都不能保证。[UNKNOWN] Oh my god。[UNKNOWN] 这人真是我我比较喜欢那种。[UNKNOWN] 比如说没有规定说一定要直播。[UNKNOWN] 但是在那种情况下心情上来了。[UNKNOWN] 没事的没有什么特别重要的东西  (💬 两眼一黑 / 都好 / 反正还是先休息好 / 黄豆流汗 / 心血来潮)
+[220m] ▫️ [UNKNOWN] 我们对吧。[UNKNOWN] 对吧。[UNKNOWN] 纯拿来睡觉的。[UNKNOWN] 你带抓的我好痛啊  (💬 dnys / 两眼一黑 / 心血来潮 / 当面问就不准了 / 定制弹幕)
+[223m] 🔥 [UNKNOWN] 花糖好吃。[UNKNOWN] 我看你也是困了睡吧。[UNKNOWN] 借中禅寺元子的棉花糖。[UNKNOWN] 没主题吧没主题要规定吗。[UNKNOWN] 你未必能未必愿意写哦。[UNKNOWN] 但是我规我如果规定了。[UNKNOWN] 你就必须要写了。[UNKNOWN] 跟你们先不要借我钱的  (💬 好久没有黑屁棉花糖了 / 可以 / 有啥主题吗 / 好呀好呀 / 我也好久没有投了)
+[224m] 🔥 [UNKNOWN] 谢谢。[UNKNOWN] 月说或喜的八个粉三灯牌。[UNKNOWN] 嗯我想想我要写什么小主题。[UNKNOWN] 提一个瑞瑞身上你最喜欢的点吧。[UNKNOWN] 但肯定不会是负面的啊。[UNKNOWN] 对的主题肯定不会是负面的。[UNKNOWN] 嗯谢谢机不是月的棉花糖  (💬 来个小主题吧 / 你想听啥 不会和那谁一样也喜欢听失恋话题吧 / 主题作文www / 意思是有定制主题 / 喜欢的点)
+[226m] 🔥 [UNKNOWN] 对吧。[UNKNOWN] 你想要认知不如直接私信发。[UNKNOWN] 就如果说你要署名。[UNKNOWN] 你不如大大方方私信发。[UNKNOWN] 然后我给你截出来。[UNKNOWN] 如果如果你要发棉花糖。[UNKNOWN] 你就别署名。[UNKNOWN] 不然棉花糖失去它的意义了。[UNKNOWN] 以后大家都跟着署名  (💬 两眼一黑 / 可爱捏 / 发了一次没回不就发不了了 / OMG / 是不是最近棉花糖夸的没之前多了 闹脾气了()
+[226m] 🔥 [UNKNOWN] 我真这棉花糖不用也罢。[UNKNOWN] 嗯。[UNKNOWN] 不说不说。[UNKNOWN] 不对吧不伴良梦回才是正常人啊。[UNKNOWN] 我不喜欢听别人别人吐槽啊。[UNKNOWN] 点凉木是正常的。[UNKNOWN] 谢谢KGVHO的四分茶变色寡人折死折。[UNKNOWN] 的在意你的领导到底看你哪里不爽吗  (💬 可爱捏 / 已私信 / 两眼一黑 / 别人办梁木回，瑞瑞反其道而行之 / 心虚)
+[228m] ▫️ [UNKNOWN] 啊魔法师的就是他表面上再尊敬。[UNKNOWN] 跟对方客客气说话那又无所谓。[UNKNOWN] Good嗯半分钟没人发。[UNKNOWN] 弹幕卡了不不。[UNKNOWN] 不是我无聊了我可赶紧退场吧。[UNKNOWN] 我赶紧退场吧大家累了。[UNKNOWN] 我待在这里但在这里有点影响。[UNKNOWN] 影响睡觉了  (💬 管理不可能让所有人都满意 / 又不是印钞机 / 半分钟没人发弹幕，卡了 / 成年人的世界我哭了 / k记和三体的联动好难买)
+[230m] 🔥 [UNKNOWN] 新买的糖没有get到瑞瑞的茶点。[UNKNOWN] 老糖已经get到了。[UNKNOWN] 然后选择不回忆是吧。[UNKNOWN] 这也是我不回忆娘误会的。[UNKNOWN] 其实找东西吃了现在吃东西啊。[UNKNOWN] 而且梁梦回有一种一一开始。[UNKNOWN] 我其实好像办过一次什么黑屁会感觉也没  (💬 万能(x3) / 给你一拳 / 开始压力 / 其实是找东西吃了 / 呃呃)
+[230m] 🔥 [UNKNOWN] 黑屁。[UNKNOWN] 出来什么东西。[UNKNOWN] 雪花酥怎么样。[UNKNOWN] 买的哪家随便买的一家。[UNKNOWN] 他随便给我推了个直播。[UNKNOWN] 我随便点进去买的真的很随便。[UNKNOWN] 从来没觉得主播茶感觉很可爱。[UNKNOWN] 你说的每句话我觉得是反话  (💬 可爱捏 / 万能 / 在洗澡 / 23号结束 / 那感覺還是不想傷害瑞吧)
+[230m] 🔥 [UNKNOWN] 哼在洗澡哦不用不用暗示给我看。[UNKNOWN] 是的呀。[UNKNOWN] 我当时就觉得小这个哎呀阿唐啊对我太温。[UNKNOWN] 柔了。[UNKNOWN] 我就不想专门搞这种。[UNKNOWN] 有一种没事儿找事儿的感觉。[UNKNOWN] 你知道吗。[UNKNOWN] 就好像没什么事儿。[UNKNOWN] 然后非要找点架出来吵那种那种日  (💬 可爱捏 / 不过也过了蛮久，再做一次也好 / 低级串 / 公开棉花糖是很少有人会发真的梁木 / 梁木回就是考子围攻黑屁棉花糖的节目)
+[231m] 🔥 [UNKNOWN] 子。[UNKNOWN] 梁木回就是考子围攻黑皮棉花糖节目。[UNKNOWN] 你能带头做那个烤子吗。[UNKNOWN] 你不能做不能保证的话。[UNKNOWN] 我嗯你要为此负责哦对吧。[UNKNOWN] 你就算串你都不想发。[UNKNOWN] 上面那句串子之间也有区别。[UNKNOWN] 鄙视链来了嗯笑死了  (💬 我就算串我都我不想发上面那句 / 要不是已经拔了，要不就是明贬暗褒 / (〜￣△￣)〜. / 考竞 / 打不出来我只能说)
+[231m] 🔥 [UNKNOWN] 唱的这些都有打不出来了。[UNKNOWN] 直接输低级口低级穿。[UNKNOWN] 我要写栏目我也可以写写一些。[UNKNOWN] 但没必要。[UNKNOWN] 我觉得就是在比起啊我我真得真得好好养。[UNKNOWN] 养阿唐了。[UNKNOWN] 我说比起瑞士堂的一些好处来说。[UNKNOWN] 这件这件坏坏处真是不值一提吧  (💬 [瑞娅收藏集表情包_MUA] / 比较起来了 / 怎么还有串竞 / 串子鄙视链 / 是这样)
+[232m] 🔥 [UNKNOWN] 就我已经很满足了。[UNKNOWN] 所以在一定程度下。[UNKNOWN] 我可以忍受瑞士堂的两眼一黑和不。[UNKNOWN] 说话。[UNKNOWN] 有没有可能我虽然每次都会吐槽。[UNKNOWN] 但是我没有真的生气或者素面。[UNKNOWN] 或者断埋怨是因为拿别的好处填上去。[UNKNOWN] 哎说两句差不多得了  (💬 两眼一黑(x11) / [瑞娅收藏集表情包_MUA] / 痒了 / 哎呦喂 養死我了 / 还真是，rst太好了)
+[233m] 🔥 [UNKNOWN] 自己还带入了不嗯谦虚一点。[UNKNOWN] 行不行啊。[UNKNOWN] 夸你两句就接一下就得了。[UNKNOWN] 还要夸自夸一下。[UNKNOWN] 是谢谢LN你七四一的爱心抱枕棉花。[UNKNOWN] 糖哦。[UNKNOWN] 这个时候说实话。[UNKNOWN] 有时候听不懂大家或主播在说什么  (💬 两眼一黑(x3) / 说实话 有时候听不懂大家或主包在说什么 倒是经历很多 什么都秒懂 听的很懵 / 主播和瑞世糖都很好啊，弹幕之间都很友善。。 / 饱饱 / 真不用统计一下两眼一黑吗)
+[233m] 🔥 [UNKNOWN] 倒时经历很多什么都秒懂。[UNKNOWN] 听得很懵。[UNKNOWN] 哦你是你嗯这这条弹幕怎么理解。[UNKNOWN] 就是说你说你的同伴们觉得你觉得你的同。[UNKNOWN] 伴们经历很多。[UNKNOWN] 是吧。[UNKNOWN] 就一听就知道我在说什么这个意思是吗。[UNKNOWN] 比如呢就是有没有例子可以举啊  (💬 两眼一黑(x6) / 心虚 / 主播都夸了，rst不夸自己怎么可以 / 懂你意思 / 好了好了 知道你是正太了)
+[233m] 🔥 [UNKNOWN] 那基金是不是还有社会上的一些什么新闻。[UNKNOWN] 啥的。[UNKNOWN] 其实是因为他们不说话。[UNKNOWN] 我只能不停的挑话题嗯。[UNKNOWN] 他们都不回我你知道吗。[UNKNOWN] 要么就是严肃分析。[UNKNOWN] 然后分析的我有点不耐烦。[UNKNOWN] 我这是不停的找啊  (💬 两眼一黑(x6) / 心虚 / 好了好了 知道你是正太了 / 黑話回ver2 / 比如说说)
+[234m] 🔥 [UNKNOWN] 我今天看了哪些话题了。[UNKNOWN] 想认这这个呃小动物咋了。[UNKNOWN] 然后怎么怎么样了啊。[UNKNOWN] 同学开始发两眼一黑。[UNKNOWN] 我就想好吧换话题吧。[UNKNOWN] 是。[UNKNOWN] 然后如果说经常严肃的话。[UNKNOWN] 对我其实是有一点对太过正经的话  (💬 两眼一黑(x3) / 👀 / 心虚 / 发点能回的 / 赫赫，是主播一脸懵听不懂)
+[234m] ▫️ [UNKNOWN] 来看戴家伟啊不看他牙让我难受。[UNKNOWN] 但是你们不要真的把自己带入中年人好吗。[UNKNOWN] 没有那么中年人了。[UNKNOWN] 就没有我说的那么夸张了。[UNKNOWN] 我只有时候我为了激起你们的攻击欲。[UNKNOWN] 你们也没有攻击欲。[UNKNOWN] 你们不攻击我对抗路  (💬 👀 / 0993相對來說 正經很多 / 哈哈哈哈哈哈哈 / 当你生活迷茫的时候就该看戴佳伟了 / 记得刷牙)
+[236m] 🔥 [UNKNOWN] 因为没有反应只能有。[UNKNOWN] 现在现在有一种攻守异形的感觉。[UNKNOWN] 感觉我才是那个抓就是扯人家辫子的小学。[UNKNOWN] 男生啊。[UNKNOWN] 棉花糖该咋发没有发过这种匿名的。[UNKNOWN] 直接发了就好了。[UNKNOWN] 好像嗯就为了激起他一点反应。[UNKNOWN] 扯一下扯一下马尾激素水平下降了  (💬 两眼一黑 / 瑞世糖大概都是18到25岁之间感觉 / 已中年 / 对抗主播吗 / 确实 上次去5424点了同一首歌 还是那边中年多了)
+[236m] ▫️ [UNKNOWN] 嗯但是也有也有好处吧。[UNKNOWN] 就这样吧挺好的。[UNKNOWN] 有时候不敢说话。[UNKNOWN] 是因为在我们直播间白字真的有点扎。[UNKNOWN] 眼很容易被我挑出来。[UNKNOWN] 爸不好意思了多来几个地雷男。[UNKNOWN] 大家都没好裹着吃。[UNKNOWN] 你们怎么对我地雷啊  (💬 两眼一黑(x4) / 给你一拳 / 你能开下午台？ / 到时候变成二则了笑了 / 會變成時段分人)
+[237m] 🔥 [UNKNOWN] 真的吗。[UNKNOWN] 真的是是刷屏刷屏打卡那种不一样。[UNKNOWN] 连续发十个表情的状态就不行了。[UNKNOWN] 我肯定不会剪。[UNKNOWN] 瑞瑞太在乎阿糖了。[UNKNOWN] 确实我给你们安全感太足了。[UNKNOWN] 我就应该下次这个消失一整天。[UNKNOWN] 行的周四消失一整天吧  (💬 两眼一黑(x7) / 给你一拳(x3) / 嘟嘟嘟 / 白字不敢光明正大的考 / 爆了)
+[238m] 🔥 [UNKNOWN] 对吧。[UNKNOWN] 那到芳芳跟你们说了动态也不发。[UNKNOWN] 但是我感觉如果周消失一整天。[UNKNOWN] 你们也只会。[UNKNOWN] 晚上问我瑞瑞睡着了吗。[UNKNOWN] 这个呃不要睡太晚哦太累了。[UNKNOWN] 辛苦了好好睡觉吧。[UNKNOWN] 晚安我又不是灰老先生这种高手  (💬 两眼一黑(x5) / 给你一拳 / 你也一周两播 / 不行：： / 哇只能想到消失一整天吗)
+[238m] 🔥 [UNKNOWN] 那说实话他扛的那个压我也有点受不了的。[UNKNOWN] 就是就如果说真的。[UNKNOWN] 比如说他经历了几次压力了。[UNKNOWN] 当然这个因为可见。[UNKNOWN] 因为动态是可以看到的。[UNKNOWN] 那个下面你让我在白天这种压力的情况下。[UNKNOWN] 晚上再再看到这种我会不喜欢直播  (💬 两眼一黑(x6) / 嘟嘟嘟 / 预判了 / 不预告突然消失 / [弥希Miki_流汗了])
+[238m] 🔥 [UNKNOWN] 我会觉得难受。[UNKNOWN] 就是我的劳疲劳会让我承受不住这种。[UNKNOWN] 你能不能不要说出出车祸。[UNKNOWN] 这种话能不能不要说出车祸这种话。[UNKNOWN] 你你想想这种话。[UNKNOWN] 如果带入到你自己身上。[UNKNOWN] 不会觉得不吉利吗。[UNKNOWN] 能不能呸一下把它呸回去啊  (💬 两眼一黑(x8) / 今天迟到一小时差点车万楼了 / 满区好像真要当今年一姐了 / 哈哈 今天不播 有点舒服 / 主播睡过的时候的大家：主播多睡会吧)
+[239m] 🔥 [UNKNOWN] 太会说话了我去未面得被拘万喽。[UNKNOWN] 我会开心一下。[UNKNOWN] 怎么有这么多人我很信这个的。[UNKNOWN] 不要说好吗。[UNKNOWN] 那他你你不要再提出车祸了。[UNKNOWN] 这三个字不要再出现了。[UNKNOWN] 我求你了你不要再提了。[UNKNOWN] 我知道你是这个意思  (💬 两眼一黑(x6) / 笑了 / 感觉灰泽满老先生是压力享受者... / 真的吗 / 感覺她壓力也挺大)
+[240m] 🔥 [UNKNOWN] 但是这这个三个字最好是不要出。[UNKNOWN] 现来的。[UNKNOWN] 好哼昨天孟岛瑞说要去看电影。[UNKNOWN] 阿b发了座位号我自己买了个零座。[UNKNOWN] 我去阿逼怎么这么坏啊。[UNKNOWN] 带头嗯嗯万了g万喽。[UNKNOWN] 我先去会窃喜一下怎么我火了吗。[UNKNOWN] 是我干嘛了  (💬 两眼一黑(x8) / 车走！车走！车走！车走！ / 这是习俗 / 今天晚安动态建楼 / 🚗)
+[240m] 🔥 [UNKNOWN] 黑红也是红立刻开播。[UNKNOWN] 吸黑流量魔法学院拜拜了。[UNKNOWN] 我立刻开播吸黑流量。[UNKNOWN] 我要起我我要我要成为大v了大v第一步。[UNKNOWN] 你就看我怎么。[UNKNOWN] 游龙吧就是心态正确了吗。[UNKNOWN] 心态对了吗。[UNKNOWN] 这算老师  (💬 两眼一黑(x7) / 可爱捏 / 就像和坐飞机的人说一路顺风差不多 / 看到99+先开心 / 不愧是你)
+[240m] 🔥 [UNKNOWN] 你看我这样算是大有大v潜力吗。[UNKNOWN] 哼嗯就怕没人看对吧。[UNKNOWN] 然后先先自闭五分钟先五分钟看一下。[UNKNOWN] 大家在刷什么东西不好说。[UNKNOWN] 就算我是脑子里。[UNKNOWN] 我也没有经过一些场景吧。[UNKNOWN] 经过场景不一样来的。[UNKNOWN] 万楼里九千个两眼一黑啊  (💬 两眼一黑(x5) / [瑞娅收藏集表情包_歪] / 自研大v / 找个bot刷一晚上 / 👀)
+[241m] 🔥 [UNKNOWN] goodbye。[UNKNOWN] 那我今天就不是不是我在这儿播了。[UNKNOWN] 我你们将会看到这个等等啊。[UNKNOWN] 你就这样挂三个小时相对无言。[UNKNOWN] 对吧。[UNKNOWN] 你发我也发呃呃。[UNKNOWN] 啊。[UNKNOWN] 你不困吗。[UNKNOWN] 我有点生气了我有点生气了  (💬 两眼一黑(x30) / [瑞娅收藏集表情包_歪] / 哈哈哈哈哈 / 真到那时候就不会有人在意你说什么了 / 大大方方吸！)
+[243m] 🔥 [UNKNOWN] 但是我我今天实在没力气了。[UNKNOWN] 所以我们还是两眼一黑吧。[UNKNOWN] 然后就这样重复循环没话说。[UNKNOWN] 到我下播凑满两个小时。[UNKNOWN] 下播结束。[UNKNOWN] 好了大家啊我觉得我有一点点死了。[UNKNOWN] 但我有一点点活了你们你们还好吗。[UNKNOWN] 啊  (💬 两眼一黑(x24) / 给你一拳(x8) / [瑞娅收藏集表情包_睡睡](x3) / 万能(x3) / [腾讯招聘_起飞])
+[244m] 🔥 [UNKNOWN] 我感觉我的灵魂在从我的嘴巴里面出去。[UNKNOWN] 我想走在那糊啊我的天哪。[UNKNOWN] 我的人生就是这么糊吗。[UNKNOWN] 我的人生像这个马赛克一样这么的失败。[UNKNOWN] 唉。[UNKNOWN] 流汗了。[UNKNOWN] 流汗了。[UNKNOWN] 我的人生就像刚刚的大表情一样  (💬 两眼一黑(x5) / 黄豆流汗(x4) / [腾讯招聘_起飞] / [瑞娅收藏集表情包_睡睡] / 万能)
+[244m] 🔥 [UNKNOWN] 糊胡啊可嗯小瑞是一款介于湖和火的反复。[UNKNOWN] 横跳的边界线。[UNKNOWN] 有懂的吗。[UNKNOWN] 放点白字能发的。[UNKNOWN] 哎你怎么知道我在卡你的门槛啊。[UNKNOWN] 呵呵被你发现了。[UNKNOWN] 哎给你一拳不是白子能发的吗。[UNKNOWN] 我去你自己都不知  (💬 给你一拳(x18) / 两眼一黑(x8) / 黄豆流汗(x4) / 😅(x4) / 拍桌)
+[245m] 🔥 [UNKNOWN] 你自己都不清楚白子能发什么。[UNKNOWN] 你在说什么给你一拳不是放过了吗。[UNKNOWN] 真的是脑也黑了。[UNKNOWN] 你都在看什么生气生气了  (💬 给你一拳(x15) / 两眼一黑(x7) / 😅(x3) / [瑞娅收藏集表情包_瑞总] / 那我只能发emoji了！)
+[248m] 🔥 [UNKNOWN] 睡觉该睡了明天再见。[UNKNOWN] 谢谢墨云十四的贴贴。[UNKNOWN] 今天的嗓子也差不多了。[UNKNOWN] 鸽杂鸽杂浓度今天够了吧。[UNKNOWN] 纯聊来的。[UNKNOWN] 不过我还是觉得歌杂放到周末比较好。[UNKNOWN] 因为你们比较有精神。[UNKNOWN] 需要一个需要一个强劲的对手  (💬 万能(x3) / 10 / kksk / 明天再见 / 确实困了)
+[248m] 🔥 [UNKNOWN] 嗯哎呦过儿十四天天歌了。[UNKNOWN] 几首歌了这么多首十。[UNKNOWN] 呃有一首半是九点五吧。[UNKNOWN] 有一首一半来的。[UNKNOWN] 嗯嗯好的希望明天大。[UNKNOWN] 那我们先不要明天我要干嘛呢。[UNKNOWN] 我也不知道明天我们来干嘛呢。[UNKNOWN] 我也不知道  (💬 嘟嘟嘟 / 可爱捏 / 10 / 对手吗 / 下次我看直播先喝2杯霸王茶姬)
+[249m] 🔥 [UNKNOWN] 钓鱼不一定哎必定看我心情。[UNKNOWN] 看我心情看我心情叫拉斯米娜。[UNKNOWN] 三感谢报用户机器单位嗯。[UNKNOWN] 幺七零七c真正七啊和木鱼十四的。[UNKNOWN] 半月包月星红。[UNKNOWN] 楼梦。[UNKNOWN] 感谢包你用物QWVITXYK和。[UNKNOWN] sluack  (💬 万能(x12) / 晚安晚安(x4) / 两眼一黑(x4) / 可爱捏 / [瑞娅收藏集表情包_睡睡])
+[249m] 🔥 [UNKNOWN] night的包年星游如梦。[UNKNOWN] 非常感谢您的支持。[UNKNOWN] 明天我要特别特别特别的热情。[UNKNOWN] 然后周四跟变了一个人也要冷淡的。[UNKNOWN] 你把你们晾在一边。[UNKNOWN] 感受一下冰火两重天吧。[UNKNOWN] 给你们的安全感太足了。[UNKNOWN] 走开晾亮你们拜了个拍  (💬 万能(x15) / 两眼一黑(x4) / [瑞娅收藏集表情包_睡睡](x3) / 888888 / 晚安晚安)
+[250m] 🔥 [UNKNOWN] 嗯当hello啦就是拜拜。[UNKNOWN] 嗯嗯。[UNKNOWN] 嗯嗯八嗯嗯  (💬 万能(x16) / [瑞娅收藏集表情包_睡睡](x3) / 888888 / 拜了个拜 / 拜拜拜拜)
+[252m] 🔥 [UNKNOWN] 等谁呀。[UNKNOWN] 太卡了啊。[UNKNOWN] 搞得我都不好意思走了一张你的我们每天。[UNKNOWN] 一。[UNKNOWN] 句话  (💬 永远爱你(x3) / 万能 / 等小作文 / [瑞娅收藏集表情包_MUA] / 考住)
+[254m] 🔥 [UNKNOWN] 么哒。[UNKNOWN] 嗯那八嗯是的呀。[UNKNOWN] 从创号开始到现在的千米太烤了。[UNKNOWN] 我现在就把第前面三个字删掉。[UNKNOWN] 珍惜我吧  (💬 两眼一黑(x9) / 万能(x4) / [瑞娅收藏集表情包_MUA](x3) / 永远爱你(x3) / kksk)

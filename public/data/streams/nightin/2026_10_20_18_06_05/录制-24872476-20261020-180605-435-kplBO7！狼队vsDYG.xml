@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="#s"?>
+<i>
+  <!--
+mikufans录播姬 2.18.1-codex-danmaku-reconnect-singleflight.1+22.Branch.codex-danmaku-reconnect-singleflight.Sha.d7fd76001d74eb4aa01441c7793be8d779309d55
+https://rec.danmuji.org/user/danmaku/
+本文件的弹幕信息兼容mikufans主站视频弹幕XML格式
+本XML自带样式可以在浏览器里打开（推荐使用Chrome）
+
+sc 为SuperChat
+gift为礼物
+guard为上船
+
+attribute "raw" 为原始数据
+-->
+  <chatserver>chat.bilibili.com</chatserver>
+  <chatid>0</chatid>
+  <mission>0</mission>
+  <maxlimit>1000</maxlimit>
+  <state>0</state>
+  <real_name>0</real_name>
+  <source>0</source>
+  <BililiveRecorder version="2.18.1-codex-danmaku-reconnect-singleflight.1+22" />
+  <BililiveRecorderRecordInfo roomid="24872476" shortid="0" name="南町Nightin" title="kplBO7！狼队vsDYG" areanameparent="手游" areanamechild="王者荣耀" start_time="2026-10-20T18:06:05.4362476+08:00" />
+  <BililiveRecorderXmlStyle><z:stylesheet version="1.0" id="s" xml:id="s" xmlns:z="http://www.w3.org/1999/XSL/Transform"><z:output method="html"/><z:template match="/"><html><meta name="viewport" content="width=device-width"/><title>mikufans录播姬弹幕文件 - <z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></title><style>body{margin:0}h1,h2,p,table{margin-left:5px}table{border-spacing:0}td,th{border:1px solid grey;padding:1px}th{position:sticky;top:0;background:#4098de}tr:hover{background:#d9f4ff}div{overflow:auto;max-height:80vh;max-width:100vw;width:fit-content}</style><h1><a href="https://rec.danmuji.org">mikufans录播姬</a>弹幕XML文件</h1><p>本文件不支持在 IE 浏览器里预览，请使用 Chrome Firefox Edge 等浏览器。</p><p>文件用法参考文档 <a href="https://rec.danmuji.org/user/danmaku/">https://rec.danmuji.org/user/danmaku/</a></p><table><tr><td>录播姬版本</td><td><z:value-of select="/i/BililiveRecorder/@version"/></td></tr><tr><td>房间号</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@roomid"/></td></tr><tr><td>主播名</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></td></tr><tr><td>录制开始时间</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@start_time"/></td></tr><tr><td><a href="#d">弹幕</a></td><td>共<z:value-of select="count(/i/d)"/>条记录</td></tr><tr><td><a href="#guard">上船</a></td><td>共<z:value-of select="count(/i/guard)"/>条记录</td></tr><tr><td><a href="#sc">SC</a></td><td>共<z:value-of select="count(/i/sc)"/>条记录</td></tr><tr><td><a href="#gift">礼物</a></td><td>共<z:value-of select="count(/i/gift)"/>条记录</td></tr></table><h2 id="d">弹幕</h2><div id="dm"><table><tr><th>用户名</th><th>出现时间</th><th>用户ID</th><th>弹幕</th><th>参数</th></tr><z:for-each select="/i/d"><tr><td><z:value-of select="@user"/></td><td></td><td></td><td><z:value-of select="."/></td><td><z:value-of select="@p"/></td></tr></z:for-each></table></div><script>Array.from(document.querySelectorAll('#dm tr')).slice(1).map(t=>t.querySelectorAll('td')).forEach(t=>{let p=t[4].textContent.split(','),a=p[0];t[1].textContent=`${(Math.floor(a/60/60)+'').padStart(2,0)}:${(Math.floor(a/60%60)+'').padStart(2,0)}:${(a%60).toFixed(3).padStart(6,0)}`;t[2].innerHTML=`&lt;a target=_blank rel="nofollow noreferrer" href="https://space.bilibili.com/${p[6]}"&gt;${p[6]}&lt;/a&gt;`})</script><h2 id="guard">舰长购买</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>舰长等级</th><th>购买数量</th><th>出现时间</th></tr><z:for-each select="/i/guard"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@level"/></td><td><z:value-of select="@count"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="sc">SuperChat 醒目留言</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>内容</th><th>显示时长</th><th>价格</th><th>出现时间</th></tr><z:for-each select="/i/sc"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="."/></td><td><z:value-of select="@time"/></td><td><z:value-of select="@price"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="gift">礼物</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>礼物名</th><th>礼物数量</th><th>出现时间</th></tr><z:for-each select="/i/gift"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@giftname"/></td><td><z:value-of select="@giftcount"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div></html></z:template></z:stylesheet></BililiveRecorderXmlStyle>
+  <d p="10232.820,4,25,14893055,1792500997518,0,6746622,0" user="达观甲申神将流水">又暗示我们bin哥</d>
+  <d p="10232.820,1,25,16777215,1792500998626,0,24105735,0" user="一夕四水刀风">弱队输了应该是挺伤心的,强队应该没那么伤心</d>
+  <d p="10244.512,1,25,16772431,1792501010090,0,397804598,0" user="火控雷达大舰巨炮">以前es的辅助输比赛还能笑出来，紫苑吧</d>
+  <d p="10248.362,1,25,16777215,1792501014214,0,645664517,0" user="灯野菖蒲-">不红温吗</d>
+  <d p="10257.479,1,25,16777215,1792501023159,0,24105735,0" user="一夕四水刀风">主要是输了必须伤心,不伤心就要压力你说输了还在笑了</d>
+  <d p="10266.609,4,25,14893055,1792501031667,0,309553490,0" user="达官甲申破烂王刘备">打出手感了，如果这是最后一局就不一样了</d>
+  <d p="10278.309,4,25,14893055,1792501044098,0,309553490,0" user="达官甲申破烂王刘备">笑蜥了</d>
+  <d p="10301.659,1,25,16777215,1792501066553,0,24105735,0" user="一夕四水刀风">退了其实下一波也打不了</d>
+  <d p="10308.190,1,25,16777215,1792501073657,0,24105735,0" user="一夕四水刀风">这次团赢了纯粹是狼队送的</d>
+  <d p="10328.958,1,25,16777215,1792501094323,0,24105735,0" user="一夕四水刀风">狼队二打五还给远古龙送了</d>
+  <d p="10334.207,1,25,16777215,1792501099945,0,601472,0" user="哀鸣原野">笑蜥了</d>
+  <d p="10343.310,1,25,16777215,1792501108107,0,24105735,0" user="一夕四水刀风">下一轮五打五还是输</d>
+  <d p="10378.405,1,25,16777215,1792501143292,0,24105735,0" user="一夕四水刀风">两拨翻盘都挺奇迹的</d>
+  <gift ts="10382.406" user="半人马三合星" uid="121072856" giftname="人气票" giftcount="1" />
+  <d p="10387.484,1,25,16777215,1792501153127,0,24105735,0" user="一夕四水刀风">主要还是狼队发狂了</d>
+  <d p="10387.508,1,25,16772431,1792501152830,0,492270,0" user="多聞円">笑蜥了</d>
+  <d p="10407.006,1,25,16772431,1792501171982,0,492270,0" user="多聞円">Kpl美杜莎今天发力了吗？</d>
+  <d p="10417.392,1,25,16777215,1792501182353,0,24105735,0" user="一夕四水刀风">270万大头给俱乐部还要交税还要分七八哥人</d>
+  <d p="10419.960,1,25,16777215,1792501185212,0,24105735,0" user="一夕四水刀风">到手应该就几万</d>
+  <d p="10421.305,1,25,16777215,1792501186325,0,23827762,0" user="古兰雅辛">主播有270w是不是就放假了</d>
+  <d p="10423.907,1,25,16777215,1792501189306,0,292556873,0" user="兮雪子">破烂王馋哭了</d>
+  <d p="10448.628,4,25,14893055,1792501214404,0,309553490,0" user="达官甲申破烂王刘备">俱乐部要拿一大半的</d>
+  <d p="10448.628,1,25,16772431,1792501214433,0,397804598,0" user="火控雷达大舰巨炮">年终奖金高</d>
+  <d p="10472.006,1,25,16772431,1792501237715,0,492270,0" user="多聞円">破烂王捡一辈子都捡不到270w</d>
+  <d p="10473.308,4,25,14893055,1792501238957,0,309553490,0" user="达官甲申破烂王刘备">他们主要还是合同赚钱</d>
+  <d p="10481.060,1,25,16777215,1792501246041,0,24105735,0" user="一夕四水刀风">哇打了三个小时吗</d>
+  <d p="10483.707,1,25,16772431,1792501248909,0,397804598,0" user="火控雷达大舰巨炮">最好是出国打比赛，外国奖金全是税后美金</d>
+  <d p="10495.405,1,25,16772431,1792501260267,0,492270,0" user="多聞円">有奖金的</d>
+  <d p="10496.646,1,25,16777215,1792501261808,0,24105735,0" user="一夕四水刀风">kpl没啥国际赛事吧</d>
+  <d p="10503.145,1,25,16777215,1792501268372,0,24105735,0" user="一夕四水刀风">都是国内自己玩自己的</d>
+  <d p="10505.809,4,25,14893055,1792501271018,0,309553490,0" user="达官甲申破烂王刘备">商务也是俱乐部帮你接，俱乐部也是拿大头</d>
+  <d p="10521.335,1,25,16777215,1792501286844,0,24105735,0" user="一夕四水刀风">商务主要是分成应该会高一些</d>
+  <d p="10526.532,1,25,16777215,1792501291497,0,24105735,0" user="一夕四水刀风">奖金分成挺低的</d>
+  <d p="10529.205,1,25,16772431,1792501294542,0,397804598,0" user="火控雷达大舰巨炮">ewc，沙特等等这样的</d>
+  <d p="10535.705,4,25,14893055,1792501301628,0,309553490,0" user="达官甲申破烂王刘备">就像vr也是公司拿大头</d>
+  <d p="10539.606,1,25,16777215,1792501304578,0,248673484,0" user="轻云知蔽月">dyg有个钎城还能赚点商务，一般的俱乐部全靠买卖选手</d>
+  <d p="10544.767,1,25,16777215,1792501310269,0,24105735,0" user="一夕四水刀风">就两个了吧,还是最近才有的</d>
+  <d p="10566.911,1,25,16772431,1792501331911,0,397804598,0" user="火控雷达大舰巨炮">两年前就有</d>
+  <d p="10583.758,1,25,16777215,1792501348632,0,24105735,0" user="一夕四水刀风">kpl都五六年了吧</d>
+  <d p="10600.705,1,25,16772431,1792501366221,0,397804598,0" user="火控雷达大舰巨炮">我看kpl都10年了</d>
+  <d p="10609.805,4,25,14893055,1792501374850,0,309553490,0" user="达官甲申破烂王刘备">kpl得十年了吧</d>
+  <d p="10617.484,1,25,16777215,1792501382533,0,24105735,0" user="一夕四水刀风">所以才说是最近阿,头几年全是自己玩自己的</d>
+  <d p="10625.405,4,25,14893055,1792501390134,0,309553490,0" user="达官甲申破烂王刘备">我17年我就看来的</d>
+  <d p="10631.788,4,25,14893055,1792501396801,0,6746622,0" user="达观甲申神将流水">nn知道血染钟楼吗，感觉自己能玩明白不</d>
+  <d p="10638.404,1,25,16772431,1792501404034,0,397804598,0" user="火控雷达大舰巨炮">今年是kpl10周年，去年是王者荣耀10周年</d>
+  <d p="10655.178,1,25,16777215,1792501420374,0,24105735,0" user="一夕四水刀风">kpl第二年就办了阿,这么离谱</d>
+  <d p="10673.503,4,25,14893055,1792501438386,0,309553490,0" user="达官甲申破烂王刘备">最近感觉没时间玩游戏吧，还有影之刃零呢</d>
+  <d p="10690.280,1,25,16777215,1792501456180,0,24105735,0" user="一夕四水刀风">影零要玩吗?</d>
+  <d p="10694.183,4,25,14893055,1792501459801,0,361800142,0" user="溯夜夜夜">卖火柴</d>
+  <gift ts="10709.831" user="Virtual_to_LIVE" uid="1011760473" giftname="粉丝团灯牌" giftcount="1" />
+  <d p="10709.832,1,25,16777215,1792501475306,0,24105735,0" user="一夕四水刀风">下个月也忙了</d>
+  <d p="10716.405,1,25,16772431,1792501481773,0,397804598,0" user="火控雷达大舰巨炮">当初英雄少，不限制使用，bo3，一天3场，经常暂停1小时以上</d>
+  <d p="10720.194,4,25,14893055,1792501485081,0,6746622,0" user="达观甲申神将流水">在忙什么</d>
+  <d p="10721.603,4,25,14893055,1792501487187,0,309553490,0" user="达官甲申破烂王刘备">拜拜，明天新衣</d>
+  <d p="10722.820,4,25,14893055,1792501488662,0,4140442,0" user="ScarecrowJS">新衣</d>
+  <d p="10724.116,1,25,14893055,1792501489788,0,187130,0" user="白毛此方">喜欢NN</d>
+  <d p="10724.203,1,25,16772431,1792501489324,0,492270,0" user="多聞円">晚安，大N老师</d>
+  <d p="10734.612,1,25,16777215,1792501499668,0,397541769,0" user="捡垃圾的司司">拜拜</d>
+  <d p="10735.806,4,25,14893055,1792501500956,0,361800142,0" user="溯夜夜夜">拜拜</d>
+  <d p="10738.510,4,25,14893055,1792501503928,0,437504152,0" user="南町家的哈气哈基米">拜拜拜拜</d>
+  <d p="10739.695,1,25,16777215,1792501504566,0,39075336,0" user="达观甲申神将晞女">拜拜拜拜</d>
+  <d p="10742.404,1,25,16772431,1792501508300,0,492270,0" user="多聞円">拜拜👋🏻</d>
+  <d p="10743.701,1,25,16777215,1792501508769,0,396254998,0" user="-鹧鸪清怨-">小N咪</d>
+  <d p="10745.002,1,25,16777215,1792501510156,0,102496582,0" user="霖冬夜雨">拜拜拜拜拜拜拜</d>
+  <d p="10748.825,4,25,14893055,1792501514433,0,87307812,0" user="上杉吹雪">坏了，明天有事</d>
+  <d p="10750.200,4,25,14893055,1792501515736,0,309553490,0" user="达官甲申破烂王刘备">拜拜</d>
+  <d p="10751.504,1,25,16772431,1792501516651,0,5266758,0" user="水布Mizufu">拜拜</d>
+  <d p="10754.100,1,25,16777215,1792501519128,0,396254998,0" user="-鹧鸪清怨-">👋🏻👋🏻👋🏻👋🏻👋🏻👋🏻👋🏻👋🏻👋🏻👋🏻</d>
+  <d p="10760.601,1,25,16772431,1792501525948,0,397804598,0" user="火控雷达大舰巨炮">工作时间来不了</d>
+  <d p="10769.618,4,25,14893055,1792501535545,0,497524327,0" user="达观甲申神将普光">拜拜拜拜</d>
+  <d p="10777.502,1,25,16777215,1792501543287,0,146089570,0" user="AUS永远滴神">NN最强</d>
+  <d p="10780.128,4,25,14893055,1792501545568,0,309553490,0" user="达官甲申破烂王刘备">？</d>
+  <d p="10781.410,1,25,16772431,1792501546364,0,492270,0" user="多聞円">乞丐服也要雷肥吗？</d>
+  <sc ts="10781.704" user="上杉吹雪" uid="87307812" price="2" time="5">先把明天的钢镚打了</sc>
+  <d p="10787.842,4,25,14893055,1792501552569,0,4140442,0" user="ScarecrowJS">？</d>
+</i>
