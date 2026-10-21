@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="#s"?>
+<i>
+  <!--
+mikufans录播姬 2.18.1-codex-danmaku-reconnect-singleflight.1+22.Branch.codex-danmaku-reconnect-singleflight.Sha.d7fd76001d74eb4aa01441c7793be8d779309d55
+https://rec.danmuji.org/user/danmaku/
+本文件的弹幕信息兼容mikufans主站视频弹幕XML格式
+本XML自带样式可以在浏览器里打开（推荐使用Chrome）
+
+sc 为SuperChat
+gift为礼物
+guard为上船
+
+attribute "raw" 为原始数据
+-->
+  <chatserver>chat.bilibili.com</chatserver>
+  <chatid>0</chatid>
+  <mission>0</mission>
+  <maxlimit>1000</maxlimit>
+  <state>0</state>
+  <real_name>0</real_name>
+  <source>0</source>
+  <BililiveRecorder version="2.18.1-codex-danmaku-reconnect-singleflight.1+22" />
+  <BililiveRecorderRecordInfo roomid="1986461465" shortid="0" name="克罗雅Kloa" title="不是" areanameparent="虚拟主播" areanamechild="虚拟日常" start_time="2026-10-21T09:38:32.1625929+08:00" />
+  <BililiveRecorderXmlStyle><z:stylesheet version="1.0" id="s" xml:id="s" xmlns:z="http://www.w3.org/1999/XSL/Transform"><z:output method="html"/><z:template match="/"><html><meta name="viewport" content="width=device-width"/><title>mikufans录播姬弹幕文件 - <z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></title><style>body{margin:0}h1,h2,p,table{margin-left:5px}table{border-spacing:0}td,th{border:1px solid grey;padding:1px}th{position:sticky;top:0;background:#4098de}tr:hover{background:#d9f4ff}div{overflow:auto;max-height:80vh;max-width:100vw;width:fit-content}</style><h1><a href="https://rec.danmuji.org">mikufans录播姬</a>弹幕XML文件</h1><p>本文件不支持在 IE 浏览器里预览，请使用 Chrome Firefox Edge 等浏览器。</p><p>文件用法参考文档 <a href="https://rec.danmuji.org/user/danmaku/">https://rec.danmuji.org/user/danmaku/</a></p><table><tr><td>录播姬版本</td><td><z:value-of select="/i/BililiveRecorder/@version"/></td></tr><tr><td>房间号</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@roomid"/></td></tr><tr><td>主播名</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></td></tr><tr><td>录制开始时间</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@start_time"/></td></tr><tr><td><a href="#d">弹幕</a></td><td>共<z:value-of select="count(/i/d)"/>条记录</td></tr><tr><td><a href="#guard">上船</a></td><td>共<z:value-of select="count(/i/guard)"/>条记录</td></tr><tr><td><a href="#sc">SC</a></td><td>共<z:value-of select="count(/i/sc)"/>条记录</td></tr><tr><td><a href="#gift">礼物</a></td><td>共<z:value-of select="count(/i/gift)"/>条记录</td></tr></table><h2 id="d">弹幕</h2><div id="dm"><table><tr><th>用户名</th><th>出现时间</th><th>用户ID</th><th>弹幕</th><th>参数</th></tr><z:for-each select="/i/d"><tr><td><z:value-of select="@user"/></td><td></td><td></td><td><z:value-of select="."/></td><td><z:value-of select="@p"/></td></tr></z:for-each></table></div><script>Array.from(document.querySelectorAll('#dm tr')).slice(1).map(t=>t.querySelectorAll('td')).forEach(t=>{let p=t[4].textContent.split(','),a=p[0];t[1].textContent=`${(Math.floor(a/60/60)+'').padStart(2,0)}:${(Math.floor(a/60%60)+'').padStart(2,0)}:${(a%60).toFixed(3).padStart(6,0)}`;t[2].innerHTML=`&lt;a target=_blank rel="nofollow noreferrer" href="https://space.bilibili.com/${p[6]}"&gt;${p[6]}&lt;/a&gt;`})</script><h2 id="guard">舰长购买</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>舰长等级</th><th>购买数量</th><th>出现时间</th></tr><z:for-each select="/i/guard"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@level"/></td><td><z:value-of select="@count"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="sc">SuperChat 醒目留言</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>内容</th><th>显示时长</th><th>价格</th><th>出现时间</th></tr><z:for-each select="/i/sc"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="."/></td><td><z:value-of select="@time"/></td><td><z:value-of select="@price"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="gift">礼物</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>礼物名</th><th>礼物数量</th><th>出现时间</th></tr><z:for-each select="/i/gift"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@giftname"/></td><td><z:value-of select="@giftcount"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div></html></z:template></z:stylesheet></BililiveRecorderXmlStyle>
+  <d p="6.447,1,25,65532,1792546719713,0,12535027,0" user="画方圆规"> 噢，单纯没睡醒是吧，是魔法期影响吗</d>
+  <d p="7.746,1,25,16777215,1792546720980,0,4256337,0" user="邪恶耿鬼">怎么播电台了</d>
+  <d p="9.021,4,25,14893055,1792546721271,0,796230,0" user="kanasoda">偷偷亲一下大家下播吧，这样没来的就124了</d>
+  <d p="9.021,1,25,16777215,1792546722020,0,31053830,0" user="紫樱雨o_O">老公老公老公</d>
+  <d p="10.866,1,25,14893055,1792546723005,0,414398266,0" user="升沌风行">比心</d>
+  <gift ts="11.688" user="影月风凪" uid="54011943" giftname="粉丝团灯牌" giftcount="1" />
+  <d p="11.688,1,25,14893055,1792546723809,0,3566411,0" user="mor1chika森">公主驾到</d>
+  <d p="11.688,4,25,14893055,1792546724733,0,6184649,0" user="一为梦_">本音好仙</d>
+  <d p="22.030,1,25,65532,1792546735325,0,12535027,0" user="画方圆规">魔法期正常吧</d>
+  <d p="31.688,1,25,16777215,1792546743839,0,1877272,0" user="心拍数">再无悲喜</d>
+  <d p="31.688,1,25,14893055,1792546744100,0,1928366,0" user="SolidMoffyMk2">闹钟太坏了</d>
+  <d p="32.460,1,25,65532,1792546745540,0,12535027,0" user="画方圆规">嘻嘻</d>
+  <d p="36.382,4,25,14893055,1792546748958,0,6184649,0" user="一为梦_">靠闹钟起的床那就不算睡饱了</d>
+  <d p="36.382,4,25,14893055,1792546749296,0,54011943,0" user="影月风凪">呃呃</d>
+  <gift ts="36.382" user="聃老翟丘生二代目" uid="180228513" giftname="粉丝团灯牌" giftcount="1" />
+  <d p="37.639,4,25,14893055,1792546750255,0,400603711,0" user="wzc547">本音好鲜</d>
+  <sc ts="40.094" user="N3mes1s_5ive" uid="243761631" price="30" time="60">魔法期好好调整，哥几个等你回来💪</sc>
+  <d p="40.263,1,25,65532,1792546753179,0,12535027,0" user="画方圆规">设备玩不玩</d>
+  <d p="45.435,1,25,65532,1792546758177,0,12535027,0" user="画方圆规">设备的问题</d>
+  <d p="48.040,4,25,14893055,1792546760244,0,21742347,0" user="超次元宅男">去开电脑吧</d>
+  <gift ts="48.040" user="升沌风行" uid="414398266" giftname="人气票" giftcount="1" />
+  <d p="49.362,4,25,14893055,1792546762541,0,54011943,0" user="影月风凪">别急</d>
+  <d p="51.979,1,25,14893055,1792546764720,0,3566411,0" user="mor1chika森">device的问题</d>
+  <d p="54.514,1,25,16772431,1792546766913,0,114427706,0" user="IMPLOSION-">？</d>
+  <d p="55.865,4,25,14893055,1792546769123,0,6184649,0" user="一为梦_">超绝洗漱音</d>
+  <gift ts="55.865" user="升沌风行" uid="414398266" giftname="粉丝团灯牌" giftcount="1" />
+  <d p="57.671,1,25,14893055,1792546770670,0,1282053,0" user="Moonlight_Neet">下次有早台就戴上手环然后调闹钟再睡吧，这个包醒的。苹果手机信不过</d>
+  <d p="59.728,1,25,65532,1792546772429,0,12535027,0" user="画方圆规">别急，刷牙洗脸了吗</d>
+  <d p="59.728,1,25,14893055,1792546772959,0,237111,0" user="一念梦雨">[UPOWER_2091418780_敲木鱼]</d>
+  <d p="61.567,4,25,14893055,1792546774612,0,5345668,0" user="蛋宝吃蛋堡">别急宝宝</d>
+  <d p="62.341,4,25,14893055,1792546774728,0,796230,0" user="kanasoda">在吃什么药啊😦</d>
+  <d p="62.341,1,25,65532,1792546774934,0,12535027,0" user="画方圆规">点歌早餐</d>
+  <d p="63.641,4,25,14893055,1792546776740,0,6184649,0" user="一为梦_">漱了口就能亲我了</d>
+  <d p="64.946,1,25,16772431,1792546777149,0,114427706,0" user="IMPLOSION-">那你还多余开个电台干啥我请问了</d>
+  <d p="65.469,1,25,16777215,1792546778871,0,453799275,0" user="名字ぐ">净化</d>
+  <gift ts="74.028" user="绊地狱" uid="3485160" giftname="粉丝团灯牌" giftcount="1" />
+  <gift ts="79.226" user="名字ぐ" uid="453799275" giftname="粉丝团灯牌" giftcount="1" />
+  <d p="86.263,1,25,16777215,1792546799666,0,351007984,0" user="糖分补足">点个早餐吧</d>
+  <gift ts="87.057" user="王仙客0_o" uid="5687537" giftname="粉丝团灯牌" giftcount="1" />
+  <d p="89.627,1,25,16777215,1792546802827,0,219948828,0" user="常温zy">早</d>
+  <d p="90.923,1,25,16772431,1792546803537,0,3963900,0" user="摸虾事务所">这直播标题啥意思</d>
+  <d p="96.143,1,25,14893055,1792546808232,0,237111,0" user="一念梦雨">早餐该吃八宝粥了</d>
+  <d p="97.438,1,25,65532,1792546810648,0,12535027,0" user="画方圆规">刷牙洗脸点个早餐先，别急</d>
+  <d p="97.438,4,25,14893055,1792546810818,0,21742347,0" user="超次元宅男">嘻嘻</d>
+  <d p="97.969,1,25,16777215,1792546810744,0,2002265,0" user="二镜三">鸭肾你漏再多生活音我也不会回旋来的（下回合翻面）</d>
+  <gift ts="101.346" user="五角初华" uid="3546731025271550" giftname="粉丝团灯牌" giftcount="1" />
+  <d p="103.943,4,25,14893055,1792546815987,0,6184649,0" user="一为梦_">开个电台你们就能注水了</d>
+  <d p="105.246,4,25,14893055,1792546818144,0,796230,0" user="kanasoda">开电台就是为了用本音馋我们吗</d>
+  <d p="106.534,4,25,14893055,1792546819088,0,15656417,0" user="贰三3三">嘻嘻</d>
+  <d p="110.480,4,25,14893055,1792546823330,0,6184649,0" user="一为梦_">快注</d>
+  <d p="113.571,1,25,14893055,1792546826118,0,1282053,0" user="Moonlight_Neet">米band呢?救一下啊</d>
+  <d p="120.071,1,25,16777215,1792546832315,0,23342979,0" user="止月tsuki">何意味</d>
+  <d p="121.394,1,25,16777215,1792546834453,0,3776681,0" user="Tickless187">嘻嘻</d>
+  <d p="121.394,1,25,65532,1792546834666,0,518563,0" user="下班要在九点">再无悲喜</d>
+  <d p="123.964,1,25,16777215,1792546836714,0,2002265,0" user="二镜三">已回旋已回旋已回旋已回旋已回旋已回旋已回旋已回旋已回旋</d>
+  <d p="126.568,1,25,16777215,1792546839331,0,3706952110573774,0" user="明前奶律">早上好</d>
+  <d p="131.266,4,25,14893055,1792546843487,0,21742347,0" user="超次元宅男">ok</d>
+  <d p="131.266,1,25,65532,1792546844040,0,12535027,0" user="画方圆规">对对</d>
+  <d p="131.266,1,25,14893055,1792546844095,0,3566411,0" user="mor1chika森">再无悲喜</d>
+  <d p="131.266,1,25,16772431,1792546844278,0,3963900,0" user="摸虾事务所">hyw</d>
+  <d p="133.841,1,25,16777215,1792546846682,0,31053830,0" user="紫樱雨o_O">生气</d>
+  <d p="134.365,1,25,14893055,1792546847169,0,414398266,0" user="升沌风行">好的好的</d>
+  <d p="135.136,1,25,16777215,1792546848335,0,31053830,0" user="紫樱雨o_O">开动了</d>
+  <d p="136.477,4,25,14893055,1792546849347,0,400603711,0" user="wzc547">ok</d>
+  <gift ts="136.477" user="虚虚又" uid="479050518" giftname="粉丝团灯牌" giftcount="1" />
+  <d p="136.990,4,25,14893055,1792546849189,0,12919478,0" user="纸月Kirisaki">再无悲喜</d>
+  <d p="136.990,1,25,16777215,1792546849414,0,23342979,0" user="止月tsuki">有点粘了</d>
+  <d p="137.742,1,25,65532,1792546850496,0,12535027,0" user="画方圆规"> 小猪困困</d>
+  <d p="139.563,1,25,16777215,1792546852204,0,289383871,0" user="Z_Mirage">好好好</d>
+  <d p="140.329,1,25,16772431,1792546852496,0,114427706,0" user="IMPLOSION-">报告一下 说是</d>
+  <d p="140.329,1,25,16777215,1792546852810,0,4446810,0" user="宮藤明">嘻嘻</d>
+  <d p="141.627,1,25,16777215,1792546854363,0,31053830,0" user="紫樱雨o_O">好的好的</d>
+  <d p="142.945,1,25,16777215,1792546855294,0,479050518,0" user="虚虚又">再无悲喜</d>
+  <d p="144.247,1,25,16772431,1792546856916,0,114427706,0" user="IMPLOSION-">给你两拳</d>
+  <d p="144.247,4,25,14893055,1792546857280,0,6184649,0" user="一为梦_">再无悲喜</d>
+  <d p="145.507,4,25,14893055,1792546858493,0,54011943,0" user="影月风凪">去吧去吧</d>
+  <d p="146.840,1,25,16772431,1792546859938,0,3963900,0" user="摸虾事务所">醒了发个动态不就好了嘛</d>
+  <d p="147.385,1,25,16772431,1792546859776,0,836355,0" user="米糯陶">哎</d>
+  <d p="147.385,1,25,14893055,1792546860777,0,1928366,0" user="SolidMoffyMk2">才半小时 还好</d>
+  <d p="148.124,1,25,65532,1792546860752,0,12535027,0" user="画方圆规">吓醒了说是</d>
+  <d p="148.124,1,25,16777215,1792546861459,0,390518528,0" user="千紫幻影">再无悲喜</d>
+  <d p="149.435,1,25,16777215,1792546861939,0,31053830,0" user="紫樱雨o_O">报告可以发动态啊</d>
+  <d p="149.435,1,25,65532,1792546862001,0,12535027,0" user="画方圆规">笑了</d>
+  <d p="149.436,4,25,14893055,1792546862393,0,400603711,0" user="wzc547">其实发个动态就行了</d>
+  <d p="152.067,1,25,16777215,1792546865407,0,573978916,0" user="ヤバス">比心</d>
+  <d p="154.625,4,25,14893055,1792546867135,0,6184649,0" user="一为梦_">收到了</d>
+  <d p="157.259,1,25,16777215,1792546870045,0,390518528,0" user="千紫幻影">嘻嘻</d>
+  <d p="157.764,1,25,16777215,1792546870296,0,3706952110573774,0" user="明前奶律">发个动态不就行了</d>
+  <d p="166.866,4,25,14893055,1792546880284,0,5345668,0" user="蛋宝吃蛋堡">那还行睡了8小时</d>
+  <d p="168.934,4,25,14893055,1792546881152,0,6184649,0" user="一为梦_">再无悲喜</d>
+</i>

@@ -1,0 +1,216 @@
+## 晚安回复
+
+---
+generatedAt: "2026-10-21T08:46:56.067Z"
+sourceHighlight: "录制-24872476-20261021-140902-550-乞丐服新衣发布！_AI_HIGHLIGHT.txt"
+provider: "daiYu"
+model: "gpt-6-luna"
+fallback: false
+attempts:
+  - provider: "daiYu"
+    model: "gpt-6-luna"
+    status: "success"
+    finishReason: "completed"
+    maxTokens: 100000
+    completionTokens: 358
+    promptTokens: 29003
+    cachedTokens: 4224
+    cacheWriteTokens: 0
+    reasoningTokens: 260
+    apiModeRequested: "responses"
+    apiModeUsed: "responses"
+    sharedPromptCacheKey: "b043b48d97bce274efa8336ba6147c3738348a87c9c9a1159f57b9a241cd5fac"
+    sharedPromptPrefixChars: 38076
+    explicitPromptCache: "implicit_routed"
+    promptCacheRolloutBucket: 7149
+    totalTokens: 29361
+    requestId: "a1c8bf2a-8632-4e84-bd20-1301aac9328a"
+    responseId: "resp_0bbab2d1d2147fb3016ad87bf8cafc819196a6cc3e9d020738"
+    requestStarted: true
+---
+火柴从一根卖到四根，最后只挣四块还惦记两千块海鲜自助，乞丐服发布会硬是演成连续剧，笑死我了！中途电脑卡顿还接着唱歌，歌声倒是真好听。南町忙了两个半小时辛苦啦，记得喝水歇嗓子、好好吃饭捏。
+
+---
+
+## Highlight
+
+【摘要】(保留率: 前35%热度 + 10%随机)
+---
+【参与者】计划参与: 无
+【参与者】实际出声: 无
+【归属说明】名单不证明逐句身份；实际出声仅指音轨匹配，也可能来自被观看内容。UNKNOWN和匿名标签不可归给房主。
+---
+[0m] ▫️ [UNKNOWN] 我 带 走 吧 我 知 道 火 柴  (💬 笑蜥了(x3) / 小N咪(x3) / 奶奶 / ？？？ / 大家都魔了，200人在空荡荡的直播间听故事)
+[1m] 🔥 [UNKNOWN] 人 们 说。[UNKNOWN] 谁 也 不 知 道。[UNKNOWN] 他 曾 经 看 见 过。[UNKNOWN] 多 么 美 丽 的 东 西 她 曾。[UNKNOWN] 经 跟 着。[UNKNOWN] 她 奶 奶 一 起 幸 福 的。[UNKNOWN] 走 向 新 年 的 欢 乐。[UNKNOWN] 走 在 寒 冷 下 雪 的 夜 空  (💬 笑蜥了(x13) / NN最强(x4) / 有猪(x3) / \破烂王/\破烂王/\破烂王/ / 小N咪)
+[2m] 🔥 [UNKNOWN] 埋 着 火。[UNKNOWN] 柴 温 抱 我 的 梦 一 步 步。[UNKNOWN] 冰 冻。[UNKNOWN] 一 步 步 寂 寞 人 清 寒 冷。[UNKNOWN] 冰 冻 我。[UNKNOWN] 的 手。[UNKNOWN] 一 把 火 柴 燃 烧 我 的 心。[UNKNOWN] 寒 冷 夜  (💬 NN最强(x18) / 笑蜥了(x8) / 卖打火机的小女孩 / \破烂王/\破烂王/\破烂王/ / 破烂王来啦)
+[2m] 🔥 [UNKNOWN] 里 挡 不 住 前 行 封 刺 我。[UNKNOWN] 的 脸。[UNKNOWN] 雪 割 我 的 口 拖 着 脚 步。[UNKNOWN] 还 能 走。[UNKNOWN] 多 久。[UNKNOWN] 有 谁 来 买 我 的 火 柴 有。[UNKNOWN] 谁 将 一。[UNKNOWN] 根 根 希 望 全 部 点 燃 有  (💬 NN最强(x21) / 笑蜥了(x3) / \破烂王/\破烂王/\破烂王/ / 卖火柴 / wink蜥)
+[3m] 🔥 [UNKNOWN] 谁 来。[UNKNOWN] 买 我 的 孤 单。[UNKNOWN] 嗯 哼。[UNKNOWN] 是。[UNKNOWN] 有 谁 来 实 现 我 想 家。[UNKNOWN] 的 呼 唤。[UNKNOWN] 嗯。[UNKNOWN] 每 次 点 燃 火 去 微 微 光。[UNKNOWN] 芒 看 到。[UNKNOWN] 希 望 看 到 梦 想 看 见 天  (💬 NN最强(x15) / \破烂王/\破烂王/\破烂王/ / 有猪 / 卖香烟的小女孩 / 窝趣主播唱歌咋这么好听)
+[3m] 🔥 [UNKNOWN] 上 的。[UNKNOWN] 妈 妈 说 话。[UNKNOWN] 他 说 你 要 勇 敢 你 要 坚。[UNKNOWN] 强 不 要。[UNKNOWN] 害 怕 不 要 慌 张 让 你 从。[UNKNOWN] 此 不。[UNKNOWN] 必 再 流 浪  (💬 NN最强(x10) / 有猪 / 笑蜥了 / \破烂王/\破烂王/\破烂王/ / 是你吗，卖导弹的小女孩！)
+[5m] ▫️ [UNKNOWN] 部 点 燃。[UNKNOWN] 强 不 要。[UNKNOWN] 希 望 看 到 梦 想 看 见 天。[UNKNOWN] 他 说 你 要 勇 敢 你 要 坚。[UNKNOWN] 有 谁 来 买 我 的 火 柴。[UNKNOWN] 非 常 需 要 一 根 火 柴。[UNKNOWN] 来 照 亮 我 的 周 围  (💬 NN最强(x5) / 笑蜥了 / \破烂王/\破烂王/\破烂王/ / 有打狗棍吗 / 神了)
+[7m] 🔥 [UNKNOWN] 哼。[UNKNOWN] 有 没 有 人。[UNKNOWN] 来 买 我 的 火 柴。[UNKNOWN] 嘶。[UNKNOWN] 我 的 周 围 太 黑 了。[UNKNOWN] 啊。[UNKNOWN] 什 么 都 看 不 见 什 么 都。[UNKNOWN] 感 受 不。[UNKNOWN] 到。[UNKNOWN] 能 感 受 到 的  (💬 笑蜥了(x5) / 在干嘛 / 不买谢谢 / 火才 / 可以和香烟捆绑销售)
+[7m] 🔥 [UNKNOWN] 只 有 刺 骨 的 含 义。[UNKNOWN] 还 有。[UNKNOWN] 冰 冷 的 雪 花。[UNKNOWN] 啊。[UNKNOWN] 又 岁。[UNKNOWN] 来 买 我 的 火 柴 呀 哈。[UNKNOWN] 啊。[UNKNOWN] 啊。[UNKNOWN] 啊。[UNKNOWN] 哈 哈 哈  (💬 笑蜥了(x8) / 在干嘛 / 0人在意 / 有猪 / 保安！)
+[8m] 🔥 [UNKNOWN] 怎 么 有 人 问 我 火 柴 多。[UNKNOWN] 少 钱 啊。[UNKNOWN] 不 是 干 嘛 什 么 意 思 啊。[UNKNOWN] 怎 么 都 是 怎 么 都 是 没。[UNKNOWN] 有 人 在。[UNKNOWN] 乎 我 吗。[UNKNOWN] 没 有 人 知 道 一 个 小 女  (💬 笑蜥了(x8) / 保安！ / 不买 / 影响市容了，快把她抬走 / 雪花飘飘)
+[8m] 🔥 [UNKNOWN] 孩 在 这。[UNKNOWN] 个 寒 风 瑟 瑟 中 待 了 多。[UNKNOWN] 久 吗。[UNKNOWN] 哈 哈。[UNKNOWN] 没 有 人 想 要 来 买 我 的。[UNKNOWN] 火 柴 吗。[UNKNOWN] 没 有 人 在 乎 我 这 个 小。[UNKNOWN] 女 孩 可  (💬 笑蜥了(x6) / 不买 / 0人在意 / 大N老师会唱白毛女吗？ / 我有打火机[笑])
+[8m] 🔥 [UNKNOWN] 能 就 会 冻 死 在 这 里 啊。[UNKNOWN] 啊 难 道 真 的 没 有 人 在。[UNKNOWN] 意 吗。[UNKNOWN] 我 们 之 间 的 关 系。[UNKNOWN] 原 来。[UNKNOWN] 就 这 么 的 淡 漠 吗。[UNKNOWN] 切。[UNKNOWN] 这 个 人 世 间  (💬 笑蜥了(x5) / 陪一根(x5) / 没钱，要不你把我点了吧 / 少抽点 / 开空调！！！)
+[9m] 🔥 [UNKNOWN] 到 底 还 能 不 能。[UNKNOWN] 感 受 都 一 点 温。[UNKNOWN] 怒 喊 了。[UNKNOWN] 呃。[UNKNOWN] 啊。[UNKNOWN] 只 需 要。[UNKNOWN] 只 需 要。[UNKNOWN] 我 的 火 柴 很 便 宜 的。[UNKNOWN] 切。[UNKNOWN] 其 实 它 一 点 儿 也 不 贵  (💬 陪一根(x6) / 笑蜥了(x4) / 告辞(x3) / ？？(x3) / ？？？)
+[9m] 🔥 [UNKNOWN] 只 需 要。[UNKNOWN] 只 需 要 一 个 舰 长 就 可。[UNKNOWN] 以 买 一。[UNKNOWN] 根 了。[UNKNOWN] 只 需 要 一 个 舰 长 就 可。[UNKNOWN] 以 满 一。[UNKNOWN] 个 人 了。[UNKNOWN] 这 一 个 舰 长 对 你 们 来  (💬 笑蜥了(x5) / 告辞(x3) / ？？(x3) / ？？？ / 走了)
+[10m] 🔥 [UNKNOWN] 说 只 是。[UNKNOWN] 小 小 的 一 笔 钱。[UNKNOWN] 可 对 我 来 说 可 是 能 照。[UNKNOWN] 亮 周 围。[UNKNOWN] 的 生 命 中 唯 一 的 一 束。[UNKNOWN] 光 啊。[UNKNOWN] 嘶。[UNKNOWN] 我 的 周 围 好 黑 呀 我 什  (💬 笑蜥了(x4) / 你还没谢我呢 / 走了走了 / ？？？？？？？？？？？ / 难怪饿死了)
+[10m] 🔥 [UNKNOWN] 么 都 看。[UNKNOWN] 不 见 我 的 生 命 力 没 有。[UNKNOWN] 一 点。[UNKNOWN] 光 亮 啊。[UNKNOWN] 不 是 怎 么 还 有 人 在 这。[UNKNOWN] 里 抢 生。[UNKNOWN] 意 啊。[UNKNOWN] 还 有 人 在 这 里 抢 生 意  (💬 笑蜥了(x6) / 小在哪，主播觉得小v我看看实力 / 老师台词不错 该去演话剧了 / 她本可以直接抢，但她却用火柴换 / 你这是火柴还是火药)
+[11m] 🔥 [UNKNOWN] 是 什 么。[UNKNOWN] 意 思 啊。[UNKNOWN] 打 火 机 当 然 也 可 以 可。[UNKNOWN] 是 只 有。[UNKNOWN] 火 柴 能 看 见 奶 奶 呀。[UNKNOWN] 他 能 看 见 我 们 之 前 看。[UNKNOWN] 不 见 的。[UNKNOWN] 人 呐 哈 哈 是 吗  (💬 笑蜥了 / 抽的剩一根了来卖 / 别卖了，留着点烟吧 / 那第二个上舰的怎么办 / 火柴这值钱吗？上哪进货啊)
+[12m] 🔥 [UNKNOWN] 什 么 我 看 到 了 什 么。[UNKNOWN] 那 是 我 生 命 中 的 那 束。[UNKNOWN] 光 照 亮。[UNKNOWN] 啊 我 的 世 界 增 加 了 一。[UNKNOWN] 你 妈。[UNKNOWN] 看 到 我 了 吗。[UNKNOWN] 你 们 看 到 我 了 吗。[UNKNOWN] 感 觉  (💬 好了，看看奶奶 / 笑蜥了 / 火机能看见太奶奶 / 怨妇小奶奶 / 卖火柴送你去见太奶)
+[13m] 🔥 [UNKNOWN] 啊。[UNKNOWN] 好 像 离 你 们 更 近 了 一。[UNKNOWN] 些。[UNKNOWN] 能 更 加 看 清 楚 了 你 们。[UNKNOWN] 一 些 呀。[UNKNOWN] 啊。[UNKNOWN] 啊。[UNKNOWN] 这 就 是 火 柴 的 力 量 吗。[UNKNOWN] 啊  (💬 笑蜥了(x11) / 你是？ / 主播看看奶奶 / 没有 / 想看奶奶)
+[13m] 🔥 [UNKNOWN] 难 道 这 就 是。[UNKNOWN] 火 柴 的 力 量 吗。[UNKNOWN] 一 根 火 柴。[UNKNOWN] 就 有 这 么 大 的 力 量。[UNKNOWN] 两 根 火 柴。[UNKNOWN] 就 能 让 我 看 到 你 们 一。[UNKNOWN] 些。[UNKNOWN] 那 三 根 火 柴 呢  (💬 笑蜥了(x8) / 不像演的 / 离我远点 / 够了，能看见脸就行了 / 奶奶呢？怎么是你？)
+[13m] 🔥 [UNKNOWN] 我 简 直 是 不 敢 想 象。[UNKNOWN] 三 根 火 柴 究 竟 会 有 多。[UNKNOWN] 么 大。[UNKNOWN] 大 的 威 力 呀。[UNKNOWN] 有 谁。[UNKNOWN] 来 买 我 的。[UNKNOWN] 第 三 根 火 柴 呀。[UNKNOWN] 哈。[UNKNOWN] 哼  (💬 笑蜥了(x9) / 够了够了，不用再买了 / 这里是天堂吗 / 我好像在被女鬼讨命，不行，寿来寿来寿来！ / 把她点了吧[笑])
+[14m] 🔥 [UNKNOWN] u 谁。[UNKNOWN] 来 买 我 的 第 三 根 火 柴。[UNKNOWN] 你 看。[UNKNOWN] 切。[UNKNOWN] 三。[UNKNOWN] 啊。[UNKNOWN] 可 是 我 现 在 还 是 很 冷。[UNKNOWN] 还 是 很 饿。[UNKNOWN] 啊。[UNKNOWN] 还 是 衣 不 蔽 体  (💬 笑蜥了(x8) / 看看衣不蔽体 / 谁在流浪乞讨[笑] / 你自己给自己上个舰 / 南町，昨天我亏了5W。。。安慰一下。。。)
+[14m] 🔥 [UNKNOWN] 哼。[UNKNOWN] 还 是 心 如 刀 割。[UNKNOWN] 还 是。[UNKNOWN] 撑 不 下。[UNKNOWN] 去。[UNKNOWN] 啊 啊 啊。[UNKNOWN] 怎 么 回 事 为 什 么 不 是。[UNKNOWN] 都 说 人。[UNKNOWN] 间 有 真 情 人 间 有 真 爱  (💬 笑蜥了(x9) / 老板糊涂啊(x3) / 看看衣不蔽体 / 我拿命买都买不起第三根[出窍] / 主播能想点有创意的广告词儿吗，你这广告词没有竞争力)
+[15m] 🔥 [UNKNOWN] 吗 为。[UNKNOWN] 什 么 我 只 看 到 了 无 尽。[UNKNOWN] 的 谩 骂。[UNKNOWN] 和 往 我 身 上 吐 的 痰 以。[UNKNOWN] 及 往。[UNKNOWN] 我 脚 下 丢 的 烟 头 啊。[UNKNOWN] 什 么。[UNKNOWN] 第 三 根 火 柴  (💬 笑蜥了(x9) / 老板糊涂啊(x3) / 加油吧，破烂王 / 衣不蔽体食不充饥 / 主播可以点根烟当火柴)
+[15m] 🔥 [UNKNOWN] 根 火 柴 就 这 么 卖 出 去。[UNKNOWN] 了 吗。[UNKNOWN] 这 是 我 今 天 最 大 的 愿。[UNKNOWN] 望 就 是。[UNKNOWN] 卖 出 去 三 根 火 柴。[UNKNOWN] 我 感 觉。[UNKNOWN] 好 想 理 你 们。[UNKNOWN] 又 跟  (💬 笑蜥了(x11) / 捡起烟头嘬两口 / 这烟头不是你自己抽的吗 / 有烟头不错了 / 有股味啊大家有股味)
+[16m] 🔥 [UNKNOWN] 亲。[UNKNOWN] 每 一。[UNKNOWN] 只 是 我 觉 得。[UNKNOWN] 啊。[UNKNOWN] 只 是 我 觉 得。[UNKNOWN] 我 的 四 周 还 是 被 黑 暗。[UNKNOWN] 笼 罩 着。[UNKNOWN] 可 是 我 觉 得。[UNKNOWN] 海 星 有 一 点 看 不 清 楚  (💬 笑蜥了(x11) / skip(x4) / 老板糊涂啊(x3) / 自己抽的烟别污蔑我[dog] / 再不亮我要申请退款了)
+[16m] 🔥 [UNKNOWN] 四。[UNKNOWN] 分 钟。[UNKNOWN] 还 是 有 一 点。[UNKNOWN] 哈。[UNKNOWN] 看 不 到 光 明。[UNKNOWN] 什 么 啊。[UNKNOWN] 逆 经 第 四。[UNKNOWN] 不 跟 火 柴 了 吗。[UNKNOWN] 啊 啊。[UNKNOWN] 我 感 觉  (💬 笑蜥了(x13) / skip(x6) / 老板糊涂啊(x3) / 陪一根 / 笼罩在哪)
+[16m] 🔥 [UNKNOWN] 时 间 的 流 逝。[UNKNOWN] 变 得 慢 了 许 多。[UNKNOWN] 我 感 觉。[UNKNOWN] 四 周。[UNKNOWN] 变 得 更 加 清 晰 了。[UNKNOWN] 我 感 觉。[UNKNOWN] 我 的 人 生。[UNKNOWN] 的 未 来 的 指 向 心 已 变。[UNKNOWN] 得 更 加  (💬 笑蜥了(x9) / skip(x8) / 老板糊涂啊 / [花礼Harei收藏集表情包_口水黄豆] / 老艺术家怎么还笑场呢)
+[17m] 🔥 [UNKNOWN] 明 确 了。[UNKNOWN] 啊。[UNKNOWN] 可 是。[UNKNOWN] 可 是。[UNKNOWN] 最 重 要 的 一 件 事 就 是。[UNKNOWN] 我 还 没 有 一 件 崭 新 的。[UNKNOWN] 订 衣 服 呀。[UNKNOWN] 大 家。[UNKNOWN] 哼。[UNKNOWN] 为 什 么 不 露 出 全 貌 给  (💬 笑蜥了(x12) / skip(x5) / ⏩⏩⏩ / 头太大了，帽子戴不下了 / 钱来钱来钱来钱来钱来钱来钱来钱来钱来)
+[17m] 🔥 [UNKNOWN] 你 们 看。[UNKNOWN] 呢。[UNKNOWN] 是 因 为。[UNKNOWN] 我 现 在 的 衣 服。[UNKNOWN] 确 实 是 有 一 点。[UNKNOWN] 上 不 了 太 面 了。[UNKNOWN] 嗯。[UNKNOWN] 不 是 我 不 想 给 你 们 看。[UNKNOWN] 只 不 过 是 我  (💬 笑蜥了(x13) / skip / 喜多 / 看看全身 / 还想要新衣服)
+[17m] 🔥 [UNKNOWN] 是。[UNKNOWN] 还 是 希 望 能 够。[UNKNOWN] 以 最 饱 满 的 状 态 见 到。[UNKNOWN] 大 家。[UNKNOWN] 但 是。[UNKNOWN] 今 天 的 这 件 衣 服 可 能。[UNKNOWN] 做 不 到。[UNKNOWN] 了。[UNKNOWN] 你 们 会 失 望 吗  (💬 笑蜥了(x15) / 喜多 / 等会主播就用火柴点烟了 / 主播你的守宫飞起来了 / 新衣服（久经沙场）)
+[17m] 🔥 [UNKNOWN] 你 们 会 难 过 吗。[UNKNOWN] 啊。[UNKNOWN] 虽 然。[UNKNOWN] 在 这 寒 冷 的 冬 日。[UNKNOWN] 只 穿 一 件 衣 服 确 实 是。[UNKNOWN] 会 有 那。[UNKNOWN] 么 一 点。[UNKNOWN] 汗 冷 的。[UNKNOWN] 但 是  (💬 笑蜥了(x15) / 喜多 / 会的会的 / 我缺的守宫尾巴谁给我👀啊 / 新衣服(残破不堪))
+[18m] 🔥 [UNKNOWN] 呃。[UNKNOWN] 大 家。[UNKNOWN] 哼。[UNKNOWN] 应 该 的 们。[UNKNOWN] 看 到 了 我 的 全 身 之 后。[UNKNOWN] 也 不 会。[UNKNOWN] 觉 得。[UNKNOWN] 我 这 个 人 很 落 魄 吧。[UNKNOWN] 啊。[UNKNOWN] 我 今 天 卖 出 去 了 四 根  (💬 笑蜥了(x16) / 会的会的 / ？？？ / 主包要穿这身玩乞丐模拟器吗 / 我气笑了)
+[18m] 🔥 [UNKNOWN] 火 柴 呀。[UNKNOWN] 四 根 货 柴。[UNKNOWN] 我 卖 了 这 么 多 金 币 拿。[UNKNOWN] 回 家。[UNKNOWN] 你 们 应 该 不 会 见 我 穿。[UNKNOWN] 的 这 么。[UNKNOWN] 破 旧 就 把 我 赶 出 去 吧。[UNKNOWN] 会 吗  (💬 笑蜥了(x16) / ？？？(x3) / 会的会的 / 什么情况 / 看看全身)
+[18m] 🔥 [UNKNOWN] 啊。[UNKNOWN] 我 不 仅 带 来 了 四 根 火。[UNKNOWN] 柴 卖 的。[UNKNOWN] 钱。[UNKNOWN] 一 共 整 整 4 元。[UNKNOWN] 还 带 来 了。[UNKNOWN] 半 包 没 有 吃 完 的 栗 子。[UNKNOWN] 半 瓶 没 有 喷 完 的 西 瓜  (💬 笑蜥了(x15) / ？？？(x3) / 什么情况 / onp / 会的会的)
+[19m] 🔥 [UNKNOWN] 说。[UNKNOWN] 半 盒 没 有 吃 到 的 润 喉。[UNKNOWN] 糖。[UNKNOWN] 以 及。[UNKNOWN] 半 盒 没 有 用 完 的 牙 蟹。[UNKNOWN] 你 们。[UNKNOWN] 谢 谢。[UNKNOWN] 应 该 会。[UNKNOWN] 笑 着 把 我 接 进 家 里 吧  (💬 笑蜥了(x14) / ？？？ / onp / 丨丨丨 / 没有壁炉)
+[19m] 🔥 [UNKNOWN] 应 该 会。[UNKNOWN] 把 壁 炉 的 火 烧 热 等 我。[UNKNOWN] 坐 进 走。[UNKNOWN] 我 坐 的 旁 边 烤 吧。[UNKNOWN] 应 该。[UNKNOWN] 会 准 备 好 满 汉 全 席 和。[UNKNOWN] 海 鲜 自。[UNKNOWN] 助 云 集。[UNKNOWN] 给 我 吧  (💬 笑蜥了(x10) / 老板糊涂啊(x4) / 丨丨丨 / 没有壁炉 / ？？？？？)
+[20m] 🔥 [UNKNOWN] 哦。[UNKNOWN] 我 真 的 很 想 吃 一 顿 价。[UNKNOWN] 值 两 千。[UNKNOWN] 块 钱 的 海 鲜 自 助 啊 我。[UNKNOWN] 会 用。[UNKNOWN] 我 今 天 卖 个 火 柴 所 有。[UNKNOWN] 的 钱 来。[UNKNOWN] 向 你 换 取 这 顿 美 味 的  (💬 笑蜥了(x7) / 老板糊涂啊(x6) / 老板糊涂(x3) / ？？？？？ / 丨吧宝宝)
+[20m] 🔥 [UNKNOWN] 食 物。[UNKNOWN] 四 根 火 柴 蒸 整 寺 怨 这。[UNKNOWN] 是 我 所。[UNKNOWN] 有 的 钱。[UNKNOWN] 这 是 我 所 有 身 上 的 浑。[UNKNOWN] 身 上 下。[UNKNOWN] 所 有 的 家 当 啊 真 的 吗。[UNKNOWN] 居 然  (💬 笑蜥了(x17) / 老板糊涂啊(x7) / 老板糊涂(x3) / 糊涂啊(x3) / 已经展示完了吗)
+[20m] 🔥 [UNKNOWN] 真 的 有 海 鲜 自 助 可 以。[UNKNOWN] 吃 吗。[UNKNOWN] 奶 奶 果 然 没 有 骗 我 呀。[UNKNOWN] 海 鲜 自 助 是 真 的 存 在。[UNKNOWN] 败 在 这 个 世 界 上 的。[UNKNOWN] 啊 啊。[UNKNOWN] 啊 啊。[UNKNOWN] 这 个 世 界  (💬 笑蜥了(x21) / 老板糊涂啊(x3) / 糊涂啊 / 什么情况 / 谁让你吃了？)
+[21m] 🔥 [UNKNOWN] 还 是 有 值 得 留 恋 的 事。[UNKNOWN] 情 的。[UNKNOWN] 什 么。[UNKNOWN] 你 让 我 吃 了 赶 紧 滚。[UNKNOWN] 嘶。[UNKNOWN] 可 是 这 大 半 夜 的。[UNKNOWN] 嗯。[UNKNOWN] 我 也 没 有 别 的 地 方 可。[UNKNOWN] 以 去 了  (💬 笑蜥了(x16) / 谁让你吃了？ / ？？？ / 窗户封死了 / 什么情况)
+[21m] 🔥 [UNKNOWN] 啊。[UNKNOWN] 切。[UNKNOWN] 虽 然 说 我 吃 饱 了。[UNKNOWN] 但 是。[UNKNOWN] 我 还 希 望 我 能 睡 在 一。[UNKNOWN] 个 柔 软。[UNKNOWN] 的 席 梦 思 上 盖 着 我 的。[UNKNOWN] 蚕 丝。[UNKNOWN] 被 子  (💬 笑蜥了(x16) / 谁让你吃了？ / ？？？ / 演完了吗？演完了看看全身 / 得寸进尺了[大笑])
+[21m] 🔥 [UNKNOWN] 美 美 的 睡 上 一 觉 啊。[UNKNOWN] 没 有 什 么 地 方 可 以 容。[UNKNOWN] 纳 我 一。[UNKNOWN] 晚 吗。[UNKNOWN] 不 是。[UNKNOWN] 怎 么 回 事。[UNKNOWN] 哈 哈 哈 哈。[UNKNOWN] 刚 吃 完 海 鲜 大 餐 就 把  (💬 笑蜥了(x19) / ？？？ / ？？？？ / 该喊怨妇小奶奶过来看看了 / 许愿来了)
+[22m] 🔥 [UNKNOWN] 我 赶 出。[UNKNOWN] 来 了 我 知 道 一 顿 海 鲜。[UNKNOWN] 大 餐。[UNKNOWN] 对 你 们 来 说 根 本 不 算。[UNKNOWN] 什 么 随。[UNKNOWN] 手 就 打 发 给 一 个 乞 丐。[UNKNOWN] 了 可。[UNKNOWN] 是 你 现 在 所 带 给 这 个  (💬 笑蜥了(x20) / iceb(x3) / 丨吧 / 老板糊涂啊 / 老实憋笑，很枯燥吧)
+[22m] 🔥 [UNKNOWN] 乞 丐 的。[UNKNOWN] 伤 害 岂 是 一 顿 海 鲜 大。[UNKNOWN] 餐 可。[UNKNOWN] 以 弥 补 的。[UNKNOWN] 不 管 多 少 年 后 这 个 乞。[UNKNOWN] 丐 都 会。[UNKNOWN] 嫉 妒。[UNKNOWN] 十 月 二 十 一 号 的 下 午  (💬 笑蜥了(x17) / iceb(x3) / 气笑了 / 老板糊涂啊 / 这个时候要划一根火柴[dog])
+[23m] 🔥 [UNKNOWN] 两 点 半。[UNKNOWN] 哦。[UNKNOWN] 你 们 把 他。[UNKNOWN] 敢 说。[UNKNOWN] 回 家。[UNKNOWN] no。[UNKNOWN] 你 们 没 有 让 他 睡 上 席。[UNKNOWN] 梦 思。[UNKNOWN] 没 有 让 他 盖 上 蚕 丝 被。[UNKNOWN] 子 没 有  (💬 笑蜥了(x11) / 老板糊涂啊 / iceb / 有猪 / 兄弟们一人一根火柴，把主播烧了吧)
+[23m] 🔥 [UNKNOWN] 让 他。[UNKNOWN] 猪 肉 地 暖。[UNKNOWN] 这 个 世 界。[UNKNOWN] 还 有 没 有 一 点 人 性 啊。[UNKNOWN] 不 是 都 说 人 间 有 真 情。[UNKNOWN] 人 间 有。[UNKNOWN] 真 爱 的 吗。[UNKNOWN] 这 个 乞 丐 没 有 过 上 他  (💬 笑蜥了(x11) / 老板糊涂啊 / 有猪 / 老板大气 / 丨丨丨)
+[23m] 🔥 [UNKNOWN] 梦 寐 以。[UNKNOWN] 求 的 生 活 怎 么 想。[UNKNOWN] 不 是 你 们 的。[UNKNOWN] 哦。[UNKNOWN] 我 去。[UNKNOWN] 好 吧。[UNKNOWN] 你 们 就 这 样 把 乞 丐 赶。[UNKNOWN] 到 赶 到。[UNKNOWN] 外 面 去 住 吧  (💬 笑蜥了(x4) / 丨吧(x3) / 有猪 / 好事啊 / 你连吃带拿的)
+[23m] 🔥 [UNKNOWN] 一 个 乞 丐 冻 死 了。[UNKNOWN] 都 死 在 你 家 门 口 了 你。[UNKNOWN] 也 不 会。[UNKNOWN] 在 乎 的。[UNKNOWN] 是。[UNKNOWN] 我 就 这 样 慢 慢 的 带 出。[UNKNOWN] 你 们 的。[UNKNOWN] 生 命 了。[UNKNOWN] 我 就 这 样 一 步 一 步 的  (💬 笑蜥了(x9) / 丨吧(x5) / 快丨(x4) / 再见了，n小妹(x3) / 丨吧宝宝(x3))
+[24m] 🔥 [UNKNOWN] 带 出 你。[UNKNOWN] 们 的 生 命 了。[UNKNOWN] 不 要 在 我 离 开 的 时 候。[UNKNOWN] 才 想 到。[UNKNOWN] 珍 惜。[UNKNOWN] 我 要 离 开 你 们 了。[UNKNOWN] 看 着 我 越 走 越 远 你 们。[UNKNOWN] 真 的 忍  (💬 笑蜥了(x9) / 丨吧(x5) / 再见了，n小妹(x4) / 丨吧宝宝(x4) / 快丨(x4))
+[24m] 🔥 [UNKNOWN] 心 吗。[UNKNOWN] 看 着 我 越 走 越 远 你 们。[UNKNOWN] 真 的 忍。[UNKNOWN] 心 吗。[UNKNOWN] 看 见 我 们 离 开 了 这 个。[UNKNOWN] 世 界 你。[UNKNOWN] 们 真 的 忍 心 吗。[UNKNOWN] 二。[UNKNOWN] 嗯  (💬 笑蜥了(x16) / 快丨(x4) / 丨吧(x3) / 再见了，n小妹(x3) / 赶紧丨(x3))
+[24m] 🔥 [UNKNOWN] 切。[UNKNOWN] 可 是。[UNKNOWN] 我 对 这 个 世 界 还 有 最。[UNKNOWN] 后 一 丝。[UNKNOWN] 眷 恋。[UNKNOWN] 可 是 我 对 这 个 世 界 还。[UNKNOWN] 有 最 后。[UNKNOWN] 一 丝 眷 恋。[UNKNOWN] 啊。[UNKNOWN] 我 还 没 有  (💬 笑蜥了(x13) / 拜拜拜拜(x3) / 不你没有 / 不，你没有 / 还有润人)
+[25m] 🔥 [UNKNOWN] 啊。[UNKNOWN] 我 还 没 有。[UNKNOWN] 切。[UNKNOWN] 去 过 北 国。[UNKNOWN] 听 说。[UNKNOWN] 啊。[UNKNOWN] 那 里 的 房 子 很 大。[UNKNOWN] 那 里 所 有 人 都 有 车。[UNKNOWN] 所 有 人。[UNKNOWN] 都 做 别 墅  (💬 笑蜥了(x11) / 不，你没有 / 还有润人 / 赶紧丨 / 喜多的🔑)
+[25m] 🔥 [UNKNOWN] 所 有 人。[UNKNOWN] 都 很 善 良。[UNKNOWN] 走 在 路 上 就 会 获 得 上。[UNKNOWN] 天 的 馈。[UNKNOWN] 赠。[UNKNOWN] 虽 然 我 是 一 个 乞 丐。[UNKNOWN] 但 是 物 业。[UNKNOWN] 有 属 于 我 的 美 国 梦  (💬 笑蜥了(x3) / 主播要走线了吗 / 门口垃圾帮忙扔一下谢谢 / 美团梦来了 / 有猪)
+[26m] 🔥 [UNKNOWN] 所 以。[UNKNOWN] 我 要 在 这 里。[UNKNOWN] 继 续 活 下 去。[UNKNOWN] 我 要 在 这 个 自 动 贩 卖。[UNKNOWN] 机 前 面。[UNKNOWN] 构 建 出 属 于 我 自 己 的。[UNKNOWN] 家。[UNKNOWN] 啊。[UNKNOWN] 虽 然 是 在 寒 冷  (💬 笑蜥了(x3) / 要到饭了 / 分你面粉吗 / 资助你个垃圾桶，当船用飘过去吧 / 再见了)
+[26m] 🔥 [UNKNOWN] 算 是 的 是 冬 天。[UNKNOWN] 虽 然。[UNKNOWN] 人 情 更 冰 冷。[UNKNOWN] 对 不 起 海 鲜 自 助 刚 刚。[UNKNOWN] 吃 太 饱。[UNKNOWN] 了。[UNKNOWN] 我 会 在 这 个 自 动 贩 卖。[UNKNOWN] 机 前 面。[UNKNOWN] 好 好 的 祈 祷  (💬 笑蜥了(x15) / ？？？(x3) / 气笑了(x3) / iceb / 能去法国吗)
+[27m] 🔥 [UNKNOWN] 载 我 去 美 国 的 路 费 的。[UNKNOWN] 嘶。[UNKNOWN] 虽 然 说 你 们 给 了 我 一。[UNKNOWN] 丝 光 明。[UNKNOWN] 但 是 你 们 却 带 给 了 我。[UNKNOWN] 永 久。[UNKNOWN] 的 痛 苦。[UNKNOWN] 请 我 吃 了 一 村 一 餐 海  (💬 笑蜥了(x9) / 气笑了(x4) / iceb / ？？？？ / 什么动静)
+[27m] 🔥 [UNKNOWN] 鲜 做 助。[UNKNOWN] 有 什 么 用 呢 你 们 让 我。[UNKNOWN] 尝 到。[UNKNOWN] 了 美 妙 的 滋 味 我 由 奢。[UNKNOWN] 入 俭 难。[UNKNOWN] 了 你 们 现 在 让 我 去 过。[UNKNOWN] 乞 丐。[UNKNOWN] 的 生 活 我 还 能 过 的 习  (💬 笑蜥了(x5) / iceb(x3) / ？？？？ / 感觉是磕嗨了的幻觉 / 冰福)
+[27m] 🔥 [UNKNOWN] 惯 吗 你。[UNKNOWN] 们 现 在 在 让 我 在 这 个。[UNKNOWN] 自 动。[UNKNOWN] 贩 卖 机 前 面 乞 讨 你 们。[UNKNOWN] 觉 得 我。[UNKNOWN] 还 能 够 受 得 了 吗。[UNKNOWN] 啊。[UNKNOWN] 嗯。[UNKNOWN] 哎  (💬 笑蜥了(x4) / iceb(x3) / ？？？？ / 右下角有鼻屎谁弹的 / 那我们还没吃到海鲜自助啊)
+[28m] 🔥 [UNKNOWN] 如 果 你 不 能 爱 我 一 辈。[UNKNOWN] 子 就 不。[UNKNOWN] 要 对 我 好 了。[UNKNOWN] 如 果 你 只 对 我 好 一 次。[UNKNOWN] 的 话。[UNKNOWN] 那 么 你 会 带 给 我 更 多。[UNKNOWN] 的 是 痛。[UNKNOWN] 苦  (💬 笑蜥了(x4) / 多饿几顿就好了 / 那说明该死了 / 吃定彩虹 / 事福)
+[28m] 🔥 [UNKNOWN] 嗯。[UNKNOWN] 嘘。[UNKNOWN] 我 知 道 了。[UNKNOWN] 一 切 的 一 切 都 要 自 食。[UNKNOWN] 其 力 了。[UNKNOWN] 现 在 我 可 以 依 靠 的 人。[UNKNOWN] 已 经 没。[UNKNOWN] 有 了。[UNKNOWN] 谢 谢 刚 刚 大 家  (💬 笑蜥了(x4) / 五香干 / 该送进大山了 / 符合比例 / 不是你贴上来的吗)
+[28m] 🔥 [UNKNOWN] 买 我 的 火 柴。[UNKNOWN] 我 现 在。[UNKNOWN] 又 要 离 开 这 个 自 动 贩。[UNKNOWN] 卖 机 了。[UNKNOWN] 嗯。[UNKNOWN] 这 个 自 动 贩 卖 机。[UNKNOWN] 虽 然 给 了 我 一 丝 温 暖。[UNKNOWN] 但 是 不 够 了  (💬 笑蜥了(x3) / 那一次都别了 / 你怎么没有腿啊 / 赶紧丨赶紧丨 / 放大点，躺在贩卖机前)
+[29m] 🔥 [UNKNOWN] 我 一 定 要 找 寻 属 于 我。[UNKNOWN] 的 那 个。[UNKNOWN] 席 梦 思。[UNKNOWN] 和 我 的 蚕 丝 被。[UNKNOWN] 和 吃 不 完 的 烧 鹅。[UNKNOWN] 和 海 信 自 助。[UNKNOWN] 现 在。[UNKNOWN] 我 要 离 开 了  (💬 笑蜥了 / 丨吧 / 快| / 元华？ / 得寸进尺了)
+[29m] 🔥 [UNKNOWN] 嗯。[UNKNOWN] 拿 着 我 手 里 谨 剩 家 当。[UNKNOWN] 我 要 离 开 这 个 世 界 了。[UNKNOWN] 我 要 开 启 我 的 人 生 事。[UNKNOWN] 业 第 二。[UNKNOWN] 春 了。[UNKNOWN] 一 时 间 我 也 忘 记 了。[UNKNOWN] 原 来  (💬 丨吧 / 笑蜥了 / iceb / 保安！把这个乞丐撵出去！ / 你别过来)
+[29m] 🔥 [UNKNOWN] 嗯。[UNKNOWN] 我 是 一 个 健 康 的 人 类。[UNKNOWN] 我 有 我 的 手 和 我 的 脚。[UNKNOWN] 还 有 我 最 重 要 的 声 音。[UNKNOWN] 嗯。[UNKNOWN] 我 的 声 音 是 我 最 宝 贵。[UNKNOWN] 的 财 富。[UNKNOWN] 嗯  (💬 iceb / 医生快来，这位精神病人要跑了 / 保安？保安呢？ / 哟，还有俩钢镚，拿来吧你 / 看得我幸福者退让了)
+[30m] 🔥 [UNKNOWN] 我 会 用 我 的 技 能 来 换。[UNKNOWN] 取 使 我。[UNKNOWN] 的 美 好 未 来。[UNKNOWN] 人 生 最 大 的 悲 剧 莫 过。[UNKNOWN] 于 吃 不。[UNKNOWN] 了 海 鲜 自 助 人 生 最 大。[UNKNOWN] 的 痛。[UNKNOWN] 苦 莫 过 于 睡 不 了 席 梦  (💬 笑蜥了(x7) / 这雷霆文案谁写的 / 有手有脚，但是没有脑 / 主包不是人类吧，要么是守宫，要么是矮人 / 意气风发啊，大N老师)
+[31m] 🔥 [UNKNOWN] 思 我 没。[UNKNOWN] 有 嘹 亮 的 嗓 音 也 不 具。[UNKNOWN] 有 动。[UNKNOWN] 人 的 歌 喉 但 我 有 一 颗。[UNKNOWN] 诚 挚 的。[UNKNOWN] 歌 在 这 美 好 的 下 午 我。[UNKNOWN] 要 介。[UNKNOWN] 绍 我 这 首 心 中 的 歌 献  (💬 笑蜥了(x15) / iceb(x5) / ？？？(x4) / 铁窗泪？ / 你说话怎么有混响？)
+[31m] 🔥 [UNKNOWN] 给 在 座。[UNKNOWN] 的 各 位 我 曾 经 站 在 贩。[UNKNOWN] 卖 机。[UNKNOWN] 前 遥 望 星 光 闪 闪 那 些。[UNKNOWN] 闪 闪 的。[UNKNOWN] 星 光。[UNKNOWN] 就 像 奶 奶 的 眼 睛 一 样。[UNKNOWN] 让 我 低 下 头 来 想 吃 海  (💬 笑蜥了(x10) / iceb / 铁窗泪？ / 气笑了 / 铁窗泪)
+[32m] 🔥 [UNKNOWN] 鲜 自 助。[UNKNOWN] 暴 雨。[UNKNOWN] 鱼 呀 海 鲜 地。[UNKNOWN] 帝 忘 蟹。[UNKNOWN] 手 扶 着 独 自 往 房 间。[UNKNOWN] 房 间 的 席 梦 思 是 多 么。[UNKNOWN] 美 好 啊。[UNKNOWN] 何 时 才 能 重 返 我 的 大  (💬 笑蜥了(x14) / ？？？(x4) / 气笑了(x3) / 有猪(x3) / ？？？？)
+[33m] 🔥 [UNKNOWN] 床 何。[UNKNOWN] 时 能 重 返 我 的 床。[UNKNOWN] 嗯 我 有 一 点 卡 了 为 什。[UNKNOWN] 么 会 突。[UNKNOWN] 然 卡 在 这 里 我 也 不 知。[UNKNOWN] 道 让。[UNKNOWN] 我 先 跳 一 下。[UNKNOWN] 现 在 好 像 也 还 没 有 好  (💬 笑蜥了(x17) / iceb(x3) / 气笑了(x3) / ？？？ / 南町的🔑)
+[33m] 🔥 [UNKNOWN] 可 能 心。[UNKNOWN] 目 中 想 着 席 梦 思 神 已。[UNKNOWN] 经 离。[UNKNOWN] 开 了。[UNKNOWN] 大 龙 虾 弯 弯 照 我 心 我。[UNKNOWN] 在 贩 卖。[UNKNOWN] 机 前 像 海 鲜。[UNKNOWN] 悔 恨 没 有 珍 惜 帝 王 蟹  (💬 笑蜥了(x14) / 南町的🔑(x8) / 气笑了 / 🔑 / 南町的🔑南町的🔑南町的🔑南町的🔑南町的🔑)
+[34m] 🔥 [UNKNOWN] 的 签 子。[UNKNOWN] 而 今 我 成 了 吃 不 上 海。[UNKNOWN] 鲜 的。[UNKNOWN] 人 而 今 我 成 了 吃 不 上。[UNKNOWN] 海 鲜 的。[UNKNOWN] 人。[UNKNOWN] 人 生 莫 大 的 幸 福 就 是。[UNKNOWN] 在 温 暖。[UNKNOWN] 的 房 间 里 吃 上 一 顿 海  (💬 笑蜥了(x10) / 南町的🔑(x8) / 不愧是破烂王，电脑也卡得和破烂一样 / 超管救一救啊 / 晚上就去吃海鲜)
+[34m] 🔥 [UNKNOWN] 鲜 自。[UNKNOWN] 助。[UNKNOWN] 第 二 次 原 来 是 那 么 难。[UNKNOWN] 的 事。[UNKNOWN] 声 音 进。[UNKNOWN] 行 更 好 生 活 的 度 过 好。[UNKNOWN] 像 有。[UNKNOWN] 点 失 败 了。[UNKNOWN] 是 不 是 要 想 点 别 的 招  (💬 笑蜥了(x5) / 南町的🔑(x3) / 你们听了 拳头不想喝血吗 / 喜太多了 / 你还是饿着吧)
+[35m] 🔥 [UNKNOWN] 数 啊。[UNKNOWN] 失 败 了 呀。[UNKNOWN] 只 是 通 过 我 的 CE 好 像。[UNKNOWN] 没 办。[UNKNOWN] 法 获 得 海 鲜 自 助 啊。[UNKNOWN] 嗯。[UNKNOWN] 讨 了 这。[UNKNOWN] 么 久 获 得 的 两 个 糕 蹦。[UNKNOWN] 你 居  (💬 笑蜥了(x3) / 南町的🔑 / 吃定彩虹 / 什么情况 / 气笑了)
+[36m] 🔥 [UNKNOWN] 然 要 拿 走 那 你 要 请 我。[UNKNOWN] 吃 海 鲜。[UNKNOWN] 自 助。[UNKNOWN] 哼。[UNKNOWN] 虽 然 说 我 身 上 确 实 很。[UNKNOWN] 久 没 洗。[UNKNOWN] 澡 了 可 是 你 看 我 的 手。[UNKNOWN] 虽 然。[UNKNOWN] 很 脏  (💬 笑蜥了(x10) / 凑凑的(x3) / 小N咪 / 有猪 / 让我吃一口)
+[37m] 🔥 [UNKNOWN] 但 是 指 甲 里 面 一 点 污。[UNKNOWN] 垢 都 没。[UNKNOWN] 有。[UNKNOWN] 你 们 看 我 的 脚。[UNKNOWN] 虽 然 有 一 点 脏。[UNKNOWN] 但 是。[UNKNOWN] 那 么 那 么 白。[UNKNOWN] 还 是 一 首 玉 足。[UNKNOWN] 你 们 看 我 的 脸  (💬 笑蜥了(x10) / 凑凑的(x3) / 有猪(x3) / 好臭 / 一股味)
+[37m] 🔥 [UNKNOWN] 虽 然 灰 头 土 脸 的。[UNKNOWN] 啊。[UNKNOWN] 但 是。[UNKNOWN] 但 是。[UNKNOWN] 我 那 么 白。[UNKNOWN] 我 有 白 皙 的 皮 肤。[UNKNOWN] 我 有。[UNKNOWN] 细 腻 的。[UNKNOWN] 细 腻 的 皮 肤。[UNKNOWN] 我 还 有  (💬 笑蜥了(x5) / 小N咪(x3) / NN最强(x3) / ？？？ / 让我吃一口)
+[37m] 🔥 [UNKNOWN] 柔 顺 的 成 发。[UNKNOWN] 乌 海。[UNKNOWN] 为 我 的 乞 丐 服。[UNKNOWN] 缝 制 了 一 个 可 爱 的 帽。[UNKNOWN] 子。[UNKNOWN] 嗯。[UNKNOWN] 嗯。[UNKNOWN] 我 一 点 儿 也 不 臭。[UNKNOWN] 我 一 点 儿 也 不 臭  (💬 NN最强(x4) / 笑蜥了(x3) / 吃饱了 / 编不出就丨 / 有猪)
+[38m] 🔥 [UNKNOWN] 虽 然 我 现 在 看 上 去 可。[UNKNOWN] 能 很 脏。[UNKNOWN] 但 是 我 一 点 也 不 臭 因。[UNKNOWN] 为 嗯。[UNKNOWN] 因 为。[UNKNOWN] 我 会 洗 澡 的。[UNKNOWN] 我 一 个 星 期 就 洗 一 次。[UNKNOWN] 澡 在 这  (💬 NN最强 / 小N咪 / 呃呃 / 头发是馊的 脚是酸的 衣服是霉的 / 离我远点)
+[38m] 🔥 [UNKNOWN] 寒 冬 腊 月。[UNKNOWN] 在 这 寒 冬 腊 月 里 一 个。[UNKNOWN] 星 期 洗。[UNKNOWN] 次 澡 的 人 能 有 多 少 呢。[UNKNOWN] 一 个。[UNKNOWN] 星 期 能 洗 次 澡 的 乞 丐。[UNKNOWN] 又 有 多。[UNKNOWN] 少 呢 你 们 居 然 说 我 臭  (💬 别不来(x7) / 笑蜥了(x3) / 头发是馊的 脚是酸的 衣服是霉的 / 离我远点 / 吃定彩虹)
+[38m] 🔥 [UNKNOWN] 那 我 就 要 去 你 家 哈 哈。[UNKNOWN] 哈 哈 哈。[UNKNOWN] 哈 哈 哈 哈 哈 哈 哈 哈 你。[UNKNOWN] 觉 得。[UNKNOWN] 我 知 后 我 要 去 你 家 哈。[UNKNOWN] 我 要 把。[UNKNOWN] 你 家 的 床 都 滚 一 遍 然  (💬 别不来(x8) / 笑蜥了(x5) / 小N咪(x3) / 一脚踢飞 / 头发是馊的 脚是酸的 衣服是霉的)
+[39m] 🔥 [UNKNOWN] 后 你。[UNKNOWN] 家 的 床 全 部 都 沾 染 上。[UNKNOWN] 臭 味 然。[UNKNOWN] 后 我 还 要 去 你 家 的 冰。[UNKNOWN] 箱 里。[UNKNOWN] 面 把 你 们 家 冰 箱 里 的。[UNKNOWN] 东 全 部。[UNKNOWN] 吹 完 然 后 还 要 去 你 家  (💬 别不来(x8) / 笑蜥了(x5) / 一脚踢飞 / 小N咪 / 离我远点)
+[39m] 🔥 [UNKNOWN] 去 你。[UNKNOWN] 家 洗 澡 去 你 家 把 你 家。[UNKNOWN] 的 卧 室。[UNKNOWN] 洗 的 全 都 是 黑 水 然 后。[UNKNOWN] 还 要。[UNKNOWN] 去 我 还 要 去 你 家 把 你。[UNKNOWN] 家 值 钱。[UNKNOWN] 的 东 西 全 部 都 顺 走  (💬 别不来(x6) / 笑蜥了(x6) / 一脚踢飞 / 小N咪 / iceb)
+[39m] 🔥 [UNKNOWN] 啊。[UNKNOWN] 小 瞧 起 乞 丐 了 我 会 说。[UNKNOWN] 瞧 不 起 哦。[UNKNOWN] 想 给 我 塞 洗 衣 机 里 面。[UNKNOWN] 我 就 要。[UNKNOWN] 打 电 话 举 报 你 虐 待 儿。[UNKNOWN] 童。[UNKNOWN] 嗯。[UNKNOWN] 因 为 我 只 是 一 个 卖 火  (💬 笑蜥了(x5) / 喜多 / iceb / 儿童在哪 / ……也行)
+[40m] 🔥 [UNKNOWN] 柴 的 小。[UNKNOWN] 女 孩 呀。[UNKNOWN] 为 什 么 你 们 问 我 为 什。[UNKNOWN] 么 不 站。[UNKNOWN] 起 来。[UNKNOWN] 因 为 我。[UNKNOWN] 常 年 缺 少 营 养。[UNKNOWN] 啊。[UNKNOWN] 我 根 本 就 站 不 住 那 么  (💬 笑蜥了(x7) / 儿童在哪 / iceb / 喜多 / 小笨蛋)
+[40m] 🔥 [UNKNOWN] 久 在 这。[UNKNOWN] 个 寒 冬 腊 月 我 的 脚 都。[UNKNOWN] 要 被。[UNKNOWN] 冻 出 冻 疮 了。[UNKNOWN] 我 的 脚 都 要 被 冻 出 冻。[UNKNOWN] 穿 了。[UNKNOWN] 是 因 为 我 其 实 是 因 为。[UNKNOWN] 我 吃 海  (💬 笑蜥了(x5) / 喜多 / 小笨蛋 / 散失碎老妪何故装儿童 / 断了)
+[40m] 🔥 [UNKNOWN] 鲜 自 助 逃 单 被 老 板 打。[UNKNOWN] 了。[UNKNOWN] 嗯。[UNKNOWN] 有 没 有 人 跟 我 一 起 去。[UNKNOWN] 结 下 账。[UNKNOWN] 啊。[UNKNOWN] 大 家 好。[UNKNOWN] 有 没 有 人 跟 我 去 结 下。[UNKNOWN] 账  (💬 笑蜥了(x5) / 喜多(x3) / 小笨蛋 / 小N咪 / 小脚还挺白)
+[40m] 🔥 [UNKNOWN] 哦。[UNKNOWN] 每 天 没 别 的 爱 好 就 喜。[UNKNOWN] 欢 淘 点。[UNKNOWN] 单 吃 点 霸 王 餐。[UNKNOWN] 哈。[UNKNOWN] 干 嘛 我 们 在 座 直 播 间。[UNKNOWN] 的 这 么。[UNKNOWN] 多 人 难 道 就 没 有 那 种  (💬 喜多 / 笑蜥了 / ？？？ / 下次带我去吃行不，你帮我的打挨一下 / 还是海鲜吃太多了)
+[41m] 🔥 [UNKNOWN] 没 有。[UNKNOWN] 好 人 吗 难 道 嗯。[UNKNOWN] 嗯。[UNKNOWN] 我 都 被 打 成 这 样 了 我。[UNKNOWN] 马 上 就。[UNKNOWN] 要 七 窍 流 血 了 你 们 居。[UNKNOWN] 然 说。[UNKNOWN] 滚 远 一 点 我 看 这 个 人  (💬 小N咪 / 喜多 / 笑蜥了 / 😅丨远点 / 啊？)
+[41m] 🔥 [UNKNOWN] 间 别 人。[UNKNOWN] 没 有 真 情 了 刚 刚 你 们。[UNKNOWN] 家 的 钱。[UNKNOWN] 那 以 为 我 就 很 赚 吗。[UNKNOWN] 火 柴 的 成 本。[UNKNOWN] 比 你 想 象 的 要 高 很 多。[UNKNOWN] 啊。[UNKNOWN] 火 柴 的 销 量  (💬 笑蜥了(x6) / 好菜 / kbq都是很坏很坏的人 / 喜多 / 这里是略n区)
+[42m] 🔥 [UNKNOWN] 也 比 你 想 象 中 的 那 要。[UNKNOWN] 低 很 多。[UNKNOWN] 你 们 说。[UNKNOWN] 你 卖 � 这 么 多 根 我。[UNKNOWN] 就 不 信 只。[UNKNOWN] 能 赚 二 十 块 钱。[UNKNOWN] 你 不 相 信 吗。[UNKNOWN] 嗯。[UNKNOWN] 这 个 世 界 难 道  (💬 笑蜥了(x8) / 你是？ / 火柴有什么成本啊？ / 金子做的啊 / 高在哪)
+[42m] 🔥 [UNKNOWN] 连 我 的 话 你 们 都 不 信。[UNKNOWN] 了 吗。[UNKNOWN] 嗯。[UNKNOWN] 虽 然。[UNKNOWN] 这 根 火 柴。[UNKNOWN] 竞 价。[UNKNOWN] 只 要 5 毛。[UNKNOWN] 但 是。[UNKNOWN] 他 售 价 却 高 达 一 百 三  (💬 笑蜥了(x10) / 抠抠搜搜 / 你是？ / 别废话，收保护费的来了，交钱！ / 新破烂王吗)
+[43m] 🔥 [UNKNOWN] 十 八。[UNKNOWN] 啊。[UNKNOWN] 是。[UNKNOWN] 因 为。[UNKNOWN] 如 果 不 这 样 的 话。[UNKNOWN] 我 就 不 能 吃 回 扣。[UNKNOWN] 嗯。[UNKNOWN] 我 太 想 吃 回 扣 了。[UNKNOWN] 我 太 想 吃 回 扣 了  (💬 笑蜥了(x9) / 买烟(x3) / 高达？ 哪里有高达？ / 奸商啊 / 牛魔的)
+[43m] 🔥 [UNKNOWN] 哼。[UNKNOWN] 可 是。[UNKNOWN] 你 们 就 不 问 我 我 拿 这。[UNKNOWN] 些 回 扣。[UNKNOWN] 是 去 干。[UNKNOWN] 干 嘛 吗。[UNKNOWN] 啊。[UNKNOWN] 这 个 世 界 上 有 千 千 万。[UNKNOWN] 万 像 我。[UNKNOWN] 一 样 的 乞 丐  (💬 笑蜥了(x4) / 买烟(x3) / 小笨蛋 / 有猪 / 喜欢NN)
+[43m] 🔥 [UNKNOWN] 这 个 世 界 上。[UNKNOWN] 有 那 么 多 贫 困 山 区 的。[UNKNOWN] 孩 子 都。[UNKNOWN] 上 不 起 学。[UNKNOWN] 切。[UNKNOWN] 他 们 也 衣 不 蔽 体 每 天。[UNKNOWN] 不 仅 要。[UNKNOWN] 干 活 还 要 帮 家 里 人 喂  (💬 有猪 / 吃椰子鸡 / 不是买烟吗 / 刚来直播间，怎么主播吃回扣啊 / 自助海鲜呗)
+[44m] 🔥 [UNKNOWN] 猪。[UNKNOWN] 看 到 这 些 人。[UNKNOWN] 过 上 这 样 的 生 活 你 觉。[UNKNOWN] 得 我 心。[UNKNOWN] 里 就 好 受 吗。[UNKNOWN] 你 们 觉 得 我 看 到 这 些。[UNKNOWN] 人。[UNKNOWN] 他 们 受 苦 的 时 候  (💬 有猪 / 吃回扣还要管干嘛？进去就行了 / 拿回扣去看异宠馆 / 小笨蛋 / 笑蜥了)
+[44m] ▫️ [UNKNOWN] 这 些 茫 茫 众 生 中 的 意。[UNKNOWN] 愿。[UNKNOWN] 所 以。[UNKNOWN] 啊。[UNKNOWN] 多 吃 一 点 只 要 我 能 有。[UNKNOWN] 一 个 坚。[UNKNOWN] 强 的 体 魄 我 能 够 存 活。[UNKNOWN] 在 这。[UNKNOWN] 个 弱 肉 强 强 食 的 世 界  (💬 呃呃(x3) / 气笑了(x3) / 笑蜥了(x3) / 丨吧宝宝(x3) / ？？？)
+[45m] 🔥 [UNKNOWN] 中 那 么。[UNKNOWN] 我 就 能 给 他 们 一 点 希。[UNKNOWN] 望 让。[UNKNOWN] 他 们 也 能 活 下 来。[UNKNOWN] 我 操。[UNKNOWN] 我 的 作 用 很 大 的。[UNKNOWN] 我 给 了 他 们 指 路 的 方。[UNKNOWN] 向 他 们  (💬 丨吧宝宝(x4) / 呃呃(x3) / 气笑了(x3) / 笑蜥了(x3) / ？？？)
+[45m] 🔥 [UNKNOWN] 看 到 了 我 的 经 历 之 后。[UNKNOWN] 会 觉。[UNKNOWN] 得 非 常 励 志 会 觉 得 非。[UNKNOWN] 常 幼 呃。[UNKNOWN] 会 觉 得 非 常 非 常 的 感。[UNKNOWN] 动 能。[UNKNOWN] 够 让 他 们 也 想 活 下 去。[UNKNOWN] 能 够 让  (💬 丨吧宝宝 / 会打狗棒法和降龙十八掌吗 / 叽里咕噜说啥呢 / 学你一起吃上海鲜自助是吧[dog] / 矮人是饭桶的刻板印象加深了)
+[45m] 🔥 [UNKNOWN] 他 们 坚 持 下 去 所 以 我。[UNKNOWN] 要 活。[UNKNOWN] 的 很 好。[UNKNOWN] 我 每 天 都 要 吃 香 的 喝。[UNKNOWN] 像 我 一 样 成 千 上 万 的。[UNKNOWN] 任 何 时 候 努 力。[UNKNOWN] 都 不 算 晚。[UNKNOWN] 只 要 你 也 坚 持 吃 回 扣  (💬 感动在哪？ / 提篮桥欢迎你 / 丨吧宝宝 / 小笨蛋 / 好菜)
+[46m] 🔥 [UNKNOWN] 你 就 可 以 获 得 快 乐 的。[UNKNOWN] 来 吧。[UNKNOWN] 加 入 我 的 乞 丐 大 家 族。[UNKNOWN] 吧。[UNKNOWN] 我 把 我 五 毛 钱 一 根 的。[UNKNOWN] 火 柴 进。[UNKNOWN] 货 渠 道 告 诉 你。[UNKNOWN] 切  (💬 笑蜥了(x12) / 教会徒弟饿死师傅，到时候一堆乞丐和你抢 / 今天是不是弹幕攻击性最高的一集？不过主包值得 / 牛魔的 / ？[傲娇])
+[47m] 🔥 [UNKNOWN] 大 家 有 没 有 人 想 要 加。[UNKNOWN] 入 我 乞。[UNKNOWN] 丐 大 家 族。[UNKNOWN] 啊。[UNKNOWN] 没 有 人 吗 难 道 你 们 的。[UNKNOWN] 生 活 就。[UNKNOWN] 过 得 这 么 如 意 吗。[UNKNOWN] 每 天 过 得 这 么 开 心 想  (💬 笑蜥了(x13) / 还有托(x3) / 还有同伙 / 快速赚钱的方法都在刑法里是吧 / 丐帮我退出多少年了)
+[47m] 🔥 [UNKNOWN] 干 什 么。[UNKNOWN] 呀 哦 我 看 到 有 一 个 人。[UNKNOWN] 怪 异。[UNKNOWN] 美 杰 克 想 要 加 入 我 的。[UNKNOWN] 乞 丐 大。[UNKNOWN] 家 族。[UNKNOWN] 我 看 到 了 你 很 有 决 心。[UNKNOWN] 你 很 有  (💬 笑蜥了(x14) / 还有托(x3) / ？？？ / 还有同伙 / 夺少？)
+[47m] 🔥 [UNKNOWN] 潜 力。[UNKNOWN] 只 要 你 现 在 在 我 们 乞。[UNKNOWN] 丐 大 家。[UNKNOWN] 族 入 会 仪 式 的 时 候。[UNKNOWN] 一 次 性 进 一 千 根 火 柴。[UNKNOWN] 我 就 可 以 把 秘 诀 传 授。[UNKNOWN] 给 你。[UNKNOWN] 从 卖 货 进 货 到 吃 回 扣  (💬 笑蜥了(x8) / 还有托(x3) / 夺少？ / 多少？ / 卧槽 有托)
+[48m] 🔥 [UNKNOWN] 全 部 告。[UNKNOWN] 诉 你。[UNKNOWN] 五 毛 钱 一 根 一 千 根 以。[UNKNOWN] 你 的 实。[UNKNOWN] 力 是 不 是 很 快 就 能 卖。[UNKNOWN] 出 去。[UNKNOWN] 呢。[UNKNOWN] 难 道 不 是 吗 我 相 信 他。[UNKNOWN] 能 有 这  (💬 笑蜥了 / 抢劫啊 / 传销啊？ / 我将贷款！ / 你搁这传销呢[dog])
+[48m] 🔥 [UNKNOWN] 个 实 力 你 们 相 信 吗。[UNKNOWN] 你 们 也 相 信 吧 不 贵 对。[UNKNOWN] 吗 因 为。[UNKNOWN] 我 没 有 吃 你 的 回 扣 任。[UNKNOWN] 何 一。[UNKNOWN] 个 想 要 投 诚 的 人 我 是。[UNKNOWN] 不 会 吃。[UNKNOWN] 今 天  (💬 老大老大，我也要卖火柴嘛 / 诈骗已举办 / 哦对了，我是市监的，跟我走一趟吧 / 你这传销门槛太高做不成的 / 这直播间还能要吗？)
+[50m] ▫️ [UNKNOWN] 的 终 点。[UNKNOWN] 5 毛 一 根 的 火 柴。[UNKNOWN] 现 在 立 刻 在 我 这 里 购。[UNKNOWN] 入 一 千。[UNKNOWN] 根。[UNKNOWN] 我。[UNKNOWN] 就 可 以 向 你 们 传 授。[UNKNOWN] 坚 强 努 力 活 下 去 的 仿  (💬 有猪 / 笑蜥了 / 还有单依纯的事儿 / 参见帮主 / 我去乔峰来了)
+[51m] 🔥 [UNKNOWN] 佛。[UNKNOWN] 好 吧。[UNKNOWN] 我 打 嗝。[UNKNOWN] 是 因 为。[UNKNOWN] 嘘。[UNKNOWN] 心 中 受 的 气 太 多 了。[UNKNOWN] 哼。[UNKNOWN] 是 因 为 什 么 呢。[UNKNOWN] 欣 慰。[UNKNOWN] 我 刚 刚 在 贩 卖 机 前 面  (💬 有猪(x3) / 笑蜥了 / 回扣吃饱了 / 吃太多了 / 来抢劫了)
+[52m] 🔥 [UNKNOWN] 我 向 上。[UNKNOWN] 天 许 愿 我 说 很 饿 很 渴。[UNKNOWN] 血 又。[UNKNOWN] 不 能 吃 也 不 能 填 饱 肚。[UNKNOWN] 子 于 是。[UNKNOWN] 贩 卖 机 好 像 听 到 了 我。[UNKNOWN] 的 祈。[UNKNOWN] 求 他 向 我 掉 出 了 一 瓶  (💬 单纯吃太饱 / 笑蜥了 / 洁厕灵 / 百事？洗洁精谁喝 / 还有托)
+[52m] 🔥 [UNKNOWN] 百 事 可。[UNKNOWN] 乐。[UNKNOWN] 我 喝 下 去 的 第 一 口。[UNKNOWN] 胃 的 就 有 了 饱 腹 感。[UNKNOWN] 所 以 我 才 会 一 直 打 嗝。[UNKNOWN] 是 因 为。[UNKNOWN] 没 有 别 的 东 西 可 以 充。[UNKNOWN] 饥 只  (💬 笑蜥了 / 洁厕灵 / 百事？洗洁精谁喝 / 诊所的大象被护士偷走了，然后被赶出去当乞丐了 / 贩卖机偷东西吃还许愿)
+[52m] 🔥 [UNKNOWN] 能 通 过 喝 上 天 馈 赠 的。[UNKNOWN] 碳 酸 饮。[UNKNOWN] 料 来 让 我 的 肚 子 获 得。[UNKNOWN] 一 些。[UNKNOWN] 饱 腹 感。[UNKNOWN] 不 然 的 话 我 可 能 就 见。[UNKNOWN] 不 到 明。[UNKNOWN] 天 的 太 阳 我 也 没 有 办  (💬 笑蜥了(x8) / 对的对的 / 别说nn的嘴巴是马桶！！！ / 百事？ / 偷饮料就说偷饮料，还乞求[dog])
+[53m] 🔥 [UNKNOWN] 法 向。[UNKNOWN] 你 们 传 授 这 些 吃 回 扣。[UNKNOWN] 的 方 法。[UNKNOWN] 了。[UNKNOWN] 为 什 么 是 百 事 可 乐 你。[UNKNOWN] 们 知 道。[UNKNOWN] 吗 因 为 贩 卖 记 忆 的 可。[UNKNOWN] 口 可。[UNKNOWN] 乐 早 就 已 经 卖 完 了 啊  (💬 笑蜥了(x11) / 对的对的 / 海獭冲击 / 难怪免费掉出来，卖不出去只能给了 / 有猪)
+[53m] 🔥 [UNKNOWN] 这 是 碳。[UNKNOWN] 上 天 碳 酸 不 是 上 天 自。[UNKNOWN] 己 不。[UNKNOWN] 是 上 天 赐 予 我 的 碳 酸。[UNKNOWN] 饮 料 而。[UNKNOWN] 我 怎 么 能 嫌 弃 呢。[UNKNOWN] 什 么 都 能 喝 呀 当 一 个。[UNKNOWN] 人 已 经  (💬 笑蜥了(x11) / 对的对的 / 原来你是马桶精灵[dog] / onp / 可口酸的跟洗脚水似的也有人喝？)
+[53m] 🔥 [UNKNOWN] 饿 极 了 一 个 人 已 经 马。[UNKNOWN] 上 就。[UNKNOWN] 要 死 在 街 头 了。[UNKNOWN] 还 会 嫌 上 帝 馈 赠 他 的。[UNKNOWN] 礼 物。[UNKNOWN] 是 什 么 牌 子 吗。[UNKNOWN] 啊。[UNKNOWN] 那 如 果 是 这 样 的 话  (💬 笑蜥了(x3) / 因为顺着下水道就能接一杯别人冲下来的 / 可口才是破烂 / 你看不到，不代表卖完了 / 三得利乌龙茶兑水还能喝三年)
+[54m] 🔥 [UNKNOWN] 我 想 要 一 个 香 奈 儿 的。[UNKNOWN] 包。[UNKNOWN] 其 实 它 也 不 贵。[UNKNOWN] 只 要 两 万 块 钱。[UNKNOWN] 嗯。[UNKNOWN] 我 人 这 一 生 中。[UNKNOWN] 活 到 了 这 个 时 候。[UNKNOWN] 活 到 了 这 个 岁 数  (💬 iceb(x3) / 什么情况 / 有猪 / 少看点 / 哪里有同时卖可口和百事的贩卖机？)
+[54m] 🔥 [UNKNOWN] 还 没 有 过 一 个 名 牌 榜。[UNKNOWN] 我 以 前 看 过 一 本 书。[UNKNOWN] 那 本 书 的 名 字 叫 做 每。[UNKNOWN] 个 女 生。[UNKNOWN] 都 应 该 拥 有 一 个 属 于。[UNKNOWN] 自 己。[UNKNOWN] 的 香 奈 儿  (💬 iceb(x3) / 什么情况 / 有猪 / 少看点 / 你看我的拳头像chanel吗？)
+[54m] 🔥 [UNKNOWN] 如 果 上 帝 能 够 听 到 我。[UNKNOWN] 的 祈 求。[UNKNOWN] 现 在。[UNKNOWN] 不 要 吧。[UNKNOWN] 不 要 继 续 下 雪 下 来 了。[UNKNOWN] 请 给 我 下 一 个 香 奈 儿。[UNKNOWN] 的 包 吧。[UNKNOWN] 香 奈 的 包  (💬 iceb(x3) / 有猪 / 少看点 / 笑蜥了 / 出厂300[dog])
+[55m] 🔥 [UNKNOWN] 经 典 款 就 行。[UNKNOWN] 二 手 我 也 不 介 意。[UNKNOWN] 但 一 定 要 是 正 品 哦。[UNKNOWN] 上 帝。[UNKNOWN] 可 以 回 应 我 这 个 祈 愿。[UNKNOWN] 吗。[UNKNOWN] 可 以 吗。[UNKNOWN] 这 是 我 毕 生 的 请 求  (💬 笑蜥了 / 给你头顶敲一个大包 / 雷肥上帝 / 小时代来了 / 连吃带拿这一块.jpg)
+[56m] ▫️ [UNKNOWN] 香 奈 儿 的 包 多 少 钱 两。[UNKNOWN] 它 卖。[UNKNOWN] 去 二 蛇 店。[UNKNOWN] 拿 到 这 两 万 块 钱。[UNKNOWN] 金 钱 科 比 奢 侈 品。[UNKNOWN] 价 值 高 多 了。[UNKNOWN] 嗯。[UNKNOWN] 如 果 直 接 抢 劫 两 万 块  (💬 绷不住了 / 还有炫耀是吧 / 上帝说的一点都对 / N帮主擅长烟头十八烫 / 大N的贪婪让我害怕)
+[57m] 🔥 [UNKNOWN] 的 话。[UNKNOWN] 那。[UNKNOWN] 就 不 能 听 让 上 帝 听 到。[UNKNOWN] 我 的 祈。[UNKNOWN] 愿 了。[UNKNOWN] 奢 侈 品 到 手 不 值 钱。[UNKNOWN] 可 那 可 是 香 奈 儿。[UNKNOWN] 没 事 啊 到 手 了 之 后 我  (💬 老大老大，香奈儿的包太小了，装不了几个瓶子 / 那你直接要现金不得了 / 奢饰品到手不值钱 / 小N咪 / 那这钱可都让二手店赚走了)
+[57m] 🔥 [UNKNOWN] 拍 个 照。[UNKNOWN] 发 个 朋 友 圈 然 后 我 再。[UNKNOWN] 去 卖。[UNKNOWN] 掉。[UNKNOWN] 那 可 是 香 奈 啊。[UNKNOWN] 其 实。[UNKNOWN] 哼。[UNKNOWN] 你 说 的 对。[UNKNOWN] 香 奈 儿 在 他 手 店 确 实  (💬 有猪 / 都一样 / 上帝：我送你你就拿去卖？ / 2W块能买几条好猫？ / 上帝是听不懂了，但小N就成进狱系了)
+[57m] 🔥 [UNKNOWN] 不 值 钱。[UNKNOWN] 上 帝。[UNKNOWN] 可 是 我 划 了 一 根 火 柴。[UNKNOWN] 啊。[UNKNOWN] 会 听 到 我 的 请 求  (💬 梦里啥都有 / 你搞个町奈儿，也值钱 / 这样吧，你直接去美服0元购吧 / 难道今天上课有特殊活动 / 哪里收ntnt二手包？)
+[60m] ▫️ [UNKNOWN] 绝 对 不 会 在 外 面 尿 尿。[UNKNOWN] 水。[UNKNOWN] 有 的 喝 就 不 错 的。[UNKNOWN] 好 了。[UNKNOWN] 想 必 大 家 也 看 到 我 的。[UNKNOWN] 乞 丐 服。[UNKNOWN] 全 帽 了。[UNKNOWN] 嗯。[UNKNOWN] 大 家 觉 得 好 看 吗  (💬 不好说(x3) / 笑蜥了(x3) / 我不信 / 什么情况 / 主播，这里是加油站附近，严禁烟火)
+[61m] 🔥 [UNKNOWN] 请 评 价 一 下 吧。[UNKNOWN] 什 么。[UNKNOWN] 你 们 说 我 你 们 说 好 看。[UNKNOWN] 那 你 们 的 意 思 就 是 说。[UNKNOWN] 我 只 只 配 穿 这 种 衣 服。[UNKNOWN] 吗。[UNKNOWN] 很 适 合 我 是 什 么 意 思  (💬 笑蜥了(x4) / 挺适合的 / 还真是 / 当浮一大白 / 什么情况)
+[62m] 🔥 [UNKNOWN] 什 么 叫 很 适 合 我 呢。[UNKNOWN] 你 是 觉 得 我 只 配 穿 这。[UNKNOWN] 种 衣 服。[UNKNOWN] 吗 别 的 衣 服 不 配 穿。[UNKNOWN] 所 以 很 适 合 我。[UNKNOWN] 穿 这 个 有 点 浪 费 了 那。[UNKNOWN] 你 就 是  (💬 小N咪 / 穿这个有点浪费了 / 字面意思 / 为什么不是跪着的 / 这不是夸你天生丽质吗，穿这种衣服也遮不住)
+[62m] 🔥 [UNKNOWN] 对 我 这 个 新 衣 有 意 见。[UNKNOWN] 喽。[UNKNOWN] 啊。[UNKNOWN] 怎 么 能 对 我 做 出 这 样。[UNKNOWN] 的 事 情。[UNKNOWN] 呢 怎 么 能 对 我 说 出 这。[UNKNOWN] 样 的。[UNKNOWN] 话 呢。[UNKNOWN] 了  (💬 笑蜥了(x3) / 早该穿这套了 / 难说 / 布料还是太多了 / 最好别穿)
+[63m] 🔥 [UNKNOWN] 我 穿 的 这 么 单 薄 在 雪。[UNKNOWN] 地 里 你。[UNKNOWN] 们 没 有 任 何 一 丝 一 一。[UNKNOWN] 分 一。[UNKNOWN] 毫 的 痛 苦 吗。[UNKNOWN] 嗯。[UNKNOWN] 我 对 这 个 世 界 有 点 绝。[UNKNOWN] 望。[UNKNOWN] 明 年  (💬 并没有 / 没有 / 笑蜥了 / 6666 / 露医生诊所倒闭了，町町出来自力根生了)
+[64m] 🔥 [UNKNOWN] 这 是 什 么 BGM 呀 破 坏。[UNKNOWN] 了 我 们。[UNKNOWN] 这 个 破 坏 了 我 们 这 个。[UNKNOWN] 悲 伤。[UNKNOWN] 的 氛 围。[UNKNOWN] 各 位  (💬 笑蜥了(x4) / 小N咪 / 整段垮掉 / 有猪 / 画风突变)
+[66m] 🔥 [UNKNOWN] 分 这 是 生 命 的 源 泉 再。[UNKNOWN] 没 有 心。[UNKNOWN] 的 荒 漠 再 没 有 爱 的 荒。[UNKNOWN] 似 谁 也 望 而 却 不 幸 福。[UNKNOWN] 之 花 处。[UNKNOWN] 处 开 遍。[UNKNOWN] 自 哎 这。[UNKNOWN] 浮 献 出 一 点 爱 世 界 将  (💬 笑蜥了(x19) / 吃定彩虹(x6) / 南町的🔑(x5) / 南町的🔑南町的🔑南町的🔑南町的🔑南町的🔑 / 难听的钥匙)
+[66m] 🔥 [UNKNOWN] 变 成 美。[UNKNOWN] 好 的 人。[UNKNOWN] 只 要 人 人 都 献 出 一 点。[UNKNOWN] 爱 世 界。[UNKNOWN] 就 变 成 美 好 的 人 间。[UNKNOWN] 再 没 有 心 的 荒 漠 再 没。[UNKNOWN] 一 点 爱。[UNKNOWN] 希 望 大 家  (💬 笑蜥了(x11) / 吃定彩虹(x5) / 南町的🔑(x4) / 主播你这样出去卖唱会被人骂的 / NN最强)
+[68m] ▫️ [UNKNOWN] 哼。[UNKNOWN] 束。[UNKNOWN] 希 望 大 家。[UNKNOWN] 有 序 离 场。[UNKNOWN] 嗯。[UNKNOWN] 希 望 大 家。[UNKNOWN] 有 序 离 场 啊。[UNKNOWN] 没 什 么。[UNKNOWN] 今 天 的 乞 丐 服。[UNKNOWN] 九。[UNKNOWN] 发 布 到 这 里 了  (💬 走了走了(x4) / 好菜 / 吃定彩虹 / 蓝天下的至爱活动今年已经过了 / 南町的🔑)
+[69m] 🔥 [UNKNOWN] 再 见 了  (💬 好菜 / 才发现 背景的红绿灯会变 / 离场的时候记得一人踹一脚 / kbq往外出 / 把你乞讨的碗一脚踢飞然后立刻跑路)
+[70m] 🔥 [UNKNOWN] 我 感 受 到 了。[UNKNOWN] 你 们 的 奉 献。[UNKNOWN] 我 才 发 觉 在 这 场 乞 丐。[UNKNOWN] 服 的 新。[UNKNOWN] 衣 发 布 会 上 大 家 为 我。[UNKNOWN] 赠 送。[UNKNOWN] 了 好 多 的 礼 物 呀。[UNKNOWN] 这 都 是 大 家 的 奉 献 我  (💬 搞了个大笑(x3) / 喜多 / 笑蜥了 / 什么情况 / 快丨快丨快丨)
+[70m] 🔥 [UNKNOWN] 怎 么 能。[UNKNOWN] 就 这 么 离 开。[UNKNOWN] 谢 谢 你 的 一 根 火 柴。[UNKNOWN] 有 你 的 这 根 火 柴。[UNKNOWN] 今 天 晚 上 我 的 海 鲜 自。[UNKNOWN] 助。[UNKNOWN] 就 有 着 落 了。[UNKNOWN] 谢 布 瑞 武 哈 特 的 火 柴  (💬 搞了个大笑(x3) / 笑蜥了 / 什么情况 / 太搞了哈哈哈哈哈哈哈哈哈哈哈哈 / 赶紧丨)
+[71m] 🔥 [UNKNOWN] 谢 谢 你 的 火 柴。[UNKNOWN] 我 会 吃 两 个 海 鲜 自 助。[UNKNOWN] 是。[UNKNOWN] 嗯。[UNKNOWN] 谢 谢 普 光 的 火 柴 谢 谢。[UNKNOWN] 说 的 唯 有 感 谢。[UNKNOWN] 受 到 了。[UNKNOWN] 非 常 恭 喜 我 每 天 都  (💬 还在海鲜自助？ / 海鲜自助？ / 什么海鲜自助只要五毛钱 / 有猪 / 本性暴露中)
+[73m] ▫️ [UNKNOWN] 但 是  (💬 兄弟们 点点未成年退款吧 大N老师住这么好我难受 / 哦咩爹多 / 家乡话来了 / 不是一点 / 都是店了吗)
+[75m] ▫️ [UNKNOWN] 非 常 可 爱 的 对 不 对。[UNKNOWN] 我 刚 刚 看 到 了。[UNKNOWN] 足 以 让 我 们。[UNKNOWN] 以 后。[UNKNOWN] 梦 想。[UNKNOWN] 跟 你 们 来 跟 你 们 所 有。[UNKNOWN] 三 天 了。[UNKNOWN] 抖 的。[UNKNOWN] 小 乞 丐  (💬 笑蜥了 / 哪来的小胖子 / 什么情况 / 我突然发现，买火柴不给砂纸我咋用啊 / 这直播看在眼里，烧在心里)
+[77m] ▫️ [UNKNOWN] 谢 谢 你 的 3 0 块 钱。[UNKNOWN] PSP 也。[UNKNOWN] 切。[UNKNOWN] 好 吗。[UNKNOWN] 刘 备 的  (💬 笑蜥了(x3) / 我不明白，为什么大家都在谈项羽被困亥下 / 能拿点吗 / 无语了 / 顺手的事)
+[79m] ▫️ [UNKNOWN] you。[UNKNOWN] 火 柴 和 香 烟 打 包。[UNKNOWN] 两 百 块 钱。[UNKNOWN] 只 买 火 柴。[UNKNOWN] 一 百 三 十 八。[UNKNOWN] 给 你 煮 着。[UNKNOWN] LGE。[UNKNOWN] 谢 谢 又 吃 了 三 大 碗 的。[UNKNOWN] 钢 蹦 捧  (💬 那就说明演员感情不行啊，要不观众为啥觉得尬 / 几个小时过去了，喜还是好多 / 什么情况 / 不会唱能退款吗（？ / 咋还有烟卖)
+[79m] 🔥 [UNKNOWN] 个 人 场 谢 谢 你。[UNKNOWN] 我 的 相 文 名 字 就 是 主。[UNKNOWN] 角 也 发。[UNKNOWN] 现 珠 暴 露 baby is。[UNKNOWN] workin。[UNKNOWN] g by a rut。[UNKNOWN] 没 有 什 么 好 说 的。[UNKNOWN] 礼 v 哔 v 光 酷 礼 物  (💬 有电子的吗 / 烟卖了主播抽什么 / [手机] / 你有烟证吗？就卖？ / 你有烟牌吗？你就卖烟)
+[79m] 🔥 [UNKNOWN] 感 觉 得 就 是。[UNKNOWN] 有 钱 的 可 以 捧 个 钱 场。[UNKNOWN] 没 钱 的。[UNKNOWN] 可 以 捧 个 人 场。[UNKNOWN] 都 没 有。[UNKNOWN] 少 你 两 块 的 钢 蹦 怕 你。[UNKNOWN] 啊 谢。[UNKNOWN] 你 又。[UNKNOWN] 吃 不  (💬 笑蜥了(x4) / 小N咪 / 烟卖了主播抽什么 / [手机] / 你有烟证吗？就卖？)
+[81m] ▫️ [UNKNOWN] 阅 流。[UNKNOWN] 那 我 的 精 神 不 就 没 办。[UNKNOWN] 递 了。[UNKNOWN] 哎 我 这 边 怎 么 机 会 了。[UNKNOWN] 你 是 不 是 把 我 们 乞 丐。[UNKNOWN] 之 间 的。[UNKNOWN] 蹦 桃 单 来 依 告 无 限。[UNKNOWN] 可 不 给 我  (💬 笑蜥了 / 小N咪 / 是不是该放《流浪歌》了 / 丐帮也有精神？ / 有衣不蔽体看吗)
+[83m] ▫️ [UNKNOWN] 可 能 会。[UNKNOWN] 能 接 受 主 要 是 我 怕 我。[UNKNOWN] 死 在 你。[UNKNOWN] 我 死。[UNKNOWN] 在 你 家 你 家 主 闹 鬼 因。[UNKNOWN] 混 成 乞 丐 王 了 吗 意 气。[UNKNOWN] 其 实 呢 没 关 系 啊。[UNKNOWN] 大 专  (💬 笑蜥了 / 今天不抽明天抽 / N姐你这头包的会动的是 / 忘专了 / 不忘本，所以忘专了)
+[84m] ▫️ [UNKNOWN] 远 离 开。[UNKNOWN] 国 土 的。[UNKNOWN] 谁 都 别 想 甩 开 我。[UNKNOWN] 谢 谢 神 秘 警 官 工 作 室。[UNKNOWN] 情 发 生。[UNKNOWN] 在 你 们 身 上 你 们 还 会。[UNKNOWN] 席 梦 思 呢。[UNKNOWN] 烟 头 盖  (💬 不许买鸡蛋，这是给主播买烟的钱 / 不好说 / 抠抠搜搜 / 其实是出不去 / 居然不润！)
+[86m] ▫️ [UNKNOWN] 谢 百 德 军 的 钢 要 要 一。[UNKNOWN] 本 身 来 来。[UNKNOWN] 不 能。[UNKNOWN] 立 这 叫。[UNKNOWN] 可 是 我 连 火 柴 我 都 买。[UNKNOWN] 从 这 个。[UNKNOWN] 本 毕 业。[UNKNOWN] 你 买 了 一 根 绝 对 不 会  (💬 都被乞丐帮助了，跳了得了 / 好长的烟斗 / 主播，你这个乞丐装怎么这么白净啊？净衣派的？ / 主包你怎么是悬浮的 / 乞讨流擂肥)
+[88m] ▫️ [UNKNOWN] 的 不 说。[UNKNOWN] 的 打。[UNKNOWN] 呀。[UNKNOWN] 坐 着 了。[UNKNOWN] 我 不 会 强 迫 任 何 一 个。[UNKNOWN] 人 的。[UNKNOWN] 经 卖。[UNKNOWN] 两 块 钱 是 拯 救 不 了 一。[UNKNOWN] 钱 是 买。[UNKNOWN] 没 事 的 你 就 你  (💬 你刚才在那哭，守宫一直嬉皮笑脸的，早该烤了吃了 / 主播是卖散烟的小女孩 / 是平a给你一拳 / 还有钱给守宫买墨镜是吧 / 来一根)
+[90m] ▫️ [UNKNOWN] 的。[UNKNOWN] 有 电 的 没 有 电 也 没 有。[UNKNOWN] 费 不 行 买 根 蜡 烛 我 自。[UNKNOWN] 燃 这 样 子 就 能 照 亮 我。[UNKNOWN] 呸。[UNKNOWN] 你 阿 里。[UNKNOWN] 嘎 达 非 常 感 谢。[UNKNOWN] 谢。[UNKNOWN] 小 立 牌 一 个  (💬 笑蜥了 / 请问在下是武状元南乞儿吗 / 我超！光明正大吃回扣是吧？ / 那你待着吧 / 主播卖火柴交税了吗，是不是偷税漏税[dog])
+[92m] ▫️ [UNKNOWN] 赠 送 一 个 星 愿 水 晶 球。[UNKNOWN] 谢 谢 你 们。[UNKNOWN] 谢 谢 谢。[UNKNOWN] 杖 和 爱。[UNKNOWN] 记 得 加 早 播。[UNKNOWN] 猫 我 这。[UNKNOWN] 嘎 多 哎 呀 我 也 是 有 车。[UNKNOWN] 都 是 临 场 发 挥 的  (💬 这个活动到哪天呀 / 记得加早播记得加早播记得加早播记得加早播记得加早播 / 抽烟未来咋混成这样了[妙][妙] / NN最强 / 刚来什么活动)
+[95m] ▫️ [UNKNOWN] 四 个。[UNKNOWN] 服 都 还。[UNKNOWN] 么。[UNKNOWN] 样 呢 各。[UNKNOWN] 这 是 三。[UNKNOWN] 有 游 轮 的 入 场 券 而 已。[UNKNOWN] 嘿 嘿 嘿 哎 一 个 一 个 小。[UNKNOWN] 得 玩 一 下 小 手 机 了 各。[UNKNOWN] 机 我 我 刚 想 看 一 下 我  (💬 那很神了 / 笑蜥了 / 好看 / 压力一个乞丐 / 要的就是临场发挥)
+[99m] ▫️ [UNKNOWN] 的 那 个。[UNKNOWN] 养 老 呃 不 对 那 个 老 人  (💬 贫哪来的你别管 / 不可能！绝对不可能！ / ？老人机还能直播 / 现在乞讨都有二维码了 / 路上捡的[dog])
+[100m] ▫️ [UNKNOWN] 实 是 一。[UNKNOWN] 零 件 也 不 是 特 别 好 的。[UNKNOWN] 爷 爷。[UNKNOWN] 要 统 计。[UNKNOWN] 一 下 今 天 谁 送 的 新 人。[UNKNOWN] 球。[UNKNOWN] 不 是。[UNKNOWN] 路。[UNKNOWN] 现 在 做 仙 人 球 可 以 私  (💬 DIY的手机吗 那性格不是超强 / 在跑主任家，租地直播 / 小N咪 / 我朋友还买个模型机 / 苹果12还是13)
+[102m] ▫️ [UNKNOWN] 因 为 因 为 上 个 月 是 电。[UNKNOWN] 电 电 子 礼 物 回 头 把 网。[UNKNOWN] 然 后 这 个 的 话。[UNKNOWN] 我 说。[UNKNOWN] 我 说 得 赶 紧 准 备 一 下。[UNKNOWN] 俩 馒 头 你 今 天 还 发 吗。[UNKNOWN] 才 起 来 就 这 么 有 松 弛  (💬 晚上来送，不想交ios税 / 笑蜥了 / 😯 / 那我今天还用发吗 / 1点起来)
+[104m] ▫️ [UNKNOWN] 昨 天 是 九 点 多 下 播 的。[UNKNOWN] 了 但 是 我 在 床 上 玩 小  (💬 一点起来，这个小手机少说玩到今天早上6点。 / 再次通宵剧本杀 / 诶，菠萝 / 那很能睡了)
+[105m] ▫️ [UNKNOWN] 哼。[UNKNOWN] 吃。[UNKNOWN] 不 然 呢。[UNKNOWN] 我 这 不 是 耳 朵 我 这 是。[UNKNOWN] 算 了 就 这 样 吧。[UNKNOWN] 爱 情 变。[UNKNOWN] 我 懂 了 你。[UNKNOWN] 怎 么 搞 的。[UNKNOWN] 怎 么 搞 的  (💬 笑蜥了(x5) / 耳朵 / 都是效果吗 / 今天是中众直播间了，不看了 / 不好说)
+[107m] 🔥 [UNKNOWN] 喂。[UNKNOWN] 哎。[UNKNOWN] 完 蛋。[UNKNOWN] 哈 哈。[UNKNOWN] 让 我 所。[UNKNOWN] you love song。[UNKNOWN] 哦 好 了。[UNKNOWN] 等 一 下。[UNKNOWN] 我 靠。[UNKNOWN] 我 那 个 啊 我 那 个 我  (💬 笑蜥了(x9) / 哈人 / 我不到啊 / 漏了 / 哈哈哈哈哈)
+[108m] 🔥 [UNKNOWN] 我 去 紧 急 处 理 一 下。[UNKNOWN] 为 什。[UNKNOWN] 哦。[UNKNOWN] 了。[UNKNOWN] 了  (💬 笑蜥了(x9) / 妈呀，原来主播是这样的吗，能不能退款 / 分头行动哈哈哈哈哈 / 吓人 / 前方掉头)
+[111m] ▫️ [UNKNOWN] 一 种。[UNKNOWN] 我 回 来 了。[UNKNOWN] 一 次。[UNKNOWN] 这 是 窝 窝 头。[UNKNOWN] 因 为 是。[UNKNOWN] 如 果 受 力 要 捧 着 我 我。[UNKNOWN] 头。[UNKNOWN] 的 心 情。[UNKNOWN] 哼。[UNKNOWN] 手 里 要 捧 着 我 我 头  (💬 笑蜥了 / 手里拿石头准备干嘛 / 碗怎么变石头了 / 手上拿什么？ / 主播左边的手怎么这么小)
+[112m] ▫️ [UNKNOWN] its not a ddrink。[UNKNOWN] 我 吃 馒 头 也 行 我 吃 窝。[UNKNOWN] 不 是。[UNKNOWN] 说 的 话 也 太 过 分 了 吧。[UNKNOWN] 其 实 其 实 我 还 很 贫 穷。[UNKNOWN] 你 看 我 就 两 块 钱 我 就。[UNKNOWN] 都 没 有  (💬 大份 / 还有金饭团 / 谁家窝窝头会变来变去啊 / 这大馒头一看就好吃 / 得吃了)
+[114m] ▫️ [UNKNOWN] 别 这 么 说 呀。[UNKNOWN] 一 直 陪 伴 着 我。[UNKNOWN] 现 在。[UNKNOWN] 谢 谢 风 玉 魂 儿 的 钢 蹦。[UNKNOWN] 非 常 不 错。[UNKNOWN] 各 位 没 有 关 注 的 请 点。[UNKNOWN] 戒 长 支 持 一 下 谢 谢。[UNKNOWN] 一 止  (💬 笑蜥了 / 我不粗糙 / 你要不要唱歌啊 / 冲110舰了 / 巅峰在哪儿)
+[115m] ▫️ [UNKNOWN] 道 你 还。[UNKNOWN] 在。[UNKNOWN] 我 虽 然 是 乞 丐 我 也 有。[UNKNOWN] 以 其 他 为 生。[UNKNOWN] 但 觉 得 不 好 听 可 以 陪。[UNKNOWN] 是 说。[UNKNOWN] 我 是 绝 对 不 会。[UNKNOWN] 我 是 绝 对 不 会 抛 下 我  (💬 笑蜥了 / 你才艺是啥 / 有猪 / 我可以点歌吗 / 就知道你会唱歌)
+[118m] ▫️ [UNKNOWN] 上 都 有。[UNKNOWN] 觉 得 因 为 我 觉 得 虽 然。[UNKNOWN] 的 我 的 表 演 我 可 以 唱。[UNKNOWN] 嗯。[UNKNOWN] 不 可 以 吗  (💬 笑蜥了 / 南町的🔑南町的🔑南町的🔑南町的🔑 / 我从开头就说你应该唱歌比较厉害 / 叽哩咕嘟，唱歌！ / 好麻烦啊ww)
+[121m] ▫️ [UNKNOWN] 机 会。[UNKNOWN] 我 只 求。[UNKNOWN] 好 像 只 有 我。[UNKNOWN] 岁 月 淹 没。[UNKNOWN] 的 将。[UNKNOWN] 全 世 界。[UNKNOWN] 回。[UNKNOWN] 让 我 忘。[UNKNOWN] 忘 了 你 是 谁 夜 圆 梦 未  (💬 NN最强(x5) / 好町的🔑好町的🔑好町的🔑好町的🔑 / 我去乞丐怎么唱歌这么好听)
+[125m] ▫️ [UNKNOWN] 怎 么 样 还 行 吧 各 位 我。[UNKNOWN] 乞 丐 还 是 有 一 点 一 技。[UNKNOWN] 之 长。[UNKNOWN] 歌 还 是。[UNKNOWN] 的 KPL 换 成 联 动 明 天。[UNKNOWN] 觉 像 是 流 浪 的 意 义 啊。[UNKNOWN] 今 晚 的 比 赛 会 看 的 但  (💬 什么联动 / 好听的🔑！ / 好听的钥匙 / 好听好听 / 出门了拜拜nn)
+[127m] ▫️ [UNKNOWN] G 打。[UNKNOWN] 感 觉 跟 昨 天 场 局 面 应。[UNKNOWN] 该 不 太。[UNKNOWN] 以 为  (💬 你们三个加起来有人家一个人高吗 / 要饭有要早点的吗 / DSB也是好起来了 / 不会是莉寇鼠姐搞对象，你被踢出去吧 / 点歌 突然的陀螺)
+[129m] ▫️ [UNKNOWN] 却 说 不。[UNKNOWN] 你 搜 集 了。[UNKNOWN] 合 我。[UNKNOWN] 要 你 分 心。[UNKNOWN] 离 开 的  (💬 NN最强(x9) / 开局一个碗！ / 笑蜥了 / 我去这乞丐唱歌怎么这么好听)
+[132m] ▫️ [UNKNOWN] 谢 谢 刘 备 的 比 心。[UNKNOWN] 这 QQ。[UNKNOWN] 一 一 起。[UNKNOWN] 和。[UNKNOWN] 家 今 天 的 舰 长。[UNKNOWN] 健 康 万。[UNKNOWN] 切。[UNKNOWN] 没 听。[UNKNOWN] 看 我 的 牙 各 位 看 我 牙。[UNKNOWN] 白 的 牙  (💬 不装了我摊牌了 / 主播抽象很有说法 / 主包不是搞笑女吗 / 狍子千舰穿乞丐服了吗? / 主播是直南)
+[135m] ▫️ [UNKNOWN] 确 实。[UNKNOWN] 牌。[UNKNOWN] 牙 齿 上 就 没 有 什 么 污。[UNKNOWN] 啊 前 一 个 小 时 稍 微 有。[UNKNOWN] 一 点 能。[UNKNOWN] 望 主 播  (💬 辛苦了辛苦了 / 北丐 / 休息吧 / 点一根 / 陪一根)
+[138m] ▫️ [UNKNOWN] 这 种  (💬 什么情况)
+[139m] ▫️ [UNKNOWN] 你 说 的 这 么 认 真。[UNKNOWN] 显 得 我 存 心 敷 衍。[UNKNOWN] 恋。[UNKNOWN] 所 保。[UNKNOWN] 留 说 过 的 话 当 总 屏 附。[UNKNOWN] 曾 爱 的 当。[UNKNOWN] 走 我 们。[UNKNOWN] 留 下 我 们 的 狗 别 管 有  (💬 NN最强(x5) / 两不相欠就完事儿了 / 小乞丐表演才艺了，有钱的捧个钱场没钱的捧个人场)
+[140m] ▫️ [UNKNOWN] 没 有。[UNKNOWN] 可 怜。[UNKNOWN] 显 得 我 寸 心 敷 衍。[UNKNOWN] 别 管 有 没 有 用 我 怕 他。[UNKNOWN] 着 那。[UNKNOWN] 一 句 分。[UNKNOWN] 已 经 成。[UNKNOWN] 嗯。[UNKNOWN] 没 啥 小 问 题 啊  (💬 NN最强 / 叽里咕噜我们两不相欠 / 听不清但是节奏对了[dog])
+[144m] ▫️ [UNKNOWN] 今 天 也。[UNKNOWN] 这 个。[UNKNOWN] 乞 丐 服 这 里 有 个 洞。[UNKNOWN] 会 发 一 些 抽 奖 有 意 思。[UNKNOWN] 什 么。[UNKNOWN] 谢 谢 剧 哦 原 来 是 这 个。[UNKNOWN] 奥 莱。[UNKNOWN] 住 你。[UNKNOWN] 我 是 不 会 放 过 你 的  (💬 好南町 / 玩会儿小手机 / 今天提早半小时从学校溜出来了 好有罪恶感 / 这大概是最弱女版虚拟萧峰了罢。 / 今晚我准备十点左右下班，你别丢下我一个人)
+[146m] ▫️ [UNKNOWN] 了。[UNKNOWN] 好 了 那 我 今 天 下 午 的。[UNKNOWN] 我 们 会。[UNKNOWN] 来 看 一 下 王 者 荣 耀 那  (💬 笑蜥了(x3) / 88888888 / 堡真来吗 / 我哔哩哔哩的签名怎么还是失忆小护士那一段 / 我都忘了改了)
+[148m] ▫️ [UNKNOWN] 所 以  (💬 何bgm / 连雪都是假的 / 在干嘛 / 害羞惹 / 济公)
+[149m] ▫️ [UNKNOWN] 鞋 儿 缝 猫 儿 缝 身 上 的
