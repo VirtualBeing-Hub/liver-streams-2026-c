@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="#s"?>
+<i>
+  <!--
+mikufans录播姬 2.18.1-codex-danmaku-reconnect-singleflight.1+22.Branch.codex-danmaku-reconnect-singleflight.Sha.d7fd76001d74eb4aa01441c7793be8d779309d55
+https://rec.danmuji.org/user/danmaku/
+本文件的弹幕信息兼容mikufans主站视频弹幕XML格式
+本XML自带样式可以在浏览器里打开（推荐使用Chrome）
+
+sc 为SuperChat
+gift为礼物
+guard为上船
+
+attribute "raw" 为原始数据
+-->
+  <chatserver>chat.bilibili.com</chatserver>
+  <chatid>0</chatid>
+  <mission>0</mission>
+  <maxlimit>1000</maxlimit>
+  <state>0</state>
+  <real_name>0</real_name>
+  <source>0</source>
+  <BililiveRecorder version="2.18.1-codex-danmaku-reconnect-singleflight.1+22" />
+  <BililiveRecorderRecordInfo roomid="24872476" shortid="0" name="南町Nightin" title="周五晚上的小众宝藏" areanameparent="虚拟主播" areanamechild="虚拟日常" start_time="2026-10-23T22:20:54.8728222+08:00" />
+  <BililiveRecorderXmlStyle><z:stylesheet version="1.0" id="s" xml:id="s" xmlns:z="http://www.w3.org/1999/XSL/Transform"><z:output method="html"/><z:template match="/"><html><meta name="viewport" content="width=device-width"/><title>mikufans录播姬弹幕文件 - <z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></title><style>body{margin:0}h1,h2,p,table{margin-left:5px}table{border-spacing:0}td,th{border:1px solid grey;padding:1px}th{position:sticky;top:0;background:#4098de}tr:hover{background:#d9f4ff}div{overflow:auto;max-height:80vh;max-width:100vw;width:fit-content}</style><h1><a href="https://rec.danmuji.org">mikufans录播姬</a>弹幕XML文件</h1><p>本文件不支持在 IE 浏览器里预览，请使用 Chrome Firefox Edge 等浏览器。</p><p>文件用法参考文档 <a href="https://rec.danmuji.org/user/danmaku/">https://rec.danmuji.org/user/danmaku/</a></p><table><tr><td>录播姬版本</td><td><z:value-of select="/i/BililiveRecorder/@version"/></td></tr><tr><td>房间号</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@roomid"/></td></tr><tr><td>主播名</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></td></tr><tr><td>录制开始时间</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@start_time"/></td></tr><tr><td><a href="#d">弹幕</a></td><td>共<z:value-of select="count(/i/d)"/>条记录</td></tr><tr><td><a href="#guard">上船</a></td><td>共<z:value-of select="count(/i/guard)"/>条记录</td></tr><tr><td><a href="#sc">SC</a></td><td>共<z:value-of select="count(/i/sc)"/>条记录</td></tr><tr><td><a href="#gift">礼物</a></td><td>共<z:value-of select="count(/i/gift)"/>条记录</td></tr></table><h2 id="d">弹幕</h2><div id="dm"><table><tr><th>用户名</th><th>出现时间</th><th>用户ID</th><th>弹幕</th><th>参数</th></tr><z:for-each select="/i/d"><tr><td><z:value-of select="@user"/></td><td></td><td></td><td><z:value-of select="."/></td><td><z:value-of select="@p"/></td></tr></z:for-each></table></div><script>Array.from(document.querySelectorAll('#dm tr')).slice(1).map(t=>t.querySelectorAll('td')).forEach(t=>{let p=t[4].textContent.split(','),a=p[0];t[1].textContent=`${(Math.floor(a/60/60)+'').padStart(2,0)}:${(Math.floor(a/60%60)+'').padStart(2,0)}:${(a%60).toFixed(3).padStart(6,0)}`;t[2].innerHTML=`&lt;a target=_blank rel="nofollow noreferrer" href="https://space.bilibili.com/${p[6]}"&gt;${p[6]}&lt;/a&gt;`})</script><h2 id="guard">舰长购买</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>舰长等级</th><th>购买数量</th><th>出现时间</th></tr><z:for-each select="/i/guard"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@level"/></td><td><z:value-of select="@count"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="sc">SuperChat 醒目留言</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>内容</th><th>显示时长</th><th>价格</th><th>出现时间</th></tr><z:for-each select="/i/sc"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="."/></td><td><z:value-of select="@time"/></td><td><z:value-of select="@price"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="gift">礼物</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>礼物名</th><th>礼物数量</th><th>出现时间</th></tr><z:for-each select="/i/gift"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@giftname"/></td><td><z:value-of select="@giftcount"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div></html></z:template></z:stylesheet></BililiveRecorderXmlStyle>
+  <d p="12.410,4,25,14893055,1792765265998,0,87307812,0" user="上杉吹雪">那不送了</d>
+  <d p="20.207,4,25,14893055,1792765273312,0,2656727,0" user="布瑞伍哈特">那退我们点</d>
+  <d p="25.421,1,25,14893055,1792765278833,0,361800142,0" user="溯夜夜夜">wink蜥</d>
+  <d p="28.107,4,25,14893055,1792765281514,0,14133962,0" user="胖次今天会画了吗">那不续了</d>
+  <gift ts="30.636" user="That9255" uid="367450032" giftname="粉丝团灯牌" giftcount="1" />
+  <gift ts="38.429" user="That9255" uid="367450032" giftname="雅会请柬" giftcount="1" />
+  <d p="38.499,4,25,14893055,1792765291824,0,309553490,0" user="达官甲申破烂王刘备">大家都好努力的现在</d>
+  <d p="48.899,4,25,14893055,1792765301790,0,14133962,0" user="胖次今天会画了吗">我还是喜欢冲百舰活动</d>
+  <d p="50.201,4,25,14893055,1792765304355,0,14133962,0" user="胖次今天会画了吗">笑蜥了</d>
+  <d p="56.606,1,25,16777215,1792765310393,0,1972741649,0" user="EGOIST霖">笑蜥了</d>
+  <d p="59.305,4,25,14893055,1792765312722,0,58237,0" user="流風舞枼">做什么都行是吧 那这个月把围巾都赶出来可以吗</d>
+  <d p="72.298,4,25,14893055,1792765325801,0,309553490,0" user="达官甲申破烂王刘备">我们努力没用，得你努力</d>
+  <d p="114.291,4,25,14893055,1792765367649,0,14133962,0" user="胖次今天会画了吗">总体来说比之前好了还是</d>
+  <d p="124.290,4,25,14893055,1792765378206,0,58237,0" user="流風舞枼">细数一下今年N股怎么样</d>
+  <d p="124.300,4,25,14893055,1792765377497,0,14133962,0" user="胖次今天会画了吗">要十万了，可以里程碑的</d>
+  <d p="143.895,4,25,14893055,1792765397328,0,87307812,0" user="上杉吹雪">今年的人设更加丰满了</d>
+  <d p="165.941,4,25,14893055,1792765419587,0,309553490,0" user="达官甲申破烂王刘备">上个月都+10000了</d>
+  <d p="168.411,1,25,16777215,1792765422128,0,170287701,0" user="冰华尤沙">10万会有小作文吗？</d>
+  <d p="168.693,4,25,14893055,1792765422590,0,14133962,0" user="胖次今天会画了吗">这玩意儿叔叔不会放出来的</d>
+  <d p="308.278,1,25,16777215,1792765450741,0,171884128,0" user="tutiancai">乞丐帽怎么让守宫戴上了</d>
+</i>

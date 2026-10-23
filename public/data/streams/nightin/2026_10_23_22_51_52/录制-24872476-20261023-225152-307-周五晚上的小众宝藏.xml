@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="#s"?>
+<i>
+  <!--
+mikufans录播姬 2.18.1-codex-danmaku-reconnect-singleflight.1+22.Branch.codex-danmaku-reconnect-singleflight.Sha.d7fd76001d74eb4aa01441c7793be8d779309d55
+https://rec.danmuji.org/user/danmaku/
+本文件的弹幕信息兼容mikufans主站视频弹幕XML格式
+本XML自带样式可以在浏览器里打开（推荐使用Chrome）
+
+sc 为SuperChat
+gift为礼物
+guard为上船
+
+attribute "raw" 为原始数据
+-->
+  <chatserver>chat.bilibili.com</chatserver>
+  <chatid>0</chatid>
+  <mission>0</mission>
+  <maxlimit>1000</maxlimit>
+  <state>0</state>
+  <real_name>0</real_name>
+  <source>0</source>
+  <BililiveRecorder version="2.18.1-codex-danmaku-reconnect-singleflight.1+22" />
+  <BililiveRecorderRecordInfo roomid="24872476" shortid="0" name="南町Nightin" title="周五晚上的小众宝藏" areanameparent="虚拟主播" areanamechild="虚拟日常" start_time="2026-10-23T22:51:52.3080342+08:00" />
+  <BililiveRecorderXmlStyle><z:stylesheet version="1.0" id="s" xml:id="s" xmlns:z="http://www.w3.org/1999/XSL/Transform"><z:output method="html"/><z:template match="/"><html><meta name="viewport" content="width=device-width"/><title>mikufans录播姬弹幕文件 - <z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></title><style>body{margin:0}h1,h2,p,table{margin-left:5px}table{border-spacing:0}td,th{border:1px solid grey;padding:1px}th{position:sticky;top:0;background:#4098de}tr:hover{background:#d9f4ff}div{overflow:auto;max-height:80vh;max-width:100vw;width:fit-content}</style><h1><a href="https://rec.danmuji.org">mikufans录播姬</a>弹幕XML文件</h1><p>本文件不支持在 IE 浏览器里预览，请使用 Chrome Firefox Edge 等浏览器。</p><p>文件用法参考文档 <a href="https://rec.danmuji.org/user/danmaku/">https://rec.danmuji.org/user/danmaku/</a></p><table><tr><td>录播姬版本</td><td><z:value-of select="/i/BililiveRecorder/@version"/></td></tr><tr><td>房间号</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@roomid"/></td></tr><tr><td>主播名</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></td></tr><tr><td>录制开始时间</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@start_time"/></td></tr><tr><td><a href="#d">弹幕</a></td><td>共<z:value-of select="count(/i/d)"/>条记录</td></tr><tr><td><a href="#guard">上船</a></td><td>共<z:value-of select="count(/i/guard)"/>条记录</td></tr><tr><td><a href="#sc">SC</a></td><td>共<z:value-of select="count(/i/sc)"/>条记录</td></tr><tr><td><a href="#gift">礼物</a></td><td>共<z:value-of select="count(/i/gift)"/>条记录</td></tr></table><h2 id="d">弹幕</h2><div id="dm"><table><tr><th>用户名</th><th>出现时间</th><th>用户ID</th><th>弹幕</th><th>参数</th></tr><z:for-each select="/i/d"><tr><td><z:value-of select="@user"/></td><td></td><td></td><td><z:value-of select="."/></td><td><z:value-of select="@p"/></td></tr></z:for-each></table></div><script>Array.from(document.querySelectorAll('#dm tr')).slice(1).map(t=>t.querySelectorAll('td')).forEach(t=>{let p=t[4].textContent.split(','),a=p[0];t[1].textContent=`${(Math.floor(a/60/60)+'').padStart(2,0)}:${(Math.floor(a/60%60)+'').padStart(2,0)}:${(a%60).toFixed(3).padStart(6,0)}`;t[2].innerHTML=`&lt;a target=_blank rel="nofollow noreferrer" href="https://space.bilibili.com/${p[6]}"&gt;${p[6]}&lt;/a&gt;`})</script><h2 id="guard">舰长购买</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>舰长等级</th><th>购买数量</th><th>出现时间</th></tr><z:for-each select="/i/guard"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@level"/></td><td><z:value-of select="@count"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="sc">SuperChat 醒目留言</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>内容</th><th>显示时长</th><th>价格</th><th>出现时间</th></tr><z:for-each select="/i/sc"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="."/></td><td><z:value-of select="@time"/></td><td><z:value-of select="@price"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="gift">礼物</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>礼物名</th><th>礼物数量</th><th>出现时间</th></tr><z:for-each select="/i/gift"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@giftname"/></td><td><z:value-of select="@giftcount"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div></html></z:template></z:stylesheet></BililiveRecorderXmlStyle>
+  <d p="3.642,1,25,65532,1792767114342,0,6473777,0" user="松岛丰子">但凡犹豫一下都不用买了</d>
+  <d p="94.706,4,25,14893055,1792767205588,0,437504152,0" user="南町家的哈气哈基米">这次的台风说是好几年内最强的一次</d>
+  <d p="106.340,4,25,14893055,1792767217095,0,309553490,0" user="达官甲申破烂王刘备">我买了一个末世老师做的PSP泡泡雨伞给你，明天bw带给你</d>
+  <d p="121.941,4,25,14893055,1792767232746,0,277718271,0" user="草菇F草草草">琵琶</d>
+  <d p="127.265,4,25,14893055,1792767238623,0,14133962,0" user="胖次今天会画了吗">笑蜥了</d>
+  <d p="131.250,4,25,14893055,1792767241999,0,161330,0" user="六更るり">叫琵琶</d>
+  <gift ts="138.817" user="达观甲申神将嗔面" uid="1486616374" giftname="亲密之旅" giftcount="1" />
+  <d p="138.858,4,25,14893055,1792767249559,0,14133962,0" user="胖次今天会画了吗">全让别的省份帮你们扛了</d>
+  <d p="140.136,4,25,14893055,1792767250895,0,87307812,0" user="上杉吹雪">习惯就好了</d>
+  <d p="145.292,1,25,16777215,1792767256718,0,484733245,0" user="可乐味儿的薯条">笑蜥了</d>
+  <d p="146.648,1,25,65532,1792767257608,0,6473777,0" user="松岛丰子">在湖北能遇到台风  那说明问题大了</d>
+  <d p="147.934,4,25,14893055,1792767259082,0,309553490,0" user="达官甲申破烂王刘备">没问题吧，没东西就行吧</d>
+  <d p="150.484,4,25,14893055,1792767261466,0,1437490314,0" user="狸猫酒客">之前黄冈有龙卷风</d>
+  <d p="155.765,4,25,14893055,1792767267151,0,309553490,0" user="达官甲申破烂王刘备">拿不到那就没招啦</d>
+  <d p="155.765,4,25,14893055,1792767267332,0,14133962,0" user="胖次今天会画了吗">气象局吧</d>
+  <d p="164.845,1,25,65532,1792767275949,0,6473777,0" user="松岛丰子">有气象联盟的</d>
+  <d p="168.736,4,25,14893055,1792767279804,0,437504152,0" user="南町家的哈气哈基米">我明天一早起来楼下肯定又淹了</d>
+  <d p="172.598,4,25,14893055,1792767283716,0,87307812,0" user="上杉吹雪">太平洋周边国家一起命名的</d>
+  <d p="173.914,4,25,14893055,1792767284631,0,32412607,0" user="踏破冰河Tenssy">湖北遇到台风那苏州已经被吹走了</d>
+  <d p="177.851,1,25,16777215,1792767288496,0,23827762,0" user="古兰雅辛">你能在湖北遇到就说明沿海没了</d>
+  <d p="201.234,1,25,16777215,1792767311734,0,45058481,0" user="不安的水桶">喜欢NN</d>
+  <d p="207.736,1,25,65532,1792767319023,0,6473777,0" user="松岛丰子">还有梅雨季</d>
+  <d p="211.599,4,25,14893055,1792767322817,0,32412607,0" user="踏破冰河Tenssy">英国要连着下7天雨 我很劳累</d>
+  <d p="218.081,4,25,14893055,1792767329093,0,161330,0" user="六更るり">你猜湾湾那边叫台风琵琶的台风眼什么</d>
+  <d p="223.342,4,25,14893055,1792767334611,0,14133962,0" user="胖次今天会画了吗">广东就是春天热夏天热秋天热冬天热天天热</d>
+  <d p="227.209,1,25,16777215,1792767338704,0,43698420,0" user="筱亚系亚">来广东，一年一堆台风[dog]</d>
+  <d p="272.742,4,25,14893055,1792767384204,0,14133962,0" user="胖次今天会画了吗">琵眼【】</d>
+  <d p="277.935,4,25,14893055,1792767389217,0,309553490,0" user="达官甲申破烂王刘备">琵眼</d>
+  <d p="283.136,1,25,65532,1792767393490,0,6473777,0" user="松岛丰子">住口</d>
+  <d p="294.780,1,25,16777215,1792767405232,0,12485638,0" user="囊萤的温度">今天下午我看主播有600人是为什么呢？</d>
+  <d p="294.833,4,25,14893055,1792767405293,0,1486616374,0" user="达观甲申神将嗔面">笑蜥了</d>
+  <d p="296.091,1,25,16777215,1792767407588,0,419332204,0" user="我只是个文弱书生啊">？</d>
+  <d p="297.402,4,25,14893055,1792767408524,0,1437490314,0" user="狸猫酒客">？</d>
+  <d p="297.403,1,25,16777215,1792767408809,0,645664517,0" user="灯野菖蒲-">笑蜥了</d>
+  <d p="298.742,4,25,14893055,1792767410427,0,309553490,0" user="达官甲申破烂王刘备">不是太隐晦了？</d>
+  <d p="300.001,4,25,14893055,1792767411360,0,1437490314,0" user="狸猫酒客">笑蜥了</d>
+  <d p="301.335,4,25,14893055,1792767411870,0,1486616374,0" user="达观甲申神将嗔面">太下三路了</d>
+  <d p="306.493,4,25,14893055,1792767418032,0,161330,0" user="六更るり">这可是他们写在新闻上的</d>
+  <d p="325.990,1,25,16777215,1792767436829,0,645664517,0" user="灯野菖蒲-">没有吧，你太敏感了</d>
+  <d p="326.043,4,25,14893055,1792767437169,0,14133962,0" user="胖次今天会画了吗">弯弯玩这个梗已经玩的不知天地为何物了</d>
+  <d p="348.133,1,25,65532,1792767458937,0,6473777,0" user="松岛丰子">香港媒体也不遑多让</d>
+  <d p="352.031,1,25,14893055,1792767463338,0,154146493,0" user="x仰仰">笑蜥了</d>
+</i>
