@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="#s"?>
+<i>
+  <!--
+mikufans录播姬 2.18.1-codex-danmaku-reconnect-singleflight.1+22.Branch.codex-danmaku-reconnect-singleflight.Sha.d7fd76001d74eb4aa01441c7793be8d779309d55
+https://rec.danmuji.org/user/danmaku/
+本文件的弹幕信息兼容mikufans主站视频弹幕XML格式
+本XML自带样式可以在浏览器里打开（推荐使用Chrome）
+
+sc 为SuperChat
+gift为礼物
+guard为上船
+
+attribute "raw" 为原始数据
+-->
+  <chatserver>chat.bilibili.com</chatserver>
+  <chatid>0</chatid>
+  <mission>0</mission>
+  <maxlimit>1000</maxlimit>
+  <state>0</state>
+  <real_name>0</real_name>
+  <source>0</source>
+  <BililiveRecorder version="2.18.1-codex-danmaku-reconnect-singleflight.1+22" />
+  <BililiveRecorderRecordInfo roomid="23260993" shortid="0" name="瑞娅_Rhea" title="塔露拉你怎么在这里快和我回" areanameparent="虚拟主播" areanamechild="虚拟日常" start_time="2026-11-01T14:01:06.0814882+08:00" />
+  <BililiveRecorderXmlStyle><z:stylesheet version="1.0" id="s" xml:id="s" xmlns:z="http://www.w3.org/1999/XSL/Transform"><z:output method="html"/><z:template match="/"><html><meta name="viewport" content="width=device-width"/><title>mikufans录播姬弹幕文件 - <z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></title><style>body{margin:0}h1,h2,p,table{margin-left:5px}table{border-spacing:0}td,th{border:1px solid grey;padding:1px}th{position:sticky;top:0;background:#4098de}tr:hover{background:#d9f4ff}div{overflow:auto;max-height:80vh;max-width:100vw;width:fit-content}</style><h1><a href="https://rec.danmuji.org">mikufans录播姬</a>弹幕XML文件</h1><p>本文件不支持在 IE 浏览器里预览，请使用 Chrome Firefox Edge 等浏览器。</p><p>文件用法参考文档 <a href="https://rec.danmuji.org/user/danmaku/">https://rec.danmuji.org/user/danmaku/</a></p><table><tr><td>录播姬版本</td><td><z:value-of select="/i/BililiveRecorder/@version"/></td></tr><tr><td>房间号</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@roomid"/></td></tr><tr><td>主播名</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></td></tr><tr><td>录制开始时间</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@start_time"/></td></tr><tr><td><a href="#d">弹幕</a></td><td>共<z:value-of select="count(/i/d)"/>条记录</td></tr><tr><td><a href="#guard">上船</a></td><td>共<z:value-of select="count(/i/guard)"/>条记录</td></tr><tr><td><a href="#sc">SC</a></td><td>共<z:value-of select="count(/i/sc)"/>条记录</td></tr><tr><td><a href="#gift">礼物</a></td><td>共<z:value-of select="count(/i/gift)"/>条记录</td></tr></table><h2 id="d">弹幕</h2><div id="dm"><table><tr><th>用户名</th><th>出现时间</th><th>用户ID</th><th>弹幕</th><th>参数</th></tr><z:for-each select="/i/d"><tr><td><z:value-of select="@user"/></td><td></td><td></td><td><z:value-of select="."/></td><td><z:value-of select="@p"/></td></tr></z:for-each></table></div><script>Array.from(document.querySelectorAll('#dm tr')).slice(1).map(t=>t.querySelectorAll('td')).forEach(t=>{let p=t[4].textContent.split(','),a=p[0];t[1].textContent=`${(Math.floor(a/60/60)+'').padStart(2,0)}:${(Math.floor(a/60%60)+'').padStart(2,0)}:${(a%60).toFixed(3).padStart(6,0)}`;t[2].innerHTML=`&lt;a target=_blank rel="nofollow noreferrer" href="https://space.bilibili.com/${p[6]}"&gt;${p[6]}&lt;/a&gt;`})</script><h2 id="guard">舰长购买</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>舰长等级</th><th>购买数量</th><th>出现时间</th></tr><z:for-each select="/i/guard"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@level"/></td><td><z:value-of select="@count"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="sc">SuperChat 醒目留言</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>内容</th><th>显示时长</th><th>价格</th><th>出现时间</th></tr><z:for-each select="/i/sc"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="."/></td><td><z:value-of select="@time"/></td><td><z:value-of select="@price"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="gift">礼物</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>礼物名</th><th>礼物数量</th><th>出现时间</th></tr><z:for-each select="/i/gift"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@giftname"/></td><td><z:value-of select="@giftcount"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div></html></z:template></z:stylesheet></BililiveRecorderXmlStyle>
+  <d p="0.203,1,25,16777215,1793512867861,0,566898,0" user="fk6655">哈哈</d>
+  <d p="0.596,1,25,14893055,1793512868248,0,345969334,0" user="月说或许_">哈哈哈哈</d>
+  <d p="2.777,4,25,14893055,1793512869882,0,292143768,0" user="cAge_rhea_hoOOOO">[瑞娅活动动态表情包_笨蛋对视]</d>
+  <d p="4.564,1,25,16777215,1793512872583,0,33327221,0" user="绯之散华">两眼一黑</d>
+  <d p="5.809,1,25,16772431,1793512873669,0,51218743,0" user="LeoDream丶狮子Leo君">两眼一黑</d>
+  <d p="6.668,4,25,14893055,1793512874075,0,169647851,0" user="墨雲14">[瑞娅活动动态表情包_瑞门]</d>
+  <d p="12.362,4,25,14893055,1793512880343,0,309523,0" user="MrbigJ">[瑞娅活动动态表情包_耶嘿]</d>
+  <d p="15.836,4,25,14893055,1793512883180,0,3546912590400086,0" user="-_-老公_-">太考了</d>
+  <d p="19.119,1,25,16777215,1793512886804,0,251745,0" user="LZ0741">?</d>
+  <d p="20.145,1,25,16772431,1793512887584,0,305013,0" user="関上柚月_Channal">哇哦好考</d>
+  <d p="20.970,4,25,14893055,1793512888585,0,3546912590400086,0" user="-_-老公_-">困</d>
+  <d p="24.922,4,25,14893055,1793512891818,0,292143768,0" user="cAge_rhea_hoOOOO">考</d>
+  <d p="24.923,1,25,16777215,1793512893026,0,6371,0" user="中禅寺远子">我觉得瑞瑞回私信挺多的呀</d>
+  <d p="27.904,1,25,16777215,1793512895842,0,800144,0" user="NeedNotWorry">考</d>
+  <d p="33.125,1,25,14893055,1793512900698,0,345969334,0" user="月说或许_">考</d>
+  <d p="36.586,1,25,16777215,1793512903515,0,139993,0" user="记忆中美好的昨日">这皇帝为啥。。。这么多呀</d>
+  <d p="36.586,4,25,14893055,1793512903560,0,292143768,0" user="cAge_rhea_hoOOOO">这啥，巨人OP？</d>
+  <d p="40.468,4,25,14893055,1793512908165,0,3546912590400086,0" user="-_-老公_-">年纪大了考不动了</d>
+  <d p="51.341,1,25,16772431,1793512918573,0,51218743,0" user="LeoDream丶狮子Leo君">听起来是串烧</d>
+  <d p="52.644,1,25,14893055,1793512920138,0,345969334,0" user="月说或许_">红莲的弓矢</d>
+  <d p="53.501,4,25,14893055,1793512921353,0,169647851,0" user="墨雲14">嗯嗯</d>
+  <d p="53.510,4,25,14893055,1793512921624,0,292143768,0" user="cAge_rhea_hoOOOO">巨批集合！巨批集合！巨批集合！</d>
+  <d p="53.888,1,25,16777215,1793512921377,0,251745,0" user="LZ0741">红莲的弓矢</d>
+  <d p="54.787,1,25,16777215,1793512921721,0,17666451,0" user="copinior">红莲的箭矢</d>
+  <d p="54.787,1,25,16777215,1793512922327,0,139993,0" user="记忆中美好的昨日">红莲的弓矢啊</d>
+  <d p="59.964,4,25,14893055,1793512926932,0,169647851,0" user="墨雲14">[瑞娅活动动态表情包_干杯]</d>
+  <d p="88.568,1,25,16777215,1793512955883,0,210653,0" user="晴色">哇二次元终于也有自己的情歌王了（x）</d>
+  <d p="89.018,4,25,14893055,1793512956201,0,58725,0" user="Qullx">两眼一黑</d>
+  <d p="91.178,4,25,14893055,1793512958828,0,4270058,0" user="BR-471D">给给？</d>
+  <d p="91.178,1,25,16777215,1793512959352,0,6371,0" user="中禅寺远子">兄弟你谁</d>
+  <d p="92.458,1,25,16777215,1793512960107,0,139993,0" user="记忆中美好的昨日">这又是谁。。。。。。。。</d>
+  <d p="93.760,1,25,16777215,1793512960937,0,472782,0" user="无能狂鹿人">两眼一黑</d>
+  <d p="95.468,1,25,16777215,1793512962886,0,80967503,0" user="Hopegrave">男的来了</d>
+  <d p="96.369,4,25,14893055,1793512964168,0,292143768,0" user="cAge_rhea_hoOOOO">男的又来了</d>
+  <d p="98.070,1,25,14893055,1793512965195,0,345969334,0" user="月说或许_">贝牢内</d>
+  <d p="100.669,1,25,16772431,1793512967868,0,51218743,0" user="LeoDream丶狮子Leo君">摇滚是这样的！</d>
+  <d p="101.573,4,25,14893055,1793512968605,0,169647851,0" user="墨雲14">這池好歪</d>
+  <d p="108.116,1,25,16777215,1793512975545,0,139993,0" user="记忆中美好的昨日">招娣歌曲（bushi）</d>
+  <d p="108.117,4,25,14893055,1793512975874,0,169647851,0" user="墨雲14">什麼都來www</d>
+  <d p="155.244,1,25,16777215,1793513022609,0,80967503,0" user="Hopegrave">两眼一黑</d>
+  <d p="163.071,1,25,14893055,1793513031181,0,345969334,0" user="月说或许_">哈哈哈哈</d>
+  <d p="163.957,1,25,16777215,1793513031890,0,139993,0" user="记忆中美好的昨日">绝了真的</d>
+  <d p="167.858,4,25,14893055,1793513035630,0,292143768,0" user="cAge_rhea_hoOOOO">好多男的</d>
+  <d p="170.853,1,25,14893055,1793513038651,0,345969334,0" user="月说或许_">全男号来的（</d>
+  <d p="171.803,1,25,16777215,1793513038619,0,6371,0" user="中禅寺远子">确实三连男人</d>
+  <d p="176.964,1,25,16777215,1793513044481,0,353652,0" user="saber2000">男的</d>
+  <d p="178.616,1,25,16777215,1793513045975,0,80967503,0" user="Hopegrave">又是男的</d>
+  <d p="179.562,4,25,14893055,1793513047470,0,169647851,0" user="墨雲14">現在太精緻了</d>
+  <d p="188.667,4,25,14893055,1793513056763,0,169647851,0" user="墨雲14">還真是www</d>
+  <d p="197.762,4,25,14893055,1793513065075,0,3546912590400086,0" user="-_-老公_-">不要男人[妙]</d>
+  <d p="205.558,1,25,16777215,1793513073383,0,210653,0" user="晴色">无穷无尽的男人！无穷无尽的男人！无穷无尽的男人！无穷无尽的男人！</d>
+  <d p="248.805,4,25,14893055,1793513115567,0,58725,0" user="Qullx">两眼一黑</d>
+  <d p="251.080,1,25,16777215,1793513118743,0,139993,0" user="记忆中美好的昨日">。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。</d>
+  <d p="252.706,1,25,16777215,1793513119652,0,80967503,0" user="Hopegrave">两眼一黑</d>
+  <d p="253.689,1,25,16777215,1793513120587,0,6371,0" user="中禅寺远子">可爱宝宝</d>
+  <d p="253.689,4,25,14893055,1793513121521,0,169647851,0" user="墨雲14">BGM要用好（女的來了</d>
+  <d p="255.397,1,25,16772431,1793513123458,0,51218743,0" user="LeoDream丶狮子Leo君">上版本的？</d>
+  <d p="257.575,4,25,14893055,1793513125471,0,292143768,0" user="cAge_rhea_hoOOOO">sha（n）b</d>
+  <d p="257.918,1,25,16777215,1793513125143,0,386110100,0" user="超级斗丁">iceb</d>
+  <d p="258.915,4,25,14893055,1793513126104,0,169647851,0" user="墨雲14">[瑞娅活动动态表情包_气鼓鼓]</d>
+  <d p="258.915,1,25,16777215,1793513126297,0,2648186,0" user="芬兰琴魔-米卡">你就说是不是女的</d>
+  <d p="261.457,1,25,16777215,1793513128409,0,210653,0" user="晴色">单UP池</d>
+  <d p="262.781,4,25,14893055,1793513129658,0,169647851,0" user="墨雲14">可愛</d>
+  <d p="262.782,1,25,16777215,1793513130036,0,6371,0" user="中禅寺远子">至少性别对了</d>
+  <d p="263.088,1,25,14893055,1793513130428,0,345969334,0" user="月说或许_">女的来了</d>
+  <d p="265.462,1,25,16777215,1793513132929,0,210653,0" user="晴色">两眼一黑</d>
+  <d p="274.781,1,25,16772431,1793513142956,0,51218743,0" user="LeoDream丶狮子Leo君">性别对立</d>
+  <d p="278.709,1,25,16772431,1793513146923,0,51218743,0" user="LeoDream丶狮子Leo君">但是合理</d>
+  <d p="281.290,1,25,16777215,1793513148856,0,1602124,0" user="彼岸の音">洁哥陪跑</d>
+  <d p="286.467,1,25,16777215,1793513153477,0,251745,0" user="LZ0741">[瑞娅活动动态表情包_哭泣]</d>
+  <d p="289.081,1,25,16777215,1793513157089,0,80967503,0" user="Hopegrave">两眼一黑</d>
+  <d p="294.365,1,25,16772431,1793513161628,0,51218743,0" user="LeoDream丶狮子Leo君">绝望时刻</d>
+  <d p="297.865,1,25,16777215,1793513164859,0,210653,0" user="晴色">好美味</d>
+  <d p="299.169,4,25,14893055,1793513166660,0,169647851,0" user="墨雲14">[瑞娅活动动态表情包_哭泣]</d>
+  <d p="304.420,1,25,16777215,1793513171495,0,472782,0" user="无能狂鹿人">两眼一黑</d>
+  <d p="304.421,1,25,16777215,1793513172150,0,139993,0" user="记忆中美好的昨日">皇帝太多了。。。</d>
+  <gift ts="304.685" user="slacKnight" uid="2054496" giftname="南瓜假面" giftcount="1" />
+  <d p="306.008,1,25,14893055,1793513173506,0,345969334,0" user="月说或许_">[瑞娅活动动态表情包_气鼓鼓]</d>
+  <d p="306.987,1,25,16777215,1793513173988,0,12562768,0" user="oracula">两眼一黑</d>
+  <d p="306.988,4,25,14893055,1793513174865,0,169647851,0" user="墨雲14">確實</d>
+  <d p="315.089,1,25,16772431,1793513182789,0,51218743,0" user="LeoDream丶狮子Leo君">老师不在吗</d>
+  <d p="318.801,4,25,14893055,1793513185511,0,169647851,0" user="墨雲14">一連三金還是太強了</d>
+  <d p="319.965,1,25,16777215,1793513186947,0,12562768,0" user="oracula">打call</d>
+  <d p="335.591,1,25,16777215,1793513203041,0,210653,0" user="晴色">今天还是万圣节之夜（）</d>
+  <gift ts="341.130" user="灵魂の摇光" uid="5232377" giftname="粉丝团灯牌" giftcount="1" />
+  <d p="356.385,4,25,14893055,1793513223210,0,2054496,0" user="slacKnight">已老实</d>
+  <d p="356.385,4,25,14893055,1793513223980,0,4270058,0" user="BR-471D">两眼一黑</d>
+  <d p="359.272,1,25,16777215,1793513226948,0,36229338,0" user="向往今汐のSora">困</d>
+  <d p="365.469,1,25,16777215,1793513233262,0,210653,0" user="晴色">两眼一黑</d>
+  <d p="383.667,1,25,16777215,1793513251798,0,6830657,0" user="-月见小亦--">冲！</d>
+  <d p="388.865,4,25,14893055,1793513256319,0,169647851,0" user="墨雲14">要碎石嗎</d>
+  <d p="394.054,1,25,16777215,1793513261381,0,210653,0" user="晴色">可能看到无穷无尽的男人晕过去了</d>
+  <d p="396.950,1,25,16772431,1793513264146,0,51218743,0" user="LeoDream丶狮子Leo君">别着急碎，等本人回复</d>
+  <d p="402.262,1,25,16772431,1793513270081,0,51218743,0" user="LeoDream丶狮子Leo君">老师，你不在吗</d>
+  <d p="407.346,1,25,14893055,1793513274870,0,345969334,0" user="月说或许_">老板晕过去了</d>
+  <d p="423.955,4,25,14893055,1793513291700,0,169647851,0" user="墨雲14">先傳個訊息吧</d>
+  <d p="427.860,4,25,14893055,1793513295621,0,169647851,0" user="墨雲14">[瑞娅活动动态表情包_笨蛋对视]</d>
+  <d p="435.906,1,25,16772431,1793513303710,0,51218743,0" user="LeoDream丶狮子Leo君">留言下一个吧</d>
+  <d p="449.955,1,25,16777215,1793513317350,0,139993,0" user="记忆中美好的昨日">两眼一黑</d>
+  <d p="460.360,1,25,16777215,1793513328308,0,6371,0" user="中禅寺远子">嘟嘟嘟</d>
+  <d p="461.932,1,25,16777215,1793513330077,0,80967503,0" user="Hopegrave">两眼一黑</d>
+  <d p="462.956,1,25,16777215,1793513330923,0,472782,0" user="无能狂鹿人">嘟嘟嘟</d>
+  <d p="464.649,1,25,16772431,1793513332635,0,51218743,0" user="LeoDream丶狮子Leo君">sk老师是要拉满吗</d>
+  <d p="472.090,1,25,16777215,1793513339116,0,139993,0" user="记忆中美好的昨日">因为是苏德打起来的历史背景呀（ ）</d>
+  <d p="472.090,4,25,14893055,1793513339262,0,294723368,0" user="阿玮sl">豆包选的bgm有点意思的</d>
