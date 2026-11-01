@@ -1,0 +1,212 @@
+## 晚安回复
+
+---
+generatedAt: "2026-11-01T00:19:33.559Z"
+sourceHighlight: "录制-1967216004-20261101-055442-419-BLG VS HLE你知道吗！_AI_HIGHLIGHT.txt"
+provider: "daiYu"
+model: "gpt-6-luna"
+fallback: false
+attempts:
+  - provider: "daiYu"
+    model: "gpt-6-luna"
+    status: "success"
+    finishReason: "completed"
+    maxTokens: 100000
+    completionTokens: 263
+    promptTokens: 30237
+    cachedTokens: 4224
+    cacheWriteTokens: 0
+    reasoningTokens: 165
+    apiModeRequested: "responses"
+    apiModeUsed: "responses"
+    sharedPromptCacheKey: "8891218e3d7163135066ad9d5974d53328393e95023f03aeb552bbe47bc3abd8"
+    sharedPromptPrefixChars: 38366
+    explicitPromptCache: "implicit_routed"
+    promptCacheRolloutBucket: 2686
+    totalTokens: 30500
+    requestId: "81c3fadb-e3d6-4136-8807-c1e403dcbb03"
+    responseId: "resp_0d16099028d11ab0016ae68592f2508191831d48fe1e0847ce"
+    requestStarted: true
+---
+从BLG地狱归来翻盘看到抽签，心情跟着过山车；“爱吃牛肉”梗和最后那波发条大招都太有节目效果了，采访也努力听懂了哈哈。三理一早陪大家看这么久辛苦啦，赶紧补觉吃点东西，下午训练赛就看安排，嗓子也歇歇捏。
+
+---
+
+## Highlight
+
+【摘要】(保留率: 前35%热度 + 10%随机)
+---
+【参与者】计划参与: 无
+【参与者】实际出声: 无
+【归属说明】名单不证明逐句身份；实际出声仅指音轨匹配，也可能来自被观看内容。UNKNOWN和匿名标签不可归给房主。
+---
+[0m] ▫️ [UNKNOWN] 对。[UNKNOWN] 微的有一点脱节。[UNKNOWN] 一定要看环境。[UNKNOWN] v三右边三v三入野。[UNKNOWN] 对就是肌肉肉抗抗谢谢。[UNKNOWN] 我忏悔我忏悔偏后期的英雄中后期的。[UNKNOWN] 对玩玩那种就是让他舒服的。[UNKNOWN] 让他去先出因为你面对的还是宙斯  (💬 早上好(x12) / 看你(x7) / 早上好！ / 刚刚好的入场时机 / 早早早哇)
+[2m] ▫️ [UNKNOWN] 我BLG了已经是个对开。[UNKNOWN] 病知道了奈奈还没有辛德拉。[UNKNOWN] 你们还是豪华加游戏谢九点是豪华加游戏。[UNKNOWN] 现谢王友又剩下了BLG加游。[UNKNOWN] 他也可以不急着出他可以三楼挂个镜。[UNKNOWN] 人家把皇子早上好早上好。[UNKNOWN] 黄好尤其是皇子打发条这个对局  (💬 看你(x8) / 疑问(x4) / 懂你意思(x3) / 冲！ / 真喝啊理姐)
+[3m] ▫️ [UNKNOWN] 你次玩到他最想要的对局了。[UNKNOWN] 我感觉下路的对局右边选个卡莎。[UNKNOWN] 好好配阵容啊。[UNKNOWN] 是啥意思啊。[UNKNOWN] E边幺g二比零韩华冲啊。[UNKNOWN] 我觉得上路真还给我冲。[UNKNOWN] 我又抽奖了我今天为啥要BOG。[UNKNOWN] 晚上不不是迷朗姆给没比赛吗  (💬 看你(x7) / 泰坦有人拿嘛 / 发条泰坦还行 / 为啥不拿牛呢 / 天天选个泰坦。)
+[4m] 🔥 [UNKNOWN] 怎么又天选了难玩。[UNKNOWN] 感觉兵哥只能是上了这种。[UNKNOWN] 就如一个鳄鱼的情况下。[UNKNOWN] 一点的时候抽的就卡杀一c候。[UNKNOWN] Goa就我觉得镜进加飞机进压飞机好一。[UNKNOWN] 些吧。[UNKNOWN] 就搬一些单挂力。[UNKNOWN] 爱的飞机是个战士七三  (💬 看你(x6) / 掉下来了，前面好像更多 / 人在家中坐…池从天上来 / kc / 第一把开始抽的)
+[4m] 🔥 [UNKNOWN] 你知有三明制的高牌小姐姐。[UNKNOWN] 早上好一早上没睡心脏好舒服啊。[UNKNOWN] 但是我今天不是我今天不是二路不。[UNKNOWN] 我不知道盲感觉盲僧不好。[UNKNOWN] 对他像个赵信只能赵信就上去吃。[UNKNOWN] 相当于拿了个走路的英雄就上去吃。[UNKNOWN] 伤害的盲僧真有点玩不了吧  (💬 看你(x8) / 早上好 / omg / 怎么不是TES打BLG的时候抽啊 / 疑问)
+[6m] 🔥 [UNKNOWN] 法吧。[UNKNOWN] 楼赵不玩。[UNKNOWN] 不是反则声明明是细看赵信。[UNKNOWN] 赵信也不是完全舒适感。[UNKNOWN] 确实不舒服啊。[UNKNOWN] 只是相对盲僧来说可能会更有用一些。[UNKNOWN] 我记得小我。[UNKNOWN] 我今天那个是我都小福星都是二楼发作的  (💬 看你(x11) / 懂你意思(x4) / dnys / 免责声明 / 那blg完蛋了)
+[6m] 🔥 [UNKNOWN] 啊输了怪我吗。[UNKNOWN] 我这么支持b奥g吗。[UNKNOWN] 对呀我很支持的超博是是哎不行。[UNKNOWN] 我的硬币是不是下了很高。[UNKNOWN] 我感觉他是蓝不ff。[UNKNOWN] 他感觉逼哥左边感觉就是那种盲僧一样的。[UNKNOWN] 就是相信个人能力不是上线的。[UNKNOWN] 是的  (💬 看你(x8) / 理神硬币是不是下的韩华 / [UPOWER_2030198123_看你] / 官方的问题 / b站不给二路的问题)
+[8m] ▫️ [UNKNOWN] 然后往上跑去帮宙斯的。[UNKNOWN] 是的。[UNKNOWN] 边路也好。[UNKNOWN] 不这个宝接一跌特点啊。[UNKNOWN] 这边看到京东最后的阵容强度。[UNKNOWN] 是二分钟五前啊那京东又来送福利了。[UNKNOWN] 京东以旧换新叠国补低制零元。[UNKNOWN] 但三DKPI这一块会进自己的二队  (💬 冲！(x3) / 看你 / 19 / g了 / 看发挥了)
+[10m] ▫️ [UNKNOWN] 这样下一级的优势就是可以进个。[UNKNOWN] 很多可以过来对强草给压力的。[UNKNOWN] 我感觉都可以考虑进一下  (💬 看你 / 开局f6 / 但是后期不知道怎么打团 / 看对线吧 / 一决雌雌)
+[12m] ▫️ [UNKNOWN] 蟹。[UNKNOWN] 因为牛头其实快一点嘛。[UNKNOWN] 多找白剑成女。[UNKNOWN] 回城的也越发越大越舒服的。[UNKNOWN] 你看迪莱的这就是一直在旁边逛放生菇嘛。[UNKNOWN] 主要感觉两边这种高手对局对这种回合都。[UNKNOWN] 我就  (💬 看你 / 先质疑 / 早！来了来了 / viper今天终于不是那死样子了 / 盲僧靠了有战力优势)
+[15m] ▫️ [UNKNOWN] 明知这个因为那边有个眼看到盲僧了。[UNKNOWN] 然后这边双人路在同时在下。[UNKNOWN] 把双人组放上去了。[UNKNOWN] 唉就最后一波野呃再刷一轮  (💬 放了 / 放了不要给机会 / 少大招 / 競爭下一輪F6笑死我了 / 换线了)
+[18m] ▫️ [UNKNOWN] 虽然这个大跟的很好。[UNKNOWN] 然后这一波他在河道哎呀。[UNKNOWN] 他第一时间是过不来的。[UNKNOWN] 用我t的吧  (💬 少人了 / ez来晚了 / 脸色不对了 / 还是没打过吗 / 坏了坏了)
+[20m] ▫️ [UNKNOWN] 你这波就这样放的话。[UNKNOWN] 还想拽不。[UNKNOWN] 宙斯有机会吗。[UNKNOWN] 哎呦臭q一来还是有球的。[UNKNOWN] 哎呀可以去啊可以。[UNKNOWN] 哦好这一波你连燃三个人头。[UNKNOWN] 然后兵线整理你一下这一波是可以的。[UNKNOWN] 可以。[UNKNOWN] 但就是对我以为这个q门就没有没后续了  (💬 nice(x5) / 不赖 / 还行 / 冲！ / 换两个人头赚了的)
+[21m] 🔥 [UNKNOWN] 但还好这个削e闪了。[UNKNOWN] 然后减速到直接跟上发一条大锤  (💬 丹尼怎么不笑呢[汤圆] / 世一上！ / 谢谢你，活瘦子 / blg经典四蓝一红 / 还行宙活贪了)
+[22m] ▫️ [UNKNOWN] 那假装我后面有兄弟感觉很凶啊。[UNKNOWN] 因为盲僧一直没露过脸啊。[UNKNOWN] 嗯想开他想波波野吗。[UNKNOWN] 就走掉死了难难受。[UNKNOWN] 现在a人最波马上就要刷了。[UNKNOWN] 哎直接给你锁头锁上。[UNKNOWN] 哎呦他扭的有点儿我。[UNKNOWN] 他怕被石化预判了一下  (💬 没用打团一碰就碎 / 不送就有机会 / viper别送就行 / piper优势也没用 / off跃跃欲送啊)
+[24m] 🔥 [UNKNOWN] 他没有直接大结钩。[UNKNOWN] 他这样z卡走走了。[UNKNOWN] 而且on的位置在下路已经露头。[UNKNOWN] 只要on没事他要是被石化。[UNKNOWN] 那自己可能真会死。[UNKNOWN] 是的。[UNKNOWN] 得说实话。[UNKNOWN] 我们看这个观众视角也很猛的呀。[UNKNOWN] 就是刚刚给我们看的一个战争迷雾的视角  (💬 这是在干嘛 / off / 交闪了 / nice / 啊这没接上)
+[24m] ▫️ [UNKNOWN] 因为你只要在边边先先跑一波宙斯。[UNKNOWN] 但感觉这波控制感觉有点没算好。[UNKNOWN] 就地图出来前面的对线就已经打的很好了。[UNKNOWN] 唉这个阿辉要感觉完了呀。[UNKNOWN] 有点隐坏了然后把中塔爆了。[UNKNOWN] 而且这个龙看不了了。[UNKNOWN] 妈呀这个中塔暴露最伤的是兵  (💬 nice / 不是，资源全放啊 / 因爲沒在那個草里擊飛啊 / 交闪了啊 / 一个资源都没拿到吗？)
+[26m] 🔥 [UNKNOWN] 他现在没有资格变带了。[UNKNOWN] 而且主要这个龙的压力太大了。[UNKNOWN] 这波出来右边还是可以过来看龙。[UNKNOWN] 是的因为中线也比较优势。[UNKNOWN] 对中线优势然后下河道也有一轮视野。[UNKNOWN] 这一波超级大爆炸啊太尴尬了。[UNKNOWN] 然后这波t下来刚好变小  (💬 小纳尔 / 逆天 / 好臭啊这波团 / 那邊在打龍，回頭勾一個牛，這決策是人嗎 / gg)
+[26m] 🔥 [UNKNOWN] 对我看了他那个怒气。[UNKNOWN] 这波就不是一个特别好的台面。[UNKNOWN] 勾中主要是没必要了他开大了之命。[UNKNOWN] 看一下还能不能争夺一下嘛吧。[UNKNOWN] 两边的大招也其实都快在转好了。[UNKNOWN] 宙斯再再打做一夜。[UNKNOWN] 是的。[UNKNOWN] 嗯他用大招把兵哥大给抵消掉了  (💬 小纳尔 / 说了一碰就碎 / bin直接溶了 / 来点神秘数字 / 选你妹泰坦啊 那么喜欢游拿牛头啊)
+[28m] 🔥 [UNKNOWN] 太爱吃牛肉了没办法。[UNKNOWN] 就是只能守着like神户牛肉。[UNKNOWN] 说是两件套了石辰的戒指。[UNKNOWN] 但中线的压力中线完全抢不到线。[UNKNOWN] 这个有点没办法。[UNKNOWN] 而且外塔是上一波先锋的时候就有掉。[UNKNOWN] 了。[UNKNOWN] 嗯现在对BLG来说  (💬 下路根本不想赢 / 这么喜欢开牛 为啥自己不拿牛 / 他为什么一定要勾牛啊？？？ / 能换个人勾吗 / 不如不开)
+[30m] ▫️ [UNKNOWN] 现一等期待BLG来一级上勾拳了。[UNKNOWN] 来了来了。[UNKNOWN] 可能我自会打钻时蹲到兰博。[UNKNOWN] 呃。[UNKNOWN] 来了有来了。[UNKNOWN] 来了来了来了来了来了来了来了不住。[UNKNOWN] 但是来了来了各单位注意我靠。[UNKNOWN] 他不炸住他他看不到  (💬 看你(x3) / 很神秘 / 哈哈哈 / 左大哥一波失誤就要徹底結束了有感覺嗎 / 前三手完全在意料之外)
+[31m] 🔥 [UNKNOWN] 他没有看到盲僧你知道吧。[UNKNOWN] 完了炸到了啊。[UNKNOWN] 他没看到盲僧没干到八条。[UNKNOWN] 然后他就是说不行。[UNKNOWN] 那个不能上吃这波那头的。[UNKNOWN] 撑子讲这就是是一事宜上的纪律。[UNKNOWN] 这次就OS没有推线的必要。[UNKNOWN] 夸张造中这把也很自由啊  (💬 神王(x3) / 扫帚很敏感 / 蜘蛛感应 / 杀意感知 / 哈哈哈)
+[32m] ▫️ [UNKNOWN] 甚至还能吃猴。[UNKNOWN] 能不能骗出剑再来没闪现。[UNKNOWN] 波外边可可以外边这一波输出应该很高。[UNKNOWN] 这牛栏在这边有点难走了。[UNKNOWN] 枪漂亮他还有跳可以。[UNKNOWN] 但是哎呀前面还有看到一个牛。[UNKNOWN] 不错不错的跟伤害了。[UNKNOWN] 拿命抢龙拿一换二  (💬 发条盲僧没视野 / 又开牛 / 只能找兰博的机会 你中野不漏不会上 / 后续打不了 / 再见了👋、blg)
+[34m] 🔥 [UNKNOWN] 拿了一个一条龙还可以。[UNKNOWN] 我只能说还可以只是说稳住局势了。[UNKNOWN] 拿命路小提琴打起来。[UNKNOWN] 不然你给别人对方拿一条土龙真。[UNKNOWN] 的很舒服。[UNKNOWN] 这个对面这一个阵容拿土龙根本不怕。[UNKNOWN] 因为其实BLG这面的输出来源相当于也  (💬 还行(x3) / 可以可以 / wqn中国队长 / 大龙 / 中国队长)
+[35m] ▫️ [UNKNOWN] 看到了猫放技能了都在靠。[UNKNOWN] 就他只要线推的深一点。[UNKNOWN] 是就能是一个人对奈娜一个人了。[UNKNOWN] 守一推f六。[UNKNOWN] 得把大龙附近的防守视野是很多人在蹲。[UNKNOWN] 但这波用了TP以后  (💬 手大哥再死一次就爆炸了 / 滔滔大龙 / 确实很不乐观 / 快了，再杀几次牛头就行 / 中塔掉早了)
+[39m] ▫️ [UNKNOWN] 你看现在下路的线下路兵线也不好了。[UNKNOWN] 之这边其实没。[UNKNOWN] 这边做了非常多的防装。[UNKNOWN] 真的是不让他们还得开这个大。[UNKNOWN] EZ能把哎可以翻反反推一波。[UNKNOWN] 哇了哇真闪现够了。[UNKNOWN] 哇牛是有大的呀没太必要啊。[UNKNOWN] 真没必要  (💬 左边不够输出啊，还出肉装发条没得玩 / 飞机装备有点太好了 / 理神好有理解，段位肯定不低 / 这on好吓人 / 可以)
+[41m] 🔥 [UNKNOWN] 其实已经够了就这就是闪现够。[UNKNOWN] 然后牛头直接开了个大。[UNKNOWN] 感觉有点就止这样。[UNKNOWN] 河波其实合闪就止这波。[UNKNOWN] 就是你真爱吃牛肉哦这真爱吃吃。[UNKNOWN] 我一直直爱吃。[UNKNOWN] 教练练要比赛结束了你甭管输赢。[UNKNOWN] 你先给人给孩子点  (💬 疑问(x6) / 看你(x5) / 哈哈哈(x4) / 爱吃牛肉(x3) / 牛来(x3))
+[41m] 🔥 [UNKNOWN] 就现在点几顿这个和牛吃吃开团。[UNKNOWN] 他挡在前面开不起来。[UNKNOWN] 不是和牛啊是寒牛啊。[UNKNOWN] 其实对两边辅助压力都巨大。[UNKNOWN] 不知道这个美国有么的卖韩牛给他。[UNKNOWN] 人家点点含整点韩牛吃。[UNKNOWN] 孩子饿了哎呀怎么又漏炮车了干嘛  (💬 看你(x8) / 疑问 / 哈哈哈哈哈 / 汽车人 / 哈哈哈)
+[41m] 🔥 [UNKNOWN] 是的现在就玩儿拉扯。[UNKNOWN] 不要跟蛇女打那种小提琴复搏债过来。[UNKNOWN] 一起帮忙抢中线。[UNKNOWN] 帮我给给打交闪拉开吧。[UNKNOWN] 但是还是感觉打不过这个也很要命。[UNKNOWN] 你想左边打一波完美团的那种概率比右边。[UNKNOWN] 就是感觉他虽然优势很大  (💬 看你(x8) / 哈哈哈(x4) / 哈哈哈哈哈 / 汽车人 / 哈哈哈哈哈哈哈)
+[44m] 🔥 [UNKNOWN] 哇边是元龙要买给了。[UNKNOWN] 那这波屁牌龙拿不了了。[UNKNOWN] 动不了动不了完全动吧。[UNKNOWN] 啊这个绕后TP位置好啊。[UNKNOWN] 哇这个TP绕后太要命了。[UNKNOWN] 小龙哥三条哦。[UNKNOWN] 老poke迪莱是是大的的得拉开了。[UNKNOWN] 但可以给他们打一波这个  (💬 完了啊 / gg / 寄了 / nice / 神王了)
+[45m] ▫️ [UNKNOWN] 对完完美隔住了过不去。[UNKNOWN] 了一圈视野啊。[UNKNOWN] 应该是小龙的对必须得在中路压  (💬 现在blg要防守了，这阵容防守挺吃力的 / 视野差太多了 / 还有最后一波机会 / 活瘦子宙活开得太好了 / BLG得先消耗才打得过，对面直接开就赢不了)
+[47m] ▫️ [UNKNOWN] 的上路。[UNKNOWN] 跳进来送这复。[UNKNOWN] 活甲了。[UNKNOWN] 但是没你家有人家有。[UNKNOWN] 下来复活甲哎呦哎呀被刮到了一下。[UNKNOWN] 后来不是满状态踢出来了。[UNKNOWN] 就剩双飞了而是直接看直接起脸开啊。[UNKNOWN] 感觉确实波大龙时的时间五秒  (💬 GG / 右边9条命怎么打 / 头上顶着700赏金呢 / 蛇女是这样的 / 来个r闪送blg回家)
+[48m] 🔥 [UNKNOWN] 大龙buff应该是要线了。[UNKNOWN] 能不能清线清线线觉有能清线线。[UNKNOWN] 我在守住了奈奈这面还是耐克魂的话。[UNKNOWN] 这还行卖乖。[UNKNOWN] 哎呦这一波大打的的很大。[UNKNOWN] 招好的也非常的快啊。[UNKNOWN] 哇这波姑妈玩的有点勇。[UNKNOWN] 他有复活甲他直接上来零打了  (💬 鸡蛋也干了(x3) / 666 / nice / 哈哈哈 / 6666)
+[48m] 🔥 [UNKNOWN] 而且宙斯处理好好他这个大是个满大。[UNKNOWN] 是的是这个大招连打打出来。[UNKNOWN] 直接这泰坦为什么可可以呀。[UNKNOWN] My这到不活还能出去对线能出去了。[UNKNOWN] 这样有足够多的时间无敌。[UNKNOWN] 对面少了一个接线的人。[UNKNOWN] 哇这个大感觉要改变时间线了  (💬 鸡蛋也干了(x3) / 666 / nice / 哈哈哈 / 干燥)
+[48m] 🔥 [UNKNOWN] 不行这波就是泰坦有点没办法。[UNKNOWN] 哎你看啊真的那个空了的在干嘛。[UNKNOWN] 这是这什么意思啊。[UNKNOWN] 但现在就是看这个龙魂了。[UNKNOWN] 大刮痧有。[UNKNOWN] 轮回我没有轮回拉扯出牛头了。[UNKNOWN] 大牛头大牛头牛头牛头牛头直接交了。[UNKNOWN] 哎队接一半这边给个大招来  (💬 鸡蛋也干了 / 以巧克力 / 坠机了 / 脸色对了 / 666)
+[50m] 🔥 [UNKNOWN] 这是大招。[UNKNOWN] 这个兰博大招也拿的一半。[UNKNOWN] 那要被秒了。[UNKNOWN] 哎呦哎收上收上收受大大哥的的责任。[UNKNOWN] 上。[UNKNOWN] 弟弟卓弟太深了。[UNKNOWN] 四十分钟守大哥收身帅帅。[UNKNOWN] 我靠这太大了大大帅帅了。[UNKNOWN] 这也也能力没六混了继续再冲冲  (💬 手！(x8) / nice(x7) / 我去(x7) / 牛逼(x6) / 冲！(x6))
+[50m] 🔥 [UNKNOWN] 让让们攻击GG一必死的双血部。[UNKNOWN] 攻击GL记大家一一的胜利。[UNKNOWN] 我跟你们说这种这种这种胜率是最爽。[UNKNOWN] 而且最最提示技也是最挫对方锐气的那种。[UNKNOWN] 那就那我觉得那种胜利了。[UNKNOWN] 就其实他每一波勾一下尝试。[UNKNOWN] 可能前面发现真的无敌了  (💬 冲！(x7) / 无敌了 / 爽啊 / 还真是 / 好激情啊)
+[51m] 🔥 [UNKNOWN] 他没有起来的时候真的无敌。[UNKNOWN] 这个是候起来了风手太精了。[UNKNOWN] 主要说这一种局画面都很很大很强啊。[UNKNOWN] 是的什么意思。[UNKNOWN] 看不起我们发条一拉四。[UNKNOWN] 那个大招太关键了哇。[UNKNOWN] 基地直接爆炸了先配合哥们们。[UNKNOWN] 熏舍命抢龙埋下伏笔有没有感觉  (💬 冲！(x3) / 还真是 / 手大哥，又要虐zeka了吗 / 手大哥真牛逼啊 / 爽啊)
+[52m] ▫️ [UNKNOWN] 然后ED其实也也打的挺不错的。[UNKNOWN] 的的很帅的的。[UNKNOWN] 对呀这一波也是首个功劳太头等功。[UNKNOWN] 就是那个大招改变这呀。[UNKNOWN] 是的然后最后发条那个大右勾拳。[UNKNOWN] 左手得直接去我觉得我觉得。[UNKNOWN] 你能懂吗。[UNKNOWN] 你就他的他有他有限定条件  (💬 还真是(x3) / 歪破上一波打掉飞机春哥又大死，太关键了 / 没有左手这个家要散 / 懂你意思 / 这也能翻)
+[55m] ▫️ [UNKNOWN] 哇勋哥这个出怪蛋的螃蟹。[UNKNOWN] 来双c然后白吃野。[UNKNOWN] 百分之五十二十五十三呢不要去反。[UNKNOWN] 这个曲线是是必要机往压抑到极致。[UNKNOWN] 哇暴贤五万一这把真是全有效伤害。[UNKNOWN] 这把真是有效伤害。[UNKNOWN] 谢谢露露的BLG。[UNKNOWN] 加有十个信的十个b幺g然后不客  (💬 51 / 52 / 主播调下画质 / 问题纳尔能自己开团啊 / bin被on害了几次了，有几个t都不该交的)
+[56m] 🔥 [UNKNOWN] 谢拿条游戏的BLG加油。[UNKNOWN] 谢谢n奥斯k的BLG加油。[UNKNOWN] 谢误的BLG加油十个。[UNKNOWN] 谢为啥。[UNKNOWN] 谢谢BLG加油。[UNKNOWN] 谢谢看东的BLG加油。[UNKNOWN] 谢谢画面感见你说的高高。[UNKNOWN] 谢。[UNKNOWN] 涛涛纯纯气七强强瑞士们打的队伍全是十  (💬 还真是(x3) / 以柔克刚 以巧克力 / 诶嘿 / 2333 / 这局看爽了[捂脸])
+[56m] 🔥 [UNKNOWN] 六强。[UNKNOWN] 还有两个二杠二在这这儿争争六强。[UNKNOWN] 没有谢谢没有给没有白给的回合。[UNKNOWN] 真的拼团战干嘛不至于我说不至于于不至。[UNKNOWN] 于谢谢的。[UNKNOWN] B超级八强。[UNKNOWN] 因为他是从头你有没有你有没有想过。[UNKNOWN] 为什么他们会打成二杠二的争最后名额  (💬 还真是(x3) / 诶嘿 / 2333 / 早就说过了，双c不要站一起 / 继续加油)
+[56m] 🔥 [UNKNOWN] 还不是因为打了滔搏。[UNKNOWN] 被被滔搏打成二杠二的好可靠啊。[UNKNOWN] 守割的发条这把就从对线开始就已经打的。[UNKNOWN] 够好了。[UNKNOWN] 嗯因为对线尬黑了尬黑了。[UNKNOWN] 我说该扛的都扛住了就被压几刀。[UNKNOWN] 然后换血一直都是小优一点  (💬 还真是(x3) / 看你(x3) / 诶嘿 / 实至名归 / 纯在尽力)
+[56m] 🔥 [UNKNOWN] 甚至对然后中期团队的决策也没问题  (💬 看你 / 还在滔博 / 滔博咋就这么牛逼呢 / 这把打得像t1，打得一坨最后一波打回来 / 别对9歌要求太高)
+[58m] 🔥 [UNKNOWN] 该该看点那个了。[UNKNOWN] 该看点大家爱看的这个这个甜的。[UNKNOWN] 该看点甜了。[UNKNOWN] 我说谢全球总决赛。[UNKNOWN] 我靠这个感觉好看啊。[UNKNOWN] 这个这感觉好看啊这个感觉真不错吧。[UNKNOWN] 不不难让你离开。[UNKNOWN] 喂。[UNKNOWN] 感觉这个这个感觉感觉这个模型不太像啊  (💬 疑问(x14) / 看你(x10) / 正片 / ？？？ / 来点)
+[59m] 🔥 [UNKNOWN] 哦天这个时候像了像音乐。[UNKNOWN] 但是拉近了反而不像好奇怪啊。[UNKNOWN] 玛丽他的好朋友没错三六九啊。[UNKNOWN] 这个不行你这不太像。[UNKNOWN] 欢迎你全全部给你哼哼算你哄人功功。[UNKNOWN] 等明天太阳升起我就从二杠二十。[UNKNOWN] 哎呀是小病啊我达瓦不会玩烟泪  (💬 疑问(x9) / 看你(x5) / 9哥 / omg / 这谁啊)
+[60m] 🔥 [UNKNOWN] 瞄准瑞娜刚不站在少爷骂的时候找找自信。[UNKNOWN] 嘛。[UNKNOWN] 你还提手臂点一号种子都零杠三回家了。[UNKNOWN] 我首军纳尔明明赢了。[UNKNOWN] 结果被你见过鳄鱼翻盘掉进二杠。[UNKNOWN] 二连续两年被你欺负好啦。[UNKNOWN] 当年咖哥骂我都没见我哭这么凶  (💬 疑问(x33) / ？？(x4) / 太变态了(x3) / ？？？(x3) / 我去)
+[60m] 🔥 [UNKNOWN] 快过来让哥抱抱所以你得加强力气。[UNKNOWN] 我跟你说的啊。[UNKNOWN] 我觉得这次就就算天太阳升起。[UNKNOWN] 我也忘不掉我就赖在你腿上不走了。[UNKNOWN] 忘不掉就赖着呗反正我是临时替补。[UNKNOWN] 只练了二十天赢你全靠瓦场悟道。[UNKNOWN] 悟什么道啊  (💬 疑问(x41) / ？？？(x6) / ？？(x4) / 太变态了(x4) / omg(x4))
+[61m] 🔥 [UNKNOWN] 现在官粹都在夸你。[UNKNOWN] 从守住b点到锁定八强。[UNKNOWN] 连二路血珠都被禁完瓦厂节目全让你抢光。[UNKNOWN] 了了。[UNKNOWN] 来了变态。[UNKNOWN] 前两天你朗姆拿九点积分的时候。[UNKNOWN] 不也偷学了我的招数。[UNKNOWN] 叫声浩哥我把手臂点绝活全传给你  (💬 疑问(x35) / omg(x4) / 太变态了(x3) / ？？？(x3) / 快拿开！)
+[61m] 🔥 [UNKNOWN] 谁要叫你浩哥。[UNKNOWN] 明明以前在LPL都是我压着你打的。[UNKNOWN] 今年全乱套了赛场上凶有什么用。[UNKNOWN] 私底下还不是乖乖坐在我腿上哭鼻子。[UNKNOWN] 白家浩。[UNKNOWN] 你老实交代。[UNKNOWN] 那一百七十二天达瓦是不是光顾。[UNKNOWN] 着哄别人去了  (💬 疑问(x30) / omg(x4) / ？？？(x3) / 快拿开！ / wdf)
+[61m] 🔥 [UNKNOWN] 少冤枉我我达瓦只玩爵斗位。[UNKNOWN] 从不带妹这辈子。[UNKNOWN] 就哄你一个。[UNKNOWN] 这下小脸通红的可不是我了。[UNKNOWN] 小兵同学充电充够了没有。[UNKNOWN] 才刚充了一半你再让我过五分钟。[UNKNOWN] 不然二杠二生死局没力气操作。[UNKNOWN] 贪心鬼再买一送一亲一口  (💬 疑问(x20) / ？？？(x3) / omg(x3) / 太变态了(x3) / 甜甜甜)
+[61m] 🔥 [UNKNOWN] 这下把我的八强运气全过给你了。[UNKNOWN] 哼算你哄人有功等明天太阳升起。[UNKNOWN] 我就从二杠二杀进八强找你算账。[UNKNOWN] 行啊我在八强守好b点。[UNKNOWN] 等你要是敢输给别人回来。[UNKNOWN] 继续做腿上受罚真第一届耿家族躲猫猫大。[UNKNOWN] 赛了  (💬 疑问(x6) / 太变态了 / 看过了说是 / 猎奇 / 主播赔我点钱吧[委屈])
+[62m] 🔥 [UNKNOWN] 四位选手将在这座废弃游乐园里躲过猎人。[UNKNOWN] 半小时的搜捕。[UNKNOWN] 谁能坚持到最后啊别别嚷嚷。[UNKNOWN] 大家好呀不甚的。[UNKNOWN] 天哪。[UNKNOWN] 我的妈呀。[UNKNOWN] 我的妈呀不是太抽象了。[UNKNOWN] 有点我只能说这一天太抽象了  (💬 疑问(x8) / 太变态了(x3) / 看你(x3) / 看过了说是 / 甜甜甜)
+[62m] 🔥 [UNKNOWN] 这个感觉。[UNKNOWN] 我也冰大小姐我是看过了。[UNKNOWN] 哎这个这个看一下这个你在左边哦。[UNKNOWN] 明天BLG就要打韩华了。[UNKNOWN] 么多了。[UNKNOWN] 还是我倒也不是不行。[UNKNOWN] 但是我有个条件什么条件。[UNKNOWN] 什么条件呀你快说能什哈  (💬 疑问(x14) / 甜甜甜(x4) / 扫帚(x4) / 看你(x3) / 太变态了)
+[63m] 🔥 [UNKNOWN] 嘿我说要是我让你赢了。[UNKNOWN] 是你可要天天晚上陪我训练可以。[UNKNOWN] 要是赢了我天天晚上陪你训练。[UNKNOWN] 这样可以了吧这还差不多科学林哥。[UNKNOWN] 你坏死啦你自己输了。[UNKNOWN] 你的粉丝还有雷阳眼镜帮你们跑。[UNKNOWN] 因为我还能八条  (💬 疑问(x22) / 开了开了(x3) / 看你(x3) / 甜甜甜(x3) / 理神无敌了)
+[63m] 🔥 [UNKNOWN] 人家什么都没有怎么还有广告啊。[UNKNOWN] 八条我靠你的我给你来好了。[UNKNOWN] 输和赢独刀获得了我吗。[UNKNOWN] 这还不够吗。[UNKNOWN] 那倒是更喜欢你一点。[UNKNOWN] 那明天比赛可以让我赢吗。[UNKNOWN] 嗯。[UNKNOWN] 因为梦魇狠狠。[UNKNOWN] 不是oh my god救命呢  (💬 疑问(x18) / 甜甜甜(x3) / 诶嘿 / ？？ / 扫完了)
+[63m] 🔥 [UNKNOWN] 救命啊太变态啦。[UNKNOWN] 不是。[UNKNOWN] 就因为这样。[UNKNOWN] 你不能因为这个个逼哥。[UNKNOWN] 你不能因为女四而放弃比赛呀。[UNKNOWN] 所以真是和尊严呢所以他有想法了。[UNKNOWN] 哥得今天狠狠在赛场上虐了那个救小妹之。[UNKNOWN] 后  (💬 疑问(x12) / 诶嘿 / ？？ / 训♂练 / 甜甜甜)
+[64m] 🔥 [UNKNOWN] 再那个皇子皇子晚上再回去。[UNKNOWN] 还有梦魇狠狠哄他。[UNKNOWN] 那如果梦魇辛德拉伤害一定先抢梦魇。[UNKNOWN] 嗯因为辛德拉那方能让女色坏了。[UNKNOWN] 角择其实就在考虑辛德拉和梦魇的问题。[UNKNOWN] 对呀。[UNKNOWN] 挺好打的。[UNKNOWN] 高  (💬 疑问(x6) / 看你(x3) / ？？ / 冲！ / 也许他在享受呢)
+[66m] ▫️ [UNKNOWN] 女警光辉女警巴德女警巴德吧。[UNKNOWN] 他甚至不是不怎么靠打团呢。[UNKNOWN] 这个就是就是对线压死你下路洛克来洛克。[UNKNOWN] 而且你没有洛克的话。[UNKNOWN] 前面对女警卡尔玛你产生不了压。[UNKNOWN] 力。[UNKNOWN] 嗯这把打野沉到后面去。[UNKNOWN] 说那种前面做事的突计刀被ban掉  (💬 疑问(x5) / 看你(x4) / 小奶油吗(x3) / 小奶油说是 / 小奶油?)
+[67m] 🔥 [UNKNOWN] 反正这把BOG的潘森是厉害的。[UNKNOWN] 右边这个组很怕潘森虞姬看拿不拿吧。[UNKNOWN] 感觉拿不到看看怎么很有戏。[UNKNOWN] 今天的女警有我玩排位时。[UNKNOWN] 今晚昨昨天晚上玩排位的几分呢。[UNKNOWN] 拭目以待巨魔这些比较好打。[UNKNOWN] 潘森我很期待BLG考虑一下  (💬 看你(x12) / 疑问(x5) / 你是？ / 就得洛克 / 小奶油都来了)
+[67m] 🔥 [UNKNOWN] 嗯赵信啊国妈UC。[UNKNOWN] 其实赵信最近在我刚刚说的小奶油吗。[UNKNOWN] 我们不是说的国妈游戏吗。[UNKNOWN] 他能看视野然后软辅队他也也有争议。[UNKNOWN] 北美爱选然后这纯打架以雄啊。[UNKNOWN] 嗯他在节奏上的帮哦。[UNKNOWN] 我刚刚是左啊左手左手飞扬  (💬 看你(x10) / [撇嘴] / on的软辅一坨啊 / 站队kr / 主播上去玩女警blg就赢了)
+[67m] 🔥 [UNKNOWN] 左手左手的洛克玩的还是不错的啊。[UNKNOWN] 尤其是对于HLE的阵容来讲。[UNKNOWN] 把这个韩花给他大小姐。[UNKNOWN] 他不搬青钢影他不搬。[UNKNOWN] 哪边有蝎。[UNKNOWN] 那逼哥就是老虎这么诡异的输啊。[UNKNOWN] 标准选择了都是这把你要说奎桑提啊  (💬 看你(x6) / 主播还在想滔博的事 / gumayusi的洛克吗 / 第六人奶油 / 理小妹没睡醒)
+[69m] ▫️ [UNKNOWN] 格温你格温格觉选格温比朗姆好。[UNKNOWN] 奥拉夫更奥。[UNKNOWN] 后排觉得有发挥控制。[UNKNOWN] 行那就好了啊。[UNKNOWN] 前期打卡拉玛和女警的话。[UNKNOWN] 潘森有有潘森洛克。[UNKNOWN] 来吧打好自己的上路这个线发育线。[UNKNOWN] 而且这把左手在无队那边点了个小移速碎  (💬 世界第一奎桑提 / 格纹 / 理小妹什么时候来个万圣主题 / 可能是因为生死局所以用这个bgm？ / 不出巨魔有点难玩啊)
+[72m] 🔥 [UNKNOWN] 片啊。[UNKNOWN] 嗯他就是疯狂跑现场的男大可以领解小移。[UNKNOWN] 速。[UNKNOWN] 在打辛德拉的时候很舒服。[UNKNOWN] 他这样一技能压了他。[UNKNOWN] 三丁中完之后可以走到辛达脸上a出那个。[UNKNOWN] 被动。[UNKNOWN] 就靠着额外的移速。[UNKNOWN] 两边f六都放了防守眼位的  (💬 疑问(x11) / 看你(x4) / 我是jk / 女大不能领吗 / 哈哈哈哈哈)
+[72m] 🔥 [UNKNOWN] 咋了。[UNKNOWN] 笑啥。[UNKNOWN] 下半区起手一边刷上一边刷下啊哈。[UNKNOWN] 再来看下路前期的对线啊。[UNKNOWN] 嗯有什么名字啊。[UNKNOWN] 是的。[UNKNOWN] 尤其洛克主主人这个线有点不太熟。[UNKNOWN] 中路的话再卡线对的也很好哇。[UNKNOWN] 还真是一瓶药都没喝很健康  (💬 看你(x4) / 疑问 / 女大不能领吗 / 扫帚玩南通皮肤什么意思，勾引我bin割 / 三路也打广告啊)
+[74m] ▫️ [UNKNOWN] 这波就这上路对局。[UNKNOWN] 还行。[UNKNOWN] 把我冲出去完了呀卡娜比的f六。[UNKNOWN] 这个是大气呀哎呀呀。[UNKNOWN] 我不仅吃了你呀f六我还要动你的人。[UNKNOWN] 哇。[UNKNOWN] 差一一点。[UNKNOWN] 差一丝血们的守甲忍不了�。[UNKNOWN] 因他们沙比很气咱们西西很气  (💬 差点 / 红了 / 弱悲 / 副系还有复苏 / 对线还赚了一瓶药)
+[75m] 🔥 [UNKNOWN] 来不及刷怒气是up up。[UNKNOWN] 现在哇可怕辣逼逼。[UNKNOWN] 头上那个草现在已经百分之八十了。[UNKNOWN] 各位宙斯还得吃波压力哦。[UNKNOWN] 他得赶紧把这波线送完混了呀。[UNKNOWN] 打不死啊我对啊好难啊。[UNKNOWN] 哇直接哇直接闪现哇直接转两个闪现  (💬 好好好(x3) / nice(x3) / 红了 / 弱悲 / 冲！)
+[76m] 🔥 [UNKNOWN] 收到一个头我上路好多上下两快。[UNKNOWN] 哇下不了回家全对啦。[UNKNOWN] 完全拿出个马杀鞋子走到前走。[UNKNOWN] 呃走得掉吗。[UNKNOWN] 走不掉了不掉走不掉了。[UNKNOWN] 这个没辙了没办法没办法。[UNKNOWN] 就是走走不掉了没办法。[UNKNOWN] 这上路线被卡了  (💬 nice(x3) / 难道说 / 666 / 奈斯奈斯 / 两开花)
+[76m] 🔥 [UNKNOWN] 半面想把这个线飞下去。[UNKNOWN] 哇。[UNKNOWN] 这一波上路很亏。[UNKNOWN] 他掉了很大一波线还行。[UNKNOWN] 哎这波这波下路这波下路的线卡住。[UNKNOWN] 有点难受队友都要回城了。[UNKNOWN] 位置很高啊。[UNKNOWN] 哦这样他想走位把那个q给扭掉了  (💬 看你(x3) / hle16强 / 好激情啊 / 开始为什么不走 / 下路线烂了)
+[77m] ▫️ [UNKNOWN] 主要是女警这个英雄他想优。[UNKNOWN] 兵哥。[UNKNOWN] 过来不管先开始狂睁眼排掉  (💬 看你(x4) / 疑问(x3) / 羞死了 / 一决雌雄 / 输了的才装逼)
+[79m] ▫️ [UNKNOWN] 他打回苍弟他也无所谓啊。[UNKNOWN] 但是这个潮虫有一点拿不了了。[UNKNOWN] 相当于是嗯用三条潮虫去换一个。[UNKNOWN] 下路继续扛住右边也在吃压力。[UNKNOWN] 没影响饱波血量怎么说呢。[UNKNOWN] 就是怕被潘森飞嘛。[UNKNOWN] 确实我就是感觉这张卡就是好  (💬 好扭(x5) / zeus要动脑筋了 / bin哥贴了杜杜，bin哥很持久 / 给了 / 放了吧)
+[82m] 🔥 [UNKNOWN] 这波小龙是可以尝试打的哦。[UNKNOWN] Tak shop嗯嗯就是感觉很中庸嘛。[UNKNOWN] 绝对足够就是没有没有看到。[UNKNOWN] 特别有亮眼那种。[UNKNOWN] 潘森没了上来了。[UNKNOWN] 大哥来了别给肉斯太好掰。[UNKNOWN] 他玩四个也玩的很还一般嘛。[UNKNOWN] 就是他我记得他有一局玩那个洛克  (💬 可惜(x10) / 看你(x3) / 隐身了 / hide了 / 左ka)
+[82m] 🔥 [UNKNOWN] 然后然后左手不是左手。[UNKNOWN] 是想二龙这边拿了发条打他就是也可以压。[UNKNOWN] 很压他挺多的。[UNKNOWN] 就是对线然后也单杀。[UNKNOWN] 就是说单杀左手哇个e塔。[UNKNOWN] 哇完终又打团团说哇。[UNKNOWN] 这个一打哇哇害太太夸张来了。[UNKNOWN] 小兵二技能用闪补一下  (💬 可惜(x10) / nice(x3) / zeka就是blg不要的退货中单 / zeka：你什么冠军 / 潘森没大)
+[82m] 🔥 [UNKNOWN] 差一下补龙点四。[UNKNOWN] 哎呀啊会一直杀呀哎呀。[UNKNOWN] 居然躲了。[UNKNOWN] 跑你跑呗你跑我就我就都在等技能。[UNKNOWN] 我就我就我就推进塔我就拿你龙。[UNKNOWN] 没事的这一波还是打出效果来了。[UNKNOWN] 辛德拉又下不了。[UNKNOWN] 因为这一波的话辛拉拉实实不好不好  (💬 可惜(x10) / 死亡闪(x4) / nice(x3) / 单杀(x3) / 看你(x3))
+[83m] 🔥 [UNKNOWN] 好虽然不好争出了小龙啊。[UNKNOWN] 所以状态不好。[UNKNOWN] 那宙斯这波有闪现呃怎么说。[UNKNOWN] 感觉可以越但宙斯直接去带到了宙斯。[UNKNOWN] 怎么去博弈上操大大不给给顶顶把顶强一。[UNKNOWN] 上中路。[UNKNOWN] 就是我无敌直一段直接单杀了好刷下  (💬 死亡闪(x4) / 看你(x4) / nice(x3) / 单杀(x3) / 丹砂)
+[83m] 🔥 [UNKNOWN] 无奈啊这种就是直接单杀了逼。[UNKNOWN] 我靠。[UNKNOWN] 带上世级来告诉我谁是试一上操拿下了顶。[UNKNOWN] 了帅呀。[UNKNOWN] 呀然但带诉身是试试上。[UNKNOWN] 虽然这塔下选择直接开大。[UNKNOWN] 哇可惜是还差一点。[UNKNOWN] 是的无敌了。[UNKNOWN] 但做这样的尝试感觉完完全没有问题  (💬 看你(x4) / 死亡闪 / 冲！ / 爆了 / 扫帚)
+[83m] 🔥 [UNKNOWN] 这个大拿掉闪很伤了q出暴击。[UNKNOWN] 但吊闪挡住了那个潘森q的第一段伤害命。[UNKNOWN] 中第一个单位。[UNKNOWN] 是额外伤害的。[UNKNOWN] 是的这波应该是龙放了放了。[UNKNOWN] 找机回去给他们一条又如何呢。[UNKNOWN] 找出士气最关键的吧。[UNKNOWN] 而且云露女说你已经拿了第一条龙了  (💬 爆粗口了 / 爆了 / 看你 / 人还是要成全自己 / 这么激情)
+[85m] ▫️ [UNKNOWN] 啊中标下面面个布又要要洛洛克路。[UNKNOWN] 不也接受不了分怒的任务吧。[UNKNOWN] 这把最大的变数就是下路女警。[UNKNOWN] 卡尔玛打云路基本没出优势。[UNKNOWN] 对完全没有声音啊。[UNKNOWN] 对把OP选手给的兵哥啊。[UNKNOWN] 我有兵哥第一波博弈太重要了  (💬 疑问(x19) / 拜托(x3) / 看你(x3) / 羞死了(x3) / 还在磕)
+[86m] 🔥 [UNKNOWN] 今天把宙斯打狠了。[UNKNOWN] 晚上得好哄一哄。[UNKNOWN] 打法好成熟啊好好哄一哄就翔。[UNKNOWN] 这波硬要打出什么优势或者换血什么的。[UNKNOWN] 这把反正合呀啊对也没必要。[UNKNOWN] 他根本不追求那种绝对的对线优势。[UNKNOWN] 就该防守防守OKHLE  (💬 疑问(x19) / 看你(x6) / 羞死了(x3) / 扫帚(x3) / 还在磕)
+[86m] 🔥 [UNKNOWN] 不要这个先锋来越兵哥了。[UNKNOWN] 上塔也顺带不要了。[UNKNOWN] 呃兵哥有双招了上路没人守。[UNKNOWN] 有一双哎呦别玩了。[UNKNOWN] 怎么叫人祝小嘞。[UNKNOWN] 叫人干嘛什么意思。[UNKNOWN] 来了我人来了呀这吃吧。[UNKNOWN] 周小被气不过叫人来了  (💬 疑问(x5) / 看你(x3) / nice(x3) / bin哥捍卫了自己的格调 / 甜甜甜)
+[87m] 🔥 [UNKNOWN] 结果还是这不跟你伤不了。[UNKNOWN] 你兵哥一一根豪盟。[UNKNOWN] 哎哎。[UNKNOWN] 正再回去的话。[UNKNOWN] 先锋还是能拿的对。[UNKNOWN] 而且中路也不会出事。[UNKNOWN] 然后娜逼现在被晕在下路了。[UNKNOWN] 这边不这这你们不亏的呀。[UNKNOWN] 我们这边两个人拖住你们三个人  (💬 nice(x9) / 发狂了(x5) / 看你 / 疑问 / 冲！)
+[87m] 🔥 [UNKNOWN] 我们在别的地方随便吃吃喝喝。[UNKNOWN] 拉屎撒尿。[UNKNOWN] 别玩不了。[UNKNOWN] 现在就直接拿拿峡谷了呗。[UNKNOWN] 拿峡谷先锋了呗。[UNKNOWN] 然后再去反对你一波豪呗。[UNKNOWN] 哎呀这一波很舒服呀。[UNKNOWN] 后波很舒服呀。[UNKNOWN] 这波波小妹被逼在下路了  (💬 nice(x9) / 发狂了(x5) / 冲！(x3) / hle魔了(x3) / 疑问)
+[87m] 🔥 [UNKNOWN] 对给我们给我们冰大少爷杀出手。[UNKNOWN] 他都没想到放飞了。[UNKNOWN] 那下半区不是转麻了吗。[UNKNOWN] 这屋你叫我也叫好然后中塔暴血了。[UNKNOWN] 再玩会儿HOE的中塔一爆HOE就没有。[UNKNOWN] 机会。[UNKNOWN] 哎呦刀美如花没机会。[UNKNOWN] 现在简直是美如花啊难度好高啊  (💬 这波结束游戏了啊 / 这交tp干嘛 / 疯了吧那维 / 好急 / 让人安心的发狂)
+[88m] 🔥 [UNKNOWN] 是的波线下路把他给拿了。[UNKNOWN] 裴g要一亏中亏。[UNKNOWN] 但这波露露能来也是意料之中。[UNKNOWN] 因为哎呦直接是闪现大爽飞了。[UNKNOWN] 而且兵哥是回家绝下来了。[UNKNOWN] 就是兵哥根本就没有去贪出一丝一毫的兵。[UNKNOWN] 线。[UNKNOWN] 因为宙斯也是在玩反心理  (💬 hle亏麻了 / 好舒服啊 / 冲！ / 全对 / 一切都源于那波f6)
+[89m] 🔥 [UNKNOWN] 还有那种各种精彩抢龙。[UNKNOWN] 惩抢龙然后还有很多人打的奇迹团。[UNKNOWN] 很今真波一一打一一拉速。[UNKNOWN] 什么真的大家抓的人都很好。[UNKNOWN] 我感觉BBG地地狱归很很怕怕。[UNKNOWN] 我这里里将一波兵预这波。[UNKNOWN] 我觉得BLG这一波从地狱归来将会很可  (💬 地狱归来 / 地狱归来！ / 纳威第一组F6被抢了之后他就不想玩了 / 抢f6是对的 / 不一样了)
+[89m] 🔥 [UNKNOWN] 怕啊。[UNKNOWN] 就慢慢的去推兵线就行。[UNKNOWN] 而且野辅还能进野区做一轮视野的。[UNKNOWN] 这样现在拉会很危险。[UNKNOWN] Ok蓝也没了再吃一吃。[UNKNOWN] 我感觉现在那个哪边怒气条已经顶破了。[UNKNOWN] 就那个草已经爆了。[UNKNOWN] 现在感觉很舒服无尽  (💬 24年剧本呗 / 淘汰hle滔搏有三分之一功劳 / 又是土龙魂 / 预言吗 / 感谢滔搏把blg打醒了)
+[89m] 🔥 [UNKNOWN] 而且很舒服。[UNKNOWN] 这边的话。[UNKNOWN] 现在这个妖姬这边的阵容我觉得是是的。[UNKNOWN] 只要古马敢顶这个线你打的很爽啊。[UNKNOWN] 就是根本不敢推线。[UNKNOWN] 你看你看杰k又隐身了。[UNKNOWN] 非得在后面反蹲。[UNKNOWN] 加法又称小小佐手儿中死了巨老师  (💬 稳住 / 感觉要和faze一样拿亚军了啊 / 之前还说tea输了比较稳，结果原来一切都是最好的安排 / 都是2-2不会以为有啥天壤之别吧 / t1等着)
+[90m] ▫️ [UNKNOWN] 全叫过来。[UNKNOWN] 反正也也打到了可以TP了。[UNKNOWN] 唉还是先拖吧稍微拉一稍微微下。[UNKNOWN] 是的这波有点犹豫了。[UNKNOWN] 是的但中路线是能人的有点慢。[UNKNOWN] 不过还赚了波点。[UNKNOWN] 整体体来来说。[UNKNOWN] BLG觉得是这边阿拉夫没有恶e还是  (💬 别急，一个一个来 / 得提速啊 / 八强遇到geng不就是超补？ / 这把不失误，龙魂结束了 / 真给你叫过来你又不愿意了[dog])
+[91m] 🔥 [UNKNOWN] 对的中路也在烧。[UNKNOWN] 但是你偷这女警a人唉。[UNKNOWN] 两个爆头有点不对了。[UNKNOWN] 目前兵哥说能阻住感觉不太对。[UNKNOWN] 对HLE的双c三件套之前一直去边线。[UNKNOWN] 以及一旦爆头有一手误攻后去赚经济。[UNKNOWN] 这样就是即使你的双c过渡到三件套以后  (💬 差个左手 / 蝎子拉开大拉夫？ / 其实可以不打让左手推中的.. / 斌哥确实nb / 蝎子大招？)
+[91m] ▫️ [UNKNOWN] 也不需要他一个人粘任。[UNKNOWN] Ok线清完了。[UNKNOWN] 主要辛德拉推动。[UNKNOWN] 第一时间是逃跑因为全会冲的是吗。[UNKNOWN] 谢谢小龙不知名网右的钢棍儿。[UNKNOWN] 谢谢爱爱的什么能吃好。[UNKNOWN] 他没有中线也没有下线。[UNKNOWN] 也没有上线  (💬 hle现在拿不到东西很急 / kanavi的世界赛，稳定的可怕 / 等奥拉夫三件，辛德拉和女警的噩梦就来了 / 慢慢蚕食 / 开大把人往后逼，没招了)
+[94m] 🔥 [UNKNOWN] 只要上路洞那个也很难瘦死不能不能。[UNKNOWN] 只能说吗。[UNKNOWN] 是在上路随便跟你玩就挂住。[UNKNOWN] 知道你抓不了下路也在推兵线啊。[UNKNOWN] 已经大优了。[UNKNOWN] 寿司和鸡蛋画面看着就很对。[UNKNOWN] 这个现在这个龙的画面叫HOE。[UNKNOWN] 有点没法上桌吃饭他都没法到  (💬 看你(x7) / 寿司和鸡蛋(x4) / 大大方方(x3) / 寿司 鸡蛋 / 再见了，蛋小弟🥚)
+[94m] 🔥 [UNKNOWN] 这个河道哪里有找到地方进攻打呀。[UNKNOWN] 想办法再往桌上挤但是龙已经没了。[UNKNOWN] 菜已经被人吃完了。[UNKNOWN] 一千七一千四的经济没有人能站出。[UNKNOWN] 对人不重要。[UNKNOWN] 肯定是要么前云云安娜这种。[UNKNOWN] 不然的话很难得。[UNKNOWN] 主要大串得憋到啥时候啊  (💬 今天三路随便说 / bin大偷偷补了个小饮魔刀 / 看你 / 寿司活珠子 / 又不是lpl的，随便说)
+[96m] ▫️ [UNKNOWN] 他觉得输出环境太差了。[UNKNOWN] 这最后的三分钟补装备的时间。[UNKNOWN] 相对来说就是这里面比较好秒的。[UNKNOWN] 选哥不先选up和这个嗯这三个比较好。[UNKNOWN] 那这个龙魂还是没闪了。[UNKNOWN] 这小妹呀又能怎么样呢。[UNKNOWN] 是的中奖v金三件套  (💬 女警还要出火炮 / 潘森又出焚天 / 有城墙 / 除非他从侧面进 / 时间差不多咯)
+[97m] 🔥 [UNKNOWN] 交地到晚上交滴滴的对应。[UNKNOWN] 对。[UNKNOWN] 这个他昨天的故乡替倒这个兵哥说几倍的。[UNKNOWN] 表现。[UNKNOWN] 但今天对手好吧。[UNKNOWN] 我承认你是试试上的了。[UNKNOWN] 也得等中期。[UNKNOWN] 这把是BLG中期都没给机会。[UNKNOWN] 是的主要BLG今天玩的太紧了  (💬 疑问(x18) / 少看点(x9) / 看你(x7) / 还真是(x5) / 羞死了羞死了(x3))
+[97m] 🔥 [UNKNOWN] 这个纪律性就每个回合都卡的巨信不信信。[UNKNOWN] 信到时候打完。[UNKNOWN] 这一把肯定有相关的。[UNKNOWN] 这个AI转身不出来。[UNKNOWN] 就永远三条路都是没线。[UNKNOWN] 你们就看嘛。[UNKNOWN] 是的你们就看会不会出嘛。[UNKNOWN] 中你别挂空了  (💬 疑问(x9) / 少看点(x9) / 看你(x5) / 还真是(x5) / 唐笑(x4))
+[98m] 🔥 [UNKNOWN] 挂空。[UNKNOWN] 然后回家补装备了啊。[UNKNOWN] 抢一波小龙的轮次。[UNKNOWN] 反正HO也排不了大龙。[UNKNOWN] 嗯然后HLE中路还必须得继续接线。[UNKNOWN] 古巴也到三件套了但对他来说。[UNKNOWN] 这波团的生存压力是最大的。[UNKNOWN] 兵哥已经在这个位置玩了起码五分钟了  (💬 疑问(x7) / 少看点(x6) / 唐笑(x5) / 看你(x4) / 还真是)
+[98m] 🔥 [UNKNOWN] 永远都在这儿。[UNKNOWN] 但这波线不需要压的特别深哦。[UNKNOWN] 因为后面一分钟之后两个资源都在的。[UNKNOWN] 他要确定的事情就是宙斯不能从BLG家。[UNKNOWN] 的野区绕出来。[UNKNOWN] 就行了。[UNKNOWN] 就是把中路还在左边落位位会更哇进实。[UNKNOWN] 其实这个无所谓了  (💬 疑问(x7) / 唐笑(x5) / 看你(x4) / 少看点(x3) / 魔了)
+[98m] 🔥 [UNKNOWN] 下半区有眼可以吃的。[UNKNOWN] 是的河道的视野是守住了。[UNKNOWN] 宙斯也得回家补装备了。[UNKNOWN] 直接不往下踩。[UNKNOWN] 因为为LG下半局局经开始唱起来了呀。[UNKNOWN] 呃HLE的绝命一波。[UNKNOWN] 是的下路线也推完了。[UNKNOWN] 守路又爽爽吃没根本没人来拦你  (💬 疑问(x4) / 看你(x4) / 唐笑(x3) / 少看点 / 魔了)
+[99m] ▫️ [UNKNOWN] 你让娜a俩线就没了线是平的平线了。[UNKNOWN] 但是蝎子能下河这个野能排的掉吗。[UNKNOWN] 这个眼会稍微慢一点。[UNKNOWN] 真的绕出来不打起来了。[UNKNOWN] 钉子埋在了这个后侧后。[UNKNOWN] 有点长宙斯还在找人。[UNKNOWN] 正面还在找人找不到。[UNKNOWN] 哎怎么说就没找到呀  (💬 神秘(x4) / bin哥这么团队的啊 / viper稳住啊 / 领先 5k 怎么输 / blg只要不发狂就拿下了)
+[100m] 🔥 [UNKNOWN] 这好像没敢继续打因为他们没找到。[UNKNOWN] 奥拉夫在吗。[UNKNOWN] 没找你敢敢到我我这里里奥奥拉夫。[UNKNOWN] 你想不到吗。[UNKNOWN] 兵哥这塔龙了。[UNKNOWN] 卓洛克是随时能来啊。[UNKNOWN] 应应该是看到我看到准确吗吗。[UNKNOWN] 看到。[UNKNOWN] 被这个叫鬼一样爆了  (💬 拿下(x9) / 拿下！(x4) / 神秘(x3) / 看你(x3) / nice(x3))
+[100m] 🔥 [UNKNOWN] 推推一下兵哥哥绕出出来了。[UNKNOWN] 兵哥说剑十万圣绝不给唐者导弹。[UNKNOWN] 哎哎呀稳稳惩下对兵哥也得脱节。[UNKNOWN] 唉。[UNKNOWN] 但是没关系啊。[UNKNOWN] 伤害已经我已经全线崩溃了。[UNKNOWN] 哇直接一波哎换换五好。[UNKNOWN] 想要拿下了  (💬 拿下(x9) / 拿下！(x4) / nice(x3) / gg(x3) / 冲！(x3))
+[100m] 🔥 [UNKNOWN] 兄弟们好像不要进八杀了我。[UNKNOWN] 真的是你这直边直接左边他弟们完美完美。[UNKNOWN] 我真的是你就看嘛你勋哥的惩戒。[UNKNOWN] 交完了现在被眼抓了。[UNKNOWN] 高倍子来嘞。[UNKNOWN] 鸡哥跑好爬好广州披萨披萨。[UNKNOWN] 广州披萨我是一个完整皮张金密达  (💬 完全披萨(x4) / 拿下(x3) / 看你(x3) / 疑问 / 再见了宙小妹)
+[101m] 🔥 [UNKNOWN] 为什么几个农个农民仓配啊。[UNKNOWN] 要这换一线疑惑这个问题了。[UNKNOWN] 二幺六会告诉你答案。[UNKNOWN] 这把为什么对面的云安娜没吃到。[UNKNOWN] RQ。[UNKNOWN] 对就是为什么云安娜没压力。[UNKNOWN] 你是前两个RQ全空。[UNKNOWN] 这个对线就已经影响非常大  (💬 看你(x8) / 家乡话(x8) / 冲！(x6) / 完全披萨(x4) / 完全披萨！)
+[102m] 🔥 [UNKNOWN] 感觉中一个可能都会有点不同。[UNKNOWN] 中一个哭。[UNKNOWN] 霸少说多出一个镀层。[UNKNOWN] 是的但现在优势很大了。[UNKNOWN] 领先一万的BLG追到你的野区。[UNKNOWN] 我的家带稳着玩好吧。[UNKNOWN] 别着急慢来。[UNKNOWN] 对就赢之前激烈爆炸之前  (💬 看你(x8) / 家乡话(x4) / 家乡话了 / 完全披萨 / 冲！)
+[102m] 🔥 [UNKNOWN] 我一句怪话都不说你句话。[UNKNOWN] 这个阵容可能不分。[UNKNOWN] 前期中期后期对面基地没爆炸。[UNKNOWN] 还得给我绷着。[UNKNOWN] 是的绷着推上紧住呃。[UNKNOWN] 中路是兵龙两路线。[UNKNOWN] 鸡跟斗完整皮上兄弟安全的。[UNKNOWN] 现在没有人敢动他靠这个炮车拆好吧  (💬 看你(x7) / 诶嘿(x3) / 家乡话(x3) / 完全披萨 / 冲！)
+[102m] 🔥 [UNKNOWN] 保这真要把炮车拆这俩炮车真跑住。[UNKNOWN] 真的很害怕。[UNKNOWN] 好像两个大c在这个a这个炮。[UNKNOWN] 哎呦补刀大c没了道田手比较短。[UNKNOWN] 真不好。[UNKNOWN] A他两个大c没现的牙。[UNKNOWN] 有干锅的呀拉位现在做不了事。[UNKNOWN] 真实有干锅了这个这下更不怕被开了  (💬 看你(x4) / 诶嘿(x4) / 家乡话(x3) / 冲！ / 你的口音正还是ddy口音正)
+[102m] 🔥 [UNKNOWN] 线线三浪也得掉野区都得掉。[UNKNOWN] 但我觉得掉野区跟HI两是最最的事儿儿。[UNKNOWN] 是是的。[UNKNOWN] 塔塔实实没那么好只结能两路线。[UNKNOWN] 这女警选出来这大招招接e也是确实。[UNKNOWN] 心很难受立了长子证的嗯。[UNKNOWN] 他们给我吐啊啊什么车死生  (💬 一波了(x6) / 诶嘿(x5) / 看你 / nb / 人呢)
+[103m] 🔥 [UNKNOWN] 他八号融化了观众墨克吓人。[UNKNOWN] 扛着他摁给你杀无所谓的机会。[UNKNOWN] 直接一波了再体交一面。[UNKNOWN] 妈呀。[UNKNOWN] 是我靠。[UNKNOWN] 好像看我好像好像在干排位的感觉。[UNKNOWN] 怎么办。[UNKNOWN] 就是这打的也太好好了。[UNKNOWN] Blg今天中的特别好  (💬 拿下(x14) / 冲！(x11) / 拿下！(x8) / 一波了(x6) / 疑问(x5))
+[103m] 🔥 [UNKNOWN] 我我真的觉得BLG从今天开始从感觉状。[UNKNOWN] 态调整过来了。[UNKNOWN] 无敌看我的驱魔人。[UNKNOWN] 开局只剩一个蛛斯在哭。[UNKNOWN] 为之教爷怎么说呀。[UNKNOWN] 最后一次晋级八强的进发球。[UNKNOWN] 你和这个宙斯隔着水晶相望。[UNKNOWN] 大了  (💬 拿下(x13) / 冲！(x10) / 拿下！(x8) / 疑问(x5) / 恭喜blg(x3))
+[104m] 🔥 [UNKNOWN] 祝小妹等着。[UNKNOWN] 今晚我就来好好安慰你。[UNKNOWN] 别哭拿下BLGGBL家。[UNKNOWN] 甚至都没有打都没打。[UNKNOWN] 满BO三还是太简单了。[UNKNOWN] 豪华不过是BLG的减速带。[UNKNOWN] 减速带罢了。[UNKNOWN] 无敌。[UNKNOWN] 我在左边我行靠右耶  (💬 拿下(x10) / 冲！(x7) / 拿下！(x6) / 疑问(x4) / ？？？(x3))
+[105m] 🔥 [UNKNOWN] 我好像谢谢我的哥们。[UNKNOWN] 谢谢你要不是你。[UNKNOWN] 你要告诉你玩玩文品呗。[UNKNOWN] 谢谢你的哥们儿谢。[UNKNOWN] 眼着哥们儿我就p萨奇迹。[UNKNOWN] 奇迹主要今天这把打完之后。[UNKNOWN] 安心很多。[UNKNOWN] 继续加油。[UNKNOWN] 我们又多了个战斗力  (💬 gg(x4) / 看你(x4) / [UPOWER_2030198123_诶嘿] / 不知道是blg还是tes打ig了 / : 接下来一年的女主都是扫帚了: 接下来一年的女主都是扫帚了: 接下来一年的女主都)
+[105m] 🔥 [UNKNOWN] 是的我们又多了一个战斗力。[UNKNOWN] B二g拍钢停止吃大米呢。[UNKNOWN] 大家祝贺b幺g啊。[UNKNOWN] 祝贺b幺g恭喜恭喜。[UNKNOWN] 这下比比阿枪有三支要掉队伍的时候。[UNKNOWN] 就觉得背不了赢一局。[UNKNOWN] 当年十二点后就能零点跟我去。[UNKNOWN] 我们我们比我们要挑好样的  (💬 看你(x4) / gg / 冲！ / 牛比啊 理神 / gumayusi你认不认viper这个师傅)
+[105m] 🔥 [UNKNOWN] 我们要挑。[UNKNOWN] 好样的。[UNKNOWN] 新款手机和战队亲签队看看我们抽点抽签。[UNKNOWN] 快点抽签好不要加油吧。[UNKNOWN] 有没有加油了加油太爽了。[UNKNOWN] 谢谢。[UNKNOWN] 太爽了。[UNKNOWN] 这个是小二爱摸鱼鱼的。[UNKNOWN] 我认能举这么出的BLG加油  (💬 冲！(x3) / 接下来是奖励一把T1环节 / 已预订韩流解说blg vs hle / 左手说今年要夺冠难道是真的？ / LPL崛起！)
+[106m] ▫️ [UNKNOWN] 谢谢IXE的BLG。[UNKNOWN] 加油。[UNKNOWN] 谢谢我真的是我真的是小福福。[UNKNOWN] 谢想不谢。[UNKNOWN] 九哥最害怕的上单也淘汰了。[UNKNOWN] 谢y的四分之。[UNKNOWN] 谢大仙人的BLG。[UNKNOWN] 谢谢LGG油谢YG们。[UNKNOWN] 紫光之的四分之仙阱四分之公爵  (💬 冲！(x3) / 接下来是奖励一把T1环节 / 诶嘿 / 好爽好爽 / 那么是哪只队伍没进八强呢)
+[108m] 🔥 [UNKNOWN] 谢谢小福星啊。[UNKNOWN] 谢BO。[UNKNOWN] 谢你的四分之。[UNKNOWN] 谢是的小福星本人啊q谢。[UNKNOWN] 谢的的七。[UNKNOWN] 谢四分g加油谢谢。[UNKNOWN] Bo之风吹风吹遗望。[UNKNOWN] 终途风吹谢遗忘之风。[UNKNOWN] 幽冥的BLG将有十个  (💬 可爱捏(x5) / 看你(x4) / 疑问(x4) / 诶嘿(x3) / 嘟嘟嘟(x3))
+[109m] ▫️ [UNKNOWN] 谢你的幸运之旅。[UNKNOWN] 谢起起码码们有机机抽了。[UNKNOWN] 谢谢。[UNKNOWN] 对就是谢图号黑粉小钱钱的高门鞋。[UNKNOWN] 本人第一天对VCTCN的道歉。[UNKNOWN] 今天全部撤回上嘴里。[UNKNOWN] 但是你也不能这么说啊。[UNKNOWN] 毕竟VCTC还是做了一件很很好的大事  (💬 看你(x6) / 疑问(x6) / 哈哈哈(x3) / 哈哈哈哈(x3) / 诶嘿)
+[109m] 🔥 [UNKNOWN] 就是他他们像这个滔博树送了一名就是很。[UNKNOWN] 强力的这个上。[UNKNOWN] 单选手三六九啊都哥哥来回包包干了。[UNKNOWN] 很不好事事干干了给大们树  (💬 疑问(x6) / 看你(x6) / 哈哈哈 / 哈哈哈哈哈哈哈哈哈 / 哈哈哈哈哈哈)
+[111m] ▫️ [UNKNOWN] 我大于BLG大于LCKBLG。[UNKNOWN] 作为最后一个进八强都强。[UNKNOWN] 谢谢冰冰谢个月的剑长啊。[UNKNOWN] 这这面上都都谢身体的内容。[UNKNOWN] 谢店长。[UNKNOWN] 谢这长长谢。[UNKNOWN] 谢谢你们。[UNKNOWN] 两个店舰剑确实就是成绩说话  (💬 看你 / 哈哈哈哈哈 / 还有第二关 / 我看这hle是lpl的充电宝啊，不愧是lck版大号tes / HLE软蛋太多，是该被淘汰)
+[112m] 🔥 [UNKNOWN] 谢谢冰舰长弟长宝嗯新见照了。[UNKNOWN] 我们说啊呃谢谢曾经拥有这一切的健证。[UNKNOWN] 先请开封。[UNKNOWN] 因有见长后能卡阿亮豆汁一铁卡西身体健。[UNKNOWN] 康。[UNKNOWN] 康吃就多。[UNKNOWN] 多谢拜哎金警长。[UNKNOWN] 谢。[UNKNOWN] 飞鱼虎开通了音乐的舰长  (💬 嘟嘟嘟(x23) / 看你(x7) / 冲！(x4) / 哈哈哈哈 / 爽收爱国舰长)
+[112m] 🔥 [UNKNOWN] 喝得你阿利阿杜谢谢你的舰长。[UNKNOWN] 祝你天天开心身体健康。[UNKNOWN] 喜万一首作。[UNKNOWN] 谢谢哦。[UNKNOWN] 谢九点送的钢贝。[UNKNOWN] 谢谢一忏悔。[UNKNOWN] 其实我送的韩华加油。[UNKNOWN] 顺利给回给回首尔的飞机加油。[UNKNOWN] 终于要么就打中野辅前期的  (💬 嘟嘟嘟(x14) / 看你(x7) / 哈哈哈哈 / 爽收爱国舰长 / 疯狂水世界)
+[113m] 🔥 [UNKNOWN] 一还坐还想坐飞机会输啊。[UNKNOWN] 差太多但也不好说的是可能小巧。[UNKNOWN] 就我的人怎么又有些进化了呢。[UNKNOWN] 可能直接让我们游游到那个游游到朝鲜。[UNKNOWN] 然后前返吧分析了对吧。[UNKNOWN] 就这么说吧就开玩笑了。[UNKNOWN] 我们谢希望你们总通知的糖果礼炮  (💬 看你(x6) / 嘟嘟嘟 / 哈哈哈哈 / 爽收爱国舰长 / 疯狂水世界)
+[113m] 🔥 [UNKNOWN] 三个就是九哥。[UNKNOWN] 我觉得打的好就算打的好与不好。[UNKNOWN] 你就。[UNKNOWN] 谢西瓜。[UNKNOWN] 你们总通知的糖果礼炮三哥不哥。[UNKNOWN] 谢谢。[UNKNOWN] 草上面是没有包袱的。[UNKNOWN] 在包袱就是一个月前九哥在拉枪。[UNKNOWN] 线今天九哥在拉线  (💬 看你 / 太平洋没加盖，自己游回区 / 宙斯还是太爱bin大小姐了 / 疯狂水世界 / 打捞海水净化器了)
+[113m] 🔥 [UNKNOWN] 是的当然还有IG啊。[UNKNOWN] 只能说每个队伍都打出自己的内容了。[UNKNOWN] 是的谢谢乖的的哥们儿。[UNKNOWN] 谢谢咒活。[UNKNOWN] HLE对BLG三个大厂回不去了。[UNKNOWN] 你觉得这一把的MVP给谁呢。[UNKNOWN] 因为我觉得是辅助确实很多波来的都很及  (💬 左手 / 手大哥 / al也赢了韩华啊[花] / hle加游 / 今年鸡蛋和宙斯要被开卡车了有感觉吗)
+[114m] 🔥 [UNKNOWN] 时啊。[UNKNOWN] 我们这一波就是首先线上对线也对的很不。[UNKNOWN] 错。[UNKNOWN] 然后好几波及时救援。[UNKNOWN] 比如说像这一波闪现点二追逐版。[UNKNOWN] 本玩你自己的啊龙波及时支援。[UNKNOWN] 然后然后呃因为以前都不会处理的。[UNKNOWN] 是挺好的你必须得去或者换线  (💬 左手 / 手大哥 / 中单吧 / 中上辅都可以 / 🍫＞🥚)
+[114m] 🔥 [UNKNOWN] 中路也或者说那种下路强势组合。[UNKNOWN] 对吧。[UNKNOWN] 我觉得辅助也不错中路也不错。[UNKNOWN] 你必须得去玩那些英雄。[UNKNOWN] 但今年什么都能玩。[UNKNOWN] 还有一个双射手对你就玩好你自己。[UNKNOWN] 包括在入围赛。[UNKNOWN] 还是要有变化  (💬 中路太c了 / 有沟通了 / 中路数据好 / 中辅吧 / 上单很稳很团队啊[汤圆]，不是bin就是手了)
+[115m] ▫️ [UNKNOWN] 那你为什么会样子回。[UNKNOWN] 但是我做了很多就是说相应的资源置换啊。[UNKNOWN] 什么的。[UNKNOWN] 十七点九这两天的那个夜。[UNKNOWN] 尤其是这家说说话谁在是一个说说话。[UNKNOWN] 我也说我最近已经熬那个什么。[UNKNOWN] 就就是天睡睡着着觉。[UNKNOWN] 就该睡的时候睡不着觉  (💬 冲！ / 没毛 / 6028 / 还真是 / 纯爽局)
+[116m] 🔥 [UNKNOWN] 然后然已经有点难受。[UNKNOWN] 都要苍首个个守哥哥IO一了。[UNKNOWN] 这把把洛克七杠零杠二。[UNKNOWN] 唉无敌了太也合受了。[UNKNOWN] 呃给五个吧我不是疑点人够狠了。[UNKNOWN] 掉点的就不接受任何一个人有问题。[UNKNOWN] 但不得过说是在这两个队造的系统风发  (💬 冲！(x3) / 看你(x3) / 没毛 / 6028 / 世一上)
+[117m] 🔥 [UNKNOWN] 我们再来看一个那个吧。[UNKNOWN] 再看一下那个刚刚非常渴望去冲击s赛的。[UNKNOWN] 冠军的。[UNKNOWN] 是的停止在了这里。[UNKNOWN] 对只能说BLG要向前进一步呀。[UNKNOWN] 对呀。[UNKNOWN] 好吧。[UNKNOWN] 这有点儿想那个嗯速挪打五条布啊  (💬 看你(x15) / 疑问(x12) / 会赢的(x5) / 冲！ / 抽签了)
+[117m] 🔥 [UNKNOWN] 赛情都觉得五条不能赢。[UNKNOWN] 对吧。[UNKNOWN] 啊被刀结果被被一刀是家。[UNKNOWN] 不是这里也有这也有这个吗。[UNKNOWN] 觉得HLE是秒改场女爱了HLE是秒要。[UNKNOWN] 大。[UNKNOWN] 因因为爱的秘密抽一直也是我相信来了来。[UNKNOWN] 了  (💬 疑问(x12) / 看你(x12) / 会赢的(x6) / 抽签了(x3) / 大的来了(x3))
+[117m] 🔥 [UNKNOWN] 主要还是抓到delight的这个痛点。[UNKNOWN] 了。[UNKNOWN] 嗯。[UNKNOWN] 主吧。[UNKNOWN] 就是迪light今天的表现绝对是有点。[UNKNOWN] 低。[UNKNOWN] 迷对有点太大了。[UNKNOWN] 这个问题主要卡娜位也不真的好看了。[UNKNOWN] 这个真的好好我的妈呀来了  (💬 看你(x6) / 会赢的(x4) / 抽签了(x3) / 大的来了(x3) / 冲！(x3))
+[117m] 🔥 [UNKNOWN] 再看一遍。[UNKNOWN] 这个线来了来了来了来了。[UNKNOWN] 哎呀哈这边来了对然下结束了。[UNKNOWN] 抽抽签结束了。[UNKNOWN] 再看全全人都是看淘抽结束束了。[UNKNOWN] 再线来了。[UNKNOWN] 来到我们这个二幺六世界赛淘汰的阶段的。[UNKNOWN] 抽签环节  (💬 看你(x4) / 抽签了(x3) / 大的来了(x3) / 冲！(x3) / 会赢的)
+[118m] 🔥 [UNKNOWN] 啊。[UNKNOWN] 然后介绍了一下今天抽奖嘉宾好的抽签的。[UNKNOWN] 嘉宾。[UNKNOWN] 然后我们有八支队伍会进入到我们的淘汰。[UNKNOWN] 赛阶段。[UNKNOWN] 这边三杠零的队伍DK和jeny三杠一。[UNKNOWN] 的队伍。[UNKNOWN] t one IG以及滔搏三杠二的队伍  (💬 冲！(x3) / 看你 / 大的来了 / 奖励geng / LCK不可能内战)
+[118m] 🔥 [UNKNOWN] Kc line。[UNKNOWN] 还有标记tonghts。[UNKNOWN] winners。[UNKNOWN] 你第一好害怕good record。[UNKNOWN] of由鱼。[UNKNOWN] 只能说怎么说馒头真好。[UNKNOWN] 天哪这么好些。[UNKNOWN] 然后这样子我来选一波  (💬 奖励geng / LCK不可能内战 / lck内战不了 / 打的就是lck / lck没内战)
+[118m] 🔥 [UNKNOWN] The two我来许愿一波LCK全能。[UNKNOWN] 一战LPL全。[UNKNOWN] 打全打欧美teams。[UNKNOWN] 拜托the remaining。[UNKNOWN] three two。[UNKNOWN] teams will be ran。[UNKNOWN] 拜托。[UNKNOWN] 哇  (💬 LCK不可能内战 / lck内战不了 / 打的就是lck / lck没内战 / gen blg)
+[118m] 🔥 [UNKNOWN] 接下来就开变烟器来来疯狂来内战to。[UNKNOWN] complete。[UNKNOWN] the right家都知道the。[UNKNOWN] racket and。[UNKNOWN] worry。[UNKNOWN] you will walk you。[UNKNOWN] through it  (💬 lck没内战 / dk打blg / lck内战不了 / 应该不可能吧 / 一共俩欧美)
+[119m] 🔥 [UNKNOWN] Were going to。[UNKNOWN] start with。[UNKNOWN] a three and zero。[UNKNOWN] 嗯打不了只能一个池子。[UNKNOWN] 就是model size啊。[UNKNOWN] 没内战啊这个决定睡的徐哥嗯。[UNKNOWN] 许哥今年确实晋级快PK打谁呢  (💬 blg / dk打blg / 可以了 / 好签 / lck池子不一样)
+[119m] 🔥 [UNKNOWN] And enenge on the。[UNKNOWN] other side。[UNKNOWN] Now their。[UNKNOWN] opponents will。[UNKNOWN] be drawn from the。[UNKNOWN] three two。[UNKNOWN] pool go ahead  (💬 好签(x6) / dk打blg / 可以了 / 可以 / 这是分半区)
+[119m] 🔥 [UNKNOWN] first。[UNKNOWN] is the opponents。[UNKNOWN] for DKDK。[UNKNOWN] 打标记吗。[UNKNOWN] 种子打过了我还怕四号吗。[UNKNOWN] 对不对。[UNKNOWN] 拉人胜利LCR兄弟会。[UNKNOWN] 这是八强。[UNKNOWN] 这助力对决拉呀打剑姬追你  (💬 好签(x6) / dk打blg / 可以了 / 可以 / Blg)
+[120m] 🔥 [UNKNOWN] 你别说我感感觉他状状态可可以。[UNKNOWN] 对啊主主一队打比对。[UNKNOWN] 对就就你这一把想再跟超哥相遇一次。[UNKNOWN] 哇打个标武啊什么他身上可以的感觉。[UNKNOWN] 说不定呢今年那个蝴蝶沧海。[UNKNOWN] 看这只蝴蝶能不能逼过去了。[UNKNOWN] 还是一只败了  (💬 tes(x7) / ig(x6) / 保送(x5) / 内战了(x4) / 别内战)
+[120m] 🔥 [UNKNOWN] 还是他让他的队友已经对呀。[UNKNOWN] 莱恩g只少了一把the match。[UNKNOWN] ups。[UNKNOWN] 看是谁加KCAC。[UNKNOWN] 嗯开心。[UNKNOWN] 对对啊他为了去往那开大图瘪过去了。[UNKNOWN] 他把头也变过这这真谁谁打谁看看嗯。[UNKNOWN] 哇这不大鱼有那幕二看别走别走别走  (💬 tes(x7) / ig(x6) / 内战了(x5) / 保送(x5) / 定制(x3))
+[121m] 🔥 [UNKNOWN] 别转了还转还得赶紧的。[UNKNOWN] 赶紧的。[UNKNOWN] 什么意思。[UNKNOWN] 拳头ES。[UNKNOWN] 先到你什么意思啊。[UNKNOWN] 我真服了别给我们阵容撤回。[UNKNOWN] 撤败失败了。[UNKNOWN] 靠你看看为什么做的这么快。[UNKNOWN] 这个表格秒表做那么快  (💬 还真是(x5) / 疑问(x3) / 定制 / 有内幕 / 烂签)
+[122m] 🔥 [UNKNOWN] 肯定有问题了。[UNKNOWN] 打我那个这个天就激动的情绪激激动。[UNKNOWN] 情绪一下那个下降了一些。[UNKNOWN] 好像有像有点更重对。[UNKNOWN] 就突然下降了一些。[UNKNOWN] 我讨厌啊真的是这们说是不是会靠了。[UNKNOWN] 谢谢你们认识的糖果礼炮两个。[UNKNOWN] 谢舞蹈switch  (💬 还真是(x6) / 大大方方 / 看你 / 听不懂 / 又可以和鼠姐连麦扯头花了)
+[122m] 🔥 [UNKNOWN] 谢谢switch破费了。[UNKNOWN] 谢谢。[UNKNOWN] 幽门和厨姐连麦结束了三番战。[UNKNOWN] 战胜h哎呀最后一张通往八强的门票。[UNKNOWN] 不能在什么四强战相遇吗。[UNKNOWN] 我说了跟大家打个招呼吧。[UNKNOWN] 得这要在八强欢迎耐的选手。[UNKNOWN] 我们看到在刚才你们结束比赛的那一刻  (💬 生肉 / 听不懂 / 哈哈哈 / 这么快就来了 / 坏签)
+[122m] 🔥 [UNKNOWN] 大家都非常的激动。[UNKNOWN] 当最后一局推掉HLE的水晶的时候。[UNKNOWN] 你脑海中在想什么呢。[UNKNOWN] 嗯。[UNKNOWN] 其实抽到汉华其中互相压力都非常大的吧。[UNKNOWN] 就推到一瞬间就感觉就压力全部释放出来。[UNKNOWN] 了。[UNKNOWN] 就非常吃晚饭  (💬 听不懂(x5) / 生肉 / 看你 / 哈哈哈 / 三理vs花礼你们知道吗☝️)
+[122m] 🔥 [UNKNOWN] 同样的。[UNKNOWN] 这场比赛也是你们继二零二六m二三十的。[UNKNOWN] 胜场。[UNKNOWN] 交手。[UNKNOWN] 今天这一场BO三打下来。[UNKNOWN] 感觉是一种什么样的对局体验呢。[UNKNOWN] 嗯感觉第一把其实大家都非常接近吧。[UNKNOWN] 就都是那种一波团就可以结束游戏  (💬 听不懂(x5) / 生肉 / 看你 / 哈哈哈 / 没有同声传译吗)
+[123m] 🔥 [UNKNOWN] 但第二把打的非常好。[UNKNOWN] 就让他们没有是啊。[UNKNOWN] 多说话来接受采访。[UNKNOWN] 说他那个手跟他的那个说话节奏真。[UNKNOWN] 的很有律动的在跟上下摇摆。[UNKNOWN] 好搞笑。[UNKNOWN] 嗯可家是怎么样找到的。[UNKNOWN] 嗯。[UNKNOWN] 但是因为对面AD就先被y跑死了嘛  (💬 哈哈哈(x3) / 听不懂(x3) / 生肉 / 申请中译中 / 哈哈哈哈哈哈哈哈哈哈)
+[123m] 🔥 [UNKNOWN] 所以我们先是先落位的任我先打到他们很。[UNKNOWN] 就抓住了他们所谓的失误吧。[UNKNOWN] 把对面上单越了。[UNKNOWN] 说完全听不懂。[UNKNOWN] 的有点尬黑了。[UNKNOWN] 但是确实的就说的可能百分之八十可以。[UNKNOWN] 听中剩下百分之二十要靠臆测。[UNKNOWN] 非常在线赢下了这一场关键的BO三  (💬 听不懂 / 看你 / 申请中译中 / 左语 / 绿冻？哪有绿冻？)
+[124m] 🔥 [UNKNOWN] 接下来你们也来到了八强赛段。[UNKNOWN] 回顾整个瑞士轮。[UNKNOWN] 我们其实有很多的观众都非常关心BLG。[UNKNOWN] 的状态。[UNKNOWN] 稍有起伏的情况下。[UNKNOWN] 今天这一场的发挥非常完美。[UNKNOWN] 你会觉得现在瑞士轮之后。[UNKNOWN] 大家有哪些收获吗  (💬 冲！ / 左语 / 左手说完话秒切战斗脸 / 生肉啃不动 / 这是哪里的方言)
+[124m] ▫️ [UNKNOWN] 自己说的。[UNKNOWN] 今天这个状态很好啊。[UNKNOWN] b要g我再打个DK没有问题啊。[UNKNOWN] 哎呀怎么内战上呢。[UNKNOWN] 好呀没嗯好哎呀妈。[UNKNOWN] 拳头你看看就是扛住压力了。[UNKNOWN] 看看你你懂不懂事他懂不懂事。[UNKNOWN] 瑞什文觉算一直打的不好  (💬 哈哈哈(x3) / 冲！ / 还真是 / 看你 / chovy今年是不是真要进决赛了)
+[125m] 🔥 [UNKNOWN] 包括之前赢下来比赛。[UNKNOWN] 尤其实游戏内容也是有很多糟糕。[UNKNOWN] 的地方的。[UNKNOWN] 你们两个电p的经情就是这样子。[UNKNOWN] 就是感觉彻底打回了自己。[UNKNOWN] 然后像换了个队伍一样。[UNKNOWN] 就找不到方向的时候确实会非常的担心。[UNKNOWN] 因为中间休息和调整的时间太少了  (💬 还真是(x3) / 看你(x3) / 哈哈哈(x3) / 哈哈哈哈 / 三理vs花礼三番战有感觉吗)
+[125m] 🔥 [UNKNOWN] 然后又一直面临着失败。[UNKNOWN] 然后可能一些质疑。[UNKNOWN] 那我觉得就每个选手滔搏是不是打三个呀。[UNKNOWN] 调整回来我觉得这个LPL我靠。[UNKNOWN] 还真是是八强我够了。[UNKNOWN] 我到了非常多就是可能关们赢了吧。[UNKNOWN] 打真服了不要赢  (💬 还真是(x3) / 看你(x3) / 哈哈哈(x3) / 哈哈哈哈 / 三理vs花礼三番战有感觉吗)
+[125m] 🔥 [UNKNOWN] 打我打两个对自己的一些待遇做到了。[UNKNOWN] 我觉真觉了了是做到了。[UNKNOWN] 而我觉得今天的表现就是。[UNKNOWN] 但是你们想想啊。[UNKNOWN] 没有什么是一把胜利解决不了的。[UNKNOWN] 如果也就再来一把a要打AL。[UNKNOWN] 真的滔搏内战打ALAL赢了吧  (💬 冲！(x3) / 三理vs花礼三番战有感觉吗 / 内战幻神 / 内战看tes / 内战的神)
+[126m] 🔥 [UNKNOWN] 打AL滔搏赢了吧。[UNKNOWN] 松松了不要g滔搏赢了吧。[UNKNOWN] 那你们说打IG的可能在你们有兄弟们有。[UNKNOWN] 感觉吗。[UNKNOWN] 有感这。[UNKNOWN] 然后今天的比赛结束。[UNKNOWN] 我要休定有感觉吗。[UNKNOWN] 这是大家最近长时间嘛信谢不二  (💬 看你(x3) / 冲！(x3) / 三理vs花礼三番战 / 诶嘿 / 内战看滔搏)
+[126m] 🔥 [UNKNOWN] 难道苏不之信斯不不客。[UNKNOWN] 谢谢大家。[UNKNOWN] Bo五的连麦很可怕。[UNKNOWN] 哎呦去啊还是BO五啊。[UNKNOWN] 还得到最后要看抽签啊什么的。[UNKNOWN] 只能说没逃过的内战吧。[UNKNOWN] 对我感觉反正KC打TY应该是挺难的。[UNKNOWN] 然后BLG打DK  (💬 看你(x3) / 冲！ / 诶嘿 / 内战看滔搏 / 踩头鼠姐！)
+[127m] 🔥 [UNKNOWN] 我觉得像左手说的吧。[UNKNOWN] 就是玩c自自己东东西行了。[UNKNOWN] 对吧。[UNKNOWN] 打任何队伍伍是应该有信心心的内战。[UNKNOWN] 就兄弟们兄弟们打出风采吧。[UNKNOWN] 对吧。[UNKNOWN] 加油加油啊。[UNKNOWN] 观看英雄联盟赛事睿平选手的赛场表现  (💬 看你(x19) / 疑问(x17) / 太变态了(x3) / ？？？ / 二周目)
+[127m] 🔥 [UNKNOWN] 登陆虎扑搜索选手的评分。[UNKNOWN] 你在左边我幸好有一定你在左边。[UNKNOWN] 我紧靠右边兵哥。[UNKNOWN] 明天BLG就要打韩华了。[UNKNOWN] 你可不可以让让小骚宝呀。[UNKNOWN] 哎当然不行了我赢了你才能八强。[UNKNOWN] 要是输了我都没比赛打了。[UNKNOWN] 哎呀斌哥人家要是输了也会回家的  (💬 疑问(x17) / 看你(x17) / 太变态了(x6) / ？？？ / 二周目)
+[128m] 🔥 [UNKNOWN] 你这次就让让小骚宝嘛。[UNKNOWN] 感觉你都送给我那么多了。[UNKNOWN] 是我哭他啊。[UNKNOWN] 为什唉这百分之六十三的人在哪里。[UNKNOWN] 给我重新回来给我重新把选项改了。[UNKNOWN] 我靠不是不行但是我有个条件。[UNKNOWN] 什么条件什么条件呀。[UNKNOWN] 你快说的什我要是我让你赢了  (💬 看你(x14) / 太变态了(x8) / 疑问(x6) / 哈哈哈(x4) / 甜甜甜(x3))
+[128m] 🔥 [UNKNOWN] 是你可要天天晚上陪我训练可以。[UNKNOWN] 要是赢了我天天晚上陪你训练。[UNKNOWN] 这样可以了吧这还差不多科学林哥。[UNKNOWN] 你坏死啦你输了我的粉丝。[UNKNOWN] 还有雷将眼镜帮你们跑。[UNKNOWN] 你问我还能八条人家什么都没有。[UNKNOWN] 哼恭喜BLG他们成功晋级八强  (💬 看你(x15) / 疑问(x13) / 太变态了(x8) / 哈哈哈(x5) / ？？？(x4))
+[129m] 🔥 [UNKNOWN] 恭击你的我给你拿好神了。[UNKNOWN] 还有还有回来发弹幕的那倒是更喜欢你一。[UNKNOWN] 点。[UNKNOWN] 那明天比赛可以让我赢吗。[UNKNOWN] 看你今晚表现看来表现的不太好。[UNKNOWN] 看看来晚上表现不太好啊。[UNKNOWN] 周小飞哎呀哇你在左边过境好啊。[UNKNOWN] 哎哎呀下了下了谢谢  (💬 看你(x14) / 疑问(x12) / 哈哈哈(x5) / 太变态了(x5) / 冲！)
+[129m] 🔥 [UNKNOWN] 我也想欢迎我雷克萨的钢分。[UNKNOWN] 谢谢。[UNKNOWN] Sk两个三比零没有办法。[UNKNOWN] 内战概率就是很低。[UNKNOWN] 唉嗯现在高分谢谢。[UNKNOWN] 对吧。[UNKNOWN] 斯卡我此是太一种么。[UNKNOWN] 西哒嘛你有多就这样吧。[UNKNOWN] 我要睡觉主播没睡觉  (💬 拜拜拜拜(x5) / 晚安晚安(x4) / 看你(x3) / [UPOWER_2030198123_晚安](x3) / 是的)
+[130m] 🔥 [UNKNOWN] 我要睡了。[UNKNOWN] 拜拜。[UNKNOWN] 真就是很开心的一个这个看比赛啊。[UNKNOWN] 这是二六比零拿下很舒服很舒服。[UNKNOWN] 大家晚安了。[UNKNOWN] 晚安。[UNKNOWN] 你早安就早安早上好。[UNKNOWN] 祝你们今年一年都很开心。[UNKNOWN] 然后晚上  (💬 拜拜拜拜(x13) / 晚安晚安晚安晚安(x7) / 晚安晚安(x6) / 早安(x6) / 晚安晚安晚安晚安晚安晚安(x6))
+[131m] 🔥 [UNKNOWN] 晚上晚晚安了你早点睡喽。[UNKNOWN] 我的家拜。[UNKNOWN] 晚上今天下午可能来应该下午来。[UNKNOWN] 下午可能会不知道会不会播吧。[UNKNOWN] 但是下午我看情况吧。[UNKNOWN] 今天下午有那个说就是晚上我我。[UNKNOWN] 在群里面说一下。[UNKNOWN] 想组织一下那个训练赛  (💬 晚安晚安晚安晚安(x16) / 晚安晚安晚安晚安晚安晚安(x12) / 拜拜拜拜(x11) / 晚安晚安(x8) / 晚安晚安晚安(x7))
+[131m] 🔥 [UNKNOWN] 然后说大概下午两三点这个样子。[UNKNOWN] 要看大家的时间。[UNKNOWN] 对我睡不了多久了买。[UNKNOWN] 买晚安晚安还是宁ink。[UNKNOWN] 晚安绝得送。[UNKNOWN] 晚安波波兄弟晚安兰。[UNKNOWN] 晚安raad tomy。[UNKNOWN] 晚安。[UNKNOWN] 谢谢晚安  (💬 晚安晚安晚安晚安(x31) / 晚安晚安晚安(x23) / 晚安晚安(x21) / 晚安晚安晚安晚安晚安晚安(x19) / 晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安(x9))
+[132m] 🔥 [UNKNOWN] you it thats me。[UNKNOWN] 顺利晚安谢谢礼物安龙晚安。[UNKNOWN] 花心那可晚安。[UNKNOWN] Good night。[UNKNOWN] 拜拜早安谢谢你晚安男球优戏。[UNKNOWN] 嗯立刻睡了莫尔晚安。[UNKNOWN] 三里食珍妮的冰美式早安晚安快乐。[UNKNOWN] 晚安no no no早安  (💬 晚安晚安晚安晚安(x43) / 晚安晚安晚安晚安晚安晚安(x32) / 晚安晚安晚安(x24) / 晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安(x14) / 晚安晚安(x13))
+[132m] 🔥 [UNKNOWN] 欢迎口安欢迎宁口安。[UNKNOWN] 六三零的那三零了啊谢谢你们啊。[UNKNOWN] 几次在你到底九三年。[UNKNOWN] 零三你晚安还是认可玩打小游戏吧啊。[UNKNOWN] 谢谢你们啊。[UNKNOWN] 潘红晚安夜里晚安呀。[UNKNOWN] 孤独终于有人说晚安。[UNKNOWN] 超级海狸猫晚安花生日晚安  (💬 晚安晚安晚安晚安(x23) / 晚安晚安晚安晚安晚安晚安(x22) / 晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安(x15) / [UPOWER_2030198123_晚安](x11) / 晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安(x10))
+[133m] 🔥 [UNKNOWN] 照们间那你早安小雪优皮晚安。[UNKNOWN] 谢谢华哥女神的告白。[UNKNOWN] 火血之你谢谢了吗。[UNKNOWN] 阿心们晚安谢谢花心令晚安。[UNKNOWN] 希你真好看两个谢华心。[UNKNOWN] 晚安安谢谢妈呀谢谢晚安。[UNKNOWN] 谢安小哥喜晚安谢谢OK。[UNKNOWN] 晚安安要听谢晚安希望你们的通知  (💬 晚安晚安晚安晚安(x17) / 早安早安(x14) / [UPOWER_2030198123_晚安](x12) / 晚安晚安(x11) / 晚安晚安晚安晚安晚安晚安(x10))
+[133m] 🔥 [UNKNOWN] 晚安。[UNKNOWN] 用三零的日记三零晚安瓶子晚安小二爱茉。[UNKNOWN] 莉。[UNKNOWN] 晚安终于终于错晚安。[UNKNOWN] christan阿莫。[UNKNOWN] 晚安谢谢晚安。[UNKNOWN] 夜里一直日晚安。[UNKNOWN] 零年起晚安TTJ加啦梦晚安。[UNKNOWN] 米休米尔早安冰贝尾号零九七四  (💬 晚安晚安晚安晚安(x14) / 早安早安(x13) / [UPOWER_2030198123_晚安](x11) / 晚安晚安(x10) / 早安早安早安早安早安早安早安早安(x9))
+[133m] 🔥 [UNKNOWN] 晚安拜拜我朕住院并没吃完抓不得。[UNKNOWN] 那你答安逆转过偏差了啊。[UNKNOWN] 再看马后萨列萨列里晚安。[UNKNOWN] 幺三零的零三零吗。[UNKNOWN] 嗯二三晚安一寒之风敬一晚。[UNKNOWN] 嗯rebannow ear。[UNKNOWN] 早安正面早安。[UNKNOWN] 谢花星林可的你真好看两个  (💬 [UPOWER_2030198123_晚安](x11) / 晚安晚安晚安(x9) / 早安早安(x9) / 晚安晚安晚安晚安(x9) / 早安早安早安早安早安早安早安早安(x8))
+[134m] 🔥 [UNKNOWN] 谢谢喵谢晚安莫拜陵王路易莎哥哥。[UNKNOWN] 晚安不要西西早安在你家的三明治。[UNKNOWN] 晚安黑糖宠令。[UNKNOWN] 嗯。[UNKNOWN] 拜拜哟。[UNKNOWN] 拜爸夸乐你声晚安。[UNKNOWN] 好下次再拜拜。[UNKNOWN] 晚安不一定试试走啊。[UNKNOWN] 没事安姐姐晚安和早安喽  (💬 拜拜拜拜(x10) / [UPOWER_2030198123_晚安](x6) / 早安早安早安早安早安早安早安早安(x5) / 晚安晚安晚安晚安(x5) / 晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安(x4))
+[134m] 🔥 [UNKNOWN] 拜早早拜拜  (💬 拜拜拜拜(x4) / 早安早安早安早安早安早安早安早安 / 晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安晚安 / 早安早安早安 / 快休息吧)
