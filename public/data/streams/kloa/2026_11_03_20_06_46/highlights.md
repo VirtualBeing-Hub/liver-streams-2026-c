@@ -1,0 +1,43 @@
+## Highlight
+
+【摘要】(保留率: 前35%热度 + 10%随机)
+---
+【参与者】计划参与: 无
+【参与者】实际出声: 无
+【归属说明】名单不证明逐句身份；实际出声仅指音轨匹配，也可能来自被观看内容。UNKNOWN和匿名标签不可归给房主。
+---
+[0m] 🔥 [UNKNOWN] 睡了多久。[UNKNOWN] 我可能大概从十二点。[UNKNOWN] 半一直睡到六点多吧。[UNKNOWN] 说实话今天晚上又睡不着了。[UNKNOWN] 估计今天晚上的睡眠又记了。[UNKNOWN] 天哪下午睡太久了哎。[UNKNOWN] 我那是又没办法。[UNKNOWN] 牛爱算发过吗。[UNKNOWN] 哎算了无所谓了  (💬 再无悲喜(x7) / 唔哎 / 啾啾 / 擦下身子直接躺被窝吧 / 搜了一下牛蛙也算发物，笑嘻了)
+[0m] 🔥 [UNKNOWN] 千金难买我开心。[UNKNOWN] 是。[UNKNOWN] 嗯。[UNKNOWN] 是。[UNKNOWN] 嗯又翘了一节课。[UNKNOWN] 又逗够了。[UNKNOWN] 嗯嗯。[UNKNOWN] 再见了良好多西安。[UNKNOWN] 我今天晚上也嗯对吧。[UNKNOWN] 今天晚上就不开电脑了。[UNKNOWN] 下午睡太久了  (💬 再无悲喜 / 本音可爱捏 / 睡不着就娘粘，挂着纯粘到睡着吧宝 / 空气也算发物 / 作息慢慢调吧不急，你有这个意识就行[汤圆])
+[2m] 🔥 [UNKNOWN] 哎。[UNKNOWN] 谢谢三二零的杠动能。[UNKNOWN] 用现在的声线冷淡点。[UNKNOWN] 说个晚上好老公吗嗯。[UNKNOWN] 晚上好老公。[UNKNOWN] 是这样。[UNKNOWN] 晚上好感冒怎么样。[UNKNOWN] 还好吧现在。[UNKNOWN] 猪脑好吃嗯。[UNKNOWN] 我也蛮喜欢猪脑的  (💬 开动了(x8) / 感觉是上了一天班，回家看到老公的样子 / 猪脑好吃，本质高蛋白高脂肪 / 感冒咋样了 / 再无悲喜)
+[3m] 🔥 [UNKNOWN] 嘘。[UNKNOWN] 嗯。[UNKNOWN] 是。[UNKNOWN] 哎。[UNKNOWN] 玩动态。[UNKNOWN] 说一下明天状态可能会迟到吧。[UNKNOWN] 之前有几次。[UNKNOWN] 结果没听到动静。[UNKNOWN] 是因为那个闹钟的铃声选了无。[UNKNOWN] 我看了一下有几个闹钟  (💬 再无悲喜(x3) / 晚一点也没事 / 本音好扫 / 怎么感觉有点色 / 脑花配牛蛙吗)
+[4m] 🔥 [UNKNOWN] 他那个闹铃的选择是是五。[UNKNOWN] 感到这个很很迷惑。[UNKNOWN] 不知道为什么是母。[UNKNOWN] 一般讲默认不都是。[UNKNOWN] 会有一个那个的吗对吧。[UNKNOWN] 默认的。[UNKNOWN] 我不知道怎么会变成五就。[UNKNOWN] 反正我都改了一下  (💬 再无悲喜(x10) / 呃呃(x6) / 蜜蜂冰块(x5) / .................. / 牛逼)
+[6m] 🔥 [UNKNOWN] 哎呦。[UNKNOWN] 嗯嗯。[UNKNOWN] 哎呀我也不好说嗯。[UNKNOWN] 感觉克卡是那种心理压抑。[UNKNOWN] 不是很。[UNKNOWN] 不是很。[UNKNOWN] 就是我自己没法察觉的那种。[UNKNOWN] 我自己不太会。[UNKNOWN] 察觉到。[UNKNOWN] 但是就是  (💬 再无悲喜(x13) / 区体化了 / 还有躯体化 / 我倒是试过压力胃疼 / 嘻嘻)
+[6m] 🔥 [UNKNOWN] 他会。[UNKNOWN] 只是到一定程度。[UNKNOWN] 他直接。[UNKNOWN] 投射到身体的。[UNKNOWN] 身体上反映出来才意识的到。[UNKNOWN] 不个。[UNKNOWN] 像看看小说有段时间那个嗯。[UNKNOWN] 那个部位叫什么颌关节。[UNKNOWN] 就是就是上颚和下颚  (💬 再无悲喜(x11) / 嘛，一直都有点吧 / 要开心点 不要压抑 / 身体很诚实呢❤️ / 焦虑很正常，很多时候莫名其妙失眠)
+[7m] 🔥 [UNKNOWN] 就是牙齿咬合那个。[UNKNOWN] 侧面咬合那个地方会有异响。[UNKNOWN] 会会有异异。[UNKNOWN] 然后后有一种就是。[UNKNOWN] 没那个零件错位的那种感觉。[UNKNOWN] 那地方。[UNKNOWN] 有段时间一直这样去看医生嘛。[UNKNOWN] 医生说也没办法。[UNKNOWN] 医生说这就是压力  (💬 再无悲喜(x4) / 很正常 / 下巴掉了 / 颌关节紊乱啊，我日常了 / 颞下颌关节紊乱)
+[7m] 🔥 [UNKNOWN] 压力大可压力大导致的。[UNKNOWN] 我说啊。[UNKNOWN] 哎我真的。[UNKNOWN] 我我去我去医院看那个看喉咙。[UNKNOWN] 心理问题啊我真的服了呀。[UNKNOWN] 可我是真的有谈啊。[UNKNOWN] 嗯。[UNKNOWN] 是嗯嗯。[UNKNOWN] 哎。[UNKNOWN] 感觉是这些医生  (💬 嘻嘻(x3) / 再无悲喜 / 庸医 / 这个光一熟练 / 原因很多)
+[8m] 🔥 [UNKNOWN] 懒得管那么多事儿而已。[UNKNOWN] 嗯嗯。[UNKNOWN] 胃非常非常难受。[UNKNOWN] 哼。[UNKNOWN] 哼八智齿也是个手术呢。[UNKNOWN] 只不过是个小手术罢了。[UNKNOWN] 很小的手术。[UNKNOWN] 嗯。[UNKNOWN] 大家要注意。[UNKNOWN] 说实话我感觉  (💬 再无悲喜(x6) / 心理问题确实会影响咽炎轻重，这个是实话 / 查不出来就是精神问题（ / 可能你去看的时候刚好没有 / 我记得有种喷雾可以缓解一下老痰来着)
+[11m] 🔥 [UNKNOWN] 哼。[UNKNOWN] 感觉是广州病病毒太多呃。[UNKNOWN] 嘻嘻。[UNKNOWN] 不知道广州有有这个可能性。[UNKNOWN] 但是。[UNKNOWN] 因为我我好像看别有的人说什么。[UNKNOWN] 广州虽然好像湿度很高。[UNKNOWN] 但是广州不是煮水的广州是火。[UNKNOWN] 嗯  (💬 嘻嘻(x3) / 雅雅也要注意安全呀，最近要杀年猪了 / 跟你说了你就说绷太紧突然松了导致的，没必要焦虑 / 过去的，就让他过去吧 / 换季加上免疫力低，很正常)
+[12m] 🔥 [UNKNOWN] 是。[UNKNOWN] 嗯。[UNKNOWN] 人均鼻炎。[UNKNOWN] 广州早年成大是吗。[UNKNOWN] 吓死我了以后。[UNKNOWN] 我去广州以后充了咋这样。[UNKNOWN] 那要是在英国没有这些问题呢。[UNKNOWN] 我说句实话我还真没有。[UNKNOWN] 我在英国几年我没有生过一次病  (💬 再无悲喜(x3) / 迷信TV又来了 / 湿热嘛 / 玄学来了 / 还有属相研究)
+[13m] 🔥 [UNKNOWN] 但是我在英国作息也不好。[UNKNOWN] 就有的时候看来有喜欢赶卡死线。[UNKNOWN] 赶作业我喜欢卡死线。[UNKNOWN] 赶论文。[UNKNOWN] 我就是交之前的最后一天两天。[UNKNOWN] 就那天就也没时间睡觉就不睡觉。[UNKNOWN] 就两天一直在写。[UNKNOWN] 晚上就一��打自己  (💬 再无悲喜(x15) / 嘻嘻(x4) / ？这么厉害 / 广州很多外国来的黑哥们 / 英国只有吃不饱这一个问题)
+[13m] 🔥 [UNKNOWN] 来不及了就一直狂打。[UNKNOWN] 自己就不能睡。[UNKNOWN] 一直通宵写。[UNKNOWN] 把自己嘘欧的哼。[UNKNOWN] 嗯嗯。[UNKNOWN] 嗯。[UNKNOWN] 然后敢死干活交上的。[UNKNOWN] 然后就喝就昏睡。[UNKNOWN] 真是的说的跟什么。[UNKNOWN] 现在你年纪大了  (💬 再无悲喜(x14) / 人之常情 / 你在英国的时候几岁，现在几岁，有没有可能老了呢（ / 水土不服了[dog] / 本土加成吧大概)
+[15m] 🔥 [UNKNOWN] 真是。[UNKNOWN] 今问你知道雅小妹。[UNKNOWN] 打自己脸和拿头撞墙。[UNKNOWN] 把脑袋撞坏了吗哼。[UNKNOWN] 安心的地方反而会让身体感生命。[UNKNOWN] 这样吗。[UNKNOWN] 啊我吃完了。[UNKNOWN] 我吃完了让。[UNKNOWN] 你改作息太难。[UNKNOWN] 不是我不想改是我就是睡不着  (💬 嘻嘻(x7) / 再无悲喜(x4) / 女人过了25就老了 / 小雅老了 / 英国人在广州水土不服也是正常的)
+[15m] 🔥 [UNKNOWN] 我就在那翻来覆去。[UNKNOWN] 我就是睡不着我也没办法。[UNKNOWN] 我也没招呀。[UNKNOWN] 嗯是嗯是嗯嗯。[UNKNOWN] 嗯哼。[UNKNOWN] 没有但是在我哎呀。[UNKNOWN] 但是在我去上学之前。[UNKNOWN] 我去英国读本科之前。[UNKNOWN] 我在国内也是天天生病是  (💬 再无悲喜(x16) / 水土不服 / 别找补了，英国更适合雅神体质 / 那人过了25还真的和25前区别挺大的，你问下身边过25的人大部分都有这种感想 / 那不然呢老了就少折腾自己[汤圆])
+[16m] 🔥 [UNKNOWN] 高中初中电视。[UNKNOWN] 嗯哼哼就是很容易生病。[UNKNOWN] 就是只要有一点诱因。[UNKNOWN] 我就会生病。[UNKNOWN] 就跟一个球在一个山坡上。[UNKNOWN] 一个下坡的路上滚一样。[UNKNOWN] 一旦被推了一下。[UNKNOWN] 就是挡不住的一直往下滚。[UNKNOWN] 是  (💬 再无悲喜(x14) / 水土不服 / 嘻嘻 / 本质英国人 / 本土加成吧大概)
+[16m] 🔥 [UNKNOWN] 嗯哼哼亚大日本鱼。[UNKNOWN] 我觉得广州确实是有说法的。[UNKNOWN] 身体弱的不适合。[UNKNOWN] 不。[UNKNOWN] 我这个这个来广州混出来都是强者  (💬 净化 / 我去你这么说我是真不敢去广东了 / 25是个槛，30又是一个槛。到年龄确实能共感以前被自己说老登的人了 / 英国确实气候好 / 水土不服说是)
+[18m] 🔥 [UNKNOWN] 要是么浑身上下能摸出一块肌肉。[UNKNOWN] 那还是有的吧。[UNKNOWN] 药机。[UNKNOWN] 药剂。[UNKNOWN] 在城市待着有点憋。[UNKNOWN] 也也还好吧。[UNKNOWN] 我担心两片嘎巴一下散架了。[UNKNOWN] 那个雅生的马甲线。[UNKNOWN] 马甲线呢真没有  (💬 再无悲喜(x9) / 呃呃(x5) / 嘻嘻 / 净化 / 好圆润的雅雅)
+[18m] 🔥 [UNKNOWN] 嗯 嗯。[UNKNOWN] 嗯我想坐起来嗯。[UNKNOWN] 哼哼。[UNKNOWN] 核心看俩的核心确实不是很那个。[UNKNOWN] 是的。[UNKNOWN] 滚。[UNKNOWN] 这是。[UNKNOWN] 嗯嗯。[UNKNOWN] 吃嗯。[UNKNOWN] 嗯。[UNKNOWN] 谢MK通的盲盒  (💬 再无悲喜(x6) / 净化 / ！？吃吃？！ / 蜜蜂冰块 / 只有猪大排)
+[21m] 🔥 [UNKNOWN] 一。[UNKNOWN] 晚饭吃的什么晚饭吃牛蛙呀嘘。[UNKNOWN] 晚安吃的美味小牛蛙。[UNKNOWN] 我有点想吃蛋糕。[UNKNOWN] 嗯。[UNKNOWN] 单木机不是有看过打工的功能吗。[UNKNOWN] 宝宝我现在是在用手机播。[UNKNOWN] 哪有什么打工的工资。[UNKNOWN] 嗯嗯  (💬 再无悲喜(x6) / 我感觉最近这么虚啊，是牛蛙吃多了 / 谢两次，随机引爆地雷 / 雅雅 / 弹幕姬不是有看过打勾的功能吗)
+[22m] 🔥 [UNKNOWN] 手机哎呀手机特别容易漏东西。[UNKNOWN] 因为手机它那个显示。[UNKNOWN] 它只能下就是手机的下半部分。[UNKNOWN] 一共只能看到五六条这样子。[UNKNOWN] 有点想吃提拉米苏。[UNKNOWN] 想剪个指甲。[UNKNOWN] 柯尔有时在想。[UNKNOWN] 柯尔上辈子可不可能真的是只猫呢  (💬 再无悲喜(x12) / 牛蛙才是真爱，雅团子难道是意外吗（ / ！？漏漏？！ / 再来两块宜家的提拉米苏 / 而且手机刷的很快)
+[23m] 🔥 [UNKNOWN] 感觉上辈子课可能真的是只猫啊。[UNKNOWN] 大家。[UNKNOWN] 不觉得吗。[UNKNOWN] 嗯。[UNKNOWN] 肯定是手指甲呀。[UNKNOWN] 真是的  (💬 再无悲喜(x6) / 嘻嘻(x3) / 剪下来的指甲抽了吧 / 指甲抽了吧 / 提督礼物制造中)
+[25m] 🔥 [UNKNOWN] 不像人叫吗。[UNKNOWN] 这是是。[UNKNOWN] 叫一叫听听是愤怒。[UNKNOWN] 愤怒之后。[UNKNOWN] 愤怒之雅叫愤怒的鸭叫。[UNKNOWN] 嗯哎二十。[UNKNOWN] 我钥匙。[UNKNOWN] 嗯。[UNKNOWN] 我妈啊哦。[UNKNOWN] 哎呀。[UNKNOWN] 剪指甲中嗯嗯  (💬 再无悲喜(x9) / 哈气了(x4) / 来句老吴听听血统正不正宗 / 🐈🐈🐈 / 呃，原来是这个原因啊...)
+[25m] 🔥 [UNKNOWN] 一点都不可爱。[UNKNOWN] 哼都说我是生气的猫猫。[UNKNOWN] 我真是的。[UNKNOWN] 哎以后新一。[UNKNOWN] 以后新一出个这个。[UNKNOWN] 女仆整个哑猫女仆怎么样。[UNKNOWN] 哎呀哎呀。[UNKNOWN] 嗯。[UNKNOWN] 金鱼珠。[UNKNOWN] 哎呀  (💬 嘻嘻(x3) / 净化 / 什么时候出个猫娘小雅图？ / 圆头雅叠 / 整点可爱小猫)
+[28m] 🔥 [UNKNOWN] 鸭团子。[UNKNOWN] 哼剪指甲。[UNKNOWN] 这种事情不是应该团管家帮我做吗。[UNKNOWN] 团管家负责帮。[UNKNOWN] 我哑萌处理我的爪子。[UNKNOWN] 晚上好晚上好。[UNKNOWN] 嘻嘻一又在发地址。[UNKNOWN] 发地址。[UNKNOWN] 嗯谢谢。[UNKNOWN] 嗯嗯啦  (💬 嘻嘻(x5) / 呃呃(x4) / 再无悲喜(x3) / 怎么了小公主 / 我在)
+[32m] ▫️ [UNKNOWN] 我是用惯了PS的  (💬 再无悲喜 / 比心 / 还会ps / ps确实 / Procreate没啥门槛吧主要是)
+[33m] ▫️ [UNKNOWN] 一些美术素材。[UNKNOWN] 画一幅正经的。[UNKNOWN] 画吗哪有这个时间呢。[UNKNOWN] 谢谢包子哥的。[UNKNOWN] 抠图。[UNKNOWN] 对拆完图层。[UNKNOWN] 这些我都可以自己做。[UNKNOWN] 嗯嗯哼嘻嘿。[UNKNOWN] 哒他。[UNKNOWN] 嗯哼  (💬 嘻嘻(x4) / 雅团子1.0是自己画的吗 / 蜜蜂冰块 / 雅姐会拆图已经超越90%的V了 / 不赖)
+[34m] 🔥 [UNKNOWN] 真的的嗯的嗯嗯  (💬 嘻嘻 / 所以昨天就只去了宜家吗？没去别的地方逛逛吗 / 等等这是哪个皮鞭啊，红脖子都来了 / 哈噫 / 那是很喜欢女仆了)
+[35m] ▫️ [UNKNOWN] 这个好硬。[UNKNOWN] 那个例会的老师呢。[UNKNOWN] 还有谁啊。[UNKNOWN] 还有那阿米亚的亲妈吧。[UNKNOWN] 明日方舟的。[UNKNOWN] 嗯感觉怎么说呢。[UNKNOWN] 反正不知道给柯南。[UNKNOWN] 推荐的也全都是二元化石。[UNKNOWN] 反正都挺贵的  (💬 再无悲喜(x9) / 嘻嘻 / 碧蓝航线的柴郡 / 雅雅 / 嘤嘤嘤啊 超级贵)
+[36m] 🔥 [UNKNOWN] 大热的灯都贵都贵。[UNKNOWN] 只是最后定下来的这。[UNKNOWN] 老师稍微便宜个几千。[UNKNOWN] 这样子。[UNKNOWN] 呃都是同一个数开头。[UNKNOWN] 但是后面呢是我想稍微少个几天吗。[UNKNOWN] 哇。[UNKNOWN] 就是肯定超出我们。[UNKNOWN] 那个预算的上限了  (💬 再无悲喜(x7) / 嘻嘻 / 粥不行 / 二游画师就没便宜的 / 兔子的画师可以啊)
+[37m] 🔥 [UNKNOWN] 要自己用积分接着补。[UNKNOWN] 没鸟。[UNKNOWN] 画师类型跟我喜欢的口味也不一样。[UNKNOWN] 他们都喜欢那种偏那种可爱可爱。[UNKNOWN] 然后那种小肉包小肉包可爱。[UNKNOWN] 然后。[UNKNOWN] 就比较比较萝莉那种感觉了。[UNKNOWN] 等等好的。[UNKNOWN] 嗯是科长最后定下来  (💬 再无悲喜(x6) / 嘻嘻(x3) / 你这个得去找画过拉特兰出身的（ / vr不能的 / 找画日轻的插画画师其实也不错，很多不是很贵又挺好看的)
+[38m] 🔥 [UNKNOWN] 那个老师他的画风我是蛮喜欢的呢。[UNKNOWN] 我也喜欢这种上色风格。[UNKNOWN] 就是弄半厚涂你比较有质感的感觉。[UNKNOWN] 嗯但是我感觉他们。[UNKNOWN] 几个都比较喜欢拼图。[UNKNOWN] 嗯舒服。[UNKNOWN] 噔嗯是。[UNKNOWN] 七 谢谢喵喵送的花花  (💬 嘻嘻(x10) / 再无悲喜(x3) / 还得是大雷 / 雅神这是张元英风格 / 你这套衣服就很难可爱了，没办法忽视的大🐻)
+[39m] 🔥 [UNKNOWN] 啊。[UNKNOWN] 哒。[UNKNOWN] 女性看小女孩身边了嗯。[UNKNOWN] 模型师的话可能就不变吧。[UNKNOWN] 模型师还是找天宇老师吧就不变。[UNKNOWN] 就保持同一个模型老师。[UNKNOWN] 这样子也能这样子也能确保。[UNKNOWN] 就是如果例会有哪里。[UNKNOWN] 就是也可以调整  (💬 嘻嘻(x6) / 再无悲喜 / 还得是大雷舒服 / 半厚涂质感好点，而且那个老师线条也不错 / 雅神好像是277287唯一大🐻吧)
+[39m] 🔥 [UNKNOWN] 比如什么脸型这些。[UNKNOWN] 对吧。[UNKNOWN] 就是保持同一个老师来做的话。[UNKNOWN] 也可以让感觉更固定一点。[UNKNOWN] 没有很久  (💬 嘻嘻 / 现在这个上下风格太合适了，该大的大，该有的有，配色细节都很舒 / 保持风格统一 / 天雨雨你要排到哪年 / 天雨雨的新前倾好评如潮啊，配上你的驾驶技巧不敢想了)
