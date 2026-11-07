@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="#s"?>
+<i>
+  <!--
+mikufans录播姬 2.18.1-codex-danmaku-reconnect-singleflight.1+22.Branch.codex-danmaku-reconnect-singleflight.Sha.d7fd76001d74eb4aa01441c7793be8d779309d55
+https://rec.danmuji.org/user/danmaku/
+本文件的弹幕信息兼容mikufans主站视频弹幕XML格式
+本XML自带样式可以在浏览器里打开（推荐使用Chrome）
+
+sc 为SuperChat
+gift为礼物
+guard为上船
+
+attribute "raw" 为原始数据
+-->
+  <chatserver>chat.bilibili.com</chatserver>
+  <chatid>0</chatid>
+  <mission>0</mission>
+  <maxlimit>1000</maxlimit>
+  <state>0</state>
+  <real_name>0</real_name>
+  <source>0</source>
+  <BililiveRecorder version="2.18.1-codex-danmaku-reconnect-singleflight.1+22" />
+  <BililiveRecorderRecordInfo roomid="23260993" shortid="0" name="瑞娅_Rhea" title="爽唱爽聊" areanameparent="虚拟主播" areanamechild="虚拟日常" start_time="2026-11-08T00:26:58.1669905+08:00" />
+  <BililiveRecorderXmlStyle><z:stylesheet version="1.0" id="s" xml:id="s" xmlns:z="http://www.w3.org/1999/XSL/Transform"><z:output method="html"/><z:template match="/"><html><meta name="viewport" content="width=device-width"/><title>mikufans录播姬弹幕文件 - <z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></title><style>body{margin:0}h1,h2,p,table{margin-left:5px}table{border-spacing:0}td,th{border:1px solid grey;padding:1px}th{position:sticky;top:0;background:#4098de}tr:hover{background:#d9f4ff}div{overflow:auto;max-height:80vh;max-width:100vw;width:fit-content}</style><h1><a href="https://rec.danmuji.org">mikufans录播姬</a>弹幕XML文件</h1><p>本文件不支持在 IE 浏览器里预览，请使用 Chrome Firefox Edge 等浏览器。</p><p>文件用法参考文档 <a href="https://rec.danmuji.org/user/danmaku/">https://rec.danmuji.org/user/danmaku/</a></p><table><tr><td>录播姬版本</td><td><z:value-of select="/i/BililiveRecorder/@version"/></td></tr><tr><td>房间号</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@roomid"/></td></tr><tr><td>主播名</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></td></tr><tr><td>录制开始时间</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@start_time"/></td></tr><tr><td><a href="#d">弹幕</a></td><td>共<z:value-of select="count(/i/d)"/>条记录</td></tr><tr><td><a href="#guard">上船</a></td><td>共<z:value-of select="count(/i/guard)"/>条记录</td></tr><tr><td><a href="#sc">SC</a></td><td>共<z:value-of select="count(/i/sc)"/>条记录</td></tr><tr><td><a href="#gift">礼物</a></td><td>共<z:value-of select="count(/i/gift)"/>条记录</td></tr></table><h2 id="d">弹幕</h2><div id="dm"><table><tr><th>用户名</th><th>出现时间</th><th>用户ID</th><th>弹幕</th><th>参数</th></tr><z:for-each select="/i/d"><tr><td><z:value-of select="@user"/></td><td></td><td></td><td><z:value-of select="."/></td><td><z:value-of select="@p"/></td></tr></z:for-each></table></div><script>Array.from(document.querySelectorAll('#dm tr')).slice(1).map(t=>t.querySelectorAll('td')).forEach(t=>{let p=t[4].textContent.split(','),a=p[0];t[1].textContent=`${(Math.floor(a/60/60)+'').padStart(2,0)}:${(Math.floor(a/60%60)+'').padStart(2,0)}:${(a%60).toFixed(3).padStart(6,0)}`;t[2].innerHTML=`&lt;a target=_blank rel="nofollow noreferrer" href="https://space.bilibili.com/${p[6]}"&gt;${p[6]}&lt;/a&gt;`})</script><h2 id="guard">舰长购买</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>舰长等级</th><th>购买数量</th><th>出现时间</th></tr><z:for-each select="/i/guard"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@level"/></td><td><z:value-of select="@count"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="sc">SuperChat 醒目留言</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>内容</th><th>显示时长</th><th>价格</th><th>出现时间</th></tr><z:for-each select="/i/sc"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="."/></td><td><z:value-of select="@time"/></td><td><z:value-of select="@price"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="gift">礼物</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>礼物名</th><th>礼物数量</th><th>出现时间</th></tr><z:for-each select="/i/gift"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@giftname"/></td><td><z:value-of select="@giftcount"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div></html></z:template></z:stylesheet></BililiveRecorderXmlStyle>
+  <d p="3.951,4,25,16772431,1794068822168,0,6863896,0" user="嵐神劍">啵</d>
+  <d p="97.729,1,25,14893055,1794068910483,0,345969334,0" user="月说或许_">[岁己收藏集表情包_羞死人了]</d>
+  <d p="97.757,4,25,14893055,1794068910751,0,424235753,0" user="真昼之夜R">好下头，，，</d>
+  <d p="97.758,4,25,14893055,1794068911451,0,12262865,0" user="桜小路ルナ-Official">两眼一黑</d>
+  <d p="97.847,4,25,14893055,1794068915572,0,8395893,0" user="type-venus天之亡骸">虾头</d>
+  <d p="97.876,4,25,14893055,1794068916438,0,2808796,0" user="無名的luk">www</d>
+  <d p="97.891,1,25,16777215,1794068917151,0,251745,0" user="LZ0741">qing吧</d>
+  <d p="130.800,1,25,14893055,1794068921483,0,169647851,0" user="墨雲14">黄豆流汗</d>
+  <d p="132.963,4,25,14893055,1794068923412,0,2054496,0" user="slacKnight">筚路蓝缕来了</d>
+  <d p="134.556,1,25,14893055,1794068847714,0,169647851,0" user="墨雲14">[瑞娅活动动态表情包_瑞门]</d>
+  <d p="136.613,4,25,16772431,1794068927881,0,6863896,0" user="嵐神劍">那有葫芦娃吗</d>
+  <d p="138.389,1,25,16777215,1794068851297,0,472782,0" user="无能狂鹿人">啵</d>
+  <d p="138.399,1,25,65532,1794068932780,0,3204323,0" user="Cicada_P">你知道昨天我十二点半看你没钓鱼去睡觉了，结果早上起来一看发现你钓了两个半小时</d>
+  <d p="138.443,1,25,16777215,1794068854081,0,6371,0" user="中禅寺远子">旗鱼就是很大呀</d>
+  <d p="140.224,1,25,14893055,1794068855193,0,336407157,0" user="无首的麦克林machinery">巨物</d>
+  <d p="140.292,1,25,65532,1794068941595,0,3204323,0" user="Cicada_P">你知道我什么感觉吗（</d>
+  <d p="143.706,1,25,16777215,1794068944250,0,67841,0" user="豹秃拳">[瑞娅收藏集表情包_哈]</d>
+  <d p="146.262,4,25,14893055,1794068857421,0,2054496,0" user="slacKnight">旗鱼和大马林鱼是一个东西来着？</d>
+  <d p="146.603,4,25,14893055,1794068948204,0,2054496,0" user="slacKnight">qing1鱼</d>
+  <d p="146.605,1,25,16777215,1794068863620,0,6371,0" user="中禅寺远子">钓上巨物了</d>
+  <d p="146.615,4,25,14893055,1794068951740,0,2054496,0" user="slacKnight">应该是1声</d>
+  <d p="146.625,4,25,14893055,1794068862996,0,3561142,0" user="无名一世">鱼，好大的鱼</d>
+  <d p="146.688,1,25,16777215,1794068962621,0,6371,0" user="中禅寺远子">这就是瑞瑞直播的醍醐味儿（</d>
+  <d p="146.723,1,25,14893055,1794068876217,0,336407157,0" user="无首的麦克林machinery">虎纹鲨鱼</d>
+  <d p="146.782,1,25,16777215,1794068889505,0,12562768,0" user="oracula">打call</d>
+  <d p="146.787,4,25,14893055,1794068889653,0,2054496,0" user="slacKnight">老人与海里奋战的好像是这个？有点忘了</d>
+  <d p="146.861,1,25,65532,1794068897255,0,3204323,0" user="Cicada_P">晚上好瑞瑞，科技发达老渔夫来了</d>
+  <d p="146.918,4,25,14893055,1794068898253,0,2054496,0" user="slacKnight">marlin</d>
+  <d p="157.985,1,25,16777215,1794068975406,0,67841,0" user="豹秃拳">[瑞娅收藏集表情包_疑惑]</d>
+  <d p="185.769,1,25,16777215,1794068989836,0,251745,0" user="LZ0741">草</d>
+  <d p="185.780,4,25,14893055,1794068990208,0,2054496,0" user="slacKnight">这就是有人拉扯钓鱼</d>
+  <d p="185.782,1,25,16777215,1794068991030,0,353652,0" user="saber2000">可爱捏</d>
+  <d p="185.789,1,25,16777215,1794068994889,0,472782,0" user="无能狂鹿人">啵</d>
+  <d p="186.410,1,25,14893055,1794068995521,0,336407157,0" user="无首的麦克林machinery">两眼一黑</d>
+  <d p="187.220,4,25,14893055,1794068997077,0,2054496,0" user="slacKnight">哎呀今天不钓鱼了</d>
+  <d p="191.697,1,25,16777215,1794069002194,0,251745,0" user="LZ0741">是吧</d>
+  <d p="191.755,4,25,14893055,1794069005146,0,2054496,0" user="slacKnight">哎呀还是钓一下下</d>
+  <d p="191.760,1,25,16777215,1794069008155,0,2844176,0" user="影惘">是的吧</d>
+  <d p="198.077,1,25,14893055,1794069014186,0,336407157,0" user="无首的麦克林machinery">你六点是不是钓鱼了？</d>
+  <d p="198.094,1,25,14893055,1794069014925,0,169647851,0" user="墨雲14">可爱捏</d>
+  <d p="198.095,1,25,16777215,1794069016573,0,251745,0" user="LZ0741">san值归零了</d>
+  <d p="251.318,1,25,65532,1794069022043,0,3204323,0" user="Cicada_P">瑞就这样钓鱼把我们大家都钓住了（</d>
+</i>

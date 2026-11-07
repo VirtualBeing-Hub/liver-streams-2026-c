@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="#s"?>
+<i>
+  <!--
+mikufans录播姬 2.18.1-codex-danmaku-reconnect-singleflight.1+22.Branch.codex-danmaku-reconnect-singleflight.Sha.d7fd76001d74eb4aa01441c7793be8d779309d55
+https://rec.danmuji.org/user/danmaku/
+本文件的弹幕信息兼容mikufans主站视频弹幕XML格式
+本XML自带样式可以在浏览器里打开（推荐使用Chrome）
+
+sc 为SuperChat
+gift为礼物
+guard为上船
+
+attribute "raw" 为原始数据
+-->
+  <chatserver>chat.bilibili.com</chatserver>
+  <chatid>0</chatid>
+  <mission>0</mission>
+  <maxlimit>1000</maxlimit>
+  <state>0</state>
+  <real_name>0</real_name>
+  <source>0</source>
+  <BililiveRecorder version="2.18.1-codex-danmaku-reconnect-singleflight.1+22" />
+  <BililiveRecorderRecordInfo roomid="31368705" shortid="0" name="米汀Nagisa" title="「时之笛」重制版初见" areanameparent="虚拟主播" areanamechild="虚拟日常" start_time="2026-11-08T00:28:29.1468845+08:00" />
+  <BililiveRecorderXmlStyle><z:stylesheet version="1.0" id="s" xml:id="s" xmlns:z="http://www.w3.org/1999/XSL/Transform"><z:output method="html"/><z:template match="/"><html><meta name="viewport" content="width=device-width"/><title>mikufans录播姬弹幕文件 - <z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></title><style>body{margin:0}h1,h2,p,table{margin-left:5px}table{border-spacing:0}td,th{border:1px solid grey;padding:1px}th{position:sticky;top:0;background:#4098de}tr:hover{background:#d9f4ff}div{overflow:auto;max-height:80vh;max-width:100vw;width:fit-content}</style><h1><a href="https://rec.danmuji.org">mikufans录播姬</a>弹幕XML文件</h1><p>本文件不支持在 IE 浏览器里预览，请使用 Chrome Firefox Edge 等浏览器。</p><p>文件用法参考文档 <a href="https://rec.danmuji.org/user/danmaku/">https://rec.danmuji.org/user/danmaku/</a></p><table><tr><td>录播姬版本</td><td><z:value-of select="/i/BililiveRecorder/@version"/></td></tr><tr><td>房间号</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@roomid"/></td></tr><tr><td>主播名</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></td></tr><tr><td>录制开始时间</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@start_time"/></td></tr><tr><td><a href="#d">弹幕</a></td><td>共<z:value-of select="count(/i/d)"/>条记录</td></tr><tr><td><a href="#guard">上船</a></td><td>共<z:value-of select="count(/i/guard)"/>条记录</td></tr><tr><td><a href="#sc">SC</a></td><td>共<z:value-of select="count(/i/sc)"/>条记录</td></tr><tr><td><a href="#gift">礼物</a></td><td>共<z:value-of select="count(/i/gift)"/>条记录</td></tr></table><h2 id="d">弹幕</h2><div id="dm"><table><tr><th>用户名</th><th>出现时间</th><th>用户ID</th><th>弹幕</th><th>参数</th></tr><z:for-each select="/i/d"><tr><td><z:value-of select="@user"/></td><td></td><td></td><td><z:value-of select="."/></td><td><z:value-of select="@p"/></td></tr></z:for-each></table></div><script>Array.from(document.querySelectorAll('#dm tr')).slice(1).map(t=>t.querySelectorAll('td')).forEach(t=>{let p=t[4].textContent.split(','),a=p[0];t[1].textContent=`${(Math.floor(a/60/60)+'').padStart(2,0)}:${(Math.floor(a/60%60)+'').padStart(2,0)}:${(a%60).toFixed(3).padStart(6,0)}`;t[2].innerHTML=`&lt;a target=_blank rel="nofollow noreferrer" href="https://space.bilibili.com/${p[6]}"&gt;${p[6]}&lt;/a&gt;`})</script><h2 id="guard">舰长购买</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>舰长等级</th><th>购买数量</th><th>出现时间</th></tr><z:for-each select="/i/guard"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@level"/></td><td><z:value-of select="@count"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="sc">SuperChat 醒目留言</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>内容</th><th>显示时长</th><th>价格</th><th>出现时间</th></tr><z:for-each select="/i/sc"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="."/></td><td><z:value-of select="@time"/></td><td><z:value-of select="@price"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="gift">礼物</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>礼物名</th><th>礼物数量</th><th>出现时间</th></tr><z:for-each select="/i/gift"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@giftname"/></td><td><z:value-of select="@giftcount"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div></html></z:template></z:stylesheet></BililiveRecorderXmlStyle>
+  <d p="41.864,4,25,14893055,1794068843272,0,360569,0" user="米汀家的夜阑梦雪">看着手柄按吧</d>
+  <d p="45.672,4,25,16772431,1794068848420,0,66621878,0" user="霊音はなこ">手柄全责</d>
+  <d p="47.419,1,25,16777215,1794068850409,0,3546706056579918,0" user="凡苍Vencent">唉，手柄键位不通用</d>
+  <d p="49.340,4,25,14893055,1794068856041,0,360569,0" user="米汀家的夜阑梦雪">LYAXYL</d>
+  <d p="52.731,4,25,14893055,1794068962422,0,360569,0" user="米汀家的夜阑梦雪">大宝藏</d>
+  <d p="55.282,1,25,16777215,1794068962298,0,3546706056579918,0" user="凡苍Vencent">我们现在有1/2的心了</d>
+  <d p="55.619,1,25,16777215,1794068859662,0,283765022,0" user="彊而义">慢慢来，笛子总会用习惯的</d>
+  <d p="55.624,4,25,14893055,1794068861911,0,360569,0" user="米汀家的夜阑梦雪">记住了然后看着按</d>
+  <d p="55.744,4,25,14893055,1794068874079,0,360569,0" user="米汀家的夜阑梦雪">20块！！</d>
+  <d p="55.862,1,25,16777215,1794068877891,0,3546706056579918,0" user="凡苍Vencent">20块钱！</d>
+  <d p="55.862,1,25,16777215,1794068878355,0,1800208,0" user="米库宝">Sad</d>
+  <d p="55.878,1,25,16777215,1794068879969,0,1800208,0" user="米库宝">哈哈</d>
+  <d p="55.880,1,25,16777215,1794068880683,0,390518528,0" user="千紫幻影">谢谢</d>
+  <d p="55.939,4,25,14893055,1794068881853,0,360569,0" user="米汀家的夜阑梦雪">感觉这里是大宝藏啊</d>
+  <d p="55.940,1,25,16777215,1794068881989,0,1800208,0" user="米库宝">早</d>
+  <d p="56.003,4,25,14893055,1794068883539,0,351531386,0" user="invins-">哈哈</d>
+  <d p="56.074,4,25,14893055,1794068890286,0,360569,0" user="米汀家的夜阑梦雪">把他们掏空</d>
+  <gift ts="56.106" user="lxl-lxl" uid="663620883" giftname="粉丝团灯牌" giftcount="1" />
+  <d p="56.109,1,25,16777215,1794068891485,0,613441319,0" user="给叶子织脉中">哈哈</d>
+  <d p="61.003,4,25,16772431,1794068968341,0,66621878,0" user="霊音はなこ">我来和米米合作</d>
+  <d p="61.012,1,25,16777215,1794068969962,0,6976615,0" user="糸MuSe">喜欢</d>
+  <d p="87.437,4,25,14893055,1794068982459,0,360569,0" user="米汀家的夜阑梦雪">湖底下面好像有路</d>
+  <d p="100.728,4,25,14893055,1794068989499,0,351531386,0" user="invins-">下面像有个门</d>
+  <d p="100.777,4,25,14893055,1794068992081,0,360569,0" user="米汀家的夜阑梦雪">那应该没拿到潜水道具</d>
+  <d p="100.846,4,25,14893055,1794068994360,0,10788384,0" user="soulのtouch">氧气不太够的样子</d>
+  <d p="100.850,1,25,16777215,1794068994394,0,9958529,0" user="无界_bracket">下饭</d>
+  <d p="105.507,1,25,65532,1794068994932,0,1641301,0" user="RYKD">林克的肺活量不太行</d>
+  <d p="160.340,4,25,14893055,1794069004924,0,360569,0" user="米汀家的夜阑梦雪">后期拿到道具就能来了估计</d>
+  <d p="163.383,4,25,14893055,1794069006767,0,10788384,0" user="soulのtouch">氧气量能提升吗</d>
+  <d p="165.701,1,25,16777215,1794069007353,0,1852745,0" user="全肯定">喜欢</d>
+  <d p="165.708,1,25,16777215,1794069008137,0,283765022,0" user="彊而义">底下通往海拉尔湖（</d>
+  <d p="170.870,1,25,16777215,1794069016512,0,613441319,0" user="给叶子织脉中">米米记住顺序了吗</d>
+  <d p="171.016,1,25,65532,1794069022899,0,1641301,0" user="RYKD">钓鱼的地方！</d>
+  <d p="171.017,1,25,16777215,1794069023851,0,386481337,0" user="壊レ夕世界">还得学水生呼吸术</d>
+  <d p="191.929,4,25,14893055,1794069023813,0,288769051,0" user="不存在于诞下我的世界">到了</d>
+  <d p="219.263,4,25,14893055,1794069027574,0,360569,0" user="米汀家的夜阑梦雪">是那个吧</d>
+</i>
