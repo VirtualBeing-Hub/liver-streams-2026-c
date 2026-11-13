@@ -1,0 +1,213 @@
+## 晚安回复
+
+---
+generatedAt: "2026-11-13T02:51:05.793Z"
+sourceHighlight: "录制-31368705-20261113-080820-515-早安修复_AI_HIGHLIGHT.txt"
+provider: "daiYu"
+model: "gpt-6-luna"
+fallback: false
+attempts:
+  - provider: "daiYu"
+    model: "gpt-6-luna"
+    status: "success"
+    finishReason: "completed"
+    maxTokens: 100000
+    completionTokens: 558
+    promptTokens: 62254
+    cachedTokens: 0
+    cacheWriteTokens: 0
+    reasoningTokens: 426
+    apiModeRequested: "responses"
+    apiModeUsed: "responses"
+    sharedPromptCacheKey: "fb7eb4b9e479f670d64593d6455161f9ca74b9837a1b13a3ca6b6d90d45762de"
+    sharedPromptPrefixChars: 89151
+    explicitPromptCache: "implicit_routed"
+    promptCacheRolloutBucket: 5017
+    totalTokens: 62812
+    requestId: "e8fb824a-147c-4a01-91a5-b6e95949dfc6"
+    responseId: "resp_0563178dea80763b016af67b0f5a6c87d0a2f5d36207407ab1"
+    requestStarted: true
+---
+“桌布：我没做错任何事情”这句弹幕把我笑到了，游戏里喷砂修复时桌面越弄越脏，转眼罗盘、咖啡研磨机和留声机又都亮闪闪的，反差也太可爱啦！米米还认真琢磨留声机把手原本到底是哪层蓝色，陪大家一起推理好有意思。忙到清晨才睡又来开播，辛苦啦，快去好好补觉，喜欢今天这场早安修复呀。
+
+---
+
+## Highlight
+
+【摘要】(保留率: 前35%热度 + 10%随机)
+---
+【参与者】计划参与: 无
+【参与者】实际出声: 无
+【归属说明】名单不证明逐句身份；实际出声仅指音轨匹配，也可能来自被观看内容。UNKNOWN和匿名标签不可归给房主。
+---
+[5m] 🔥 [UNKNOWN] hello hello。[UNKNOWN] 大家 早上好早上好。[UNKNOWN] 我是来自古林高校。[UNKNOWN] 推理市的普通声音的秘天男第。[UNKNOWN] 早早上好。[UNKNOWN] 早上好好久不见。[UNKNOWN] 感觉也都好久没听到过。[UNKNOWN] 自己声音了一样。[UNKNOWN] Hello hello  (💬 喜欢(x11) / 早早早(x5) / 早上好早上好(x4) / 好久不见(x3) / 早上好米米)
+[6m] 🔥 [UNKNOWN] 早上好。[UNKNOWN] 最近想喝口水。[UNKNOWN] 肚子好冷哦。[UNKNOWN] 欢迎来到今天的早安修理啊。[UNKNOWN] 早嗯很哑吗。[UNKNOWN] 果然很痒吗。[UNKNOWN] 刚刚起床正常。[UNKNOWN] 明天今天逮了。[UNKNOWN] 热水袋。[UNKNOWN] 但是呢它已经成了温水袋了  (💬 喜欢(x10) / [米汀收藏集表情包_安慰] / 早早早 / 喝茶 / 已经两年没见了)
+[6m] 🔥 [UNKNOWN] 已经不是很热了。[UNKNOWN] 但是起来的时候。[UNKNOWN] 感觉还是肚子凉凉的。[UNKNOWN] 现在正在捂着是。[UNKNOWN] 父今天呢准备玩一个嗯。[UNKNOWN] 修复东西的直播哦。[UNKNOWN] 不是修复东西的游戏。[UNKNOWN] 说了demo啊。[UNKNOWN] 这周四睡好了吗  (💬 喜欢(x8) / 好耶(x3) / 比肚肚热 / 肚子冷冷的适合吃点儿暖暖的温暖一下 / 该换水了)
+[7m] 🔥 [UNKNOWN] 这周周四。[UNKNOWN] 昨天反正是狠狠睡了。[UNKNOWN] 竹笋一整天狠狠睡了。[UNKNOWN] 但是呢因为那个。[UNKNOWN] 晚上打包打包的比较晚。[UNKNOWN] 直接弄个打包完了一瓶。[UNKNOWN] 你应该直接发仓库。[UNKNOWN] 今天争取直接发仓库的话。[UNKNOWN] 走  (💬 喜欢(x4) / 好耶 / 看看修什么 / 修复直播 / 修复东西的直播)
+[7m] 🔥 [UNKNOWN] 嗯今天早上还没有怎么睡。[UNKNOWN] 应该是有脚踏过后要补补觉觉。[UNKNOWN] 突然想到暖宝宝贴。[UNKNOWN] 在暖水袋是不是可以永续了。[UNKNOWN] 感觉不太能永续。[UNKNOWN] 暖宝宝贴在暖水的那个热水袋上面。[UNKNOWN] 应该嗯感觉对热水袋。[UNKNOWN] 没有什么不会起到什么保温的作用  (💬 [米汀收藏集表情包_安慰](x3) / [UPOWER_2124647716_哈哈] / 喜欢 / 打包到四五点了？ / [UPOWER_2124647716_焦虑])
+[8m] 🔥 [UNKNOWN] 虽然只是每天的质觉。[UNKNOWN] 没有认真的在探讨了。[UNKNOWN] 肚子有点不舒服。[UNKNOWN] 稍等。[UNKNOWN] 对的怎么都会流失了。[UNKNOWN] 谢谢伊利丝谢伊丽丝的粉色灯牌。[UNKNOWN] 谢谢伊兰梦雪的嘻嘻哈哈。[UNKNOWN] 谢复星重名谢布布星重名谢  (💬 [米汀收藏集表情包_安慰](x3) / 感觉暖宝宝暖不了里面的热水啊 / 会有热量流失 / [UPOWER_2124647716_哈哈] / 免责声明)
+[8m] 🔥 [UNKNOWN] 复星星球。[UNKNOWN] 嗯对。[UNKNOWN] 一直都有那种充电的人水袋的吗。[UNKNOWN] 是谢谢恶心聪明的乐园星球吗。[UNKNOWN] 谢谢哦。[UNKNOWN] 嗯匿名的粉山灯牌嫌疑冤死嫌疑。[UNKNOWN] 以前学校的热水。[UNKNOWN] 有人充电的热水。[UNKNOWN] 怎么这么多包裹的感觉  (💬 暖宝宝只能暖热水袋，不能暖热水袋里面的水，等于无用功了 / 喜欢 / 感觉最近肚子不舒服的情况还蛮多的；； / 早上打包到四五点了？ / 米米早呀，今天终于早起赶上早播了)
+[10m] 🔥 [UNKNOWN] 谢谢啊。[UNKNOWN] 谢青的粉三灯牌谢严。[UNKNOWN] 清阴残甜的死三灯牌米天。[UNKNOWN] 有看到昨天嗯凌晨的时候。[UNKNOWN] 好像有一批续剑的。[UNKNOWN] 明天准备稍微等一下。[UNKNOWN] 稍微等一下。[UNKNOWN] 到嗯晚上的时候。[UNKNOWN] 晚上的时候在一起睡一觉  (💬 喜欢 / 应该是氧化物吧，也没什么 / 爆的时候有点吓人吧 / 我家也有个电热的，但是找不到线了 / 好像这种热水袋里面会加铁屑？增强导热吗？)
+[10m] 🔥 [UNKNOWN] 基本没见过那种充电的热水袋。[UNKNOWN] 能换水好脏嗯。[UNKNOWN] 感觉听起来确实是要方便很多的。[UNKNOWN] 谢谢拒绝偏旁的粉色灯牌。[UNKNOWN] 谢谢您的风灵经验。[UNKNOWN] ECSTASC我爱读分散的牌。[UNKNOWN] 有点哑是有一点。[UNKNOWN] 刚打开直播间有点陌生是吧  (💬 喜欢(x3) / 好哦 / 充电热水袋太坏了 / 晚上人多的时候再谢嘛 / 充电的热水袋里面真的是水吗())
+[13m] 🔥 [UNKNOWN] 虽然说其实停嗯。[UNKNOWN] 也就一天半不见。[UNKNOWN] 总感觉隔。[UNKNOWN] 的好像比想象中的时间要更久一点。[UNKNOWN] 早呀。[UNKNOWN] 早谢谢夜来梦雪的冷园星球。[UNKNOWN] 谢谢零一的心愿彩蛋。[UNKNOWN] 谢谢二三三a的粉色灯牌。[UNKNOWN] 谢谢  (💬 我抠弹幕的手都僵硬了 / 是有点哑 / 早早咪 / 喜欢 / 也有可能是冷的)
+[14m] 🔥 [UNKNOWN] 二三的粉色灯牌。[UNKNOWN] 打包到几点打包到五点过。[UNKNOWN] 然后六点钟六点过的样子睡了。[UNKNOWN] 谢谢了。[UNKNOWN] 二三的粉色灯牌。[UNKNOWN] 谢谢了。[UNKNOWN] YZKYZKYZK五三一的嗯粉色灯牌。[UNKNOWN] 谢谢了 Tdd想吃  (💬 喜欢(x3) / 早安米米 / 真的有种一日不见，如隔三秋的感觉 / 差不多两天了！ / 早上早)
+[14m] 🔥 [UNKNOWN] 棒棒糖的粉色灯牌。[UNKNOWN] 谢英国水塘的人抢。[UNKNOWN] 谢谢塞特尔谢谢塞特尔的泡泡机。[UNKNOWN] 不是谢谢了。[UNKNOWN] 摇艳圣安的粉色。[UNKNOWN] 灯牌毕竟是七十多天。[UNKNOWN] 你终于修了一天。[UNKNOWN] 修了一天是不是。[UNKNOWN] 嗯  (💬 喜欢(x5) / 睡一小时_米 / 通宵打包啊 / 这样说来确实是完全没有直播的周四了 / 早安米米)
+[14m] 🔥 [UNKNOWN] 早安早。[UNKNOWN] 然后谢谢TDD想吃棒棒糖的一边。[UNKNOWN] 谢谢安全HXMM。[UNKNOWN] 走。[UNKNOWN] 早回来了。[UNKNOWN] 秀一下自己上小脸。[UNKNOWN] 嗯这两天。[UNKNOWN] 哥那就这这两天休息的主要吧。[UNKNOWN] 家里面又收了一下什么的  (💬 喜欢(x5) / 不过昨天睡了很多，应该状态还好？ / 看米米早台习惯了 没早台感觉缺了点啥 / 确实只有昨天是完全没直播的 / 好想米米)
+[15m] 🔥 [UNKNOWN] 然后这两天都和。[UNKNOWN] 嗯你听妈妈一起看电影。[UNKNOWN] 只不过不是出门看电影。[UNKNOWN] 就吃完饭回来了。[UNKNOWN] 之后。[UNKNOWN] 在家里面每天晚上留挑个电影看。[UNKNOWN] 你听昨天晚上一开始就是。[UNKNOWN] 一边陪妈妈看电影。[UNKNOWN] 一边打包揉到后来 晚了一点  (💬 (⌒▽⌒). / 什么原来是通了吗 / 有没有放盛夏的果实 / 一日不见如隔三秋 / [虚拟邻居·表情包_让我看看])
+[15m] 🔥 [UNKNOWN] 妈妈去睡觉了。[UNKNOWN] 明天继续打包扎呢。[UNKNOWN] 看了两天每天晚不不是。[UNKNOWN] 刚刚有说啊每天晚上会找一部。[UNKNOWN] 你这个看了两天就。[UNKNOWN] 感觉两天都一直在看电影一样。[UNKNOWN] 不是。[UNKNOWN] 最近有什么新上的电影没有没有  (💬 喜欢 / 看的什么电影 / 哦，在家里面看的呀 / 之前提到还在想最近有什么新上的电影 / 就是看了下院线，感觉没什么看的)
+[16m] 🔥 [UNKNOWN] 总感觉谢礼物好像谢了很久一样。[UNKNOWN] 有没有房过。[UNKNOWN] 没有。[UNKNOWN] 手。[UNKNOWN] 续走续费哦。[UNKNOWN] 真的吗。[UNKNOWN] 什么时候出啊。[UNKNOWN] 这到时候真的会期待。[UNKNOWN] 每天喜欢的游戏。[UNKNOWN] 谢谢  (💬 喜欢(x3) / 果然是悬疑片吧 / [米汀收藏集表情包_看看] / 好久不见你了，礼物多嘛 / 米米米可爱)
+[17m] 🔥 [UNKNOWN] 糖小高不糖高的粉色灯牌。[UNKNOWN] 谢呼呼。[UNKNOWN] 梦到不是电脑的你真好看。[UNKNOWN] 谢谢迷影二师兄的粉丝三灯牌。[UNKNOWN] 谢谢。[UNKNOWN] 不发奶农的粉色灯牌。[UNKNOWN] 谢谢。[UNKNOWN] 呃应酬无女。[UNKNOWN] 不是。[UNKNOWN] 是让先打开  (💬 喜欢 / 这是啥 / 不过不是种田战斗了 看着像战旗 / 讲的是咲稻姬那个齿轮小姐妹的故事 / 看了下是说不种田了)
+[18m] 🔥 [UNKNOWN] 嗯看一下这个游戏。[UNKNOWN] 目前还是个demo。[UNKNOWN] 主要做的事情就是。[UNKNOWN] 把那种已经很久了。[UNKNOWN] 都像了别人的玩具啊。[UNKNOWN] 或者装饰啊之类的这些东西拿来嗯。[UNKNOWN] 你给它进行修复。[UNKNOWN] 长痘。[UNKNOWN] 主要过程呢大概就是一个  (💬 我看这个桌子就感觉很硬核 / 看看这个游戏怎么修的 / 喝茶 / 喜欢 / 米米早上好)
+[18m] 🔥 [UNKNOWN] 可能非常嗯可能非常。[UNKNOWN] 那种短视频短视频我。[UNKNOWN] 小说。[UNKNOWN] 然后作为背景音的哦。[UNKNOWN] 不是背景音走黑。[UNKNOWN] 背景画面的那种修复画面啊。[UNKNOWN] 不知道会不会解压。[UNKNOWN] 明天也还没有开始尝试。[UNKNOWN] 希望可以解压  (💬 米米早上好 / 修一修 / 这个游戏好像之前看到过 / 做得好啊 / 修一下（）)
+[19m] 🔥 [UNKNOWN] 谢谢啊。[UNKNOWN] 牙洋鸭子的粉色灯牌。[UNKNOWN] 谢谢了。[UNKNOWN] 嗯柠檬雪糕的人气票。[UNKNOWN] 谢谢了。[UNKNOWN] 霍安娜的粉色灯牌。[UNKNOWN] 然后呢这个游戏它。[UNKNOWN] 有猫猫没错。[UNKNOWN] 然后有几种。[UNKNOWN] 没错有猫猫的  (💬 想起了个修木头的up，修修桌椅板凳儿，还有收老物件和木料 / 和米米的工作台好像 / 我还以为是像深空当铺那种开店修电子的那个游戏 / 会有修怀表的环节吗？ / 哈哈哈)
+[19m] 🔥 [UNKNOWN] 虽然说现在现在还是试玩版啊。[UNKNOWN] 就这几种但是米天还是。[UNKNOWN] 觉得就雨天的可能要比较适合一些。[UNKNOWN] 然后切割店的话。[UNKNOWN] 每听也觉得默认的默认的时候嗯。[UNKNOWN] 切过电影会比较好啊。[UNKNOWN] 猫猫的话就白色猫猫的。[UNKNOWN] 嗯肉桂啊就是猫猫叫好  (💬 这个画面看着挺真实啊 / 可爱猫猫 / 我去，这不是万能摄影棚吗 / 猫猫脸上怎么还有刀疤 / 这个猫感觉很埃及)
+[20m] 🔥 [UNKNOWN] 然后每天是全屏玩的。[UNKNOWN] 所以有可能昨天会有看不到的地方。[UNKNOWN] 总之有什么到时候遇到了再说吧。[UNKNOWN] 准备开始了。[UNKNOWN] 然后大概看一下画面。[UNKNOWN] 我们要开始修复的话。[UNKNOWN] 得先把这个罗苏给它取下来啊。[UNKNOWN] 感觉不符跟符合老手艺人似的  (💬 一上来就修pts吗 / 连猫猫都能换 / 想起了个修木头的up，修修桌椅板凳儿，还有收老物件和木料 / 那我提醒你 / 默认这个之前也有一块很相似的)
+[21m] 🔥 [UNKNOWN] 扔之后我们已经把。[UNKNOWN] 那个拆到旁边去了无枪。[UNKNOWN] 这盘子。[UNKNOWN] 本身是做什么的呢。[UNKNOWN] 这是真真的方向罗盘吗。[UNKNOWN] 应该是比较老的物件。[UNKNOWN] 迷青确实没办法判断。[UNKNOWN] 不太能判断它的用途啊。[UNKNOWN] 看起来像指方向的那  (💬 喜欢 / 米汀讲修复 / 取下来还能拧上去吗 / 嘎吱嘎吱的 / 勇哥米 三百六十度转一圈)
+[21m] 🔥 [UNKNOWN] 让我把这个取下来。[UNKNOWN] 用中间的盘子取下来。[UNKNOWN] 不是等。[UNKNOWN] 修修容可能是有航海的手游的。[UNKNOWN] 我要先把这个取下来。[UNKNOWN] 哦现在需要什么电解。[UNKNOWN] 启动电解需要对齐电压。[UNKNOWN] 取线方法为使用。[UNKNOWN] 和滚轮或方向键  (💬 这螺丝好有感觉啊 / 航海用吗？ / 起号了，就叫米师傅修文物吧 / 看不出是啥 / 某种天文台吧)
+[22m] 🔥 [UNKNOWN] 哦这个我们在。[UNKNOWN] 生化危机里面有试过。[UNKNOWN] 好。[UNKNOWN] 这还好。[UNKNOWN] 看好。[UNKNOWN] 了所有零件都需要电解一下啊。[UNKNOWN] 去除锈啊好像是。[UNKNOWN] 我妈按顺序选来的这好像是最早。[UNKNOWN] 哦哦。[UNKNOWN] 哇除锈效果好立竿见影啊  (💬 喜欢(x4) / 除锈 / 还记得怎么装吗 / 我去怎么还有这么专业的东西 / 除锈的)
+[23m] 🔥 [UNKNOWN] 说。[UNKNOWN] 早安打别闹钟关了。[UNKNOWN] 嗯招商场哦。[UNKNOWN] 原来这个东西本身是半透明的。[UNKNOWN] 哦也对了如果不半透明的话。[UNKNOWN] 根本就看不到里面的罗盘了。[UNKNOWN] 哇这才看出来他。[UNKNOWN] 自己本来的样子啊。[UNKNOWN] 是的  (💬 喜欢(x3) / 铜吗 / 还有喷砂 / 不是，这么快？ / 这看起来不是一个东西了)
+[23m] 🔥 [UNKNOWN] 哎这个感觉甚至它原本。[UNKNOWN] 是看起来就像是木头的。[UNKNOWN] 但是看背面的话。[UNKNOWN] 能看出来它好像哦本身。[UNKNOWN] 这应该算是什么材质的呢。[UNKNOWN] 上面的。[UNKNOWN] 上面的标识有没有。[UNKNOWN] 谢谢啊。[UNKNOWN] 一七一七四零的东西了  (💬 喜欢(x3) / 铜吗 / 好亮的反光 / 现在这个叫喷砂 / 好爽)
+[24m] 🔥 [UNKNOWN] 嗯一言哦。[UNKNOWN] 有人明白这是什么吗。[UNKNOWN] 等着哦。[UNKNOWN] 要喷第二层哇。[UNKNOWN] 这才是它本身的材质。[UNKNOWN] 看穿了是的某种某种金属。[UNKNOWN] 哎这个东西是什么 Agc两千。[UNKNOWN] 我们之前是把面上弄成醋了。[UNKNOWN] 这才是真正的  (💬 喜欢(x3) / 铜制的？ / 1740的老物件了 / 某种金属） / 喷砂了)
+[24m] ▫️ [UNKNOWN] 那个w点不离害要出灰呀。[UNKNOWN] 哦这个是最后的底座哦。[UNKNOWN] 我们能好像没办法。[UNKNOWN] 只能越碰越脏。[UNKNOWN] 好不玩了不玩了。[UNKNOWN] 这个才是他能啥哈。[UNKNOWN] 本来想把桌子上面。[UNKNOWN] 能不能。[UNKNOWN] 这一次动画效龙做的很好  (💬 还好 / 哇 这喷一下好帅啊 / WD40好专业 / 男人的香水 WD40 / 清洁模拟器的感觉)
+[25m] 🔥 [UNKNOWN] 同意。[UNKNOWN] 每厅会尽量给他弄干净剪刀。[UNKNOWN] 现在渣大扎齐的等家灯牌。[UNKNOWN] 现在在喷砂老师。[UNKNOWN] 你听看样子觉得。[UNKNOWN] 这个应该叫做喷砂呀。[UNKNOWN] 但是呢目前还没有专业能力。[UNKNOWN] 一切都按着老师傅怎么教怎么来啊  (💬 喜欢(x4) / 现在在喷砂吧hhh / 弄弄 / 这个感觉也要抛光 / 有点好玩)
+[26m] 🔥 [UNKNOWN] 这个是哦哇。[UNKNOWN] 本身呢是黄铜的。[UNKNOWN] 怎么现在感觉这是我们喷上去的。[UNKNOWN] 还是。[UNKNOWN] 这是我们喷上去的吗。[UNKNOWN] 抛光嗯。[UNKNOWN] 米汀老师好。[UNKNOWN] 今天。[UNKNOWN] 第一次开工啊。[UNKNOWN] 看看能修复到什么程度  (💬 喜欢(x3) / SandBlaster pro / 好好 抛光了一下好爽 / 米米早上好 / 米汀老师傅)
+[26m] 🔥 [UNKNOWN] 是的感觉。[UNKNOWN] 更像是要给他重新镀层了。[UNKNOWN] 嗯。[UNKNOWN] 大刀加一下。[UNKNOWN] 都是黄铜的。[UNKNOWN] 情商。[UNKNOWN] 多多少少觉得好像之前的材质呢。[UNKNOWN] 就除了这种彻底嗅到的部分了。[UNKNOWN] 之前的材质其实这也挺好的  (💬 喜欢(x3) / 这个应该在专门喷砂机里面搞，不然喷到处都是[花] / 八十年的修复经验 / 把砂土清洗掉了 / 早早早)
+[27m] 🔥 [UNKNOWN] 这种修复很多都是除锈之后重新涂层。[UNKNOWN] 这件材质就是它还有一点。[UNKNOWN] 嗯复古。[UNKNOWN] 旧的那感觉哎呀。[UNKNOWN] 桌子上面不能抹一下。[UNKNOWN] 还说。[UNKNOWN] 还是稍微有点难受。[UNKNOWN] 动一次。[UNKNOWN] 还好所有零件都能用  (💬 喜欢(x4) / 像木制 / 喷丸是一种表面工艺了，除锈随便喷喷就好了 / 就是说还没抛光变成黄铜的时候吗 / 也还好所有部件都还能用了，不然还要找替换件)
+[27m] 🔥 [UNKNOWN] 嗯。[UNKNOWN] 目前给我们这些。[UNKNOWN] 嗯新人啊做的东西应该。[UNKNOWN] 但是我用了很久什么首都。[UNKNOWN] 因为本身还有另外一个可以选。[UNKNOWN] 另外一个龙蛇。[UNKNOWN] 修复游戏卡带了。[UNKNOWN] 本来两个都是demo。[UNKNOWN] 然后修复游戏卡带那个好像已经  (💬 只能直接换桌垫吗 / 就像商周的东西修复成上周的了 / 这种文物感觉也没啥替换件好找啊，还是说真要拿来使用 / 修成上周的了 / 上上周变成了上周)
+[28m] 🔥 [UNKNOWN] 出了正事。[UNKNOWN] 完了。[UNKNOWN] 明天思考了一下。[UNKNOWN] 还是先选择正义弓。[UNKNOWN] 因为他目前还是个demo。[UNKNOWN] 我也想看看。[UNKNOWN] 可以先评一品。[UNKNOWN] 哪有对呀。[UNKNOWN] 是同一家公司吗。[UNKNOWN] 不是真的是营销嗯六个的话  (💬 若有所思 / 惊讶 / 听起来也很有意思 / 是一家公司吗 / 都是修理游戏啊)
+[29m] 🔥 [UNKNOWN] 他要更复杂一点。[UNKNOWN] 要撕标签哪什么的。[UNKNOWN] 是星座卡带吗。[UNKNOWN] 维修物语出生是班本。[UNKNOWN] 就电子零件的。[UNKNOWN] 上上手还在赢之。[UNKNOWN] 做一次早上播灵芝灵芝的灵。[UNKNOWN] 喷砂是怎么喷的。[UNKNOWN] 谢有可能怪的粉钻灯牌  (💬 喜欢(x3) / 上上周还在影之刃 / 游戏卡带怎么修复，舔不舔一下 / 你换设备是自己选的吗，还是自动切换 / 还有一个界面和深空当铺差不多的，开店修各种电子器件的)
+[30m] 🔥 [UNKNOWN] 谢谢你又五天的陪伴。[UNKNOWN] 谢。[UNKNOWN] 是的感觉更像手抛光。[UNKNOWN] 可怜爱陌神。[UNKNOWN] 谢谢夜拉梦雪的亲密处理。[UNKNOWN] 谢谢你有五天的陪伴。[UNKNOWN] 谢。[UNKNOWN] 好像最后了。[UNKNOWN] 明晚是不是塞尔达要完结了  (💬 喜欢(x3) / 这个是抛光吧 / 至少不能这样拿着对着喷吧 / 像抛光 / 对哦，明晚是不是塞尔达要完结了，那周日要定新游戏？)
+[30m] 🔥 [UNKNOWN] 不知道。[UNKNOWN] 这个感觉已经旧的像木质的哦。[UNKNOWN] 这个也是黄铜的吗。[UNKNOWN] 本体底座还是材料又有点不一样吧。[UNKNOWN] 对啊就看起来像木头。[UNKNOWN] 然后。[UNKNOWN] 就更像是直接把面上的这一层给。[UNKNOWN] 喷干净了。[UNKNOWN] 喷砂这么好用吗  (💬 喜欢 / 这个是木头啊 / 这个看起来就是木头吧 / 有纹理的 很明显 / 这个就是木头吧)
+[31m] 🔥 [UNKNOWN] 想给自己家里面的东西来。[UNKNOWN] 一来一轮喷砂了。[UNKNOWN] 小高腾的横向灯牌。[UNKNOWN] 哦确实是不知道原厂配色。[UNKNOWN] 哦哦要给它喷颜色了。[UNKNOWN] 哎等一下啊。[UNKNOWN] 喷这个颜色呢。[UNKNOWN] 配什么颜色呢。[UNKNOWN] 嗯车配色  (💬 喜欢 / 喷砂要穿挺多劳保用品的 / 好用的 / 都有木质纹理了，应该是木头的 / [UPOWER_2124647716_哈哈])
+[32m] ▫️ [UNKNOWN] 那个年代的东西话话感你就吃回吧。[UNKNOWN] 嗯还要等他慢慢干关下来。[UNKNOWN] 现在才收真正的在喷气啊。[UNKNOWN] 你看他晾一会儿。[UNKNOWN] 就干了。[UNKNOWN] 嘘。[UNKNOWN] 可以等他吹一下。[UNKNOWN] 啊干了。[UNKNOWN] 谢谢。[UNKNOWN] D雅a GONLA NC的分三张牌  (💬 喜欢(x3) / 喷砂要专门弄个空间来着，不然还有点危险 / 等他干也太细致了 / 还真是 钢盆的时候会深一点 / 一般有晾干房)
+[33m] 🔥 [UNKNOWN] 遗漏的地方哦这。[UNKNOWN] 好要组组装起来。[UNKNOWN] 猫旺好乖。[UNKNOWN] 是的他在上面玩。[UNKNOWN] 等一下你听。[UNKNOWN] 操作一下自己的暖水袋。[UNKNOWN] 怎么感觉暖水袋要变成冷水袋了。[UNKNOWN] 喝口水啊。[UNKNOWN] 闹钟有点危险  (💬 喜欢(x3) / 猫猫好乖都不来捣乱 / 不通风喷漆还有可能有毒来着 / 这个颜色挺木头的 / 我们的猫猫呢)
+[34m] 🔥 [UNKNOWN] 嗯每天可以到游戏里面来玩。[UNKNOWN] 也是一种单独空间哦。[UNKNOWN] 哦让我给它装上了。[UNKNOWN] 之后装上了之后。[UNKNOWN] 把螺丝弄回去。[UNKNOWN] 螺丝倒是嗯嗯。[UNKNOWN] 放了上来。[UNKNOWN] 嗯。[UNKNOWN] 然果把壳子加上。[UNKNOWN] 嗯确实是  (💬 下饭 / 猫猫放腿上也差不多吧 / 冷了还要抱着吗 / 喜欢 / 岂敢)
+[35m] 🔥 [UNKNOWN] 嗯。[UNKNOWN] 这种是航海仪吗。[UNKNOWN] 忘记这种应该叫什么了。[UNKNOWN] 哦罗盘罗盘形藤彭定声。[UNKNOWN] 叫早安GNAGNA的粉三灯牌。[UNKNOWN] JNA。[UNKNOWN] 一颗浮空弹的粉三灯牌。[UNKNOWN] 修好了修好了。[UNKNOWN] 现代罗盘一般来说  (💬 喝茶 / 早上好 / 如果不记得顺序会装错吗 / 哇哦 崭新出厂 / 固定罗盘)
+[36m] ▫️ [UNKNOWN] 然后后来是铁盒磁呃。[UNKNOWN] 假影什么的这些。[UNKNOWN] 感觉看起来还挺需要金属知识的。[UNKNOWN] 早安早安。[UNKNOWN] 来。[UNKNOWN] 这是我们第一个修复的罗盘。[UNKNOWN] 每天在想哦。[UNKNOWN] 这个底座当时是不是。[UNKNOWN] 应该把颜色选深一点  (💬 喜欢 / 感觉平日这种罗盘挺少见的 / 还能学历史知识 / 修好了看着好有质感 / 航海pts)
+[37m] 🔥 [UNKNOWN] 哦这个是咖啡机。[UNKNOWN] 来了。[UNKNOWN] 和。[UNKNOWN] 咖啡机下面弄个像音乐盒一样。[UNKNOWN] 还有个小抽屉看啊。[UNKNOWN] 可以再喷吗。[UNKNOWN] 应该可以先再试试的吧。[UNKNOWN] 这个是我本身放。[UNKNOWN] 研磨完的咖啡粉的吧  (💬 喜欢(x4) / 这游戏好像也没有教程之类的 / 是哦 要衬托罗盘的颜色 / 可以再喷吗 / 米米修好了也别喝咖啡)
+[37m] ▫️ [UNKNOWN] 没听到知识盲区啊。[UNKNOWN] 研磨刀主要靠的是这里的东西吗。[UNKNOWN] 码头还有很多的人山灯牌。[UNKNOWN] 左上角那个。[UNKNOWN] 继续吧。[UNKNOWN] 等我一下。[UNKNOWN] 谢谢。[UNKNOWN] 星辰。[UNKNOWN] 咒语的薯条。[UNKNOWN] 声音  (💬 喜欢 / 不喝咖啡的米米 / 喝茶 / 钉子好像都是自动换新的，不需要我们处理 / 米米不准喝，就睡了一个多小时)
+[39m] 🔥 [UNKNOWN] 如果觉得需要再调小一点的话。[UNKNOWN] 可以帮你听一下吗。[UNKNOWN] 虽然说我们这种。[UNKNOWN] 修理之理呢哎呀。[UNKNOWN] 等一下。[UNKNOWN] 难免还是会有点早音了。[UNKNOWN] 注意命好的谢谢你。[UNKNOWN] 钟一咪全心成重鱼豆下波薯条。[UNKNOWN] 谢谢  (💬 喜欢(x5) / 吃晕碳就能美美睡觉 / 这个凸起的内侧有点难喷了 / 感觉还好吧 有点像白噪音 / 下饭)
+[40m] 🔥 [UNKNOWN] 在吃早饭。[UNKNOWN] 声音差多了。[UNKNOWN] 大家对于这个。[UNKNOWN] 器材的声音好像忍寿都要更高一点。[UNKNOWN] 犯困了。[UNKNOWN] 还能睡吗。[UNKNOWN] 还有时间可以睡的话。[UNKNOWN] 确实可以睡一会。[UNKNOWN] 定个闹钟。[UNKNOWN] 盘沙跟激豆一样  (💬 喜欢(x4) / 米米米米可爱 / 看得出18岁的米师傅拥有80年的修复经验 / 喷砂跟挤痘一样治愈.. / 就当白噪音嘛)
+[40m] 🔥 [UNKNOWN] 吃鱼看到干净的话吧。[UNKNOWN] 还好这些都是了。[UNKNOWN] 那抛光了  (💬 喜欢 / 定个晚台闹钟 / 这种声音也不刺客呀 / 老师老师，我没吃早饭，应该怎么办呢？ / 均匀笑死)
+[42m] ▫️ [UNKNOWN] 晾一下。[UNKNOWN] 咖啡的话其实这个好像也可以。[UNKNOWN] 你们觉得呢。[UNKNOWN] 啊是。[UNKNOWN] 亮一下。[UNKNOWN] 还说刚才那个要好一点呢。[UNKNOWN] 然后是抽屉嗯。[UNKNOWN] 还有更啊这个。[UNKNOWN] 这个更像是红茶或者什么的的这些  (💬 是的，小手柄 / 喜欢 / 木头的都完全没有烂的 / 要是木头的颜色不一样感觉强迫症要犯了 / 很咖啡的颜色)
+[43m] 🔥 [UNKNOWN] 颜色。[UNKNOWN] 这个呢这个其实好像。[UNKNOWN] 哎不行还是太浅了。[UNKNOWN] 可能就还是这个吧。[UNKNOWN] 是这个更适合一点。[UNKNOWN] 虽然感觉稍微还是。[UNKNOWN] 有点偏红刚喷上来的时候。[UNKNOWN] 颜色的深度会更合适一些。[UNKNOWN] 嗯那点越甜  (💬 喜欢(x3) / [米汀收藏集表情包_不好意思] / 第二个挺适合咖啡的 / 第一个第二个里选吧 / 还是用红木那种颜色)
+[44m] ▫️ [UNKNOWN] 之后可能还挺难选的这这个。[UNKNOWN] 如果我们要换的话。[UNKNOWN] 你看这里隐隐约约都可以看出来他们  (💬 喜欢(x3) / 早安 / 这个就太素了 / 要换的话不是要每个零件换一遍吗，好麻烦 / 这种就是单纯的亮漆了)
+[46m] 🔥 [UNKNOWN] 不能重新上色吗。[UNKNOWN] 哎我们刚刚才重新上色了一遍。[UNKNOWN] 现在吃薯条吗。[UNKNOWN] 码头还有很多的。[UNKNOWN] 一边是谁。[UNKNOWN] 清朝脑雾渐翻心明舒服。[UNKNOWN] 变成清朝的了吗。[UNKNOWN] 清朝的生物件还是。[UNKNOWN] 冷师傅呢  (💬 喜欢 / 元旦在客厅玩 / 元旦进来看到屏幕里的猫猫会不会吃醋 / 这是用了什么才能防止它生锈 / 把清朝的翻成清早的了)
+[46m] 🔥 [UNKNOWN] 防止生锈这不是防止生锈啊。[UNKNOWN] 这时候我们在翻新啊。[UNKNOWN] 元旦有一起看电影吗。[UNKNOWN] 他有在旁边的躺椅上面睡觉。[UNKNOWN] 确实是我们在哪。[UNKNOWN] 他就在哪。[UNKNOWN] 眼亏。[UNKNOWN] 啊。[UNKNOWN] 感觉还没有弄好好吧将你给过了  (💬 原来咖啡机的刀片是不开刃的 / 秦朝的老师傅 / 这研磨机年代确实应该差不多清朝 / 元旦好乖 / 清朝的那是文物了)
+[46m] 🔥 [UNKNOWN] 那先过了吧。[UNKNOWN] 这首狮子总感觉很常见  (💬 coffee / 这个应该是英式 / 瑞星小狮子 / 到处都是这两只狮子 / 英国那边感觉很多)
+[49m] 🔥 [UNKNOWN] 要仿制配色吗。[UNKNOWN] 总感觉它有原厂配色的话。[UNKNOWN] 我们应该用原厂原厂配色来尝试了。[UNKNOWN] 有点忘记原厂长什么样了。[UNKNOWN] 原厂色感觉还挺彻底的红的。[UNKNOWN] 你听这个本身的时候还挺彻底的。[UNKNOWN] 红豆。[UNKNOWN] 这个的话  (💬 大红色 / 喜欢 / 我有点忘了原厂长啥样了 / 好像没有类似的颜色哎 / 实际喷漆确实是防毒面具+通风箱的)
+[49m] 🔥 [UNKNOWN] 嗯。[UNKNOWN] 有想喷粉红色的对。[UNKNOWN] 原本看到的也是氧化之后的。[UNKNOWN] 有点有点难判断它本身的。[UNKNOWN] 蛇什么颜色是掉下来。[UNKNOWN] 的红色带点橙色的感觉就好亮啊。[UNKNOWN] 蹲它原本我们之前看到颜色。[UNKNOWN] 甚至有点偏向了玩具哦  (💬 喜欢 / 原厂放旧了就是那个颜色 / 不过刚刚那个红色也可能是因为时间久了才变那样的 / 红色带点橙色的感觉 / 那应该是没那么红)
+[49m] 🔥 [UNKNOWN] 这里面最红的估计就是这个了。[UNKNOWN] 看起来是比较红的颜色吧。[UNKNOWN] 想象一想。[UNKNOWN] 氧化之后感觉差不多来。[UNKNOWN] 你看这个的话。[UNKNOWN] 感觉是面上的那一层。[UNKNOWN] 都已经磨光了 它本身可能就。[UNKNOWN] 确实就是我们刚刚右边的这个颜色  (💬 喜欢 / 这个 / 那就这个吧 / 这个差不多 / 想象了一下这个颜色氧化后，感觉差不多)
+[50m] 🔥 [UNKNOWN] 你看我右边选的那个最浅的颜色。[UNKNOWN] 现在给它把面上漆。[UNKNOWN] 啊。[UNKNOWN] 这个就和这个是一个颜色哦。[UNKNOWN] 在想这色差能不能达成啊。[UNKNOWN] 来。[UNKNOWN] 先把这磨了吧。[UNKNOWN] 你这你看这里生锈带的。[UNKNOWN] 这里都亲梦  (💬 喜欢(x4) / 这个是白色好像 / 是诶 / 木头的本色 / 可能是)
+[51m] 🔥 [UNKNOWN] 这大的是什么颜色呢。[UNKNOWN] 大的手。[UNKNOWN] 哎呦。[UNKNOWN] 这小跟鞋的时候  (💬 最大的一件 / 若有所思 / 原来还有字！ / 这字也要磨掉了 / babcia zrobi budy)
+[53m] 🔥 [UNKNOWN] 实际上也些偏差都算对的。[UNKNOWN] 嗯但现在的。[UNKNOWN] 好像不是这个逻径。[UNKNOWN] 现在就是供我AI学习。[UNKNOWN] 就是像我们选这哪些哪些是。[UNKNOWN] 红绿灯呐什么的。[UNKNOWN] 可能会用到。[UNKNOWN] 我的小大地老师。[UNKNOWN] 两个单词是奶奶做的  (💬 喜欢(x3) / 这字好像不会掉诶 / 我问了下大D老师，前面两个单词是奶奶做的，最后一个单词没看清 / 填验证码的时候也是一种打标吧 / 米米我悟道了)
+[53m] 🔥 [UNKNOWN] 最后一个单词没看清嗯。[UNKNOWN] 对的。[UNKNOWN] 你要再看一下这里写的什么吗。[UNKNOWN] Budy最后一个确实看不清。[UNKNOWN] 但是按结构来讲。[UNKNOWN] 最后还是有个i还是什么的吧。[UNKNOWN] m吗。[UNKNOWN] 难道。[UNKNOWN] 哦音标  (💬 喜欢(x3) / 消防栓（） / 里面因也洗一下 / 毕竟是蛮大的物价 / 物件)
+[55m] 🔥 [UNKNOWN] 看得出来本身写的是什么吗。[UNKNOWN] 总有种这种角落会生蜘蛛网的错觉。[UNKNOWN] 奶奶正在做布丁。[UNKNOWN] 啊在咖啡机上面写着的吗。[UNKNOWN] 完了忘记它本来的颜色了哦。[UNKNOWN] 还这里还有。[UNKNOWN] 好了奶奶。[UNKNOWN] 先走掉了。[UNKNOWN] 这个是红的  (💬 咖啡机可以做布丁吗？ / 布丁为什么会出现在咖啡机上 / 里面还要找角度喷 / budyń 是波兰语的布丁 / 美好的早晨)
+[55m] 🔥 [UNKNOWN] 这个不是很香。[UNKNOWN] 这个吧。[UNKNOWN] 感觉这个要香了一点。[UNKNOWN] 谢生平记的总裁灯牌奶奶走掉了。[UNKNOWN] 你别说按照年代来讲的话。[UNKNOWN] 这个年代的奶奶。[UNKNOWN] 在我们现在这个时间应该不太可能。[UNKNOWN] 应该不太可能去还在了  (💬 奶奶先走掉了！！ / 给木料喷砂 木头都要烂了 / 奶奶和布丁都消失了 / 可能这台咖啡机叫布丁 / 喜欢)
+[56m] 🔥 [UNKNOWN] 在那个时候就已经是奶奶了的话。[UNKNOWN] 所以应该。[UNKNOWN] 没什么问题。[UNKNOWN] 感觉这个颜色确实有照相了一点了。[UNKNOWN] 浅一点和这个看起来有点吃饭。[UNKNOWN] 有点泛红的。[UNKNOWN] 亮。[UNKNOWN] 看淡一点。[UNKNOWN] 明天在想他会不会  (💬 万一人家是吸血鬼呢 / 大约的确是死了吧 / 一个世纪前了 / 恐怖老奶奶 / 现实主义米米)
+[58m] 🔥 [UNKNOWN] 还说这个磨的很严重。[UNKNOWN] 这里本身是深一点的颜色吗。[UNKNOWN] 这么像后子不知道。[UNKNOWN] 哎你们觉得呢。[UNKNOWN] 你们觉得是给他按浅色来上呢。[UNKNOWN] 还是按这边最深的。[UNKNOWN] 这个颜色来当做它本来的颜色。[UNKNOWN] 出于木头咋还喷气  (💬 这个算褐色？ / 喷一下看看 / 我们上次用紫光灯还是在清理现场 / 可能喷完又不一样了 / 风化了)
+[58m] 🔥 [UNKNOWN] 因为我们主要是修复。[UNKNOWN] 拿的时间也是延长了。[UNKNOWN] 嗯对他他最后看起来颜色。[UNKNOWN] 和那个把手会比较少 安全色ok。[UNKNOWN] 这小抽屉这个是装。[UNKNOWN] 这里面是以前装咖啡豆的。[UNKNOWN] 这你磨好的咖啡粉。[UNKNOWN] 回到这下面来  (💬 喜欢 / 最深的吧 / 浅色吧 / 浅色上吧 / 都试试看看效果)
+[58m] 🔥 [UNKNOWN] 前色为了红咖啡想做队长。[UNKNOWN] 你说的对。[UNKNOWN] 每天觉得你讲的很有道理。[UNKNOWN] 采用了。[UNKNOWN] 考虑到用途。[UNKNOWN] 浅色的会更合适一点。[UNKNOWN] 要给它好好晾好了之后才能再。[UNKNOWN] 投入使用。[UNKNOWN] 就可以到十五级的保护  (💬 上漆是为了保护 / 浅色凸显咖啡粉的深色 / 喜欢 / 那最后要喷一道食物级的保护清漆 / 木质物品的修复不会喷漆的 一般都是刷漆啊)
+[59m] 🔥 [UNKNOWN] 我保护亲七好讲究。[UNKNOWN] 就以前比较经常用的那种饮水机。[UNKNOWN] 就需要。[UNKNOWN] 嗯送上门送水那种桶装的  (💬 感觉这里面好脏，臭臭的 / 中间像发霉过 / 里面好脏 / 入嘴的肯定有必要 / 咖啡机里头原来是需要清洗的)
+[61m] ▫️ [UNKNOWN] 要全部涂涂色吗。[UNKNOWN] 我想起来了。[UNKNOWN] 嗯。[UNKNOWN] 都瑶。[UNKNOWN] 你会安装吗。[UNKNOWN] 说我们的。[UNKNOWN] 还原的像音乐盒一样的咖啡。[UNKNOWN] 一言莫尽是的。[UNKNOWN] 毕竟是非常古早的版本嘛。[UNKNOWN] 谢夜来梦雪的鼓鼓掌啊  (💬 喜欢 / 家庭温馨的感觉 / 大概是乐高玩具风 / 扭扭螺丝 / 是个支架吧)
+[63m] 🔥 [UNKNOWN] 算了本来想说感觉老物件它有点。[UNKNOWN] 它上面有点磨损的时候更有那味。[UNKNOWN] 但是呢既然是我要拿来喝的东西。[UNKNOWN] 谢谢狮子的白色鸢尾梦的乐园。[UNKNOWN] 谢谢啊。[UNKNOWN] 后来去逛超市。[UNKNOWN] 嗯。[UNKNOWN] 有次朋友让帮忙带  (💬 喜欢 / 习惯了电动，已经无法接受这种了 / 很原始的研磨机 / 回头搜搜看这个是怎么研磨的 / 其实现在也是靠重力)
+[64m] 🔥 [UNKNOWN] 咖啡豆回去才发现。[UNKNOWN] 其实直接买咖啡豆的人也还蛮多的。[UNKNOWN] 而且好像分的还分的还特别细。[UNKNOWN] 刚冲完自己冲咖啡。[UNKNOWN] 竟然不用米家的粮票来点吗。[UNKNOWN] 速溶冲嗯米汀的印象也是速溶的。[UNKNOWN] 然后以前家里面。[UNKNOWN] 妈妈们泡咖啡是分两罐  (💬 咖啡伴侣 / 喜欢 / 没有，直接买速溶 / 完全没有 我也不怎么喝咖啡 / 咖啡粉不新鲜啊)
+[65m] 🔥 [UNKNOWN] 就一罐是那种。[UNKNOWN] 纯直接的现成的咖啡粉。[UNKNOWN] 还有一罐是那个咖啡。[UNKNOWN] 奶奶精那个应该是奶精啊。[UNKNOWN] 然后米天特别喜欢。[UNKNOWN] 单独去弄弄奶奶精来吃一点什么的。[UNKNOWN] 自动咖啡机。[UNKNOWN] 嗯对咖啡伴侣。[UNKNOWN] 但是感觉现在好像  (💬 咖啡伴侣 / 喜欢 / 有买那种研磨和冲泡上下一体的杯子 / 咖啡粉容易氧化流失风味 / 一般都直接买了喝)
+[65m] 🔥 [UNKNOWN] 都不怎么弄这样的东西。[UNKNOWN] 现在又可以换刀盘。[UNKNOWN] 留一下就好。[UNKNOWN] 嗯。[UNKNOWN] 薄咖啡茶是英国人喜爱的饮品。[UNKNOWN] 而咖啡则成为暗国。[UNKNOWN] 美国人的首选饮品。[UNKNOWN] 对雀巢一加一好像是。[UNKNOWN] 那咖啡伴侣确实要比咖啡好喝  (💬 干吃吗 / ??? / 哇塞 / 咖啡粉咖啡伴侣，那个甜的吧 / 那个我记得好像叫雀巢1+1)
+[65m] 🔥 [UNKNOWN] 但是你听这不是拿来喝的。[UNKNOWN] 每天似的把拿来干吃嗯啊。[UNKNOWN] 蘑菇大豆做豆角哦。[UNKNOWN] 小时候看到嗯。[UNKNOWN] 豆浆的话是真的。[UNKNOWN] 以前妈妈。[UNKNOWN] 在。[UNKNOWN] 煮豆浆。[UNKNOWN] 就弄豆浆的前一天会把豆子  (💬 喜欢(x3) / 干吃吗 / 下饭 / 以前是代替牛奶的，现在可以直接加奶 / 最近没咋冲了)
+[66m] 🔥 [UNKNOWN] 拿来泡一个晚上。[UNKNOWN] 对啊干吃会很甜啊。[UNKNOWN] 就是因为它甜。[UNKNOWN] 就是冲它甜好吧。[UNKNOWN] 肯定会喜欢奶片还好觉得奶片。[UNKNOWN] 好吃是好吃但是它粘牙。[UNKNOWN] 明天不太喜欢会粘牙的东西。[UNKNOWN] 太粘牙了不好像这种干吃的话  (💬 喜欢(x6) / 下饭 / 干吃真的很好吃 / 喝茶 / 米米肯定会喜欢奶片)
+[66m] 🔥 [UNKNOWN] 其实你还是。[UNKNOWN] 那么干净的那个奶片什么的。[UNKNOWN] 你一嚼它粘在牙齿上很烦。[UNKNOWN] 可能其他地方。[UNKNOWN] 英语中的cose来自其他不会读。[UNKNOWN] 那些米题也经常干吃。[UNKNOWN] 没有冲散的那一部分。[UNKNOWN] 是哪一片都是直接浇碎有神  (💬 喜欢(x6) / 下饭 / 现在都是直接泡在豆浆机里面，定时早上自动打 / 可爱滴捏 / 多嚼嚼就好了)
+[67m] 🔥 [UNKNOWN] 不是直接嚼碎的吗。[UNKNOWN] 真的真的有纯靠抿的吃奶片的吗。[UNKNOWN] 他人都很喜欢。[UNKNOWN] 就是。[UNKNOWN] 签到。[UNKNOWN] 对呀。[UNKNOWN] 欢迎小度小团小团的那些很甜。[UNKNOWN] 可以当糖吃好吧。[UNKNOWN] 哎这是咖啡。[UNKNOWN] 初始的样子吗  (💬 我妈妈以前也是先泡一晚上 / 豆奶 / ww豆奶也能干吃 / 含软了的感觉很喜欢 / 那感觉很享受了)
+[68m] 🔥 [UNKNOWN] 你明天还真不知道他初始的样子。[UNKNOWN] 具体长什么样。[UNKNOWN] 直到它变成咖啡豆的样子。[UNKNOWN] 原来最开始他长在。[UNKNOWN] 树上的时候是这样的了哦。[UNKNOWN] 你们看不到你能被你听到吗。[UNKNOWN] 啊啊等一下。[UNKNOWN] 这怎么办呢  (💬 还真是(x3) / 喜欢(x3) / 是的 / 我要用米家的粮票点奶片吃了 / 早年的工艺问题，豆浆得先单独泡豆子)
+[68m] 🔥 [UNKNOWN] 嗯你看。[UNKNOWN] 这么一对比的话。[UNKNOWN] 米汀还原的挺好的好吧。[UNKNOWN] 米汀觉得这就是它本来的颜色。[UNKNOWN] 是吧。[UNKNOWN] 救了之后变成这样。[UNKNOWN] 虽然现在看起来有点怪。[UNKNOWN] 你看。[UNKNOWN] 感觉一半一半的比较能体现出来  (💬 还真是(x3) / 喜欢(x3) / 咖啡豆长的和米汀一样 / 哈哈哈 / 我家有一个初代的九阳豆浆机就是要单独泡，后来零几年的第二个就不用了)
+[69m] 🔥 [UNKNOWN] 嗯。[UNKNOWN] 啊。[UNKNOWN] 这边咖啡也看完了来下一个吧。[UNKNOWN] 第一次看到咖啡果。[UNKNOWN] 还是小时候在MC里面。[UNKNOWN] 嗯哦音留声机啊啊。[UNKNOWN] 好咖啡果是红色浆果。[UNKNOWN] 外面有果皮有果胶层。[UNKNOWN] 咖啡豆是洗去后的  (💬 中间那个红的精准拿下了 / 喝茶 / 咖啡果是红色浆果，外面有果皮和果胶层，咖啡豆是洗去后的 / 这个红色确实就是放久了 / 大喇叭)
+[69m] 🔥 [UNKNOWN] 嗯这下知道了。[UNKNOWN] 正是一九六六年的留声机。[UNKNOWN] 啊一直觉得留声机很好看。[UNKNOWN] 这个应该一眼看得出来。[UNKNOWN] 这里是总体是蓝色的。[UNKNOWN] 从什么地方开始拆呢。[UNKNOWN] 从大喇叭开始采摘。[UNKNOWN] 好了来。[UNKNOWN] 嗯妞  (💬 哇塞 / 哦哦哦 好经典的留声机形象啊 / 感觉在一万个游戏里见过他 / 这大喇叭感觉要打磨好久了 / 这个很可爱)
+[70m] 🔥 [UNKNOWN] 又下来了。[UNKNOWN] 这个瑶先留下来。[UNKNOWN] 呼。[UNKNOWN] 这里是取关键。[UNKNOWN] 取关键。[UNKNOWN] 哎不行。[UNKNOWN] 这个的话也是啊。[UNKNOWN] 那你快到最后一代使用。[UNKNOWN] 黑胶唱片机了吧。[UNKNOWN] 嗯没有很了解  (💬 还要拧几下，笑死 / 这个喇叭管道里面怎么洗 / 有这手劲还抽开不了瓶盖吗 / 把你头拧下来！ / 66年已经快到最后一代实用黑胶唱片机了吧)
+[70m] 🔥 [UNKNOWN] 应该是的吧。[UNKNOWN] 这是唱片吗。[UNKNOWN] 唱片我们能修复吗。[UNKNOWN] 唱片能打磨吗。[UNKNOWN] 哎这上面怎么这么零碎。[UNKNOWN] 这螺丝分布。[UNKNOWN] 有讲究的吗。[UNKNOWN] 烧了。[UNKNOWN] 唱片我可能只能。[UNKNOWN] 稍微翻省一下  (💬 米米别取我关节；； / 取关键，不要取关呀 / 哇啦哇啦 / 音频cd标准是1980年的事，应该是差不多了 / 取关节可比取关严重多了)
+[71m] 🔥 [UNKNOWN] 咦。[UNKNOWN] 这是要去哪个地。[UNKNOWN] 但去问我儿了 S艾特二三四。[UNKNOWN] 谢谢。[UNKNOWN] 很小很小很小很小很多。[UNKNOWN] 谢你的欢迎降临。[UNKNOWN] 最后其实是这个先来。[UNKNOWN] 我们没有办法去磨的。[UNKNOWN] 什么是最佳初步的情景  (💬 喜欢(x3) / 不过他现在已经是摆设了 / 这是土还是锈啊 / 磨唱片好像。。。不太对 / 唱片应该只能融了吧)
+[73m] 🔥 [UNKNOWN] 用我们的类似于HD四零的东西。[UNKNOWN] 牙疼金灰呀。[UNKNOWN] 就是应该是影子出问题了。[UNKNOWN] 刚刚。[UNKNOWN] 谢谢招户里就是逊辣德塞东食堂。[UNKNOWN] 写牵之录像都很香的牌。[UNKNOWN] 先打你了扭蛋的分三张牌。[UNKNOWN] 这个心应该不用我不上心了  (💬 刚才这是影子有问题了吧 / 要是整个修完它自己转起来放音乐就神作了 / 崭新出场了！！！ / 不是wd40吗 / [米汀收藏集表情包_看看])
+[74m] ▫️ [UNKNOWN] 调一下调一下声音了。[UNKNOWN] 等一下嗯。[UNKNOWN] 为什么会影响到等一下。[UNKNOWN] 用气这么激光的。[UNKNOWN] 还稍微有点容易手抖。[UNKNOWN] 音响有点贵真是。[UNKNOWN] 前几天拆桌子啊。[UNKNOWN] 好了明天要继续了。[UNKNOWN] 就想到小时候妈妈说  (💬 等会儿睡不着觉了 / 感觉还好 / 不需要 / 喜欢 / 电焊是电焊，激光除锈是激光除锈)
+[76m] 🔥 [UNKNOWN] 这些不要去看伤眼睛。[UNKNOWN] 说这些都是不能直视的。[UNKNOWN] 谢谢九九七。[UNKNOWN] 谢谢九九七的三三灯牌。[UNKNOWN] 手机要没电了。[UNKNOWN] 对啊电焊。[UNKNOWN] 然后确实看到那些。[UNKNOWN] 呃那些师傅电焊的时候。[UNKNOWN] 都是要带一个眼镜的  (💬 喜欢(x3) / 岂敢 / 是的是的 / 电焊吗www / 确实伤眼睛吧)
+[76m] 🔥 [UNKNOWN] 不要印证了妈妈的说法。[UNKNOWN] 每天每次都是虚着眼睛走过去。[UNKNOWN] 对焊宫都是要用面罩的。[UNKNOWN] 我们江会里面没有。[UNKNOWN] 那个面罩都不让做。[UNKNOWN] 就不不让。[UNKNOWN] 弄这些东西的好吧。[UNKNOWN] 怎么不转头。[UNKNOWN] 其因为其实还是会有一点点好奇  (💬 喜欢(x7) / 遇到电焊的都是躲着走的 / 嗯 用一个面罩 / 确实伤眼睛 / 我爸也是)
+[77m] ▫️ [UNKNOWN] 是吗。[UNKNOWN] 的占比可能就砍了。[UNKNOWN] 微微的应变c确实不能看强光。[UNKNOWN] 回到了熟悉的喷砂。[UNKNOWN] 民用的占比很少嗯。[UNKNOWN] 本来占比就很少。[UNKNOWN] 之前是看到那个呃。[UNKNOWN] 之前是看到内存的什么牌子。[UNKNOWN] 先把民用的那个生产线直接开了  (💬 喜欢(x3) / 好奇米米 / 那米米的5050要十万了 / [米汀收藏集表情包_吓] / 盯着看吗，看久了？)
+[78m] 🔥 [UNKNOWN] 老黄是因为发展初心才一直没改。[UNKNOWN] 哎。[UNKNOWN] 那这样说的话。[UNKNOWN] 显卡书会再涨还是才强啊。[UNKNOWN] 把小铃铛赠给他亲一下。[UNKNOWN] 韩国的那几家厂商卡了。[UNKNOWN] 民用信号是不差。[UNKNOWN] 嗯内存那边是早有用。[UNKNOWN] 显卡这边你只乎说很清楚  (💬 喜欢 / 镁光吧 / 唉，老黄 / 韩国的那几家厂商砍了民用型号生产 / 肯定暴涨啊，没有新货了)
+[79m] ▫️ [UNKNOWN] 他最开始就是为了游戏才做显卡的。[UNKNOWN] 谢谢你续费的增长很敏感的。[UNKNOWN] Thank you。[UNKNOWN] 谢谢你学在见长。[UNKNOWN] 感谢。[UNKNOWN] 谢谢你的见长行不行行不行。[UNKNOWN] 行。[UNKNOWN] 谢谢你的见照。[UNKNOWN] 是啊实际上的需求还存在  (💬 谢谢(x4) / 喜欢 / 现在换了人。没这么历史包袱，就很难说了 / 老黄；； / 难说了)
+[79m] 🔥 [UNKNOWN] 但是他们嗯。[UNKNOWN] 不一定能从中收益了吧。[UNKNOWN] 本身好像。[UNKNOWN] 也没有 什么收益空间的样子。[UNKNOWN] 是的  (💬 喜欢 / 难说了，职业经理人不管这些 / 没有n卡就用A卡呗 / 谢谢 / 可能游戏显卡部门会被放养吧)
+[82m] 🔥 [UNKNOWN] 黑卡也会涨吧应该是。[UNKNOWN] 应该会回来给它全部都聚在中间。[UNKNOWN] 然后倒出来。[UNKNOWN] 穿越宵。[UNKNOWN] 但是。[UNKNOWN] 应该是不玩。[UNKNOWN] 虽然明天也不太记得了。[UNKNOWN] 真的。[UNKNOWN] 你好看到你的哎呦。[UNKNOWN] 不好意思  (💬 a卡也会涨，但a卡这能yes吗 / 就两家嘛，N卡没了不就是A卡一家独大了 / 可爱~~ / 至不至于第一波就看60系啥时候出，还是暂时不出了233 / 想多了)
+[83m] 🔥 [UNKNOWN] 看到你的花纹了。[UNKNOWN] 喜欢的那么安丑歌。[UNKNOWN] 一米塞了十三张牌。[UNKNOWN] 来吧我们还是从外圈。[UNKNOWN] 装修。[UNKNOWN] 不要去说要虚着眼睛看哦。[UNKNOWN] 每天戴了护目镜。[UNKNOWN] 没关系。[UNKNOWN] 你们小心哦。[UNKNOWN] 因为不是每天是在游戏里面诞生了  (💬 喜欢(x6) / 好像去年还是前年 / 按周期应该就是明年出吧 / 25年1月，也才刚刚两年 / 激光真的好刺耳；；)
+[84m] ▫️ [UNKNOWN] 谢你看不到明天的。[UNKNOWN] 刚刚有人担心的什么喷漆。[UNKNOWN] 你已经看钱很快乐了。[UNKNOWN] 应该也还蛮辛苦的。[UNKNOWN] 今天加油啊。[UNKNOWN] 冰淇淋循环用嗯。[UNKNOWN] 萌萌走远一点哦。[UNKNOWN] 不然不小心。[UNKNOWN] 肉桂走远一点  (💬 喜欢 / 谢谢米米妈妈的教导 / 米米你必须支付我听这个的费用 / 下饭 / 黑听民还以为电脑风扇烧了（。)
+[86m] ▫️ [UNKNOWN] 激光还不能太快。[UNKNOWN] 伤后危险的。[UNKNOWN] 吸尘器的广告。[UNKNOWN] 在地上撒一堆东西。[UNKNOWN] 然后能够拖把一拖过去。[UNKNOWN] 就干净了。[UNKNOWN] 你觉得呢。[UNKNOWN] 真解压了。[UNKNOWN] 最后如果能全部弄感情的话。[UNKNOWN] 就能收拾了解压  (💬 别怕猫猫的脚烫到了 / 要不要试一下能不能喷猫猫（ / 喜欢 / 喷到就变成焦糖肉桂了 / 看着真解压吧)
+[88m] ▫️ [UNKNOWN] 只剩最后一点了。[UNKNOWN] 射手。[UNKNOWN] 你们初一。[UNKNOWN] 照一下好了  (💬 喜欢 / 还有那种剃须刀广告，一刮过去干净了一块 / 飞檐走壁 / 好耶 / 完成了)
+[91m] 🔥 [UNKNOWN] 通风红黄的。[UNKNOWN] 等一下要口红的。[UNKNOWN] 现在还没套光呢。[UNKNOWN] 现在只是把表面清洁了一下。[UNKNOWN] 这不就想除灰一样的。[UNKNOWN] VB四零。[UNKNOWN] 蹭干净了啊什么都不用。[UNKNOWN] 真不用抛光了。[UNKNOWN] 那没事了  (💬 喜欢 / 发条盒子居然不拆开吗 / 也有氧化层吧 / 两层大锈 / 下饭)
+[91m] 🔥 [UNKNOWN] 啊。[UNKNOWN] 我们先从哦这里也是了。[UNKNOWN] 没有了解过一会儿看看最后修好了。[UNKNOWN] 马达哦动力园。[UNKNOWN] 嗯嗯你  (💬 神秘小零件 / 这好像一个电饭煲 / 感觉是留声机的马达还是啥，动力源 / 是发条盒啦 手摇蓄力的)
+[95m] ▫️ [UNKNOWN] 就风干了之后最后的。[UNKNOWN] 米清觉得应该就这个颜色了。[UNKNOWN] 继续。[UNKNOWN] 怎么不做点防护。[UNKNOWN] 你听有做防护哦。[UNKNOWN] 你们隔着屏幕应该也还好。[UNKNOWN] 谢谢月岛静静的蘑菇的粉丝灯牌。[UNKNOWN] 谢嗯月木寸毛毛球的粉丝灯牌  (💬 这游戏能当奥数代餐了 / 我也喜欢，感觉好细致哦 / 喜欢 / 这个自带音乐挺合适的，感觉很悠闲 / 喝茶)
+[96m] 🔥 [UNKNOWN] 你们真的我看到。[UNKNOWN] 肉桂的皮子上面是有伤的吗。[UNKNOWN] 估计在之前做工的时候。[UNKNOWN] 他可能确实。[UNKNOWN] 也皮过。[UNKNOWN] 我这里面有一点取不掉的。[UNKNOWN] 嗯灼伤了。[UNKNOWN] 是的虽然骑士更像打架闹到了  (💬 喜欢 / 有伤疤 / 被喷枪打到了 / 一直喷的话能把盒子填满吗 / 看到了 有三道刀疤一样的)
+[98m] ▫️ [UNKNOWN] 这边最后的  (💬 喜欢 / 好想擦桌子 / 心虚 / 桌子会自动清洁 / 逮捕)
+[100m] 🔥 [UNKNOWN] 谢谢老哥。[UNKNOWN] 公的人气派。[UNKNOWN] 怎么变成盯着。[UNKNOWN] 桌面看了。[UNKNOWN] 感觉这里面的蓝色还是只有这个蓝色。[UNKNOWN] 哦这个颜色其实还蛮好看的。[UNKNOWN] 嘘  (💬 喜欢(x3) / 我盯着桌垫看，一大堆砂慢慢消失了 / 只消失了杂物，没有消失个零件，还是挺智能的 / 自带吸尘器的桌垫 / 下饭)
+[102m] ▫️ [UNKNOWN] 好像是有区分的 便你的。[UNKNOWN] 等已经修复完了。[UNKNOWN] 对意思下一直是在换的。[UNKNOWN] 这个的话会是什么颜色呢。[UNKNOWN] 我们最后的了。[UNKNOWN] 你们觉得这是什么颜色。[UNKNOWN] 你听怎么觉得。[UNKNOWN] 他好像本来也是蓝色的呀  (💬 喜欢(x3) / 用的工具都不一样吧 / 嗯 右下一直换的 / 米米米米米该准备拓麻歌子了 / 我一开始就问是要自己换还是她给你换好呢)
+[103m] 🔥 [UNKNOWN] 只不过基本上全脱了。[UNKNOWN] 就大概底色是有点偏红的。[UNKNOWN] 然后面上再喷了一层蓝的。[UNKNOWN] 然后因为因为用的太多。[UNKNOWN] 面上那层蓝色的被磨的差不多了。[UNKNOWN] 是吧。[UNKNOWN] 但是呢你看这样来分层的话。[UNKNOWN] 又像这里面是最底肉  (💬 可能是 / 看起来是的 / 是的吧 / 也是蓝的吧 / 把手)
+[103m] 🔥 [UNKNOWN] 中间是蓝色一点的。[UNKNOWN] 最外面一层还是那个。[UNKNOWN] 浅色一点的那个颜色。[UNKNOWN] 把把手给喷成蓝色。[UNKNOWN] 差距太大了。[UNKNOWN] 然后如果按刚刚的那个的啥。[UNKNOWN] 不想看到我累。[UNKNOWN] 完了不让重新上了。[UNKNOWN] 你被只喷只能喷  (💬 对的对的 / 还能看到一点蓝色 / 复杂的化学反应 / 可惜我们只能喷一层 / 是掉漆了)
+[106m] 🔥 [UNKNOWN] 一层漆的设定局限了嗯。[UNKNOWN] 虽然说如果只有两层的话。[UNKNOWN] 刚才的第二层确实也是蓝色。[UNKNOWN] 没有什么安全感。[UNKNOWN] 明天我该去睡了。[UNKNOWN] 这晚上八十。[UNKNOWN] 起床听音乐说是。[UNKNOWN] 爱上我。[UNKNOWN] 反正觉得这个地方  (💬 所有的我都修复好了 / 米米直接预判游戏玩法 / 喜欢 / 若有所思 / 哎呀)
+[108m] 🔥 [UNKNOWN] 嗯弄上去很容易很容易松动。[UNKNOWN] 修复了留声机。[UNKNOWN] 一九三七年的艺术作品描绘了是这台。[UNKNOWN] 所以它是一八八七年。[UNKNOWN] 感觉像个阅读题的。[UNKNOWN] 谁懂哦你们看得清吗。[UNKNOWN] 哦你们看不到。[UNKNOWN] 被米汀挡住了  (💬 喜欢 / 我们还再修一个不 / 另外试一下这个，翻新了之后可不可以听到黑胶唱片 / 确实从demo的角度三件物品也够展示玩法了 / 早上好)
+[109m] 🔥 [UNKNOWN] 给你们看看这一本这一部分。[UNKNOWN] 你看很很像阅阅读题啊。[UNKNOWN] 能问你留声机大概是。[UNKNOWN] 嗯那个到底是什么时候获得战利的。[UNKNOWN] 然后易错的易错答案。[UNKNOWN] 我感觉也不是很易错。[UNKNOWN] 就是一九三七年好回来了。[UNKNOWN] 可以听到放的是什么音乐  (💬 看不到(x3) / 喜欢 / 我在听力考试 / 英文阅读说是 / 听力考试第一题)
+[110m] 🔥 [UNKNOWN] 不不能不能用的。[UNKNOWN] 留声机的喇叭筒相当于个声音。[UNKNOWN] 放大器。[UNKNOWN] 原理和小号或者扩音喇叭的相似。[UNKNOWN] 这个倒是能知道。[UNKNOWN] 然后指针。[UNKNOWN] 用于从唱片上读取音乐质唱真特意。[UNKNOWN] 呃特意采用较柔软的材料  (💬 1937年的是艺术作品吧 / 原来是阅读啊，我还以为是力学分析呢 / 还是绝密档案 / 可以一下看一下这个标志是什么 / 留声机 是不是可以留言)
+[110m] 🔥 [UNKNOWN] 以免损伤唱片本身。[UNKNOWN] 你能不能加个标点符号啊。[UNKNOWN] 因为更换唱真显然。[UNKNOWN] 比处理唱片的磨损更加简单。[UNKNOWN] 也更加便宜。[UNKNOWN] 好吧装有两百根。[UNKNOWN] 高品质钢制留声机。[UNKNOWN] 唱针的复古容器嗯。[UNKNOWN] 那你说它不加标点符号呢  (💬 可以一下看一下这个标志是什么 / 留声机 是不是可以留言 / 好有设计 / 一个标点都没有啊 / 还真是，他们为什么不加标点符号)
+[111m] ▫️ [UNKNOWN] 它又加了引号。[UNKNOWN] 数完版中所有的可修复物件让我爱。[UNKNOWN] 目前看起来是没有什么问题的。[UNKNOWN] 哦对其实也是蓝色。[UNKNOWN] 这这么一看的话。[UNKNOWN] 是蓝色没有什么问题啊。[UNKNOWN] 我们的颜色还原还是可以的。[UNKNOWN] 它第二层确实也是蓝色  (💬 喜欢 / 确实好神秘 / xs / 哇哇哇 / 要不加就都不加吧)
+[112m] 🔥 [UNKNOWN] 嗯对啊这就没了。[UNKNOWN] 毕竟只是个z梦梦。[UNKNOWN] 刚好叫托马鸽子起床。[UNKNOWN] 明天看看。[UNKNOWN] 另外一个  (💬 喜欢(x4) / 三个 / 看来把手用太多，颜色都磨损掉了 / 如果能修复的又新又旧的就好了 / 切出来会停？)
+[114m] 🔥 [UNKNOWN] 出新歌出黑交唱片。[UNKNOWN] 你们能播放吗。[UNKNOWN] 先雨下露露的哦。[UNKNOWN] 粉色灯牌三二三得。[UNKNOWN] SC而且精髓就在于。[UNKNOWN] 修复后能重新使用啊。[UNKNOWN] 给米敏康看同款咖啡机收腹等一下。[UNKNOWN] 谢谢林英的心愿彩蛋  (💬 喜欢 / 要修复一个卡带试试吗 / 反正还是很解压 / 没有黑胶机 / 月饼晴朗还有一个视频)
+[114m] 🔥 [UNKNOWN] 是的没错明天准备。[UNKNOWN] 去弄 去搜索一下那个游戏  (💬 月饼晴朗还有一个视频 / 基本都是收藏 / 不能，但收藏没问题 / 不能放的收藏感觉差点意思 / 喜欢)
+[115m] ▫️ [UNKNOWN] 看一下。[UNKNOWN] 嗯肯定会把这个完整的玩下来呀。[UNKNOWN] 那不然就先停在这里。[UNKNOWN] 有没有玩过任务星。[UNKNOWN] 因为他已经出真实版了。[UNKNOWN] 所以。[UNKNOWN] 确实还有一个。[UNKNOWN] 维修物语了。[UNKNOWN] 但文身物语的话  (💬 喜欢 / 米米有没有玩过room系列 / 啊？？？？ / 那就不玩了吧 / 我的黑胶和cd都收藏用了，流媒体还是太方便了)
+[116m] 🔥 [UNKNOWN] 也是另外一个品类了。[UNKNOWN] 类型的游戏了。[UNKNOWN] 罗盘咖啡机啊。[UNKNOWN] 比天是确实最喜欢留声机。[UNKNOWN] 前方可不是mok的人气票。[UNKNOWN] 是的姐姐早点去休息一会也好。[UNKNOWN] 就是正式版可能会有东西啊。[UNKNOWN] 这是保险柜吗  (💬 喜欢(x5) / 谢谢(x3) / 或者下周想玩再找找也可以 / 嗯，机械密室 / 不都是修吗，怎么是另外的品类)
+[117m] 🔥 [UNKNOWN] 保险箱。[UNKNOWN] 没修的时候就很喜欢了。[UNKNOWN] 嗯是的懂好。[UNKNOWN] 确实这个游戏整体。[UNKNOWN] 的流程让米汀的想到。[UNKNOWN] 嗯之前有看到了一个专门。[UNKNOWN] 清洗地面的什么的。[UNKNOWN] 那个游戏都不知道那个游戏叫什么。[UNKNOWN] 中在弄  (💬 喜欢(x7) / 应该是 / 保险柜吧，我感觉家里有 / 保险柜里的东西也要修复吗 / 第二个不知道是什么)
+[118m] 🔥 [UNKNOWN] 好像冰淇淋机。[UNKNOWN] 嗯稍等一下。[UNKNOWN] 明天书包之前填播的哦。[UNKNOWN] 视频。[UNKNOWN] 拿来看一眼。[UNKNOWN] 去年翻新成嗯青阳发现城。[UNKNOWN] 嗯。[UNKNOWN] 还是不太一样。[UNKNOWN] 哦对有点像那个冲就完了  (💬 喜欢(x6) / 冲就完了 / 冲就完事模拟器？ / 我记得有个游戏是清理案发现场的 / 我只知道清理犯罪现场)
+[120m] ▫️ [UNKNOWN] 大神就是被大家戏称为老布斯歌。[UNKNOWN] 的三十个是真真实。[UNKNOWN] 全是电锯化进程已经表成了。[UNKNOWN] 嗯版本三levd建模化的典型入口。[UNKNOWN] 像电门铃这种设备。[UNKNOWN] 也就成为了广大家庭的选择。[UNKNOWN] 所以我们中是这是真修复哈  (💬 喜欢(x3) / 这是真的修理了 / 超美丽3d！ / 画质好高 / 地球online来了)
+[120m] 🔥 [UNKNOWN] 可以说就是当时工业时代的缩影。[UNKNOWN] 这个木质的底座不仅。[UNKNOWN] 能够用于固定结构。[UNKNOWN] 同时也是天然脏脏的部分也好。[UNKNOWN] 真实啊。[UNKNOWN] 整体的稳定性其实。[UNKNOWN] 位于中间采用手工绕制的人。[UNKNOWN] 线圈一旦损坏的话  (💬 画质好高 / 地球online来了 / 這不是AI配音嗎 / [米汀收藏集表情包_看戏] / 超美丽3D)
+[120m] 🔥 [UNKNOWN] 是可以进行修。[UNKNOWN] 这不是AIP一点嗯听不出来呀。[UNKNOWN] 年代万你听只能认出来比较常见。[UNKNOWN] 的结构固了弹性与运动功能的显点。[UNKNOWN] 主要是这个它自带了一点。[UNKNOWN] 像像港台口一的触点。[UNKNOWN] 结构没听就分不太出来。[UNKNOWN] 他到底是不是很厉害了  (💬 这个不是AI配音 / 分不清虚拟和现实了 / 真修的话螺丝们是否能归位也是很关键的 / 不是吧 / 喜欢)
+[121m] 🔥 [UNKNOWN] 各系统形成自我循环。[UNKNOWN] 最后再通过敲击铃铛。[UNKNOWN] 目前听起来没有觉得很累呀。[UNKNOWN] 清脆的门铃声。[UNKNOWN] 对一整套完整的继电系统。[UNKNOWN] 就是当时对于电气化。[UNKNOWN] 最简单最直接的表达。[UNKNOWN] 是可以将底座放到  (💬 这个是台湾up好像 / 听不出来 / ai配不了这么好 / 台湾腔本身就太机车了哈哈哈 / 这是修的啥)
+[122m] 🔥 [UNKNOWN] 草酸里泡上一段时间的。[UNKNOWN] 五 接着打磨干净之后。[UNKNOWN] 就需要用到这种专用的木工腻子来。[UNKNOWN] 对刚刚暴力拆卸的孔洞进行填补哦。[UNKNOWN] 木工腻子专门填补规整后。[UNKNOWN] 消除解惑了底座进行深色染色处理。[UNKNOWN] 现在的小五五都是三的异味  (💬 填充 / 就自己打上去吧 / 拿方便面补上 / 填充点东西在打磨呗 / 换个螺帽更大的螺丝)
+[122m] 🔥 [UNKNOWN] 哦等它干掉这个部分。[UNKNOWN] 倒是一样的复合木蜡。[UNKNOWN] 这里面包含了用来。[UNKNOWN] 提高柔和光泽度的蜂蜡。[UNKNOWN] 而且这种啊在保护的。[UNKNOWN] 就是白钢玉。[UNKNOWN] 喷砂还要选喷料的。[UNKNOWN] 原来还以为是直接测量外径。[UNKNOWN] 这里呢小石哥是没有  (💬 还有渐变 / 米粉和漆就行 / 还以为是用方便面填充 / 我们少个腻子程序 / 做旧）)
+[123m] 🔥 [UNKNOWN] 做打磨规整的处理。[UNKNOWN] 而是想刻意的留下。[UNKNOWN] 一些时间清洗过的痕迹。[UNKNOWN] 那么这种真是电阻法去修复。[UNKNOWN] 去养护老物件的处理方式也是消失。[UNKNOWN] 哥在修复上。[UNKNOWN] 这几年来最你听刚刚还在说。[UNKNOWN] 感觉钉子没有什么安全感  (💬 要的呀 根据喷料不同效果也不同 / 要考虑硬度之类的吧 / 选硬度不同的 / 木质也可以喷，但是用软一点的 / 电镀)
+[123m] 🔥 [UNKNOWN] 这么一看的话。[UNKNOWN] 钉子的适用性还更高啊。[UNKNOWN] 除了脱落的上下直接翻下来。[UNKNOWN] 将左右两侧的固定挂钩给取下来。[UNKNOWN] 最后依旧是利用到。[UNKNOWN] 沙子来对表面进行打磨清理。[UNKNOWN] 清理过后呢再会使用到木工胶来。[UNKNOWN] 刚刚粘上去的那两部分  (💬 电镀 / 不是换的新钉子吗 / 有不同硬度和直径的喷涂颗粒，还要考虑喷的压力大小以及现场的湿度 / 汀子 / 黑白棕刚玉这些多数喷金属)
+[124m] 🔥 [UNKNOWN] 看样子已经无法继续使用。[UNKNOWN] 所以肖师哥也是从这一堆二手。[UNKNOWN] 剑中找了两个合适的来进行替换。[UNKNOWN] 你觉得是木工脚。[UNKNOWN] 嗯。[UNKNOWN] 主要是砂纸。[UNKNOWN] 而不说游戏里面那下下一告诉你的。[UNKNOWN] 就是这个砂纸可能  (💬 我觉得是木工胶 / 看材质 / 木工胶 / 粘的材质不一样 / 方向不一样)
+[124m] 🔥 [UNKNOWN] 不好被先索喷砂啊。[UNKNOWN] 喷砂来了里面的清理喷砂。[UNKNOWN] 到时候我们现在。[UNKNOWN] 看起来已经很熟悉了。[UNKNOWN] 是的五零二比较晚的。[UNKNOWN] 明天印象中连文俊今的外表。[UNKNOWN] 上上和这些些有日常有连鞋子的。[UNKNOWN] 都有小缺陷所以消失  (💬 502比较万能 / 好像是鱼漂这些做的？ / 有的是木头和塑料，有的是木头和金属之类的，胶的种类特别多 / 我总觉得这铃铛我们刚刚喷过 / [米汀收藏集表情包_看戏])
+[124m] 🔥 [UNKNOWN] 哥也会和之前一样将他们留下来。[UNKNOWN] 直接对外面进行。[UNKNOWN] 我觉得很好残苦。[UNKNOWN] 最后再用到这瓶工业。[UNKNOWN] 凡士林油来给您带入一道保护即可。[UNKNOWN] 还要弄油上去啊。[UNKNOWN] 还有专门的手套。[UNKNOWN] 嗯接着下一个要处理  (💬 [米汀收藏集表情包_看戏] / 你看吧还要专门的手套 / 心虚 / 还要涂油保护 / 防锈油)
+[125m] 🔥 [UNKNOWN] 的就是这个衔接组件。[UNKNOWN] 顾名思义作为一个组件。[UNKNOWN] 这个也是喷上来的主神。[UNKNOWN] 他没讲他刚刚用的那个是什么。[UNKNOWN] 所以对于这三个部分消失。[UNKNOWN] 哥会做三种不同的处理方式。[UNKNOWN] 那么在统一喷炸之后。[UNKNOWN] 敲击感会进行打磨  (💬 喝茶 / 专业 / 就我们工作用到的胶水就有十几种，应对不同的场合 / 喜欢 / 凡事灵)
+[125m] 🔥 [UNKNOWN] 抛光以及镀镍的处理。[UNKNOWN] 而这个敲气球呢。[UNKNOWN] 是不需要镀镍的。[UNKNOWN] 像素哥给他选择了。[UNKNOWN] 保留原来的黄龙市面。[UNKNOWN] 用喷砂去除镀裂层。[UNKNOWN] 接着再抛光一遍即可。[UNKNOWN] 抛光。[UNKNOWN] 我们也是直接我分则会使用  (💬 喝茶(x4) / 去合作的胶水厂调研人家有几百种不同应用场景的胶水 / 敲铃铛了 / 看起来好有趣啊这种工作 / 这感觉就是高级知识了)
+[125m] 🔥 [UNKNOWN] 到发蓝注理液来进行冷发蓝处理。[UNKNOWN] 冷发蓝。[UNKNOWN] 能发来是为了给他上色的吗。[UNKNOWN] 还是什么。[UNKNOWN] 这一堆小小的黄龙。[UNKNOWN] 零件呢则会进行一轮超声波大惊喜。[UNKNOWN] 以及哦这个。[UNKNOWN] 哇。[UNKNOWN] 看起来把脏东西全部弄出来了很  (💬 喝茶(x4) / 看起来好有趣啊这种工作 / 这感觉就是高级知识了 / 工艺就不知道了 / 防护)
+[125m] 🔥 [UNKNOWN] 很酷啊。[UNKNOWN] 印象中之前有看到。[UNKNOWN] 过那种是什么洗隐形眼镜。[UNKNOWN] 也有像抛开了一样嗯。[UNKNOWN] 但是震走了就超超声波。[UNKNOWN] 洗东西的是没问题的。[UNKNOWN] 所以消失哥会选择哦。[UNKNOWN] 不是超声波架。[UNKNOWN] 拆灯开来再做分别的处理  (💬 喝茶(x3) / 下饭 / 防锈的 / 哇哦 像泡开了一样 / 防锈的吧)
+[126m] 🔥 [UNKNOWN] 首先这个支架总感觉。[UNKNOWN] 你之前还看过什么其他类似。[UNKNOWN] 冷氧化是常温转化膜菇因素。[UNKNOWN] 嗯。[UNKNOWN] 这个也是轮发蓝处理。[UNKNOWN] 接着就会进入到最后的组装环节。[UNKNOWN] 我们也来复习一下。[UNKNOWN] 这种电门铃的工作原理  (💬 表面形成致密的氧化膜，避免内部生锈 / 脏污嗡的一声就出来了 / 下饭 / 烤漆 / 好多设备呀)
+[127m] ▫️ [UNKNOWN] 交际感就会直接敲打铃铛发出声音。[UNKNOWN] 于是就进入到下一个循环当中。[UNKNOWN] 这个过程你什么时候松。[UNKNOWN] 什么时候停不断的。[UNKNOWN] 循环重复每秒可以发现是个好古典。[UNKNOWN] 最终我们所听到的。[UNKNOWN] 就不是单一的叮叮声。[UNKNOWN] 而是一连转的铃铃滴铃  (💬 裸线圈还挺酷 / 还以为你在叫我 / 像在上高中电磁学知识 / 看起来简单的门铃也有好复杂的工艺啊 / 好古典的物理)
+[128m] 🔥 [UNKNOWN] 好了在复习完原理之第一首消失。[UNKNOWN] 歌也搞定了组装。[UNKNOWN] 那么这一台生产于上世纪三十年代。[UNKNOWN] 的法国古董店门铃也就停一下呗。[UNKNOWN] 完成。[UNKNOWN] 回顾一下想听想听一下吗。[UNKNOWN] 三。[UNKNOWN] 那么接下来小石哥  (💬 叮叮叮叮 / 可爱滴捏 / 物理好神奇！！！ / 刚刚叮了一下 / 喜欢)
+[128m] 🔥 [UNKNOWN] 会通备准么音接通八伏。[UNKNOWN] 十二伏二十四伏的电压。[UNKNOWN] 来给我们听一下不同。[UNKNOWN] 电压之间的区别啊。[UNKNOWN] 去这首。[UNKNOWN] 现在音乐store星光铃铛。[UNKNOWN] 是频率会更高。[UNKNOWN] 心里晕到了。[UNKNOWN] 胡山道二点五好用液和胡山道  (💬 你的比较好听 / 哎，这些灰都是古董啊 / 这下听到了 / 会有使用过程的 / 听一下)
+[129m] 🔥 [UNKNOWN] 六十星耀花园。[UNKNOWN] 恭喜恭喜谢谢你的星耀花园。[UNKNOWN] 感觉还是。[UNKNOWN] 嗯。[UNKNOWN] 妈一一点好好一点。[UNKNOWN] 全部视频就觉得了。[UNKNOWN] 感谢大家的观看富日和星光光单。[UNKNOWN] 谢谢凌莹的好优艳。[UNKNOWN] 恭喜恭喜恭喜恭喜  (💬 喜欢(x4) / 是的 / 我去 铃铛抽出花园了 / 五删掉六十 / 赚了)
+[129m] 🔥 [UNKNOWN] 马克斯的谢伊落落选。[UNKNOWN] 的刷的虎雕星光铃铛。[UNKNOWN] 是你的星光铃铛。[UNKNOWN] 谢谢来了来了。[UNKNOWN] 今天主要说责就是一台生长。[UNKNOWN] 于上世纪三十年代的古董店门铃。[UNKNOWN] 而本期操刀的修复大神。[UNKNOWN] 就是被大家牺称为老木斯歌  (💬 喜欢(x4) / 确实 24伏太急了 / 太密反而听不清 / 米米的匠心手作铃铛比较好听 / 米米米米米亲亲)
+[129m] 🔥 [UNKNOWN] 来自于法国的欧洲。[UNKNOWN] 炼二代小时哥咖啡机。[UNKNOWN] 话说在年代整个欧洲地区哦。[UNKNOWN] 全部都是这个其置作为一个极端的。[UNKNOWN] 还真的是同款精致的修比较工款。[UNKNOWN] 在修复圈独立风骚或了中期。[UNKNOWN] 同一个人的视频居然是被三十五美元  (💬 不如米米手敲的 / 喜欢 / 你们看的是同一个up主啊 / 和刚修的那个一样哎 / 基本上一样了吧)
+[130m] 🔥 [UNKNOWN] 从网上淘回来的古董咖啡研磨机。[UNKNOWN] 也就是感觉还要更古一点。[UNKNOWN] 原来它机身中最辉煌的时刻。[UNKNOWN] 注意看这里的螺子全可能弄坏了。[UNKNOWN] 要继续拆卸的话。[UNKNOWN] 那就先得将这里的油漆用脱机器去除。[UNKNOWN] 脱机器。[UNKNOWN] 这台古董机器并没有  (💬 和刚修的那个一样哎 / 基本上一样了吧 / 是有点古董了 / 三十五美元？？？ / 研磨机)
+[130m] 🔥 [UNKNOWN] 任何的铭文标识。[UNKNOWN] 所以不能够确定这台机器的哦。[UNKNOWN] 年份它是上完了之后。[UNKNOWN] 最后再喷漆的简单的推断。[UNKNOWN] 材质由金属板材构成。[UNKNOWN] 而商业版本的咖啡机。[UNKNOWN] 以铸铁为主的大型咖啡研磨镜。[UNKNOWN] 原本的类似的死猫  (💬 看来这个up是业内大能 大家都看他的 / horns / 这个零件要少挺多吧 / 漆面含铅的话 一般是不能喷砂的 / 我们刚刚是22年)
+[131m] 🔥 [UNKNOWN] 在拖气完成之后。[UNKNOWN] 当然要进入我们。[UNKNOWN] 谢谢亚丽。[UNKNOWN] 嗯谢谢亚丽。[UNKNOWN] 这次艾斯克劳蒂尔的。[UNKNOWN] 谢谢哈哈谢谢啊。[UNKNOWN] 白钢玉的氧化铝。[UNKNOWN] 含量是多少 嗯嗯。[UNKNOWN] 哎。[UNKNOWN] 你听不知道啊  (💬 这个搓起来好带感 / 会的，这才叫修复 / 应该会吧 / 还有答题环节 / 米米老师教教我)
+[131m] 🔥 [UNKNOWN] 乱猜的。[UNKNOWN] 哎这么长吗。[UNKNOWN] 等答案要要等这么久啊。[UNKNOWN] 老师喷洒完成零件。[UNKNOWN] 都展现出了迷人的裸啊。[UNKNOWN] 什么老师你不给答案的吗。[UNKNOWN] 那极极细致的修复环节。[UNKNOWN] 首首先处理枪射的主体部分可以接  (💬 考考你时间 / 哈哈哈哈 / 现在的工业能力买一个手磨咖啡机要不要200块[OH] / 喝茶 / 不会就选C说是)
+[132m] 🔥 [UNKNOWN] BILZL的并且一点都不圆滑狂欢。[UNKNOWN] 盲盒盒。[UNKNOWN] 你有五个旁徨盲盒。[UNKNOWN] 并进行冲击的可空三个风铃镜人哦。[UNKNOWN] 个个风铃剑和一个好运女花。[UNKNOWN] 谢以处理下一个零件。[UNKNOWN] 形状都不是那么的板正。[UNKNOWN] 好像写的是九十氧气增加呃  (💬 会给答案吗 / 不告诉你哈哈 / 答案要翻到书的最后面吗 / 穿山甲到底说了什么 / 下饭)
+[133m] ▫️ [UNKNOWN] 你签约好像还没有去过守护讲道理。[UNKNOWN] 去哪里旅游。[UNKNOWN] 感觉还没呃六万。[UNKNOWN] 这个需要重新制作这两个螺栓。[UNKNOWN] 并且还要多做两个。[UNKNOWN] 这看起来好酷哦。[UNKNOWN] 制作螺旋栓的过程。[UNKNOWN] 是的日本的话好像用现金  (💬 喜欢 / jp基本要现金吧 / 这也算漆的一种吧 / 得看当地现金使用情况吧 / 逮捕)
+[134m] 🔥 [UNKNOWN] 都还蛮多的这就是新螺栓的样子。[UNKNOWN] 非常的帅气。[UNKNOWN] 除此之外它都打磨了螺母和垫片。[UNKNOWN] 也需要进行重新的制作。[UNKNOWN] 除了品相的问题。[UNKNOWN] 最重要的是螺纹的规格不一样。[UNKNOWN] 而重新制作的螺母。[UNKNOWN] 和和片除除了收后  (💬 喝茶 / 车工 / 现车螺栓 / 换现金不会错就是了 / 确实酷)
+[134m] ▫️ [UNKNOWN] 并在最后发黑处理。[UNKNOWN] 狂欢芒菇谢谢神迷古。[UNKNOWN] 但是确实几个会去除多余的汗量。[UNKNOWN] 并对整个精料碗进行细致的打磨。[UNKNOWN] 我都已经看不出来刚才的结果了。[UNKNOWN] 这就是进料碗打磨。[UNKNOWN] 规整完全之后的样子。[UNKNOWN] 真的是太耀眼了  (💬 便利店换现金，亏似了 / 烤蓝 / 好酷 / 应该都差不多 / 这个就是相对的热发蓝)
+[135m] 🔥 [UNKNOWN] 底部和侧边的焊接痕迹哦。[UNKNOWN] 看到了看到咬银的样子。[UNKNOWN] 另外基哥还利用一根穿通电线。[UNKNOWN] 制作了四个铜铆钉。[UNKNOWN] 用于固定进料丸。[UNKNOWN] 其他制作了这些钉子。[UNKNOWN] 感觉品相都很好的样子。[UNKNOWN] 螺杆上的螺纹有一部分已经磨没了  (💬 喜欢 / 机哥的活很细致的 / 抛光 / 还是看出来了一点 / 还是有点手术痕迹的)
+[136m] ▫️ [UNKNOWN] 但是感觉研磨机这种。[UNKNOWN] 他们用了很久的话进行修修复。[UNKNOWN] 肯定会影响大家打磨磨剪的的方式。[UNKNOWN] 长时间什么情况哦。[UNKNOWN] 帮我们护眼的。[UNKNOWN] 嫌弃这白白的。[UNKNOWN] 你真好看。[UNKNOWN] 多元焊料规整表面。[UNKNOWN] 之后就得到了这样的半开放式螺纹  (💬 喜欢 / 喝茶 / 这个磨芯磨损很严重啊 / 保护你的眼睛啊 / 是的哈哈)
+[136m] 🔥 [UNKNOWN] 由于这个螺纹并不是标准制的。[UNKNOWN] 所以只能使用三角锁进行手搓螺纹。[UNKNOWN] 我还有手挫不错不愁。[UNKNOWN] 那么这个墨契也就注意完了。[UNKNOWN] 经过处理的墨镜。[UNKNOWN] 它的底部甚至达到了镜面的效果。[UNKNOWN] 这个手柄轴给取下来。[UNKNOWN] 再用台钻把残留的部分给打出来  (💬 护眼模式 / 会的 / 米米妈妈刚教的知识 / #护眼模式 / 喜欢)
+[137m] ▫️ [UNKNOWN] 而与曲柄搭配的手柄。[UNKNOWN] 除了满满的包浆。[UNKNOWN] 最后最后屈附于了一原原厂配色。[UNKNOWN] 那么现在所有的。[UNKNOWN] 零件都已经修复完成。[UNKNOWN] 可以进入最后的组装环节 首先。[UNKNOWN] 用来安装上盖板。[UNKNOWN] 它这个是锥形的  (💬 好贴心啊 / 这个重做了好多 / 这个零件我们刚刚看过 / 好耶 / 这个把手也看过！)
+[140m] ▫️ [UNKNOWN] 最后是要把可粉和粉后装上。[UNKNOWN] 这个角度的问题呢。[UNKNOWN] 还是之前说过机器没有那么的板正。[UNKNOWN] 感觉这个底座是有点歪的。[UNKNOWN] 但这个粉盒盖的又是这么的严实。[UNKNOWN] 所以大家觉得是哪里的问题呢。[UNKNOWN] 那么接下来就是演示环节  (💬 喜欢(x3) / 真好看 / 里面是垫的绒吧 / 黑色的绒布 / 刚出厂的)
+[141m] 🔥 [UNKNOWN] 毕竟是美食星期四磨一杯咖啡。[UNKNOWN] 美食星期四正如刚刚所说。[UNKNOWN] 最近墨清还是能够。[UNKNOWN] 分辨得出颗粒的形状。[UNKNOWN] 那么这期的修复视频就到这里了。[UNKNOWN] 好的好的谢纯白莫白的粉丝灯牌。[UNKNOWN] 谢谢了。[UNKNOWN] 灭不飞宝UZ的粉丝  (💬 喜欢(x9) / 岂敢(x4) / 谢谢(x3) / [UPOWER_2124647716_哈哈] / 早安早安)
+[141m] 🔥 [UNKNOWN] 灯牌是大美食领域。[UNKNOWN] 机械师作为一个极端好了。[UNKNOWN] 这一次其精致的修复。[UNKNOWN] 风格一直在修复圈独领风骚。[UNKNOWN] 那么这一期饥饿大奖。[UNKNOWN] 那么我们今天。[UNKNOWN] 的早安修复。[UNKNOWN] 差不多也到这儿了不平整的问题  (💬 喜欢(x11) / 谢谢(x3) / 岂敢(x3) / 早安早安 / [UPOWER_2124647716_哈哈])
+[141m] 🔥 [UNKNOWN] 他不是矫正过了吗。[UNKNOWN] 然后最后发现还是会有一点。[UNKNOWN] 所以你听不见了。[UNKNOWN] 他有没有矫正过。[UNKNOWN] 谢谢了。[UNKNOWN] 夜来梦雪的鼓掌。[UNKNOWN] 米汀的热水袋已经完全干掉了。[UNKNOWN] 我不是干掉了。[UNKNOWN] 不是完全冷掉了  (💬 喜欢(x9) / 岂敢(x3) / 早安早安 / [UPOWER_2124647716_哈哈] / 谢谢)
+[142m] 🔥 [UNKNOWN] 谢夜来梦雪的鼓掌。[UNKNOWN] 谢医乐醒谢一乐喜的撒花。[UNKNOWN] 谢谢你的撒花。[UNKNOWN] 谢微微的倾诉不好说。[UNKNOWN] 现在他更热还是你听更热。[UNKNOWN] 没看没看没看说错了。[UNKNOWN] 对他是嗯什么。[UNKNOWN] 小乖乖的情书小完结小花  (💬 喜欢(x5) / 干掉了有点恐怖 / 哈哈哈哈哈 / 干掉还行 别喝 / 干掉了吗)
+[142m] 🔥 [UNKNOWN] 谢啊。[UNKNOWN] 说明什么。[UNKNOWN] 说明明天该去睡觉了。[UNKNOWN] 准备去补补觉了。[UNKNOWN] 争取。[UNKNOWN] 嗯下午晚上早点起。[UNKNOWN] 我看看今天能不能直接他东西知到。[UNKNOWN] 谢谢。[UNKNOWN] 零我知道谢林英的心愿彩带  (💬 谢谢(x5) / 喜欢(x3) / 88888 / 干杯🍻？ / 热水袋是昨晚的热水袋吗)
+[143m] 🔥 [UNKNOWN] 谢谢了。[UNKNOWN] 尼洛的誓约的粉三灯牌。[UNKNOWN] 算了还有个东西。[UNKNOWN] 等一下到时候弄好了一起寄吧。[UNKNOWN] 谢谢说迫不七。[UNKNOWN] 谢谢说迫不弃的鼓掌。[UNKNOWN] 谢谢。[UNKNOWN] 人月影听中的比芯。[UNKNOWN] 那么谢谢大家  (💬 谢谢(x6) / 拜拜拜拜(x6) / 喜欢(x3) / [米汀收藏集表情包_小睡] / 午安)
+[143m] 🔥 [UNKNOWN] 然后蜜天中午的。[UNKNOWN] 早安修复啊我们嗯就下次再见吧。[UNKNOWN] 拜发到仓库啊。[UNKNOWN] 当然谢谢美丽丝的比心。[UNKNOWN] 嗯。[UNKNOWN] loarly free的粉享灯牌。[UNKNOWN] 那么大家。[UNKNOWN] 下次再见吧拜。[UNKNOWN] 拜哦  (💬 拜拜拜拜(x6) / 谢谢(x5) / 喜欢(x3) / [米汀收藏集表情包_小睡] / 午安)
+[143m] 🔥 [UNKNOWN] 对了中午要是准备点外卖的话。[UNKNOWN] 可以淘宝闪购搜索你家的粮票。[UNKNOWN] 或者美团搜索。[UNKNOWN] 每天零二一二零嗯领一下。[UNKNOWN] 购物券。[UNKNOWN] 购物券。[UNKNOWN] 优惠券。[UNKNOWN] 购物券不太对优两券。[UNKNOWN] 下次再影响  (💬 拜拜拜拜(x7) / 喜欢(x3) / 88 / 8888 / 888888)
+[144m] 🔥 [UNKNOWN] 可以领一下那个嗯优惠券。[UNKNOWN] 在点。[UNKNOWN] 外卖呀。[UNKNOWN] 拜。[UNKNOWN] 谢谢lonning y的粉丝三牌。[UNKNOWN] 谢谢涵涵喜糖谢憨憨吸糖豆。[UNKNOWN] 喜欢你喜你喜欢。[UNKNOWN] 你是零一的哦心愿彩蛋。[UNKNOWN] 谢谢月影厅中的学愿彩蛋  (💬 拜拜拜拜(x3) / 喜欢 / [米汀收藏集表情包_小睡] / 被双11洗脑了都 / 心虚)
+[144m] ▫️ [UNKNOWN] 嗯晚上光会再见的。[UNKNOWN] 因为是感觉每天可以直接睡。[UNKNOWN] 嗯谢谢不过难受。[UNKNOWN] 想玩什么就玩什么吧。[UNKNOWN] 都可以了。[UNKNOWN] 是然后谢谢夜来梦雪的硬币。[UNKNOWN] 谢本想投给竹轴的硬币。[UNKNOWN] 但是竹轴没坚持到。[UNKNOWN] 十二点没坚持到十二点  (💬 谢谢(x4) / 无聊怎么办呢，玩什么游戏 / 漏了我的硬币！ / 睡！ / 晚安晚安)
+[145m] 🔥 [UNKNOWN] 攒起来给你投两个。[UNKNOWN] 好疼。[UNKNOWN] 好好休息睡个好觉嗯。[UNKNOWN] 那么。[UNKNOWN] 你听 准备去好好休息了。[UNKNOWN] 是的结束了。[UNKNOWN] 没有了没有了。[UNKNOWN] 本来是那个看到我的。[UNKNOWN] 可以看到后台说什么没  (💬 谢谢(x3) / 赛马娘工商结束了吗 / 喜欢 / 已经可以随便玩游戏了[大笑] / 轴轴是周三播的，没过12点就下播了)
+[146m] 🔥 [UNKNOWN] 谢谢月影听舟的心愿。[UNKNOWN] 彩蛋毕竟扫码还是有点太难了。[UNKNOWN] 如果不是一直挂着的话。[UNKNOWN] 你没有白吧。[UNKNOWN] 总之大家拜。[UNKNOWN] 明天要去补午觉了。[UNKNOWN] 还是有下载注册的。[UNKNOWN] 是的每天自己有下载注册。[UNKNOWN] 但是确实没有空传时间去研究  (💬 拜拜拜拜(x10) / 喜欢 / [米汀收藏集表情包_安慰] / 白做宣传了 / 还是有下载注册的)
+[146m] 🔥 [UNKNOWN] 影响也还蛮大的。[UNKNOWN] 米亲是有把那个。[UNKNOWN] 二维码放在动态里面的。[UNKNOWN] 就是。[UNKNOWN] 走了。[UNKNOWN] 玩到a了都。[UNKNOWN] 这么好。[UNKNOWN] 谢支持。[UNKNOWN] 那么大家拜拜。[UNKNOWN] 拜。[UNKNOWN] 傻次再见吧  (💬 拜拜拜拜(x9) / 喜欢 / 午安午安[比心] / 不过米米还没实际玩过吧 / 我领完新手奖励就没上过了)
+[146m] 🔥 [UNKNOWN] 嗯嗯  (💬 拜拜拜拜(x3) / 拜拜拜 ，睡个好觉晚上见哦 / 谢谢)
+[149m] 🔥 [UNKNOWN] 嗯。[UNKNOWN] 拜拜  (💬 喜欢 / 岂敢 / [米汀收藏集表情包_小睡] / 谢谢)
+[150m] 🔥 [UNKNOWN] 嗯嗯  (💬 早安(x3) / 早安，好好休息~ / 早早早 / 早安早安)
