@@ -1,0 +1,216 @@
+## 晚安回复
+
+---
+generatedAt: "2026-11-15T11:43:01.995Z"
+sourceHighlight: "录制-31368705-20261115-151433-033-「时之笛」重制版第六回_AI_HIGHLIGHT.txt"
+provider: "daiYu"
+model: "gpt-6-luna"
+fallback: false
+attempts:
+  - provider: "daiYu"
+    model: "gpt-6-luna"
+    status: "success"
+    finishReason: "completed"
+    maxTokens: 100000
+    completionTokens: 357
+    promptTokens: 67042
+    cachedTokens: 0
+    cacheWriteTokens: 0
+    reasoningTokens: 249
+    apiModeRequested: "responses"
+    apiModeUsed: "responses"
+    sharedPromptCacheKey: "25b0e4adcc3fc66ef01f9154fc57499ebac6ef78e1a36353d7e1f52025a8fd47"
+    sharedPromptPrefixChars: 103108
+    explicitPromptCache: "implicit_routed"
+    promptCacheRolloutBucket: 9869
+    totalTokens: 67399
+    requestId: "da511024-e969-49fc-b18a-6cd77322ae31"
+    responseId: "resp_01865a3004767508016af99ac1eeb887d0a46ac2f0241797da"
+    requestStarted: true
+---
+镜盾把激光反射回去那一下好帅，后面又为了稻草人绕来绕去，差点没找到，最后总算把区域达成率补到百分之百，看得我也跟着松了口气！四小时陪着林克慢慢查漏补缺，米米真的辛苦啦，喜欢这种边探索边聊天的陪伴感。下播去吃饭休息吧，也记得注意安全呀～
+
+---
+
+## Highlight
+
+【摘要】(保留率: 前35%热度 + 10%随机)
+---
+【参与者】计划参与: 无
+【参与者】实际出声: 无
+【归属说明】名单不证明逐句身份；实际出声仅指音轨匹配，也可能来自被观看内容。UNKNOWN和匿名标签不可归给房主。
+---
+[4m] 🔥 [UNKNOWN] Hello。[UNKNOWN] 下午好下午好。[UNKNOWN] 我是一首无力更想。[UNKNOWN] 听你说的普通声音。[UNKNOWN] 你没听哪天啥。[UNKNOWN] 在喂猫。[UNKNOWN] 你们将会听到他吃零食的声音。[UNKNOWN] 上午好。[UNKNOWN] 没有不是猫条呃。[UNKNOWN] 是什么  (💬 喜欢(x14) / 下午好(x6) / 下午好下午好(x5) / 米米下午好(x3) / 午好午好)
+[5m] 🔥 [UNKNOWN] 他的洁。[UNKNOWN] 嗯洁牙的。[UNKNOWN] 零食。[UNKNOWN] 上午好。[UNKNOWN] 欢迎来到我们。[UNKNOWN] 是之地城市本的。[UNKNOWN] 第六回啊。[UNKNOWN] 应该要弄了应该要完结了。[UNKNOWN] 明天看到了。[UNKNOWN] 全阿逼全部都是那个呃祝贺  (💬 喜欢(x11) / 恭喜恭喜 / 看看什么零食 / 洁牙的 / 下午好捏)
+[5m] 🔥 [UNKNOWN] 太好了。[UNKNOWN] 嗯。[UNKNOWN] 你们看的开心太好了。[UNKNOWN] 元单的鸭子。[UNKNOWN] 你呢不是。[UNKNOWN] 牙结石横行。[UNKNOWN] 怎么可能说这个石呢。[UNKNOWN] 嘘。[UNKNOWN] 谢谢啊。[UNKNOWN] 夜梦有没有唱。[UNKNOWN] 现在幽梦有没有抢播  (💬 喜欢(x4) / 米米的同事获得世界冠军了 / 恭喜恭喜 / 可爱捏 / 好诶)
+[6m] 🔥 [UNKNOWN] 乐园新城直播。[UNKNOWN] 看了全程爽到了。[UNKNOWN] 恭喜恭喜。[UNKNOWN] 恭喜恭喜。[UNKNOWN] 是的济南快到了。[UNKNOWN] 全部都说热搜不枉你们。[UNKNOWN] 有人熬夜熬都能说。[UNKNOWN] 是。[UNKNOWN] 有号七天会员吗。[UNKNOWN] 没有不知道这个怎么弄啊  (💬 今天一觉醒来看到喜报啊 / 米米有薅阿b的七天会员吗 / 我起来也是先问谁赢了 / 米米的同事获得世界冠军了 / 好多年了不容易啊)
+[6m] 🔥 [UNKNOWN] 接下来了一梦也没抢到了。[UNKNOWN] 乐圆星球以前也是先问的声音了。[UNKNOWN] 这需要问吗。[UNKNOWN] 你天是打开RP。[UNKNOWN] 就看到了这个横幅什么的。[UNKNOWN] 全部都变了。[UNKNOWN] 然后明天还要看到自己被艾特。[UNKNOWN] 然后看了一下艾特里面  (💬 喜欢(x4) / 问号 / 还好吧，毕竟米米休息也四点多了 / 好像后面几场打得还算顺利 / 送7天会员但是进去领不了)
+[7m] 🔥 [UNKNOWN] 有人说有人说弄有人在弄那个什么。[UNKNOWN] 嗯。[UNKNOWN] 大地老蛇。[UNKNOWN] 的。[UNKNOWN] 就他们有养鱼的嘛。[UNKNOWN] 那有养鱼的好像。[UNKNOWN] 有条鱼。[UNKNOWN] 说。[UNKNOWN] 嗯说是在虚拟主播区茶坊游笼。[UNKNOWN] 然后  (💬 喜欢(x3) / 问号(x3) / 惊讶 / 点进大会员就会有弹窗 / 我是网页端领到了，热搜点进去)
+[7m] 🔥 [UNKNOWN] 在米天的直播间里面送了三个灯牌。[UNKNOWN] 怎么半天没听写头白。[UNKNOWN] 这个完全没注意到。[UNKNOWN] 是我们昨天。[UNKNOWN] 发现了吗。[UNKNOWN] 不是吧好像不是。[UNKNOWN] 嗯都想嗯。[UNKNOWN] 但是好像是。[UNKNOWN] 等车谢的对能理觉自己是松的  (💬 等了 / 什么，还有大肥鱼送礼物的吗 / 有灯牌你都谢了吧 / 鱼自己送的吗 / 问号)
+[8m] 🔥 [UNKNOWN] 好像是。[UNKNOWN] 可能是要偏的。[UNKNOWN] 不是是在下面评论区。[UNKNOWN] 有人在总结内容。[UNKNOWN] 人生米汀也没搞懂。[UNKNOWN] 好像是怎么总结的的。[UNKNOWN] 我感觉像是嗯像人状。[UNKNOWN] 我现在还不知道了。[UNKNOWN] 你又没法看视频  (💬 鱼又没法看视频 / 是有印象的id吗 / ai分析了自己当天干了什么吧，写工作日记 / 该换个头像和ID去装鱼了 / 可能有弹幕提了什么漏啥了 被AI误以为事实了)
+[8m] 🔥 [UNKNOWN] 嗯好像是可以看的吧。[UNKNOWN] 这个这不是很清楚了。[UNKNOWN] 反正它是可以呃按。[UNKNOWN] 弹幕的内容。[UNKNOWN] 昨天我们看到有一条鱼。[UNKNOWN] 就是按弹幕的内容发弹幕的。[UNKNOWN] 谢谢夜梦里面抢的。[UNKNOWN] 乐园星球。[UNKNOWN] 谢谢夜兰梦雪的乐园星球  (💬 喜欢 / 该换个头像和ID去装鱼了 / 可能有弹幕提了什么漏啥了 被AI误以为事实了 / 没看到，不知道 / 看视频也太烧token了)
+[9m] 🔥 [UNKNOWN] 米t也觉得看视频的话很少头疼哦。[UNKNOWN] 星夜梦有没有抢到饭团。[UNKNOWN] 哎呦刚起来想走。[UNKNOWN] OP的时候还有v呀。[UNKNOWN] 是吗。[UNKNOWN] 诺基亚做什么了。[UNKNOWN] 明天先谢一下礼物啊。[UNKNOWN] 谢谢。[UNKNOWN] 伊丽丝的棒棒糖和粉色灯牌  (💬 喜欢 / 喝茶 / 刚刚开播前也有条 / 大肥鱼@的米米吗 / 嗓子好哑)
+[9m] 🔥 [UNKNOWN] 不是大学娱乐艾特的meeting。[UNKNOWN] 好像是我路人艾特的meeting。[UNKNOWN] 谢伊对四的棒棒糖。[UNKNOWN] 和粉钻灯牌乘一万四。[UNKNOWN] 怎样子刷到五聊啊。[UNKNOWN] 星光玲珑谢谢。[UNKNOWN] 行请工作日谢谢。[UNKNOWN] 那四个张萌  (💬 喜欢(x7) / 喝茶 / 阿b也要搞串子看点总结吗 / 我感觉是 / 放OP的时候我在看阿尔吉侬的花束，没有注意到鱼。差一点点看完了)
+[9m] 🔥 [UNKNOWN] 上炖鱼的不是大朋友。[UNKNOWN] 嗯那就不是很清楚。[UNKNOWN] 老你听看那个评论。[UNKNOWN] 以为说。[UNKNOWN] 看评论。[UNKNOWN] 描述语文说是哦等下下hello。[UNKNOWN] 就是每婷开包之才能看到也来不及。[UNKNOWN] 嗯。[UNKNOWN] 那说不定是你比天误会了  (💬 喜欢(x9) / 喝茶 / 我感觉是 / 放OP的时候我在看阿尔吉侬的花束，没有注意到鱼。差一点点看完了 / [米汀收藏集表情包_净化])
+[10m] 🔥 [UNKNOWN] 翻我p的时候。[UNKNOWN] 在看二技能的话。[UNKNOWN] 树没有追到鱼差一点点就看完了。[UNKNOWN] 在看书吗。[UNKNOWN] 书到了。[UNKNOWN] 稍等稍等米汀先继续写礼物。[UNKNOWN] 谢谢不清重名的乐乐园星球。[UNKNOWN] 谢谢帕里斯帕劳的薯条。[UNKNOWN] 谢匿匿名谢匿名的粉丝抱枕  (💬 喜欢(x3) / 开视频其实就是读字幕和抽关键帧，然后读关键帧画面 / 薯条酱摸摸 / 看的长篇的电子书，短篇的前几天就找到电子版的看完了)
+[10m] 🔥 [UNKNOWN] 谢谢nollefree的粉气票。[UNKNOWN] 谢谢林音的打call。[UNKNOWN] 谢谢冰西深夜七份。[UNKNOWN] 这是全抽的猫。[UNKNOWN] 嗯你七十八的电池刷了。[UNKNOWN] 能看来色。[UNKNOWN] 谢谢你的电唱金群和墨雨蓝电台。[UNKNOWN] 谢是thank you  (💬 喜欢 / 薯条酱摸摸 / 看的长篇的电子书，短篇的前几天就找到电子版的看完了 / [米汀收藏集表情包_安慰] / 19次？？？)
+[12m] 🔥 [UNKNOWN] 谢谢你的嗯。[UNKNOWN] 谢谢你的这么应该喜欢什么系列呢。[UNKNOWN] 点唱系列。[UNKNOWN] 嗯不管不管相信能刷十九次。[UNKNOWN] 你这是我亏了多少啊 嗯。[UNKNOWN] 谢街道送三的牌谢US。[UNKNOWN] 谢谢你的点唱进曲谢谢US。[UNKNOWN] 下午好  (💬 好惨，拍拍你 / [米汀收藏集表情包_净化] / 我昨天刷了13次感觉已经很离谱了 / 不如1600根薯条了 / [米汀收藏集表情包_truemusic])
+[13m] 🔥 [UNKNOWN] 差不多一半。[UNKNOWN] 都亏了吗。[UNKNOWN] 今天。[UNKNOWN] 昨晚熬到夜吃的饿。[UNKNOWN] 感觉这几年没白给阿迪充钱。[UNKNOWN] 恭喜恭喜。[UNKNOWN] 今天下午能完结吗。[UNKNOWN] 不知道但是其实完结了。[UNKNOWN] 晚上还没有想好要做什么  (💬 喜欢(x6) / 下饭 / 今天下午能完结时之笛吗 / 恭喜恭喜 / 我总共尝试了两个点唱金曲，一个15次，不信邪，今天又试了一下，19次，信邪了)
+[13m] 🔥 [UNKNOWN] 有的时候可以把嗯金偶像给完结了。[UNKNOWN] 这里有。[UNKNOWN] 嗯另外的话就是还没想好。[UNKNOWN] 谢九幺幺。[UNKNOWN] 谢九幺幺走SC强行减手。[UNKNOWN] 嗯爱情。[UNKNOWN] 嗯。[UNKNOWN] 算是完美收场好的。[UNKNOWN] 收。[UNKNOWN] 这个吗  (💬 喜欢(x7) / 恭喜恭喜 / 我总共尝试了两个点唱金曲，一个15次，不信邪，今天又试了一下，19次，信邪了 / 下午好 / 先看看吧)
+[14m] 🔥 [UNKNOWN] 让我们恭喜嗯什么恭喜第二季是吧。[UNKNOWN] 恭喜。[UNKNOWN] 你是说玩王累吗。[UNKNOWN] 真开王的呀那要那要打好久的。[UNKNOWN] 谢。[UNKNOWN] 现在吃码头吗。[UNKNOWN] 薯条还有很多的SC。[UNKNOWN] 以后再也不玩攻防了。[UNKNOWN] 我七十八电池的刷新了十九次  (💬 喜欢(x5) / 恭喜恭喜 / BLG / 恭喜BLG夺冠 / 还是吃薯条吧，薯条好吃)
+[15m] 🔥 [UNKNOWN] 亏马了。[UNKNOWN] 基近哎呀哎呦还是。[UNKNOWN] 老老实实吃薯条的。[UNKNOWN] 你是只是那个连唱金曲都。[UNKNOWN] 呃弄了十九次了。[UNKNOWN] 谢。[UNKNOWN] 有个叫异病侦探的AVG。[UNKNOWN] 每天都是看到另外一个。[UNKNOWN] 哎之前看到了另外一个游戏  (💬 喜欢(x6) / 时之笛送了几个人去当贤者了 / 看他弹幕说他抽了2个金曲，一个15次一个19次... / 好多都能玩 / 对，沉没成本了，外加不信邪)
+[15m] 🔥 [UNKNOWN] 先打开一下。[UNKNOWN] 算了几个人不太记得了。[UNKNOWN] 反正现在就差最后一个人了。[UNKNOWN] 抽了两个进去。[UNKNOWN] 是的他说昨天一个今天一个嘛。[UNKNOWN] 但是我看到后面还有两个电台。[UNKNOWN] 哦两个蛋挞应该是另外的价格。[UNKNOWN] 另外的更新  (💬 喜欢(x6) / 对，沉没成本了，外加不信邪 / 就差魂吗 / [米汀收藏集表情包_看看] / 米米还可以试试塔2的新角色愚者)
+[16m] 🔥 [UNKNOWN] 总之先完结了再看看吧。[UNKNOWN] 试试塔尔的新角色。[UNKNOWN] 塔二新太阳。[UNKNOWN] 等一下明天观察一下自己是不是已经。[UNKNOWN] 把这个删掉了。[UNKNOWN] You。[UNKNOWN] 要先玩别的角色解锁。[UNKNOWN] 唉但是我们其他。[UNKNOWN] 角色全部都通过了  (💬 喜欢(x3) / 进来就是s3主题曲啊 / 是不是还有奥博拉丁，星际拓荒？ / 一个小时就打完了，只是a0的话 / 新角色解锁吧)
+[17m] 🔥 [UNKNOWN] 也要再另外玩吗。[UNKNOWN] 先玩吧。[UNKNOWN] 先玩吧我们。[UNKNOWN] 那什么转运军团。[UNKNOWN] 嗯不是转运军团。[UNKNOWN] 我就是打塔防策略自走棋一类的。[UNKNOWN] 那明天不太累累。[UNKNOWN] 快看死死。[UNKNOWN] 这我在看盘。[UNKNOWN] 谢谢  (💬 喜欢(x7) / 不用的 直接解锁了的 / 全通过那不用 / [比心] / 米米下午好)
+[17m] 🔥 [UNKNOWN] 旧恋的粉色灯牌。[UNKNOWN] 谢凌云的赛罗鼠条。[UNKNOWN] 谢谢你的赛罗的薯条。[UNKNOWN] 理智的谢谢你的赛罗鼠条。[UNKNOWN] 谢亚异色的雨的粉色灯牌。[UNKNOWN] 谢无微微的你真好看。[UNKNOWN] 是的刚刚看了一眼新的游戏。[UNKNOWN] 感觉我们还是先还不一定完结呢  (💬 喜欢(x6) / 如果塞尔达后面内容多可能下午打不完，晚上再加个金偶像差不多 / 之前看到最近有个类似巴/别/塔/圣/歌的，是翻译外星人语言 / 那你先弄 / [米汀收藏集表情包_凄凉])
+[18m] 🔥 [UNKNOWN] 可都无意。[UNKNOWN] 不必。[UNKNOWN] 关于迷踪说是类动物型的嗯。[UNKNOWN] 这我感觉。[UNKNOWN] 等之后直接看一下。[UNKNOWN] 那是这个。[UNKNOWN] 评价特别高。[UNKNOWN] 虽然用了特别高这个词吗。[UNKNOWN] 一会儿去查一下。[UNKNOWN] 走啦  (💬 喜欢(x3) / 评价特别高 / 不过我自己还没完 / 记得是不是还有奥博拉丁？ / 特别高！)
+[19m] 🔥 [UNKNOWN] 因为我。[UNKNOWN] 这个歌词你听刚刚说。[UNKNOWN] 已经刚刚说走了。[UNKNOWN] 看到歌词时了。[UNKNOWN] 给你。[UNKNOWN] 东哥王伟。[UNKNOWN] 完了忘记给手柄充电了。[UNKNOWN] 应该不充。[UNKNOWN] 应该不至于了。[UNKNOWN] 你怎么上来了  (💬 喜欢 / 昨天还说要玩星际拓荒呢 / 走走走 / 忙完看看地渊珠宝匠，这个感觉比较适合早安修理？不过只有demo / 要开始了吗)
+[20m] 🔥 [UNKNOWN] 出来了。[UNKNOWN] 嗯。[UNKNOWN] 快不到一个小时了。[UNKNOWN] 手柄吗。[UNKNOWN] 应该不至于可以。[UNKNOWN] 还蛮的。[UNKNOWN] 很耐用的。[UNKNOWN] 谢谢云天塞梦的图下灯牌。[UNKNOWN] 这个收音它是用的手柄收的吗。[UNKNOWN] 如果用的手柄收的话可以  (💬 喜欢 / 手柄的电量够用吗？ / 元旦会什么旋律 / 丸了 / 要不再看个视频充五分钟电？)
+[20m] 🔥 [UNKNOWN] 试试看让它收元旦的声音。[UNKNOWN] 但是每天好像把那个已经关掉了。[UNKNOWN] 这么早就来了。[UNKNOWN] 嗯很巧吗。[UNKNOWN] 三点下播。[UNKNOWN] 现在现在也已经下午三点了。[UNKNOWN] 我们关了呢没有。[UNKNOWN] 啊关了。[UNKNOWN] 是的昨天你很有电  (💬 这么省电 / 昨天玩一天怎么还会是满的 / 昨晚玩那么久也还有电 / 元旦会唱稻草人之歌吗 / 让元旦来哼哼 不赖)
+[21m] 🔥 [UNKNOWN] 哎我们到这里来。[UNKNOWN] 是做什么来着。[UNKNOWN] 把这里打开了。[UNKNOWN] 咚都。[UNKNOWN] 嗯呀哦我看到你喽。[UNKNOWN] 你在那儿装装着试灯。[UNKNOWN] 嗯。[UNKNOWN] 看半天没发现。[UNKNOWN] 分层走边。[UNKNOWN] 弟弟  (💬 是不是最后一个迷宫了 / 蹦蹦跳跳的林克 / 喝茶 / 突入神殿 / 昨天就刚到门口 可以从头探起)
+[22m] ▫️ [UNKNOWN] 哦明天用错那个瞄准方式了。[UNKNOWN] 直接输入这么快。[UNKNOWN] 谁要去嘟啊。[UNKNOWN] 嗯等一下。[UNKNOWN] 呵哼。[UNKNOWN] 这下面。[UNKNOWN] 困死。[UNKNOWN] 先下去。[UNKNOWN] 但是线下去到这个地方好像是停了。[UNKNOWN] 他走的快的话就不会  (💬 他怎么不露背了 / 这个可以大锤吗？ / 提前绕背会后跳吧 / 怎么一进来就打怪 / 你输入这么快)
+[24m] ▫️ [UNKNOWN] 刚刚本来想去爬那个转了一下。[UNKNOWN] 不那个破坏做破坏规则的人是吧。[UNKNOWN] 这么。[UNKNOWN] 忘记掉走。[UNKNOWN] 其是没有。[UNKNOWN] 就是没有错好像。[UNKNOWN] 顺序不对。[UNKNOWN] 这两千就可以把他杀了。[UNKNOWN] 公源率还是是会稍微高一点的  (💬 喜欢(x4) / 大石头能打吗 要不打两下 / （咬牙切齿） / 没有受击特效，可惜 / 时之歌)
+[26m] 🔥 [UNKNOWN] 什么要原路返回。[UNKNOWN] 没有麦克风这是手柄自带的。[UNKNOWN] 你能玩这个你就有NSR。[UNKNOWN] 你有NSR你就能识别。[UNKNOWN] 哎这么说的话。[UNKNOWN] 那么模仿声音的游戏。[UNKNOWN] 是不是又可以玩了  (💬 喜欢(x4) / 米米不说嘚语了 / 手柄上带的麦吗 / 八分音符吗 / 哪个游戏)
+[28m] ▫️ [UNKNOWN] 只看到我小猪和优有玩过。[UNKNOWN] 我不上收持了他们玩哦。[UNKNOWN] 嗯。[UNKNOWN] 怎么这个他动了。[UNKNOWN] 很恐怖哎。[UNKNOWN] 是宝箱怪吗。[UNKNOWN] 这太阳下的好吓人。[UNKNOWN] 同意思他是宝箱怪吗。[UNKNOWN] 我们正常。[UNKNOWN] 正常的话  (💬 若有所思 / 奖励你一个大手 / 因为你眼里只有小轴吧 / 还有悠亚悠亚 / 推推)
+[30m] 🔥 [UNKNOWN] 你必须要用这种方式来点燃。[UNKNOWN] 嗯。[UNKNOWN] 那我们做一个实验。[UNKNOWN] 还有没有。[UNKNOWN] 小。[UNKNOWN] 听到你的声音了。[UNKNOWN] 嗯。[UNKNOWN] 不要再说史之地古老了。[UNKNOWN] 不然给你们放大妖针。[UNKNOWN] 大妖精之前的动画  (💬 xs 不能直接瞄准附着 / 笑死 / 想白嫖火箭 / 没射出去应该没有点燃的判断吧 / 必须射箭触发)
+[32m] 🔥 [UNKNOWN] 你听昨天又去找了一下。[UNKNOWN] 然后想起来。[UNKNOWN] 其实印象最深的就是升级动画。[UNKNOWN] 它出来确实就只是跳出水一下。[UNKNOWN] 然后昨天给你们放那个升级动画。[UNKNOWN] 没放完。[UNKNOWN] 看你们放。[UNKNOWN] 谢狂雪的咖啡兔的粉钻灯牌  (💬 看看 / 干嘛！ / 怎么这样呢 / 你想放直接放吧 / 喜欢)
+[32m] 🔥 [UNKNOWN] 看看真让我看看啊。[UNKNOWN] 因为米天去找了他们那个历代。[UNKNOWN] 大妖精之泉。[UNKNOWN] 到底是怎么是那个怎么变化的。[UNKNOWN] 看了。[UNKNOWN] 这是最初级的神级啊。[UNKNOWN] 嗯哦给你分了不同。[UNKNOWN] 好几个。[UNKNOWN] 给你们分享好几个不同的打邀请  (💬 是我昨天一觉醒来看到被吓到的那个吗？ / 米米好喜欢大妖精 / [米汀收藏集表情包_看看] / 看看 / 不看不行儿)
+[33m] 🔥 [UNKNOWN] 好呀。[UNKNOWN] 这前面的是有假的。[UNKNOWN] 主要是后面他每一次升级还不一样。[UNKNOWN] 这是山上的每天都还记得。[UNKNOWN] 在哪个地方。[UNKNOWN] 嗯嗯。[UNKNOWN] 就是第二期的升级。[UNKNOWN] 嗯嗯。[UNKNOWN] 嗯。[UNKNOWN] 你看他每一个太阳镜是不一样的  (💬 喜欢 / 历代的变化确实挺想看的 / 我也要分吗 / 天生丽质难自弃 / 为什么山上会更黑)
+[33m] 🔥 [UNKNOWN] 这次的大妖精他们。[UNKNOWN] 长得都是差不多。[UNKNOWN] 这个好像是确实已经是最后的了。[UNKNOWN] 真的是最受不常。[UNKNOWN] 算了不然关了吧。[UNKNOWN] 米汀突然意识到对。[UNKNOWN] 自己来说也是一种折磨。[UNKNOWN] 直跳过吧。[UNKNOWN] 哎  (💬 哈哈哈(x3) / 喜欢 / 呃啊 / 这个面部特写的飞吻就很难绷 / 哈哈哈哈)
+[34m] 🔥 [UNKNOWN] 好这是最终的升级。[UNKNOWN] 好了。[UNKNOWN] 好像后面都是一样的对。[UNKNOWN] 鱼。[UNKNOWN] 鱼。[UNKNOWN] 已经看完了走。[UNKNOWN] 后悔了。[UNKNOWN] 我的脸怎么了。[UNKNOWN] 比亲确实是知道他。[UNKNOWN] 是折梦才给你们看的  (💬 hhh / 哈哈哈 / 😄 / “也” / 元旦被吓到了)
+[34m] 🔥 [UNKNOWN] 嗯啊控个我能神。[UNKNOWN] 我要小面。[UNKNOWN] 我干嘛呀。[UNKNOWN] 哇。[UNKNOWN] 看人是不是浪看了。[UNKNOWN] 跟人看小猫差不多。[UNKNOWN] 或许吧啊。[UNKNOWN] 你要看吗。[UNKNOWN] 你要快你过来。[UNKNOWN] 有结论当初卖抬上去了  (💬 真坏啊 / 元旦也想要大妖精最终升级了 / 折磨pts（bushi / 元旦还要看 / 米米真坏啊)
+[35m] ▫️ [UNKNOWN] 嗯。[UNKNOWN] 他手心的。[UNKNOWN] 王族符号。[UNKNOWN] 这下不是雄心的痣了。[UNKNOWN] 是手心的香。[UNKNOWN] 走了走了快躲。[UNKNOWN] 撞到了。[UNKNOWN] 嗯。[UNKNOWN] 刚刚他自己跑出去了的。[UNKNOWN] 哦。[UNKNOWN] 我们相遇了的话会怎么样呢  (💬 元旦可能也看不懂吧 / 进五指山了 / 好敏锐呀 / [UPOWER_2124647716_哈哈] / 手心的箱)
+[38m] 🔥 [UNKNOWN] 应该不会怎么样。[UNKNOWN] 哎放手了。[UNKNOWN] 我们能往其他地方走吗。[UNKNOWN] 我们能往其他地方走吗。[UNKNOWN] 哟。[UNKNOWN] 嗯这个走过去就行了。[UNKNOWN] 但这个裙子说。[UNKNOWN] 哎你过来嘛。[UNKNOWN] 让他过来他又不叫我  (💬 会唱起来相遇天使 / 哈哈哈 / 哈哈哈哈哈哈哈 / 你就2格血了！ / 叫商人来怎么样)
+[40m] ▫️ [UNKNOWN] 你想去。[UNKNOWN] 嗯。[UNKNOWN] 这是会一直刷新的吗。[UNKNOWN] 我看样子是。[UNKNOWN] 让他到这里来。[UNKNOWN] 那边好像没有什么地方放。[UNKNOWN] 啊。[UNKNOWN] 是他呀。[UNKNOWN] 好准备好了。[UNKNOWN] 然后。[UNKNOWN] 你听感觉  (💬 宝宝不叫了 / 没凶吧 / 猫猫给我 / 可能想让你抱抱她 / 不凶啊)
+[42m] 🔥 [UNKNOWN] 该让他去。[UNKNOWN] 弄下。[UNKNOWN] 这光针对的应该会。[UNKNOWN] 就回选。[UNKNOWN] 哎。[UNKNOWN] 你看。[UNKNOWN] 原谅可以自己来。[UNKNOWN] 那就不劳烦他了。[UNKNOWN] 哦近盾。[UNKNOWN] 反觉得挺好。[UNKNOWN] 好像没有刚才那么好看  (💬 这冰魔法太强了吧 / 盾还是太好用了 / 米米好有操作 / 上次它砸出来的是3颗心心 不知道有没有区别 / 回好多)
+[44m] 🔥 [UNKNOWN] 这个东西呢。[UNKNOWN] 我们一般是拿来逗猫用的。[UNKNOWN] 这种操作的一般是拿来逗猫用的。[UNKNOWN] 元旦可喜欢了。[UNKNOWN] 谢谢林英的打call。[UNKNOWN] 对啊。[UNKNOWN] 元旦很喜欢那么繁收。[UNKNOWN] 嗯对吧。[UNKNOWN] 激光笔嗯  (💬 喜欢(x4) / 哈哈哈 / 刚刚地图上有两个箱子漏了？ / 激光笔是吧 / 米米米米米你是天才吧)
+[44m] 🔥 [UNKNOWN] 米经没有单独去买过激光笔。[UNKNOWN] 所以。[UNKNOWN] 激光笔还好。[UNKNOWN] 还有这样子电梯啊。[UNKNOWN] 我们是不是可以直接锁链。[UNKNOWN] 有的没的。[UNKNOWN] 他们的一位突然就变成有的没的了。[UNKNOWN] 先生平记的哦好像弄吧。[UNKNOWN] 算了  (💬 你问问元旦对不对 / 喜欢 / 你怎么不用镜盾了 刚拿到的 / 下次打到灯开关上，让元旦帮你关开灯哈哈 / 厉害)
+[46m] 🔥 [UNKNOWN] 想谢零一的打。[UNKNOWN] 谢谢。[UNKNOWN] 科学的咖啡兔豆粉色灯牌。[UNKNOWN] 谢莱莎莱尔的粉色灯牌。[UNKNOWN] 元旦你刚刚是在刨地吗。[UNKNOWN] 你不会是想上厕所了吧。[UNKNOWN] 你别瞎没停了。[UNKNOWN] 这两个都在跟这两个都是怪。[UNKNOWN] 这哈自来自得好不好  (💬 感觉还是勾宝箱比较难想到，打开新世界的大门了 / 喜欢 / 怎么好像元旦在拆家 / 宝宝 / 懒人工具:钩锁)
+[47m] ▫️ [UNKNOWN] 应该  (💬 调整光源位置再反射 / 元旦！ / 别一会真在房间里上厕所了)
+[48m] 🔥 [UNKNOWN] 一河正在房间延长。[UNKNOWN] 元旦你不会这么做的是吧。[UNKNOWN] 元旦。[UNKNOWN] 他不理米汀。[UNKNOWN] 嗯应该已经可以出去了。[UNKNOWN] 用真实之眼概念。[UNKNOWN] 没有东西。[UNKNOWN] 为什么不说话。[UNKNOWN] 最后一环要我们来  (💬 喜欢(x3) / 元旦不叫了，说不定上完了 / 元旦没说话 / 元旦：说不定哦 / 高冷了)
+[49m] 🔥 [UNKNOWN] 电梯啊。[UNKNOWN] 有人见味儿吗。[UNKNOWN] 嗯应该不至于。[UNKNOWN] 应该不至于。[UNKNOWN] 哎呀给人家皮肤晒裂了。[UNKNOWN] 好震撼哦裂开。[UNKNOWN] 你好像很开心。[UNKNOWN] 明天去看看他的结术。[UNKNOWN] 你呢嗯。[UNKNOWN] 他找一个角度缩起来了  (💬 喜欢(x3) / 最怕空气突然安静 / 米米下午好 / 等会真拉了就知错了！ / 元旦：正在安装炸弹（）)
+[51m] 🔥 [UNKNOWN] 躲起来了。[UNKNOWN] 你自闭了。[UNKNOWN] 嗯。[UNKNOWN] 看你折磨彭天生了啊。[UNKNOWN] 什么时候你说的是大妖精吗。[UNKNOWN] 这不是有庞天生说要看看吗。[UNKNOWN] 啊哦。[UNKNOWN] 嗯。[UNKNOWN] 我们要去这边的吗  (💬 元旦 / 元旦:拉了。米米:那里拉了 / 米米你给鬼兄面具打碎了 / 怎么自闭了呢 / 躲猫猫)
+[53m] ▫️ [UNKNOWN] 四楼感觉是  (💬 是的 / 钩一下就是一层 / 用鬼之力开门)
+[55m] 🔥 [UNKNOWN] 下面说开始打开的那个地方。[UNKNOWN] 你们坐电梯回去啊救命。[UNKNOWN] 你说的应该不是这个地方吧。[UNKNOWN] 是吧。[UNKNOWN] 可以勾不上去吗。[UNKNOWN] 这个是不是啊。[UNKNOWN] 这个是不是电梯啊。[UNKNOWN] 我们在去吹首歌。[UNKNOWN] 你能应酬我们上去吗  (💬 喜欢(x3) / 哈哈哈哈 / 就是那个有坑，石头人掉下去那儿 / 超级回家 / 回家了)
+[56m] 🔥 [UNKNOWN] 看到隔壁有网。[UNKNOWN] 哦有网太好了。[UNKNOWN] 太好了太好了。[UNKNOWN] 嗯。[UNKNOWN] 这个门要怎么开呢。[UNKNOWN] 这边这个门。[UNKNOWN] 这个门是哪里开呢。[UNKNOWN] 哦这啊  (💬 居然 / 好细节，有网 / 那还好 / 还好有网 / 太贴心了塞尔达，感动的哭了)
+[58m] ▫️ [UNKNOWN] 只能靠戳的。[UNKNOWN] 这个。[UNKNOWN] 看什么。[UNKNOWN] 没听过吗。[UNKNOWN] 有。[UNKNOWN] 哎呦从。[UNKNOWN] 不安了。[UNKNOWN] 不问。[UNKNOWN] 想玩拿钱了吗。[UNKNOWN] 看你老说了这么久。[UNKNOWN] 哦两个老太七免了  (💬 喜欢 / 目害行为 / 没这么坏 / 铛铛 / 好简单的迷宫啊 感觉)
+[59m] 🔥 [UNKNOWN] 小梅和小胡小胡好。[UNKNOWN] 免了。[UNKNOWN] 她下去了。[UNKNOWN] 怎么忠实的仆人者。[UNKNOWN] 你跪在他面前呢。[UNKNOWN] 吓我太小三羊。[UNKNOWN] 然后又哦你没有剑。[UNKNOWN] 还能打响指酷啊。[UNKNOWN] 哭很酷啊。[UNKNOWN] 但是呢我们有  (💬 元旦（已老实） / 好邪恶 / 他们眼睛好大 / 梅兰竹 / 像那个千与千寻的)
+[60m] 🔥 [UNKNOWN] 啊来吧。[UNKNOWN] 快。[UNKNOWN] 二阶单。[UNKNOWN] 谢谢。[UNKNOWN] 我喵的人气糖。[UNKNOWN] 看起来不像幼儿截端。[UNKNOWN] 哦是你啊。[UNKNOWN] 还好没有了拦腰截断。[UNKNOWN] 感觉他的鼻子可以抽爆他的眼睛。[UNKNOWN] 他们互相之间好像都能这么  (💬 这铁手套怎么打的响指（ / 开了 / 来吧 / 我们有无敌挂 / 努力与汗水来了)
+[61m] 🔥 [UNKNOWN] 做。[UNKNOWN] 你就个问题。[UNKNOWN] 你就问他。[UNKNOWN] 你可惜吧得有。[UNKNOWN] 哎怎么又是这个。[UNKNOWN] 对这一组只有女的说出了。[UNKNOWN] 难道就是成王是。[UNKNOWN] 吧你们在讨论的是这个问题吗。[UNKNOWN] 原来  (💬 喜欢 / 米米我有个问题，他们这一族人要怎么亲嘴 / 高挺而突出的鼻子 / 最尖锐的武器是鼻子 / 这一族人只有女的)
+[63m] ▫️ [UNKNOWN] 这么空荡荡的。[UNKNOWN] 是你可那个。[UNKNOWN] 你来。[UNKNOWN] 啊啊。[UNKNOWN] 唉我们是我们的那个魔法嗯。[UNKNOWN] 是。[UNKNOWN] 完全无敌吗。[UNKNOWN] 还给自己做个发型。[UNKNOWN] 免得我们分不出来。[UNKNOWN] 两边都是  (💬 这么一说还真是 / 空荡的街景 / 彩灯计时器的声音吗？奥特曼都是各种各样的 / 米说:要有光 / 要打老太婆了)
+[65m] 🔥 [UNKNOWN] 双子妖婆。[UNKNOWN] 你看你们在林克眼中是什么样子的。[UNKNOWN] 那个无敌吗。[UNKNOWN] 时间蛮长了随便弄弄。[UNKNOWN] 哎你要干嘛。[UNKNOWN] 哦。[UNKNOWN] 可以那个可以反射回去。[UNKNOWN] 这次我不该看他了。[UNKNOWN] 嗯。[UNKNOWN] 哈哈应该是这样的  (💬 不过还是会被击退 / 森林冰火人 / 林克：造孽啊 / 我们好像钩不太住 / 该反射了)
+[66m] 🔥 [UNKNOWN] 嗯。[UNKNOWN] 你要施法了是吗。[UNKNOWN] 没事咋呀。[UNKNOWN] 谢。[UNKNOWN] 可以跑。[UNKNOWN] 哎但是好像冰到了。[UNKNOWN] 我们还得可以。[UNKNOWN] 这股工资才享受水平。[UNKNOWN] 这次是你啊。[UNKNOWN] 嗯在这边。[UNKNOWN] 嗯三次就可以了  (💬 喜欢 / 正确的 / 哈哈哈 / hihihihi / 他们竟然不是轮流来的)
+[67m] 🔥 [UNKNOWN] 我打给伞。[UNKNOWN] 在后面的哼。[UNKNOWN] 你得起来小按阶段。[UNKNOWN] 谢谢徐光喵的谢谢哈哈。[UNKNOWN] 热辣蒙面啊。[UNKNOWN] 好。[UNKNOWN] 谢谢无聊的人签啊。[UNKNOWN] 谢谢哈哈不是这是你们吗。[UNKNOWN] 不是米汀有点脸盲。[UNKNOWN] 他是不是还结合了那个啊  (💬 原来都不用攻击 / 她好会闪 / 合体 / 三次反射就可以了呀 / 二阶段似了要重来不)
+[67m] 🔥 [UNKNOWN] 那。[UNKNOWN] 那如。[UNKNOWN] 谁。[UNKNOWN] 三合一。[UNKNOWN] 我们这里。[UNKNOWN] 吸了这么多。[UNKNOWN] 怎么用啊。[UNKNOWN] 怎么用啊。[UNKNOWN] 不是。[UNKNOWN] 发射车发射的勾水已经刚刚试了呀。[UNKNOWN] 没有吸上  (💬 吸3次 / 很像啊 / 那个公主吧 / 还有娜什么的身体？ / 你是!双面人偶吗())
+[68m] 🔥 [UNKNOWN] 要同类型的三次是吧。[UNKNOWN] 那就躲了哎呦。[UNKNOWN] 你还是兵哦。[UNKNOWN] 果然那这次火也行  (💬 喜欢 / Sad / 烧烤了 / 落地之后还有地板 / 差点掉下去)
+[70m] 🔥 [UNKNOWN] 忘记收件了。[UNKNOWN] 就双手剑的问题。[UNKNOWN] 就是每次收钱都要麻烦。[UNKNOWN] 谢凯尔。[UNKNOWN] 谢谢凯尔的粉丝灯牌和专属灯牌。[UNKNOWN] 谢谢你的。[UNKNOWN] 专属灯牌。[UNKNOWN] 刚我一直等他。[UNKNOWN] 怎压英雄无偿。[UNKNOWN] 情意类丝喽嘻嘻哈哈  (💬 喜欢 / 血还挺厚 / 确实 容易忘记操作 / 攻击力高的代价 / 感觉最边缘引导比较好)
+[71m] 🔥 [UNKNOWN] 先凶猫喵的苦苦掌呼。[UNKNOWN] 诶小狗仔你那个。[UNKNOWN] 高大开他看到我是红皮的。[UNKNOWN] 红旗的。[UNKNOWN] 牛飞不起来喽你升天了。[UNKNOWN] 你长光环喽。[UNKNOWN] 啊你死了。[UNKNOWN] So you啊谢零零四的鼓掌。[UNKNOWN] 谢零一的大call  (💬 厉害厉害 / 打回原形！ / 变成天使了 / 鼠了 / 你没注意到你死了吗？)
+[72m] 🔥 [UNKNOWN] 九二在那九二五五的粉上单排。[UNKNOWN] lets cke来呀。[UNKNOWN] 才活了四来年。[UNKNOWN] 他们差二十啊。[UNKNOWN] 草莓名单。[UNKNOWN] 大鸡管怎么凶打死你。[UNKNOWN] 什么呀。[UNKNOWN] 那你蓝色的技能噼里嘎哒。[UNKNOWN] 来给哥们  (💬 一不小心死了hhh / 第六回了，水神殿那关最练耐心 / 喜欢 / 诶，你怎么死了 / xs)
+[72m] 🔥 [UNKNOWN] 给朋们送另外一张。[UNKNOWN] 点阅爱的红钻灯牌。[UNKNOWN] 拜拜。[UNKNOWN] 这个身这个声体描绘。[UNKNOWN] 对呀你们应该是做鬼呀。[UNKNOWN] 怎么升天了呢。[UNKNOWN] 那做天使是不是就放过我们了。[UNKNOWN] 他可能上去的时候再分流吧。[UNKNOWN] 马上有两排了  (💬 拜拜咯 / [米汀收藏集表情包_净化] / 哈哈哈哈 / 不会后面真会有她们的鬼吧 / 鬼啊)
+[73m] ▫️ [UNKNOWN] 一二三四五五个。[UNKNOWN] 排位王不肯定。[UNKNOWN] 罗源。[UNKNOWN] 你穿闲妆了。[UNKNOWN] 每次都要感慨一下。[UNKNOWN] 真就是遗言。[UNKNOWN] 然后又。[UNKNOWN] 长大了之后再探索一套。[UNKNOWN] link。[UNKNOWN] 这是橘子味的  (💬 喜欢(x3) / 还有尾王不 / 这个神殿好简单...感觉是仁慈了 / 一个多小时探完 / 加农豆腐)
+[76m] 🔥 [UNKNOWN] How does。[UNKNOWN] are they early to。[UNKNOWN] cut in it。[UNKNOWN] I not talking。[UNKNOWN] about young or。[UNKNOWN] cause that。[UNKNOWN] 哎依然。[UNKNOWN] 布萝哇哇它颜色太深  (💬 喜欢 / 人齐了 / 你怎么知道不是菠萝味的（ / 积分多少呢啊暗之贤者是葡萄味儿吗 / 橘子味儿金币巧克力)
+[76m] 🔥 [UNKNOWN] 了。[UNKNOWN] 塞尔达到底被抓走了。[UNKNOWN] 没有啊。[UNKNOWN] 我们倒是时间可以过去。[UNKNOWN] 先困了久。[UNKNOWN] 没有稀客的位置了。[UNKNOWN] 谢克来当塞尔达了。[UNKNOWN] 这好西克的定位到底是谁呢。[UNKNOWN] 就是假的了。[UNKNOWN] 主要是  (💬 人齐了 / 我说怎么5个神殿有6个人，原来他自己站一个 / 喜欢 / 塞尔达吧 好久没见了 / 米米猜猜)
+[77m] 🔥 [UNKNOWN] 感觉本来是应该是鹰帕的那一组的。[UNKNOWN] 兵哥是勇者这里是大精灵之圈。[UNKNOWN] 然后这边我们。[UNKNOWN] 已经看完了。[UNKNOWN] 欢迎沙漠。[UNKNOWN] 啊西哥是男的吗。[UNKNOWN] My detail。[UNKNOWN] lucky usa。[UNKNOWN] 这是男的吗  (💬 希克是男的 / 感觉希克那头金毛就很出戏了 / 替代英帕的定位 / 西克男的女的 / 希克 音乐老师罢了)
+[78m] 🔥 [UNKNOWN] 这是男。[UNKNOWN] 的吗。[UNKNOWN] 大哥。[UNKNOWN] stoke赶块偷看艾伦达替你带过来。[UNKNOWN] 西哥走不。[UNKNOWN] 你知道了。[UNKNOWN] 先翻起土豆拌西瓜的子。[UNKNOWN] 我肚子等一下再走。[UNKNOWN] 主要是他是知道我们身份的  (💬 喜欢(x5) / 兄弟你好香 / 这不是姐妹吗 / 兄弟兄弟 / 为什么要用女声优！恶意引导！)
+[79m] 🔥 [UNKNOWN] senina的可脱了衣服。[UNKNOWN] 心死了吧。[UNKNOWN] 行几个了。[UNKNOWN] 七醒不来。[UNKNOWN] 你这么苦苦的问。[UNKNOWN] 先笙歌哥你喝了什么了。[UNKNOWN] 随便to await in your。[UNKNOWN] service。[UNKNOWN] kish cuckout of  (💬 喜欢(x6) / 声优男的女的 / 哈哈哈 / 低音米 / 这不是姐妹吗)
+[79m] 🔥 [UNKNOWN] councin。[UNKNOWN] not。[UNKNOWN] the play forsa。[UNKNOWN] tiny hided的all。[UNKNOWN] 大哥。[UNKNOWN] 在的sensana o每次你哭到开气。[UNKNOWN] 了。[UNKNOWN] 你这里你能过滤器欢他的斯诺米  (💬 喜欢(x6) / 这个得让格润来吧 / [UPOWER_2124647716_peace] / 低音有点带感哈 / 米米神)
+[80m] 🔥 [UNKNOWN] 做这个生活梦当中寻找的苦苦乐。[UNKNOWN] 还行的好。[UNKNOWN] 的夜夜蒙泉购物场。[UNKNOWN] 在你那儿在萨尔达那儿哦。[UNKNOWN] 老鲁身上。[UNKNOWN] 啊。[UNKNOWN] 哦云顶上啊。[UNKNOWN] 对啊。[UNKNOWN] 啊。[UNKNOWN] 三星  (💬 喜欢(x5) / 米米比他帅 / 低音有点带感哈 / 米米神 / 低音炮好帅啊米)
+[81m] 🔥 [UNKNOWN] 腿啊塞尔达正把头巾取了好多了。[UNKNOWN] 就是塞尔达。[UNKNOWN] 你声音怎么都怎么。[UNKNOWN] 都变了。[UNKNOWN] Hi daad suga。[UNKNOWN] 米天成是乱残。[UNKNOWN] 因为没有位置放给他了。[UNKNOWN] 没有身份送给他哦。[UNKNOWN] 他无助其昂  (💬 谁说这是男的谁说这是男的谁说这是男的 / 塞尔达原来这么好看 / 我兄弟呢 / 三星堆可还行 / 怎么还有误导说男的)
+[82m] 🔥 [UNKNOWN] 这个故事没有他的人。[UNKNOWN] 谢谢你算的好多了。[UNKNOWN] 可是戴萌都给了你们多哥。[UNKNOWN] 该头大个大三。[UNKNOWN] 骂我嫁怕他没到。[UNKNOWN] 今天。[UNKNOWN] say那是kadty know。[UNKNOWN] young啊。[UNKNOWN] 那看你  (💬 喜欢(x3) / 我也觉得，为什么塞尔达一直不出来 / 没有萝卜坑了 / 还以为塞尔达跟马里奥里面的公主一样就是被抓走的吉祥物呢 / 这就是米米的规划)
+[83m] 🔥 [UNKNOWN] 会指引我们去的天下的。[UNKNOWN] 就声音怕了为止了那种是吧。[UNKNOWN] 快跑进来地方玛萨哥。[UNKNOWN] 了。[UNKNOWN] 啊那你吧。[UNKNOWN] 苦诉玩个UE。[UNKNOWN] 我妈也不觉得我说什么聪明。[UNKNOWN] 变回来了剩。[UNKNOWN] 能够感染  (💬 喜欢 / 一开始确实感觉是替代英帕的 / ohno…… / 被远程定位了吗？ / ？？)
+[85m] 🔥 [UNKNOWN] 呃说能够感觉到气息吗。[UNKNOWN] 感觉有什么事情也可以不变身来讲的。[UNKNOWN] 苦农夫他自为把所有东西告诉我。[UNKNOWN] 一是。[UNKNOWN] 不入刚五十六班呢。[UNKNOWN] 司机为我。[UNKNOWN] 我们要去嘉隆城堡那边了。[UNKNOWN] 早像都做完了  (💬 还真是 / 公主又又又又被抓了 / 接下来就是本子剧情了 / 变一下摆个pose震惊你 / 下一个就是你……)
+[86m] 🔥 [UNKNOWN] 是的。[UNKNOWN] 我们活动。[UNKNOWN] 我的魔豆还没有充完。[UNKNOWN] 云一个谁这边。[UNKNOWN] 这边怎么城堡也飞上天了。[UNKNOWN] 是的很苦。[UNKNOWN] 但说实话啊。[UNKNOWN] 踩在这上面还挺没有安全感的。[UNKNOWN] 情贸工作。[UNKNOWN] 是的  (💬 [米汀收藏集表情包_哈欠] / 银手套的箱子开了吗 / 今天下午就能救出来了吧 / 喜欢 / 好哼)
+[88m] 🔥 [UNKNOWN] 能不能也来个传送啊。[UNKNOWN] 但每天感觉没有传送。[UNKNOWN] 因为我们这里的。[UNKNOWN] 我已直满了。[UNKNOWN] 是是。[UNKNOWN] 啊这边也是位置满了。[UNKNOWN] 没有传送的话不方便做。[UNKNOWN] 是不方便出门了。[UNKNOWN] 对事。[UNKNOWN] 好下次盘升级吧  (💬 嘿呀嘿呀 / 时之笛即使到了王城也充满创意啊，很多项目到尾声都开始想不出新东西了 / 喜欢 / 还真是 / 回到时之神殿就来了吧)
+[89m] 🔥 [UNKNOWN] 就在龙豆腐把城堡改成这样。[UNKNOWN] 你自己想住你。[UNKNOWN] 愁死了。[UNKNOWN] 六股邪恶之力。[UNKNOWN] 怎么感觉像是对应的。[UNKNOWN] 对应的贤者之力啊。[UNKNOWN] 按在按那里拿金手套。[UNKNOWN] 按呢它就从左边开始。[UNKNOWN] 舟山的吗  (💬 喜欢 / [米汀收藏集表情包_哈欠] / 陪一个哈欠 / 豆腐住的可巴适了（ / 可能人家的审美就是这样的吧)
+[91m] 🔥 [UNKNOWN] 嗯。[UNKNOWN] 是。[UNKNOWN] 对啊怎么过去呢。[UNKNOWN] 真点火了。[UNKNOWN] 一不小心。[UNKNOWN] 嗯。[UNKNOWN] 荒朝路他。[UNKNOWN] 就。[UNKNOWN] 什么什么什么。[UNKNOWN] 这怎么还能会灭的呀。[UNKNOWN] 那就先不管他  (💬 下午好多哈欠哦！ / 怎么过去！！ / 好长的哈欠 / 钩索吗 / 勾箱子吗)
+[93m] ▫️ [UNKNOWN] 是的用盾比较方便一些。[UNKNOWN] 是的有盾比较有安全感。[UNKNOWN] 那。[UNKNOWN] 这边刚刚也睡了。[UNKNOWN] 可是应该管不了这么远呢。[UNKNOWN] 怎么办。[UNKNOWN] 确是忘了。[UNKNOWN] 这个应该可以推到。[UNKNOWN] 你是金手套吗。[UNKNOWN] 是的  (💬 我用到最后也用不惯大剑，有盾有安全感（ / 挺好的 / 虽然大剑伤害高 / [米汀收藏集表情包_哈欠] / 哈欠哈欠)
+[94m] 🔥 [UNKNOWN] 酷哎。[UNKNOWN] 还有发光特效。[UNKNOWN] 谢谢夜大梦雪的鼓鼓掌好。[UNKNOWN] 升华很帅气。[UNKNOWN] 那里好。[UNKNOWN] 通常。[UNKNOWN] 哇谢谢。[UNKNOWN] 灵魂的阳光呢子加灯牌金手好。[UNKNOWN] 他很厉害啊统一。[UNKNOWN] 我们上一次下播才拿到金银手套  (💬 门开了 / 闪闪闪 / 喜欢 / 银手套好可怜出场没多久就被优化了 / 好有力量啊林克)
+[95m] 🔥 [UNKNOWN] 现在他立马被替换了。[UNKNOWN] 谢谢林音的打call。[UNKNOWN] 你漏的铁手套零克漏洞。[UNKNOWN] 哎刚刚我们踩下去发生了什么来着。[UNKNOWN] 的话解除了。[UNKNOWN] 对面门开了但是我们都不需要。[UNKNOWN] 我们鞋子够用吗。[UNKNOWN] 就够  (💬 门开了 / 已经被淘汰了 / 你这个嘴巴变圆了是打哈欠还是震惊还是两个都有（ / 踩下去后对面门开了 / 可以进门了)
+[96m] 🔥 [UNKNOWN] 嗯。[UNKNOWN] 你没事吧你有事。[UNKNOWN] 怎么办呢。[UNKNOWN] 没有看到有可以描的地方。[UNKNOWN] 行。[UNKNOWN] 吓死。[UNKNOWN] 妈暗之神殿的核心。[UNKNOWN] 上怎么才能。[UNKNOWN] 怎么才能。[UNKNOWN] 肯定不是这样。[UNKNOWN] 给你来一首歌吧  (💬 喜欢 / 这里是暗之神殿对应的（ / 困困的哈欠 / 之前暗之神殿流程中是有用到真实之眼的 / 真实之眼？)
+[97m] 🔥 [UNKNOWN] 哦对了光之剑我们之前拿到的。[UNKNOWN] 他不要。[UNKNOWN] 邪恶力量要和光缆进化。[UNKNOWN] 很经典哦。[UNKNOWN] 收到。[UNKNOWN] 嗯只有把我们传送出去了。[UNKNOWN] 所以里面关的实际上还是你吗。[UNKNOWN] 让我们先把这。[UNKNOWN] 拿了之后是去干嘛来着  (💬 hhhh / 塞尔达老传统光弓（ / 光之箭一看就好有威力 / 一箭射爆了 / 惊讶)
+[98m] 🔥 [UNKNOWN] 自动跳跃争吵文明吗。[UNKNOWN] 自动调音灯这个游戏里面好像没有。[UNKNOWN] 听到了吗。[UNKNOWN] 哦对外面有光。[UNKNOWN] 不要。[UNKNOWN] 钢琴。[UNKNOWN] 台阶是自动裁。[UNKNOWN] 妖精哦。[UNKNOWN] 啊。[UNKNOWN] 突然好面子还欠  (💬 去哪儿呢 / 存档了吗 / 有自动扒墙 / 城堡门口有个金石头 / 直接全部通完再出去拿也不迟)
+[99m] 🔥 [UNKNOWN] 明天也不知道为什么。[UNKNOWN] 成张屏。[UNKNOWN] 应该没有印象d。[UNKNOWN] 睡应该也是睡过了。[UNKNOWN] 可能就是昨天喝了奶茶。[UNKNOWN] 今天没喝奶茶。[UNKNOWN] 稍微还是会有一点对。[UNKNOWN] 给你听。[UNKNOWN] 鼻子都堵了。[UNKNOWN] 手机的要对  (💬 [米汀收藏集表情包_哈欠](x3) / 喜欢 / 下午困困电台 / 就在门口 / 加农城堡)
+[100m] 🔥 [UNKNOWN] 大妖精。[UNKNOWN] 喝奶茶太强硬了。[UNKNOWN] 那那可不。[UNKNOWN] 白郎唱鸡了。[UNKNOWN] 鼻子不通气了。[UNKNOWN] 谁让你呢。[UNKNOWN] 你说你简疼的。[UNKNOWN] 要多少钱啊。[UNKNOWN] 我吧没问题。[UNKNOWN] 你听比最好看是的吗  (💬 大妖精虽迟但到 / 米米觉得视频里的大妖精好看还是时之笛的大妖精好看 / Sad / 我觉得米米最好看 / [米汀收藏集表情包_安慰])
+[101m] 🔥 [UNKNOWN] 米汀和大妖精精吗。[UNKNOWN] 原来是在这个赛道里面的吗。[UNKNOWN] 你很有钱呢还行。[UNKNOWN] 赛道米汀不是应该不在任何赛道吗。[UNKNOWN] 还真比上了防御力两倍。[UNKNOWN] 好。[UNKNOWN] 加里罗线圈。[UNKNOWN] 所以明天准备。[UNKNOWN] 是的也不唐突肢体接触  (💬 刚好我们钱不用溢出了 / 居然拿米米放大妖精赛道xs / 这对吗 / 米米不应该是莎莉亚赛道的吗 / 我去)
+[102m] 🔥 [UNKNOWN] 不过确实有好看的那个。[UNKNOWN] 九十五也没跳跳了。[UNKNOWN] 嗯好像也不用去掉吧。[UNKNOWN] 明天离麦克风有点远。[UNKNOWN] 你猜。[UNKNOWN] 嗯啊。[UNKNOWN] 哦。[UNKNOWN] 哦嗯我们有啊。[UNKNOWN] 啃饱了。[UNKNOWN] 或者我们走过去吗  (💬 喜欢 / 米米的汀 / 是有礼貌的大妖精 / 游戏声音有点大了，也可能主要是主包困了声音小了（ / 岂敢)
+[104m] 🔥 [UNKNOWN] 陈少。[UNKNOWN] 啦。[UNKNOWN] 我们顺流而下。[UNKNOWN] 会不会过去的快一点。[UNKNOWN] 刚才那有新出出的声音。[UNKNOWN] 变成万双看看吧。[UNKNOWN] 在哪儿呢。[UNKNOWN] 人在上面呢。[UNKNOWN] 感觉在。[UNKNOWN] 上面的呢  (💬 喜欢 / 谢谢 / Sad / 怎么地上就能捡到我们辛辛苦苦打比赛才有的碎片 / 满心是二十颗吧)
+[106m] 🔥 [UNKNOWN] 有。[UNKNOWN] 哪儿啊。[UNKNOWN] 哦看到了。[UNKNOWN] 也太远了。[UNKNOWN] 上千是完成了。[UNKNOWN] 八十二个。[UNKNOWN] 从外面果然。[UNKNOWN] 是。[UNKNOWN] 嘿哼。[UNKNOWN] 我们一来就给他装瓶子里了。[UNKNOWN] 是不是对他们来说不太礼貌啊  (💬 喜欢 / 是不是要晚上 / 藏在山壁上 / [米汀收藏集表情包_看看] / 现在是下午)
+[107m] 🔥 [UNKNOWN] 然后你听到哐康。[UNKNOWN] 你的真实想法。[UNKNOWN] 再没有脸。[UNKNOWN] 嗯。[UNKNOWN] 这个我们可以直接走过去吗。[UNKNOWN] 感觉有点远其实。[UNKNOWN] 嗯真能。[UNKNOWN] 怎么都不合理呢。[UNKNOWN] 停退。[UNKNOWN] 虫子  (💬 说不定他们就等米米来呢 / 没什么用场 / 没事它们不懂这些（ / 哈哈哈哈 / xs)
+[108m] ▫️ [UNKNOWN] 也看完了。[UNKNOWN] 是。[UNKNOWN] 嗯哼。[UNKNOWN] 这边说。[UNKNOWN] 嗯。[UNKNOWN] 看样子上公速真方便啊。[UNKNOWN] 嗯在这里停一下是干嘛。[UNKNOWN] 这些地方我们都可以自己过来啊。[UNKNOWN] 这我们也拿了。[UNKNOWN] 什么  (💬 看到了 / 喜欢 / 隔着好远就瞄到了 金色的 / TQL / 钩锁真方便啊)
+[111m] 🔥 [UNKNOWN] 意思。[UNKNOWN] 是你能带我们去的地方。[UNKNOWN] 我们都已经拿完了。[UNKNOWN] 啊。[UNKNOWN] 才过来找这个的路上。[UNKNOWN] 唱。[UNKNOWN] 呀。[UNKNOWN] 所以我感觉其实这样也。[UNKNOWN] 还好。[UNKNOWN] 说说秘密。[UNKNOWN] 产生回音  (💬 被你提前通关了 / 看风景 / 还真是 / 哈哈哈 / [米汀收藏集表情包_哇])
+[111m] 🔥 [UNKNOWN] 唉这边容易产生回音的话。[UNKNOWN] 要做什么呢。[UNKNOWN] 就会有声音呢。[UNKNOWN] 嗯。[UNKNOWN] 有没有提醒呢。[UNKNOWN] 明天要去看一下啊惊喜的哦。[UNKNOWN] 塞尔达小助手。[UNKNOWN] 秘密秘密还是最近没有。[UNKNOWN] 哦哼你知道  (💬 喜欢(x3) / [米汀收藏集表情包_不好意思] / 有什么制造声音的歌吗 / 也有可能只是没用的小知识 / 好久没听到秘密的消息了，最近来床上取暖了没)
+[113m] ▫️ [UNKNOWN] 魔豆或者什么的。[UNKNOWN] 等一下。[UNKNOWN] 笑。[UNKNOWN] 什么意思。[UNKNOWN] 没声音啊。[UNKNOWN] 嗯没声音哦。[UNKNOWN] 呜。[UNKNOWN] 等一下小先错了。[UNKNOWN] 可以串听笛子我给你们听。[UNKNOWN] 就按不到吗怎么。[UNKNOWN] 走啊  (💬 万魔殿有什么成就做吗 / 喜欢 / 攻略能直接标出没收集的吗 / 蹬一下 / 喝茶)
+[114m] 🔥 [UNKNOWN] 以前不太会。[UNKNOWN] 升一个八度。[UNKNOWN] 升半年。[UNKNOWN] 升不了更高了。[UNKNOWN] 这是米之力吗。[UNKNOWN] 嗯是吹出来的还是按键。[UNKNOWN] 嗯它是有一个笛子能让你按。[UNKNOWN] 但是有点太复杂了。[UNKNOWN] 估计啊。[UNKNOWN] 估计啊用这个东西  (💬 这是吹出来的还是按键 / 米米米米好强 / 这是米之笛吗 / 米米好厉害 / 调子有点太高了)
+[115m] 🔥 [UNKNOWN] 能够让他在收声的时候再演奏。[UNKNOWN] 但是这样的话。[UNKNOWN] 你听还不如直接按按键呢。[UNKNOWN] 是吧。[UNKNOWN] 因为米汀刚刚演奏。[UNKNOWN] 的全部都是声了声了。[UNKNOWN] 一迷混音的。[UNKNOWN] 明天也是弄了呀。[UNKNOWN] 嗯  (💬 APP的地图上可以看仅未收集的 / 还不如直接嘚嘚嘚 / 确实感觉好刺耳 / 可能还不如直接dududu / 双重输入www)
+[117m] 🔥 [UNKNOWN] 少的呢。[UNKNOWN] 我们现在在。[UNKNOWN] 嗯什么。[UNKNOWN] 我们在那个。[UNKNOWN] 科奇里森林有这么多东西没有拿啊。[UNKNOWN] 等一下区域达成率。[UNKNOWN] 整体达成率设百分之七十五。[UNKNOWN] 我们现在家哎。[UNKNOWN] 嗯你在每天看一眼啊嗯  (💬 喜欢(x3) / 若有所思 / 真的假的 / [UPOWER_2124647716_若有所思] / 查漏补缺)
+[118m] 🔥 [UNKNOWN] 我们现在在那个。[UNKNOWN] 湖畔 不对我们现在在卓拉河。[UNKNOWN] 出拉和。[UNKNOWN] 魔豆双人已经。[UNKNOWN] 完成了。[UNKNOWN] 这个这个好像没拿有个。[UNKNOWN] 宝箱没拿有个宝箱在这个下面来。[UNKNOWN] 明天开始。[UNKNOWN] 了吃到的整才百百分之七十五  (💬 喜欢 / 才75%啊 / 藏的好深啊 / 还有藏的 / 还有宝箱)
+[118m] 🔥 [UNKNOWN] 天天事始了。[UNKNOWN] 就在这上面有东西没拿。[UNKNOWN] 怎么上去了。[UNKNOWN] 魔豆让我们上去。[UNKNOWN] 哎这里有个洞哎。[UNKNOWN] 啊就看一眼。[UNKNOWN] 刷新印象。[UNKNOWN] 连接了ok ok。[UNKNOWN] 这边连接上了  (💬 今天有事做了！ / 逮捕 / [UPOWER_2124647716_下饭] / 搜一波 / 我要看看森林里到底藏在哪)
+[122m] 🔥 [UNKNOWN] 嗯墓地也有一个没有拿。[UNKNOWN] 等会久。[UNKNOWN] 墓地居然也有一个没有拿。[UNKNOWN] 一。[UNKNOWN] 你这是。[UNKNOWN] 真的。[UNKNOWN] 调皮的。[UNKNOWN] 哎显示在这么竖。[UNKNOWN] 嗯。[UNKNOWN] 哦周少小游戏。[UNKNOWN] 怎么游怎么小游戏啊  (💬 [UPOWER_2124647716_哈哈] / 调皮 / 大噶 / 去吗 / 喜欢)
+[122m] 🔥 [UNKNOWN] 难道是下去。[UNKNOWN] 牛 完。[UNKNOWN] 了完了。[UNKNOWN] 三五四五六。[UNKNOWN] 还剩一分钟之的。[UNKNOWN] 应该就是。[UNKNOWN] 是的。[UNKNOWN] 被抓了。[UNKNOWN] 此一篮梦选孤不长。[UNKNOWN] 嗯嗯睡觉了。[UNKNOWN] 那给个宝箱  (💬 跟鬼赛跑第二层给碎片 是不是这个 / 若有所思 / 树这里有什么吗？ / 怎么玩儿呢 / 小游戏就是小孩的新赌博吗)
+[124m] 🔥 [UNKNOWN] 应该是谢修哥喵的鼓鼓掌。[UNKNOWN] 他放了不止荧光怪的技数。[UNKNOWN] 谢秀光喵的乐园星球。[UNKNOWN] 谢谢若烟同学入魔了的粉丝灯牌。[UNKNOWN] 谢谢夜凉梦雪的鼓掌。[UNKNOWN] 谢谢星际漫步的粉色。[UNKNOWN] 灯牌谢薛光喵的鼓鼓掌。[UNKNOWN] 知道了哈谢林音的打call  (💬 有捕米笼 / 幽灵头上也有个环啊 / 多吃一个就时间不够了 / 哦加心了 / 又多一颗星了)
+[124m] 🔥 [UNKNOWN] 谢冯小影的。[UNKNOWN] 是山东派。[UNKNOWN] 嗯你中江同学入魔了。[UNKNOWN] 哦这个地方。[UNKNOWN] 我回到卡卡丽小群。[UNKNOWN] 然后我们现在处理也有一嗯。[UNKNOWN] 照一下那是在哪儿呢。[UNKNOWN] 用力。[UNKNOWN] 看看他们的。[UNKNOWN] 双胞胎的妹妹  (💬 现在就是所谓的不知道塞尔达是谁的时间了吗（ / happy / 风车也有吗 / 米米整个有背键的手柄就能边疾跑边转向了 / 别给你传送走了)
+[126m] 🔥 [UNKNOWN] 男生这边呢。[UNKNOWN] 吃了你有你。[UNKNOWN] 嗯哼。[UNKNOWN] 怎么感觉他。[UNKNOWN] 他遭遇了什么。[UNKNOWN] 怎么办啊。[UNKNOWN] 有一个。[UNKNOWN] 不知道怎么拿。[UNKNOWN] 那个宝箱不知道怎么拿。[UNKNOWN] 是在上面的  (💬 喜欢(x3) / 米米加油哦 / [米汀收藏集表情包_哈欠] / 痴迷？？？ / [UPOWER_2124647716_欲言又止])
+[127m] 🔥 [UNKNOWN] 然而认错了。[UNKNOWN] 也有可能是没有认错的哦。[UNKNOWN] 这个地方不用看。[UNKNOWN] 感觉本来是可以上去的。[UNKNOWN] 怎么上去呢。[UNKNOWN] 看他那个台词确实像是被威胁了。[UNKNOWN] 对面房顶。[UNKNOWN] 嗯这个地方我们也还有个  (💬 喜欢 / 小时候的暴风雨之歌吗 / 看到缺口了 / 对面房顶用钩抓 / [UPOWER_2124647716_唔])
+[129m] 🔥 [UNKNOWN] 感觉是。[UNKNOWN] 有点够不着。[UNKNOWN] 差一点。[UNKNOWN] 对看到梯子了当时。[UNKNOWN] 去哪儿呢。[UNKNOWN] 扇叶上应该没有东西可以勾。[UNKNOWN] 但是梯子我们是可以勾的哦。[UNKNOWN] 好了。[UNKNOWN] 居然在这种地方。[UNKNOWN] 有鸡  (💬 梯子看到了 / 扇叶上有地方钩？ / 在近点 / 再想办法走近点 / 差一丢丢)
+[129m] 🔥 [UNKNOWN] 这是乐家跑出来的鸡毛。[UNKNOWN] 谢谢留恋的如钩的粉色灯牌。[UNKNOWN] 嗯可能是带我们飞下去的。[UNKNOWN] 那这里应该完成了。[UNKNOWN] 大人的也完成了。[UNKNOWN] 嗯。[UNKNOWN] 看一下哈。[UNKNOWN] 啊。[UNKNOWN] 那个加不加入大人  (💬 喜欢(x3) / [UPOWER_2124647716_喝茶] / 养咕咕鸡的姐姐吗？ / 卡卡利特村也100%了！ / 不欺负一下咕咕鸡吗)
+[130m] 🔥 [UNKNOWN] 的肚子里我们少了一个。[UNKNOWN] 我都少了一个黄金蜘蛛。[UNKNOWN] 脾七哥自己都上来了。[UNKNOWN] 我们。[UNKNOWN] 我们先去了。[UNKNOWN] 卓拉河。[UNKNOWN] 别闹了。[UNKNOWN] 直接送你的盔甲。[UNKNOWN] 不是。[UNKNOWN] 那难道他很喜欢咕咕鸡  (💬 心虚 / xs / 大鲸鱼的肚子 / 当时毕竟还没探测器 / 那要跑半天了)
+[131m] 🔥 [UNKNOWN] 嗯。[UNKNOWN] 没有了。[UNKNOWN] 整天我们完成了。[UNKNOWN] 明天不知道咕咕鸡什么味道。[UNKNOWN] 我们。[UNKNOWN] 海带路平原有这么多东西没有拿呀。[UNKNOWN] 有东西没拿。[UNKNOWN] 这里有过。[UNKNOWN] 包厢  (💬 喜欢 / 我想吃钵钵鸡了 / 狂砍咕咕鸡有彩蛋 / 吃伊波纳 / 喝茶)
+[134m] ▫️ [UNKNOWN] 明天还试试直接跑过去吧。[UNKNOWN] 对面。[UNKNOWN] 暗号是什么。[UNKNOWN] 张云会说吗。[UNKNOWN] 有三个错的。[UNKNOWN] ok。[UNKNOWN] 小小的妖精。[UNKNOWN] 我心。[UNKNOWN] 我们不是邀请吗  (💬 马屁股扭的太慢了 / 对暗号 / 还有前置哈哈 / 暗号9527 / 暗号是什么，米家的粮票或者米汀0212吗)
+[137m] 🔥 [UNKNOWN] 白金。[UNKNOWN] 你别再喝呀。[UNKNOWN] 是不小心按到了是吧。[UNKNOWN] 好吧。[UNKNOWN] 嗯这边有东西。[UNKNOWN] 我们的音放大呢。[UNKNOWN] 不。[UNKNOWN] 啊就在这附近。[UNKNOWN] 我  (💬 喜欢 / 你怎么吓自己一跳 / 什么都没有，米米自己打了一锤 / 伊波那被米米一锤子吓跑了 / 突然发现平原的抓大魄还没做完)
+[140m] 🔥 [UNKNOWN] 然后这个地方还有。[UNKNOWN] 手机没电了。[UNKNOWN] 快让我这前面单说。[UNKNOWN] 等明天充一下电。[UNKNOWN] 三零一选择阴道打破。[UNKNOWN] 看来海拉鲁平原的上面有挺多那种。[UNKNOWN] 完成的成就。[UNKNOWN] 嗯走吧  (💬 喜欢 / 小时候我记得也有个金蜘蛛 / 毕竟时间都不同了 / 不同时间来不一样 / 充充)
+[142m] ▫️ [UNKNOWN] 我呢波波那和在找。[UNKNOWN] 知道我们继续探索包。[UNKNOWN] 一呀。[UNKNOWN] 明天直接下去了。[UNKNOWN] 毕竟是常见问题。[UNKNOWN] 完了天亮了。[UNKNOWN] 被按出来的其中之一呢。[UNKNOWN] 那这个应该是要穿这个衣服。[UNKNOWN] 再加上  (💬 喜欢 / 新口癖：你们觉得呢 / 不影响完成度就没必要了 / 口头禅！ / 还没到成为口头禅的频率吧)
+[144m] 🔥 [UNKNOWN] 想办法给他弄开怎么弄啊。[UNKNOWN] 翻滚。[UNKNOWN] 没有充熟的玄香。[UNKNOWN] 你你们烧水的车主拉出去了。[UNKNOWN] 别人。[UNKNOWN] 布娜转向。[UNKNOWN] 看来。[UNKNOWN] 看来并不是无世机制的人。[UNKNOWN] 这是你生前的家吗。[UNKNOWN] 你的存款礼金就收下了  (💬 翻滚 / 打不坏 / 把水抽干 / 炸弹能丢下去吗 / 喜欢)
+[147m] 🔥 [UNKNOWN] 哇这个地方。[UNKNOWN] 的水总感觉会藏点什么东西。[UNKNOWN] 像缘气的很像灯牌。[UNKNOWN] 空了吗。[UNKNOWN] 看快。[UNKNOWN] 骂熊不是你们这个都八卦蛇。[UNKNOWN] 小孩儿这边还有一个星车碎片呢。[UNKNOWN] 我没拿到。[UNKNOWN] 海拉鲁平原的话  (💬 米米我们去攻略马蓉 / 这就是海拉鲁恶霸吗，吓哭了 / 我们是王子吗 / 岂敢 / 喜欢)
+[148m] 🔥 [UNKNOWN] 其他的已经差不多了。[UNKNOWN] 然后就是刚刚商人那里的吧。[UNKNOWN] 可能是的。[UNKNOWN] 好海拉鲁平原我们。[UNKNOWN] 哎呀。[UNKNOWN] 一波拉的马腿嗯  (💬 马蓉 唯一活人 / 米米我们去攻略马蓉 / 应该是 / 感觉就是赛马的 / 绒绒牧场有没有绒绒)
+[152m] ▫️ [UNKNOWN] 哦。[UNKNOWN] 嗯嗯。[UNKNOWN] 小时候不知道能不能过来呢  (💬 确实，感觉今晚还未必能完结 / 下午不太能完结了，晚上应该没问题 / 那不用想晚上玩什么了)
+[155m] 🔥 [UNKNOWN] 欢迎沙漠龙。[UNKNOWN] 欢迎沙漠蛇什么每天可以  (💬 喜欢 / 来西部荒野了 / 问号 / 沙漠的路有点难找 / 沙漠有个NPC)
+[157m] 🔥 [UNKNOWN] 啊但是这里没法过去。[UNKNOWN] 要找到那个能。[UNKNOWN] 啊。[UNKNOWN] 出来了怎么样厉害吗。[UNKNOWN] 怎么样。[UNKNOWN] 最大的感想是不应该从这个地方过来。[UNKNOWN] 啊格鲁德训练场。[UNKNOWN] 哦对我们格鲁德训练场还有。[UNKNOWN] 还有宝箱没有拿完呢  (💬 厉害厉害(x3) / 喜欢 / 那个门对面有个钩 / 沙漠遗迹 / 已绕晕)
+[158m] 🔥 [UNKNOWN] 等一下啊。[UNKNOWN] 先去。[UNKNOWN] 训练场我们缺很多东西的。[UNKNOWN] 食人掌是我们当时没有那个手套。[UNKNOWN] 还记得吗。[UNKNOWN] 虽然过不去了。[UNKNOWN] 哎这个要上去很麻烦哦。[UNKNOWN] 滚正点吧。[UNKNOWN] 是的现在我们金手套都有了  (💬 好厉害好厉害的米 / 训练场是缺失什么东西退出去了好像？ / 米米我迷路了怎么带我回去 / 沙漠最后一段还是要带路的，反走居然还找得到 / 想起来了)
+[159m] ▫️ [UNKNOWN] 今王还是挺想玩事之地的。[UNKNOWN] 要先挑的吧。[UNKNOWN] 通关的角落还能补一下。[UNKNOWN] 救一下。[UNKNOWN] 是的剩下时间吧。[UNKNOWN] 新偶像。[UNKNOWN] 就完了。[UNKNOWN] 这个地方好像是这上面有个。[UNKNOWN] 稻草人。[UNKNOWN] 虽然没有找到他在哪儿  (💬 喜欢 / 今晚通关的早还能补一下金偶像 / 省的挑了 / 可以 / 金偶像！)
+[160m] ▫️ [UNKNOWN] 不知道能不能完成。[UNKNOWN] 他在哪儿啊。[UNKNOWN] 嗯这边你还是听不到的样子。[UNKNOWN] 能不能啊。[UNKNOWN] 能不能回宿。[UNKNOWN] 那么多回收。[UNKNOWN] 能不能回溯  (💬 喜欢(x5) / 喝茶 / 谢谢 / 按y能回溯吗 / 下次放个传送在楼顶)
+[162m] ▫️ [UNKNOWN] 你对此处非常了解。[UNKNOWN] 真的是。[UNKNOWN] 嗯。[UNKNOWN] 这个人。[UNKNOWN] 站站在那儿吹的吗。[UNKNOWN] 我刚刚不就是站在那儿吹的吗。[UNKNOWN] 还有一个我们先去拿。[UNKNOWN] 让我们可以亲一波呢。[UNKNOWN] 他说少女空都跑到这儿了  (💬 像回家一样 / 比回家还熟悉 / 心中的稻草人 / 喜欢)
+[165m] 🔥 [UNKNOWN] 这个专门回来收集。[UNKNOWN] 的经验。[UNKNOWN] 让每天想起来。[UNKNOWN] 以之前玩奥德赛的时候有点怀念了。[UNKNOWN] 嗯。[UNKNOWN] 啥也没有很路漫漫。[UNKNOWN] 感觉。[UNKNOWN] 也不多了。[UNKNOWN] 不是刺客信条的奥德赛是马里奥  (💬 这地方谁会来啊 / 全收集路漫漫啊 / 不会99的 / 刺客信条？ / 哼哼哼哼→哼⬆~)
+[166m] 🔥 [UNKNOWN] 奥德赛。[UNKNOWN] 已定是全收集了都。[UNKNOWN] 但收集起来很开心啊。[UNKNOWN] 我们该走左边左边  (💬 马里奥 / 塞尔达也很开心 / [少女歌剧表情包_我明白] / 那个米米直播还展示过全收集的 / 藏了个好东西)
+[170m] ▫️ [UNKNOWN] 好最后一要说我们拿完了  (💬 喜欢 / 小钥匙拿下！ / 确实是)
+[172m] 🔥 [UNKNOWN] 没拿到的。[UNKNOWN] 哈哈。[UNKNOWN] 那我们还自由出入这里干嘛呢。[UNKNOWN] 好难受。[UNKNOWN] 你的选手这么丑。[UNKNOWN] 谢了怎么生气。[UNKNOWN] 滚。[UNKNOWN] 明天我去在这里探索。[UNKNOWN] 十任个地方据说有那什么。[UNKNOWN] 这怎么过去啊  (💬 喜欢 / 米米你的身手真不错啊 / 喝茶 / 搜集完不用再来了 / 可爱捏)
+[173m] ▫️ [UNKNOWN] 明天滚了一下。[UNKNOWN] 但是我没有释房钱。[UNKNOWN] 啊跳下去了  (💬 哦滚一下好像是我们最开始的教学 / 现在是我们的私房钱了 / 你的私房钱，米米就笑纳了)
+[176m] ▫️ [UNKNOWN] 先把这边的东西拿了。[UNKNOWN] 吹笛子。[UNKNOWN] 有推荐吗。[UNKNOWN] 总感觉这个湖畔好像。[UNKNOWN] 是已经是最近的了  (💬 喜欢 / 米汀要走了)
+[178m] ▫️ [UNKNOWN] 遮挡不上。[UNKNOWN] 特别多  (💬 暗示你吹稻草人曲子有隐藏)
+[180m] ▫️ [UNKNOWN] 明天要规划路线啊时间左转。[UNKNOWN] 我们科奇里森林才百分之五十  (💬 喜欢 / 森林还差这么多 / 都是小时候停留不多的地方缺 / 居然有差这么多的，是不是我们前期路过了)
+[181m] ▫️ [UNKNOWN] 在哪儿呢他。[UNKNOWN] 显示的就是这个位置。[UNKNOWN] 这不像稻草人的习性吗。[UNKNOWN] 已经看到了。[UNKNOWN] 每天走到这边边上来。[UNKNOWN] 看到了吧。[UNKNOWN] 差点跳下去了。[UNKNOWN] 刚刚。[UNKNOWN] 要怎么这样啊。[UNKNOWN] 哦你  (💬 好大一声鸡叫 / 不在啊 / 若有所思)
+[184m] 🔥 [UNKNOWN] 甭晚怎么样。[UNKNOWN] 这于达成了。[UNKNOWN] 时间省电也是百分之百。[UNKNOWN] 走吧格鲁特春露。[UNKNOWN] 啊。[UNKNOWN] 一波啦救救一波浪。[UNKNOWN] 谢谢走吧冲关。[UNKNOWN] 哎呀。[UNKNOWN] 哎呀。[UNKNOWN] 哎呀。[UNKNOWN] 不过  (💬 喜欢(x3) / 来都来了 戳它一下不 / 是呀 / 走吧 / [比心])
+[184m] 🔥 [UNKNOWN] 还是很厉害的  (💬 咿呀哈咿呀哈 / 喜欢 / 哪来的大力士)
+[186m] ▫️ [UNKNOWN] 这离他近一点他又不出来。[UNKNOWN] 咋没了都。[UNKNOWN] 人肉牧场这边大人的也已经完成了  (💬 喜欢(x3) / 还要对准 / xs)
+[188m] ▫️ [UNKNOWN] 又到巨大携生相融  (💬 喜欢 / 哈哈哈哈 / 走吧)
+[191m] ▫️ [UNKNOWN] 小孩儿在这边还差。[UNKNOWN] 差一个星之碎片。[UNKNOWN] 挪了。[UNKNOWN] 进来就被烧没了。[UNKNOWN] 走错了。[UNKNOWN] 那红孩儿。[UNKNOWN] 怎么怎么降温啊。[UNKNOWN] 不够以。[UNKNOWN] 上一层。[UNKNOWN] 快。[UNKNOWN] 过来  (💬 估计是红孩儿吧 / 魔了 / 魔了！！ / 我记得能降温？ / 不确定)
+[193m] ▫️ [UNKNOWN] 有多少。[UNKNOWN] 很开心的哦。[UNKNOWN] 真是我们。[UNKNOWN] 这是我们辛辛苦苦。[UNKNOWN] 好吧。[UNKNOWN] 谢谢苦苦。[UNKNOWN] ok。[UNKNOWN] 干净了。[UNKNOWN] 帮他们清理空间清理杂物。[UNKNOWN] so。[UNKNOWN] 看这个颜色哦  (💬 喜欢 / 这也太多了 / 米米好粗暴怎么一边摔东西一边笑 / 满足了破坏欲 / 有种打保龄球的感觉)
+[197m] ▫️ [UNKNOWN] 不告诉你。[UNKNOWN] 哦。[UNKNOWN] hello。[UNKNOWN] 死了。[UNKNOWN] 嗯。[UNKNOWN] 左边的不会是参与奖吧。[UNKNOWN] 他们不回来了吗。[UNKNOWN] 乖乖回来。[UNKNOWN] 快加油哼。[UNKNOWN] 哥哥。[UNKNOWN] 但是我们  (💬 考考你 / TQL / [米汀收藏集表情包_看戏] / 喜欢 / 米米米米好强)
+[200m] ▫️ [UNKNOWN] 听那首。[UNKNOWN] 参与奖呢。[UNKNOWN] 全喊了。[UNKNOWN] 这么这么霸道。[UNKNOWN] 喊的深深的。[UNKNOWN] 嗯不可能呢。[UNKNOWN] 有人知道吗。[UNKNOWN] 你们没有人有全收集的需求吗。[UNKNOWN] 完了。[UNKNOWN] 还要给他们艾克复原吗  (💬 喜欢 / 全砍掉呢 / 参与奖没了 / 下饭 / 挠头)
+[201m] 🔥 [UNKNOWN] 你们有在听吗。[UNKNOWN] 没权收级难的。[UNKNOWN] 嗯。[UNKNOWN] 沉迷女王李煜和外星万岁。[UNKNOWN] 拿了第一个就跑了。[UNKNOWN] 但是他第二个要算完成。[UNKNOWN] 要算玩成都的呀。[UNKNOWN] 你说说。[UNKNOWN] 走了。[UNKNOWN] 难道我们本来应该三  (💬 喜欢 / 沉迷女王领域和外星来信 甚至还没打开时之笛 / 回来吧回来吧 / 全收集也多是看攻略的 / 宝箱的全收集没啥必要（)
+[203m] 🔥 [UNKNOWN] 参与什么。[UNKNOWN] 好。[UNKNOWN] 三条魔车。[UNKNOWN] 万迎三d的话那确实没法玩。[UNKNOWN] 哎呦。[UNKNOWN] 能吧。[UNKNOWN] 你听请问大地老师。[UNKNOWN] 明天要去问答题老师。[UNKNOWN] 嗯。[UNKNOWN] 一次只能拿一个宝箱  (💬 一个是第一人称 一个是引导弱没地图容易迷路 / 外星来信是要翻译的那个吧 / 参与奖砍错就会出，可能得换地图吧 / 拿不到 难受 / ohno)
+[205m] 🔥 [UNKNOWN] 我们要离开这个区域才行。[UNKNOWN] 就修复那么标牌没有用。[UNKNOWN] 每次只能拿一个。[UNKNOWN] 谢谢大地老鼠。[UNKNOWN] 都被明天指出来了。[UNKNOWN] 明天都没有问这个。[UNKNOWN] 谢谢芝拿孔的分向灯牌。[UNKNOWN] 谢一颗空蛋的粉三能牌。[UNKNOWN] 谢谢哥喵的薯条  (💬 喜欢 / 试试看吧 / 米米被拯救了 / 看看大d老师的攻略靠不靠谱 / 不知道会不会有点幻觉成分)
+[206m] 🔥 [UNKNOWN] 虽然说暗穷军法本来也要试一下。[UNKNOWN] 切地图。[UNKNOWN] 谢零一的打call。[UNKNOWN] 我们为了这一块钱。[UNKNOWN] 不这拿十一块钱。[UNKNOWN] 这是百分之百达成率。[UNKNOWN] 为什么有一个蜘蛛。[UNKNOWN] 去一趟吧  (💬 1块 / 好费劲的一块钱 / 为了这一毛钱 / 1块！ / 这可是收集度啊)
+[208m] ▫️ [UNKNOWN] 是。[UNKNOWN] 要带我们过去的样子  (💬 脚幻痛了)
+[211m] 🔥 [UNKNOWN] 五然后再上一层。[UNKNOWN] 嗯就是你。[UNKNOWN] 嗯。[UNKNOWN] 出门左转。[UNKNOWN] 这谁能知道呢。[UNKNOWN] 大家。[UNKNOWN] 分支舞台。[UNKNOWN] 是的这个地方有个洞。[UNKNOWN] 好精神无染哦。[UNKNOWN] 大人嗯哼。[UNKNOWN] 什么意思  (💬 喜欢 / 等通关了截个手机截图？ / 留念一下 / 喝茶 / 呜呜)
+[212m] 🔥 [UNKNOWN] 没反应。[UNKNOWN] 极其恐怖。[UNKNOWN] 啊  (💬 面具大赛吧 / 面具选美大赛啊)
+[214m] ▫️ [UNKNOWN] 我们最后两个是在这里。[UNKNOWN] 创意。[UNKNOWN] 哎呀。[UNKNOWN] 然后刚好回科科起里森林。[UNKNOWN] 这里一出来右边这个。[UNKNOWN] 印象中不是这个顺序。[UNKNOWN] 你是被。[UNKNOWN] 哥们儿很抱歉。[UNKNOWN] 其实每天只是记得最中间  (💬 是的 / 喜欢 / 先等小时候了)
+[218m] ▫️ [UNKNOWN] 的呃那个最边边的那个肉是最后。[UNKNOWN] 十一。[UNKNOWN] 十六。[UNKNOWN] 米德居然会给嗯这么多。[UNKNOWN] 谢谢烟雨昆明的赛博。[UNKNOWN] 薯条加二三六谢谢哈哈。[UNKNOWN] 谢谢作业。[UNKNOWN] light。[UNKNOWN] 零四零的粉色灯牌  (💬 好慷慨 / 我们血马上两排了欸 / 钱满了)
+[219m] 🔥 [UNKNOWN] 谢谢。[UNKNOWN] 去打成率百分之百了。[UNKNOWN] 但是森之圣殿的话。[UNKNOWN] 我们直接。[UNKNOWN] 明天还是觉得这个比较好听
+[223m] ▫️ [UNKNOWN] 成为了完成度啊  (💬 准备七点钟了 / 因为后面米米过来都是赶路就没杀了 / 米米不要的一千块可以发我 / 里面！)
+[225m] ▫️ [UNKNOWN] 好像有那个稻草人。[UNKNOWN] 这上面又怎么上去呢  (💬 还没看到位置)
+[227m] ▫️ [UNKNOWN] 这是迷宫最后出来的地方  (💬 有捷径吧 / 看看地图)
+[228m] ▫️ [UNKNOWN] 来跟你们讲哦。[UNKNOWN] 我们要去的是刚才那个台子上  (💬 射眼睛吧 / 喜欢 / 往下压的地板机关那里 / 就是前面找稻草人没找到那里的更上方？ / 转走廊)
+[229m] ▫️ [UNKNOWN] 先关那儿  (💬 喜欢 / 从左边红色旋转门那边走吧 / 走主路吧，当2楼往1楼跳看到地板往下压的机关的时候右转就行了)
+[231m] ▫️ [UNKNOWN] 还说这个红色真萌。[UNKNOWN] 左右没。[UNKNOWN] 我们到三楼了  (💬 去那边上边好想要这边兜一圈 从地图上边横着走过去 / 拿钱成习惯了 / 米米不要的给我 / 看到钱没法不拿)
+[233m] 🔥 [UNKNOWN] 太厉 Hello。[UNKNOWN] 这名单能过。[UNKNOWN] 从这里往旁边走。[UNKNOWN] 应该是够了。[UNKNOWN] 我们是从这里下去呢。[UNKNOWN] 还是。[UNKNOWN] 先上去呢。[UNKNOWN] 你先上去。[UNKNOWN] 在这儿。[UNKNOWN] 成绩呢  (💬 喜欢 / 就是这里 / 往下跳，右转 / 看看地图 / 原来是被国际象棋吸引了（)
+[237m] 🔥 [UNKNOWN] 啊挺可爱的。[UNKNOWN] 小林要大哥是。[UNKNOWN] 上次去的时候。[UNKNOWN] 他居然问我你是来钓鱼的。[UNKNOWN] 还是来当鱼的。[UNKNOWN] 真话呀。[UNKNOWN] 嗯卓拉之前哦。[UNKNOWN] 主拉之前我们说得上去。[UNKNOWN] 先等一下。[UNKNOWN] 那我们看看林地这边  (💬 喜欢 / 米米可爱 / 哈哈哈 / 当鱼的可还行)
+[237m] ▫️ [UNKNOWN] 缅甸这边也有地方。[UNKNOWN] 可以先去。[UNKNOWN] 稍微有点钱的洞窟。[UNKNOWN] 现在就过去。[UNKNOWN] 嗯。[UNKNOWN] 哦总是忘记最后一个两声。[UNKNOWN] 就算第二c出了也。[UNKNOWN] 他一直在问  (💬 喜欢 / 是噢)
+[244m] ▫️ [UNKNOWN] 卡了下播时间上来就忘了  (💬 喜欢 / 喝茶 / 看到有气流了 / 有windy)
+[245m] ▫️ [UNKNOWN] 上原来都要做啊。[UNKNOWN] 来等他看看会不会变。[UNKNOWN] 说之前已经看过的。[UNKNOWN] 海岸鲁城堡没办法了。[UNKNOWN] 暗之神殿。[UNKNOWN] 暗之神殿有一个稻草人没拿到。[UNKNOWN] 哎烦死了。[UNKNOWN] 稻草人稻草人为什么要算完成度啊。[UNKNOWN] 稍等啊给您看一下  (💬 喜欢 / 喝茶 / 做得好啊)
+[246m] 🔥 [UNKNOWN] 我们好多地方都是插了稻草人。[UNKNOWN] 那儿过去的。[UNKNOWN] 火之神殿。[UNKNOWN] 你方。[UNKNOWN] 走。[UNKNOWN] 对先下了。[UNKNOWN] 看看那个力气变大的能力。[UNKNOWN] 拿一下我们拿了。[UNKNOWN] 我们现在力气应该已经是最大了  (💬 看吧 / 还以为稻草人只是给点位 / 鼓隆城旁边 / 好像是鼓隆族那边 / 多东戈在山脚下吧)
+[248m] 🔥 [UNKNOWN] 稻草人真有罪。[UNKNOWN] 爸爸。[UNKNOWN] 爸爸是的。[UNKNOWN] 要去吃饭了大家。[UNKNOWN] 晚点见。[UNKNOWN] 感觉。[UNKNOWN] 机修不用关看一下啊。[UNKNOWN] 手柄的电量手柄的电量也是满的。[UNKNOWN] 生病也不用充电。[UNKNOWN] 直接  (💬 拜拜拜拜(x7) / 喜欢(x6) / 88(x5) / 下饭(x4) / 晚点见)
+[248m] 🔥 [UNKNOWN] 这样可以晚上再见了先去吃饭吧。[UNKNOWN] 拜。[UNKNOWN] 一大早晚上见。[UNKNOWN] 小强也如玉的哦。[UNKNOWN] 饭团选择赛博饭团。[UNKNOWN] 请你入下一波薯条。[UNKNOWN] 嗯拜。[UNKNOWN] 是的上一次出现那个情况是真的。[UNKNOWN] 你听把他因为他太电量太耐用了  (💬 拜拜拜拜(x9) / 喜欢(x7) / 下饭 / 谢谢 / 888888)
+[249m] 🔥 [UNKNOWN] 他放在旁边一直都没有充过电。[UNKNOWN] 深圳的呀。[UNKNOWN] 有穷有技能都要结束了。[UNKNOWN] 这可能是NSR的慢点吧。[UNKNOWN] 是的。[UNKNOWN] 它低电量是已经到很低的程度的。[UNKNOWN] 之后才会提示了简一v四。[UNKNOWN] 简一v四的五帅CC  (💬 喜欢(x4) / 拜拜拜拜(x3) / 谢谢 / 米米辛苦 / hhh)
+[250m] 🔥 [UNKNOWN] 晚饭安米晚点再见。[UNKNOWN] 嗯晚饭安大家好好吃饭。[UNKNOWN] 要点外卖的话。[UNKNOWN] 可以用淘宝闪光搜索米家的粮票。[UNKNOWN] 或者嗯美团搜索米t零二一二。[UNKNOWN] 好吧简到力free的的选的牌子。[UNKNOWN] 人之间离只见。[UNKNOWN] 可惜的么  (💬 喜欢(x4) / 好的 / 拜拜拜拜 / 对15才有 / 米米好好休息)
+[250m] 🔥 [UNKNOWN] 不知道是质底出来的之候。[UNKNOWN] 能不能让恩恩小人成交。[UNKNOWN] 且微微的你真好看。[UNKNOWN] 拜。[UNKNOWN] 拜叮。[UNKNOWN] 对对。[UNKNOWN] 嗯嗯。[UNKNOWN] 你对对。[UNKNOWN] 嗯。[UNKNOWN] 拜拜。[UNKNOWN] 嗯谢谢夜来梦雪的武神谢谢  (💬 喜欢(x3) / 喝茶 / 美团看了一下也是恢复了 / 应该不行 / 换电版倒是上行程了)
+[251m] 🔥 [UNKNOWN] 变稻草人了吗。[UNKNOWN] 这是。[UNKNOWN] 好休息  (💬 [米汀收藏集表情包_小睡] / 哈哈哈哈 / 问号 / 喝茶 / 少喝点)
