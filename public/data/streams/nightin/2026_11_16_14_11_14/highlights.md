@@ -1,0 +1,211 @@
+## 晚安回复
+
+---
+generatedAt: "2026-11-16T09:16:08.535Z"
+sourceHighlight: "录制-24872476-20261116-141114-852-nn的2_AI_HIGHLIGHT.txt"
+provider: "daiYu"
+model: "gpt-6-luna"
+fallback: false
+attempts:
+  - provider: "daiYu"
+    model: "gpt-6-luna"
+    status: "success"
+    finishReason: "completed"
+    maxTokens: 100000
+    completionTokens: 466
+    promptTokens: 28573
+    cachedTokens: 4224
+    cacheWriteTokens: 0
+    reasoningTokens: 360
+    apiModeRequested: "responses"
+    apiModeUsed: "responses"
+    sharedPromptCacheKey: "1397f4267d9112277830714ca478a5f7d3cdc936907aeaa66f41a3be0165de0c"
+    sharedPromptPrefixChars: 37043
+    explicitPromptCache: "implicit_routed"
+    promptCacheRolloutBucket: 5542
+    totalTokens: 29039
+    requestId: "f80a2183-323b-4cf0-a71a-3af3c002378c"
+    responseId: "resp_099ee7c66bd38e77016afac9cfd57c87d0bb1217348c420ea1"
+    requestStarted: true
+---
+听到你说最近嗓子有点哑，还惦记同事饿着，播到最后才出门吃饭，卡啵恰都心疼啦。今天从商务看漏行聊到寿司郎蒜苔小卷，最后还唱歌抽人，热闹陪了两个多小时。恭喜九万七，喜欢你也一直支持你，吃饱好好歇歇呀。
+
+---
+
+## Highlight
+
+【摘要】(保留率: 前35%热度 + 10%随机)
+---
+【参与者】计划参与: 无
+【参与者】实际出声: 无
+【归属说明】名单不证明逐句身份；实际出声仅指音轨匹配，也可能来自被观看内容。UNKNOWN和匿名标签不可归给房主。
+---
+[0m] 🔥 [UNKNOWN] 下午好谢谢刘备的亲密之旅。[UNKNOWN] 谢谢。[UNKNOWN] 是的是的。[UNKNOWN] 今天是海盗船长。[UNKNOWN] Hello hello。[UNKNOWN] 各位下午好。[UNKNOWN] 谢谢牛牛总有你很勇敢的粉丝牌。[UNKNOWN] 谢谢boy的粉丝牌。[UNKNOWN] 谢云溪的粉丝牌  (💬 你好你好 / 下午好NN / 喂喂喂 / 你好船长 / 主播没拉黑我太好了)
+[0m] 🔥 [UNKNOWN] 下午好。[UNKNOWN] 下午好。[UNKNOWN] 下午好。[UNKNOWN] 下午好下午好主播没有拉黑。[UNKNOWN] 你太好了主播为什么要拉黑。[UNKNOWN] 你好久不见吗。[UNKNOWN] 有这么久吗。[UNKNOWN] 海盗船长这套确实有。[UNKNOWN] 就挺久没用了。[UNKNOWN] 好像每次都说周一要定休  (💬 [dog] / 下午好下午好 / 还以为今天休了 / 下午好 / 小N咪)
+[1m] 🔥 [UNKNOWN] 那显卡呢。[UNKNOWN] 显卡套怎么说。[UNKNOWN] 不谢你的亲密度我谢过了呀。[UNKNOWN] 我谢过了呀我第一个。[UNKNOWN] 谢的不就是你的亲密之旅吗。[UNKNOWN] 咋重样。[UNKNOWN] 咋重样。[UNKNOWN] 我已经谢过。[UNKNOWN] 了谢谢刘备的亲密之旅  (💬 笑蜥了(x10) / 有猪 / 本来躺在赛车上，一开门出来的是船长 / 就该狠狠上班啊 / oi)
+[1m] 🔥 [UNKNOWN] 非常感谢你的亲密之旅。[UNKNOWN] 哼你爱一个都非常感谢。[UNKNOWN] 你听到的再谢一遍。[UNKNOWN] 谢谢你的谢谢你的亲密之旅。[UNKNOWN] 谢谢。[UNKNOWN] 嗯。[UNKNOWN] 这么有压力吗。[UNKNOWN] 灯牌也要压力我。[UNKNOWN] 显卡涨价。[UNKNOWN] 现在啊显卡现在还涨价了吗  (💬 笑蜥了(x9) / 有猪 / 显卡套是什么 / 灯牌谢了吗 / 海盗是最喜欢的一套海盗服)
+[1m] 🔥 [UNKNOWN] 现在显卡还涨价呢。[UNKNOWN] 海盗是最喜欢的一套海盗服。[UNKNOWN] 这是什么话呀。[UNKNOWN] 海盗是最喜欢的一套海盗服我。[UNKNOWN] 我不就这一套海盗服。[UNKNOWN] 我没有听懂你这句话是什么意思。[UNKNOWN] 显卡服就是。[UNKNOWN] 就是显卡配色那一套  (💬 笑蜥了(x4) / 有猪 / 跌了点，但比起之前还是涨了很多 / 下午好啊 / 所以显卡服是什么)
+[2m] 🔥 [UNKNOWN] 公师服谢白面的粉丝牌。[UNKNOWN] 谢谢级级的粉牌干嘛呢。[UNKNOWN] 上来全都在这里送粉丝牌。[UNKNOWN] 啥意思。[UNKNOWN] 你好你好你好你好你好你好。[UNKNOWN] 你好。[UNKNOWN] 谢谢肉的粉丝牌。[UNKNOWN] 谢谢今天喜欢的单队的乐园星球。[UNKNOWN] 怎么跟你说像话  (💬 笑蜥了 / 每套都是最喜欢的 / 怎么不跟我说下午好 / 有亲密度 / NN最强)
+[3m] ▫️ [UNKNOWN] 下午好。[UNKNOWN] 达官假身神将爹灭啊。[UNKNOWN] 神将抻面对不起。[UNKNOWN] 下午好。[UNKNOWN] 我靠什么高需求。[UNKNOWN] 一群高需求观众。[UNKNOWN] 那主播也是高需求粉丝。[UNKNOWN] 你们怎么不给我上舰场。[UNKNOWN] 怎么不给我上体图  (💬 笑蜥了(x5) / 卡啵恰是高需求粉丝（？） / 你为什么不念我的名字 / 主播的衣服怎么领口这么深呀 / 下午好)
+[3m] 🔥 [UNKNOWN] 怎么给我上宠物。[UNKNOWN] 怎么不给我求你的。[UNKNOWN] 我了名字也。[UNKNOWN] 我还说社恐我给你禁言了。[UNKNOWN] 社经。[UNKNOWN] 我靠。[UNKNOWN] 怎么不跟你说下午好瘦。[UNKNOWN] 哥下午好怎么不念名字。[UNKNOWN] 唉念名字点念我名字  (💬 笑蜥了(x3) / 没钱给你上舰长 / 我每次来，这个数字都在往下降 / 主播怎么不禁言这个板面 / 笑死)
+[4m] 🔥 [UNKNOWN] 我社恐找茬来的。[UNKNOWN] 是不是。[UNKNOWN] 我耐心已经告歉了有一有二。[UNKNOWN] 没有三。[UNKNOWN] 懂不。[UNKNOWN] 我已经禁言了。[UNKNOWN] 我已经把他禁言了。[UNKNOWN] 太坏了。[UNKNOWN] 太坏了。[UNKNOWN] 什么题目成真了  (💬 笑蜥了 / 怎么主包不借我19996 / 刚刷到塔神一次性收到3个月总督的切片 / 这是昨天那个题目成真了吗 / 小笨蛋)
+[4m] 🔥 [UNKNOWN] 哪个题目。[UNKNOWN] 什么题目我怎么。[UNKNOWN] 昨天什么题目啊。[UNKNOWN] 我怎么一点印象都没有。[UNKNOWN] 啊。[UNKNOWN] 哦嘎茨题目哦。[UNKNOWN] 嘎茨题目我忘了。[UNKNOWN] 我的我的大脑皮层现在非常光滑。[UNKNOWN] 完全不记得昨天发生什么事了  (💬 小笨蛋 / 嘎吃题目 / gachi题目？ / 就是做题，管人痴 / 金鱼的记忆来了)
+[5m] 🔥 [UNKNOWN] 嗯。[UNKNOWN] 下午好下午好。[UNKNOWN] 还没有吃饭呢。[UNKNOWN] 这里拼你削苹果还是华为。[UNKNOWN] 哎呀我昨天刷到这首歌。[UNKNOWN] 然后脑子里一直都是这首歌。[UNKNOWN] 你们听过这首歌没。[UNKNOWN] 下午好。[UNKNOWN] 下午好。[UNKNOWN] 所有的苹你选苹果还是华为  (💬 下午好 / 昨天播了山河万里（洗脑开始） / 刚起吗 / 你好 / 每隔几天就刷新洗脑内容)
+[6m] 🔥 [UNKNOWN] 一到场都不是他。[UNKNOWN] 也不是刚起吧。[UNKNOWN] 十二点多一点多左右的时候醒来的。[UNKNOWN] 然后就跟朋友聊了。[UNKNOWN] 会天能别洗脑关注你们没。[UNKNOWN] 你们没有听过吗。[UNKNOWN] 我看这个好像以之前。[UNKNOWN] 就上个月的歌已已经是  (💬 爆了 / 安心的搬史 / 怎么主包每天都看石 / 能别洗脑观众了吗 / 偷瞄)
+[6m] 🔥 [UNKNOWN] 苹果还是华为。[UNKNOWN] 然后还有它是一整首歌呢。[UNKNOWN] 说呃一下播就说忘了a所以你先a谁  (💬 偷瞄 / 什么情况 / 刘波诶是谁 / 喜欢苹果一周就坏内屏的折叠屏吗)
+[7m] 🔥 [UNKNOWN] 给白面放出来。[UNKNOWN] 谢塞拉斯巴蒂。[UNKNOWN] 的星光铃灯还有啥是两块的。[UNKNOWN] 呃还有什么是两块的呢。[UNKNOWN] 有。[UNKNOWN] 呃对啊钢蹦可以自己改。[UNKNOWN] 价格的钢梦就是两块钱最少。[UNKNOWN] 干嘛在做梦吗。[UNKNOWN] 大家都在大家周一下午  (💬 笑蜥了(x5) / 这个钢镚可以自己改价格的 / 小笨蛋 / 主播抽的哪款黄鹤楼一支2块？ / 20个嘻嘻哈哈)
+[8m] 🔥 [UNKNOWN] 大家都是是都疯了吗。[UNKNOWN] 嗯。[UNKNOWN] 很困惑哎呀害笑了谢。[UNKNOWN] 如果我在南极点的嘻哈。[UNKNOWN] 谢谢北极点的。[UNKNOWN] 哈哈谢谢s叉七的粉丝牌来到。[UNKNOWN] 大家都疯掉了吗。[UNKNOWN] 这很梦幻啊。[UNKNOWN] 对啊我也不唱  (💬 笑蜥了(x5) / 好梦幻的对话 / 上班的几个不疯（ / 小N咪 / 东北也挺两块)
+[8m] 🔥 [UNKNOWN] 到底发生什么事情了。[UNKNOWN] 能让我们直播间的。[UNKNOWN] 这个对话如此之梦幻够了吗。[UNKNOWN] 嗯亲爱的。[UNKNOWN] 上班的几个不疯。[UNKNOWN] 你别封好吗。[UNKNOWN] 虽然说周一的下午。[UNKNOWN] 确实是很难熬的一个下午。[UNKNOWN] 可是我还是希望大家能够  (💬 笑蜥了 / 东北也挺两块 / 谢谢你嗷 / 有猪 / 我上班要疯了，看到nn加班我就好很多了)
+[9m] 🔥 [UNKNOWN] 维持一个平稳的一个心态。[UNKNOWN] 能够就是愉快的度过周一的下午。[UNKNOWN] 因为呢一周的一天才刚刚开始。[UNKNOWN] 今天是周一明天周二。[UNKNOWN] 后天周三大后天周四。[UNKNOWN] 周四就可以KFC了 那么。[UNKNOWN] 周五就可以怎么呢。[UNKNOWN] 周五就可以等待周末的到来了  (💬 笑蜥了 / 东北也挺两块 / 谢谢你嗷 / 有猪 / 我上班要疯了，看到nn加班我就好很多了)
+[9m] 🔥 [UNKNOWN] 所以说呢嗯就是周一。[UNKNOWN] 周二周三周四。[UNKNOWN] 我们都要以一个平常心来对待。[UNKNOWN] 嗯其实呢你也可以忙里偷闲。[UNKNOWN] 就是在上班的过程中呢。[UNKNOWN] 周一变得更加快乐一些。[UNKNOWN] 嗯其实呢嗯周一加班这个事情呢。[UNKNOWN] 其实也就也就一天没有播而已  (💬 有猪 / 我上班要疯了，看到nn加班我就好很多了 / 什么情况 / 冷静星期五 / 我去大后天就是周四了，真的假的)
+[11m] ▫️ [UNKNOWN] 我都不知道我每天播了多久  (💬 但是有一大半是看比赛和剧[dog] / 主播签新合同了吗)
+[12m] ▫️ [UNKNOWN] 然后我就看到最后一行。[UNKNOWN] 呃商务什么什么什么的。[UNKNOWN] 就加一下那个微信。[UNKNOWN] 详聊。[UNKNOWN] 我以为是什么。[UNKNOWN] 普通的这种商务游戏啊。[UNKNOWN] 或者说之类的吗。[UNKNOWN] 周边产品制作的看着。[UNKNOWN] 有点像周边产品制作  (💬 笑蜥了(x8) / 喵娘？ / 看商务也阅读障碍？ / 飞机坏吗？ / 杯子？)
+[12m] 🔥 [UNKNOWN] 然后我就说我说那。[UNKNOWN] 就这样子就加一下吧。[UNKNOWN] 你有什么有什么跟。[UNKNOWN] 跟我们那个商务说。[UNKNOWN] 结果。[UNKNOWN] 我只看了一下。[UNKNOWN] 他给我发了一长串那个邀约的那个。[UNKNOWN] 休息。[UNKNOWN] 这是一个什么成人用品呢  (💬 笑蜥了(x9) / 杯子？ / 圣杯 / ktv？ / 牛大了)
+[12m] 🔥 [UNKNOWN] 哦哼。[UNKNOWN] 他说什么成人用品在找什么呃IP。[UNKNOWN] 然后有什么各个方面。[UNKNOWN] 的合作可以深入的合作一下。[UNKNOWN] 我让呵呵啊。[UNKNOWN] 然后我想说跟他说。[UNKNOWN] 我都已经回复了。[UNKNOWN] 我能撤回吗。[UNKNOWN] 我能我能撤回吗  (💬 笑蜥了(x11) / 来都来了 / 牛大了 / 圣杯战争 / 现已加入圣杯战争)
+[13m] 🔥 [UNKNOWN] 我能我能撤回吗。[UNKNOWN] 这个。[UNKNOWN] 我们公司好像不接这方面的商务。[UNKNOWN] 就是他发那么长一段啊。[UNKNOWN] 我就看到下面商务合作。[UNKNOWN] 我说那你要商务合作。[UNKNOWN] 那我那我就是那我。[UNKNOWN] 也是一下子触发了我这个被动啊  (💬 笑蜥了(x4) / 来都来了 / 不赖 / 圣杯战争好啊 得打 / 开就开)
+[13m] 🔥 [UNKNOWN] 我说你要商务合作。[UNKNOWN] 我就把微信推。[UNKNOWN] 你就你说你加我简介的微信就行。[UNKNOWN] 结果。[UNKNOWN] 仔细一看发现不对劲。[UNKNOWN] 这好像不是正经合作。[UNKNOWN] 好像是成人用品。[UNKNOWN] 然后他是那种做那种。[UNKNOWN] 什么二次元的那种人偶的那种成人  (💬 笑蜥了(x4) / 来都来了 / 不赖 / 这不该找真人主播吗 / stf：李在赣神魔)
+[13m] 🔥 [UNKNOWN] 等身人偶的那种成人作品。[UNKNOWN] 我对这个我我对这方面的。[UNKNOWN] 东西呢就是没有任何歧视的意思啊。[UNKNOWN] 我只是觉得。[UNKNOWN] 我我只是觉得我们。[UNKNOWN] 应该是不接这方面的合作。[UNKNOWN] 你的。[UNKNOWN] 滴滴的。[UNKNOWN] 我我对这东西没有  (💬 笑蜥了(x4) / 不赖 / 羞死了羞死了羞死了羞死了羞死了 / 娃娃 / 那不就是)
+[14m] 🔥 [UNKNOWN] 什么呃没有没有那个什么没什么。[UNKNOWN] 没有什么那啥的他的阿里。[UNKNOWN] 然后我就觉得仔细的看了一下。[UNKNOWN] 我发现这个好像不对劲。[UNKNOWN] 然后这个好像不太对劲啊。[UNKNOWN] 这个好像不是一般的普通的东西啊。[UNKNOWN] 然后我就说我就说  (💬 笑蜥了(x5) / 那太可惜了 / 你也要参加圣杯战争吗 / 1：1大n娃娃身高是多少 / 好像不对劲吗)
+[14m] 🔥 [UNKNOWN] 咋办。[UNKNOWN] 已经把公司的那个。[UNKNOWN] 商务的那个微信有。[UNKNOWN] 我说让他去加了。[UNKNOWN] 然后他今天早上还回复了一个。[UNKNOWN] 说一家可以。[UNKNOWN] 我能跟他说我们公我能跟他说。[UNKNOWN] 我一开始没仔细看我仔细看了之后  (💬 笑蜥了(x5) / stf:李在赣神魔 / 没事，stf会拒绝的 / 明天小残：来南町，我跟你谈谈 / stf已经在找残托尼要把你开了)
+[14m] 🔥 [UNKNOWN] 发现我们公司应该不接这种商务。[UNKNOWN] 我要悔吗。[UNKNOWN] 算了我就不回了吧。[UNKNOWN] 我不回了吧如果他真的加了。[UNKNOWN] 如果我们staff真的同意了。[UNKNOWN] 那就让staff跟他们聊吧。[UNKNOWN] 太好笑了怎么这样。[UNKNOWN] 嗯  (💬 笑蜥了(x3) / stf:李在赣神魔 / 没事，stf会拒绝的 / 明天小残：来南町，我跟你谈谈 / stf已经在找残托尼要把你开了)
+[15m] 🔥 [UNKNOWN] 不是你们。[UNKNOWN] 你们这种这种。[UNKNOWN] 这个呃各个方面啊。[UNKNOWN] 可不可以。[UNKNOWN] 我就看到后面一个。[UNKNOWN] 我说那你加微信吧。[UNKNOWN] 因为因为很多那种。[UNKNOWN] 但是我觉得staff说。[UNKNOWN] 呢因是我觉staff应该也不会同意  (💬 笑蜥了 / 可以提醒一下stf吗 / 真聊成了你不炸了 / 啥时候开售？ / 有和stf通气吗)
+[16m] 🔥 [UNKNOWN] 因为我们公司确实是。[UNKNOWN] 不太接受这方面的合作。[UNKNOWN] 应该是哈。[UNKNOWN] 嗯。[UNKNOWN] 太搞笑了。[UNKNOWN] 不会这样。[UNKNOWN] 啊怎么会这样。[UNKNOWN] 对呀因为他他最后。[UNKNOWN] 一行就是商业合作什么什么的。[UNKNOWN] 然后我就只看到了最后一行  (💬 笑蜥了 / 啥时候开售 力挺 / 小N咪 / NN最强 / psp或想自己成立圣杯品牌)
+[16m] ▫️ [UNKNOWN] 然后我说哎商业合作  (💬 笑蜥了 / taxi了 / 什么形状 / 喜欢NN / 认钱不认字这一块)
+[18m] ▫️ [UNKNOWN] 明天还能看到我吗。[UNKNOWN] 明天。[UNKNOWN] 这个和我可想我不好。[UNKNOWN] 能够能能够让大家。[UNKNOWN] 产生的下一个行为就是推他。[UNKNOWN] 推他我的我们PSP的商务微信。[UNKNOWN] 了之后再仔细阅读发现不对劲。[UNKNOWN] 这种这种合作是绝对  (💬 共情在哪儿 / 会有切片（ / 笑蜥了)
+[19m] 🔥 [UNKNOWN] 是不可能会有的呀。[UNKNOWN] 我们是一个正经的虚拟艺艺人司司。[UNKNOWN] 感觉什么是这个虚拟艺人公司。[UNKNOWN] 然后跟这个什么成人用品产生合作。[UNKNOWN] 感觉像什么漫画剧情。[UNKNOWN] 感觉。[UNKNOWN] 是不是漫画的剧情啊。[UNKNOWN] 有点接受不了啊  (💬 笑蜥了(x5) / 那很商务了[爱] / 但是首当其冲的意思是首先受到伤害 / 我们等合作达成的好消息 / 不过好像也没问题)
+[19m] 🔥 [UNKNOWN] 感觉不是很能接受啊。[UNKNOWN] 这个合作应该是无法促成了。[UNKNOWN] 所以所以就是这个故事告诉我们啊  (💬 笑蜥了(x3) / 有猪 / 期待主播的作品了 / taxi了 / 应该只有你是这样的吧[dog])
+[21m] ▫️ [UNKNOWN] 其实我觉得晕字很正常。[UNKNOWN] 苏姐动态说要办感谢字。[UNKNOWN] 就是那他那只。[UNKNOWN] 一边谢我的舰长吗。[UNKNOWN] 罚我点款吗。[UNKNOWN] 我说嗯。[UNKNOWN] 我不给原来罚款。[UNKNOWN] 可以不交的吗。[UNKNOWN] 当然不能不交啊  (💬 正常吗 / 已发邀约，期待回复 / 哦对了鼠姐动态说要办感谢祭 / 太矮了只能看到最后一行商务合作 / 你也是舰长，你也可以去)
+[23m] 🔥 [UNKNOWN] 那你要不交的话。[UNKNOWN] 那我拿你也没办法。[UNKNOWN] 我只能说。[UNKNOWN] 辱骂。[UNKNOWN] 你只会收获我的一句。[UNKNOWN] 可骂括括弧不带脏字儿。[UNKNOWN] 谢JEE的粉牌牌谢。[UNKNOWN] 丫一谢的雨的粉丝牌。[UNKNOWN] 各位那个关注的没关注的  (💬 不交罚款还有奖励 / 笑蜥了 / 大大方方赖 / 笑死 / 妈妈妈妈妈妈吗妈)
+[24m] ▫️ [UNKNOWN] 这次咱们就算过去了快巴适了。[UNKNOWN] 你却对我说啊我不怕远点。[UNKNOWN] 还差五个。[UNKNOWN] 哎一天一天比一天差的多。[UNKNOWN] 救命啊。[UNKNOWN] 那等到月底我们。[UNKNOWN] 不会六十件保卫战吧。[UNKNOWN] 嗯哼嗯。[UNKNOWN] 算了没事儿好吧  (💬 我要辱骂 / 小笨蛋 / 没那么多 / 每天都有人上舰，但每天舰长数都在掉，这是灵异事件 / 到97000也是差五个，巧了)
+[24m] 🔥 [UNKNOWN] 没事儿。[UNKNOWN] 我想我对过去。[UNKNOWN] 没事儿嗯。[UNKNOWN] 有人上剑就有人掉剑很正常。[UNKNOWN] 再给我点个关注各位。[UNKNOWN] 结正什什么变阵法。[UNKNOWN] 一直播就掉粉。[UNKNOWN] 我发现了只要我们。[UNKNOWN] 我们就涨粉  (💬 每天杀一个 / 旅游回来还有五十吗 / 你还记得吗，发短短那天我说马上97000,了，结果现在还没到，难绷 / 我去，还有辩证法！)
+[26m] ▫️ [UNKNOWN] 就离这个九万七越来越远。[UNKNOWN] 一直播就掉粉一直播就掉粉。[UNKNOWN] 我我意思直就是说呢我们等等。[UNKNOWN] 我们就是呃过段时间。[UNKNOWN] 去旅游旅游的时候。[UNKNOWN] 就能够。[UNKNOWN] 就能够慢慢把粉丝涨到九万七了。[UNKNOWN] 有感觉吗  (💬 笑蜥了(x5) / 让你找到焚诀了 / 有一种掘地求升的感觉 / 加油 / [dog]万一掉的涨的是同一批人怎么办)
+[26m] 🔥 [UNKNOWN] 完全就是。[UNKNOWN] 完全就是有感觉啊。[UNKNOWN] 谢行乐酷。[UNKNOWN] 谢天东的粉丝牌。[UNKNOWN] 哎呀不是这个意思啊。[UNKNOWN] 吕凤仙。[UNKNOWN] 不是这意思啊。[UNKNOWN] 李凤仙你看啊李凤仙。[UNKNOWN] 你这我多不好意思啊。[UNKNOWN] 你知道我多不好意思啊  (💬 笑蜥了(x6) / [dog]万一掉的涨的是同一批人怎么办 / 不好意思在哪儿 / 太不是了 / 播的少肯定掉啊)
+[27m] 🔥 [UNKNOWN] 李凤仙。[UNKNOWN] 我这我这个随口一雷。[UNKNOWN] 你就上剑那你这样子。[UNKNOWN] 那我以后要不习惯了怎么办呀。[UNKNOWN] 要你我以后要是雷别人等着。[UNKNOWN] 别人不给我说。[UNKNOWN] 我不习惯了怎么办。[UNKNOWN] 李凤仙这多不好意思啊。[UNKNOWN] 唉谢谢你的舰长  (💬 笑蜥了(x3) / 不好意思在哪儿 / 太不是了 / 播的少肯定掉啊 / 不好意思在哪)
+[27m] 🔥 [UNKNOWN] 谢你店长。[UNKNOWN] 欢迎大你爱你多非。[UNKNOWN] 非常谢哥续地球。[UNKNOWN] 谢小之成给个波包。[UNKNOWN] 这个嗯哎呀我觉得哎呀。[UNKNOWN] 还真是为我的无聊。[UNKNOWN] 明果明年有的话。[UNKNOWN] KPL队伍有些了解了嘛。[UNKNOWN] 我说微博真的给我打点钱  (💬 笑蜥了 / 太是了 / 小n播kpl涨了多少粉 / 有猪 / 意思是总督)
+[29m] ▫️ [UNKNOWN] 就是低胸那种。[UNKNOWN] 这个小逼。[UNKNOWN] 我已经领了  (💬 在干嘛 / 支持blg有大会员 / 但是想象空间很足 / 领了记得关自动续费 / 对了主播，领大会员之后默认自动续费，你别忘了关)
+[32m] ▫️ [UNKNOWN] 自己尝试过要你们自己试过了  (💬 我这边没有自动续费 / 并没有 / 那就没有，那没事了)
+[33m] ▫️ [UNKNOWN] 那就肯定还是那就。[UNKNOWN] 大家觉得他能完成千剑吗。[UNKNOWN] 嗯非常有信心的。[UNKNOWN] 第一个不够水补不够。[UNKNOWN] 不到最后一刻。[UNKNOWN] 什么样子的一个结果。[UNKNOWN] 因为我觉得正常一般来讲的话。[UNKNOWN] 就说明你平时的直播  (💬 还真是 / 不够谁补 / 感觉有点难 / 冲千舰其实就中间700,800那段最难，到了后面就基本上有了 / 昨天同接老高了，不过舰长涨的不多)
+[35m] 🔥 [UNKNOWN] 有几多恶劣。[UNKNOWN] 昨天晚是的。[UNKNOWN] 我什么时候再充我我充什么。[UNKNOWN] 我往哪里冲。[UNKNOWN] 啊我想拿一桶。[UNKNOWN] 对呀说不定大家都在等注水嘛。[UNKNOWN] 有这个可能性哈有这个可能性。[UNKNOWN] 我觉得注水日大家可能也都在等待  (💬 俯冲 / 哈哈哈哈 / 大N老师什么时候再冲 / 说不定大家都是在等注水 / 开奶)
+[35m] 🔥 [UNKNOWN] 那天啊意思就是大家不给我续金也。[UNKNOWN] 三毛强强嗯啊。[UNKNOWN] 太令人悲伤了嗯。[UNKNOWN] 一定。[UNKNOWN] 涂唇膏。[UNKNOWN] 你还别说。[UNKNOWN] 我买的那个唇膏。[UNKNOWN] 它虽然不是那种立竿见影的那个。[UNKNOWN] 立立竿见影的那个效果  (💬 俯冲 / 哈哈哈哈 / 笑蜥了 / 这一切都要说到那个头像 / 哈哈，其实是因为大家都给矮人国王续舰长了忘了你了)
+[36m] 🔥 [UNKNOWN] 但是连续连续涂几天就还挺。[UNKNOWN] 连续涂几天还。[UNKNOWN] 挺有效的。[UNKNOWN] 大家都给矮人国王续荐忘了我了  (💬 笑蜥了 / 诶，又发现我没见过的皮了 / 感觉什么千舰基本都是靠富哥发力 / 说了这么多次，什么时候把唇膏推给kbq / 冲50舰)
+[38m] 🔥 [UNKNOWN] 每个乞丐服拿出来都要出事故。[UNKNOWN] 小问题。[UNKNOWN] 大发电喽。[UNKNOWN] 大大发电喽。[UNKNOWN] 没事烧乞丐。[UNKNOWN] 你就是你就是昨天那个问卷调查。[UNKNOWN] 里面说的那种人现身说法了。[UNKNOWN] 先生今身说法。[UNKNOWN] 给主播发一三八的SC  (💬 笑蜥了 / 还有悬空乞丐 / 笑死 / 好大的头 / 飞头仙人)
+[39m] 🔥 [UNKNOWN] 但是不上镜故意故意啊。[UNKNOWN] 三魔枪的金色SC。[UNKNOWN] 谢谢你们一三七SC。[UNKNOWN] 上剑可以借我一块钱吗。[UNKNOWN] 六块说是  (💬 笑蜥了(x6) / 诶呀这三魔枪枪咋这么坏 / 咋这样 / 上舰长会有束缚的 / 舰长抽成和sc抽成一样吗)
+[41m] 🔥 [UNKNOWN] 不是吗。[UNKNOWN] 我那个赛车服和骑那个赛车服。[UNKNOWN] 海盗服不都精心设计吗。[UNKNOWN] 大家对大家看我。[UNKNOWN] 西西设计的海盗服不感兴趣吗。[UNKNOWN] 嗯文化。[UNKNOWN] 我说错了。[UNKNOWN] 乞丐服。[UNKNOWN] 乞丐服是谁设计的呢  (💬 为什么乞丐服有对猪耳朵 / 你刚刚说精心设计的乞丐服[dog] / 契合形象 / 抽烟未来喜欢呀 / 乞丐服只是大家整活而已，你的海盗服其实很好看的)
+[42m] 🔥 [UNKNOWN] 哎呀。[UNKNOWN] 每次每次看这个什么来着。[UNKNOWN] 每次看这个海盗服。[UNKNOWN] 这个全身就觉得太美丽了。[UNKNOWN] 谢谢涵涵的免费舰长。[UNKNOWN] 谢谢你的舰长舰长免费了。[UNKNOWN] 谢谢店长哈憨你哎呀。[UNKNOWN] 哥哥非常感谢啊。[UNKNOWN] 这个阶段是谢是心想事成  (💬 笑蜥了(x3) / 谢谢老板 / 我喜欢JK / 海盗服的设计真不错 / 老板看到乞丐服直接爆米)
+[42m] 🔥 [UNKNOWN] 给个红包。[UNKNOWN] 对的还有另一个发型就是高马尾。[UNKNOWN] 一般高马尾的话。[UNKNOWN] 我觉得我觉得嗯。[UNKNOWN] 呃把外套脱掉了的话会好看一些。[UNKNOWN] 还可以这样。[UNKNOWN] 哎这个视频一定。[UNKNOWN] JK。[UNKNOWN] 小小恋歌  (💬 笑蜥了 / NN最强 / 老板看到乞丐服直接爆米 / 太怪了 / nn老师这套是不是还有另一个发型)
+[44m] 🔥 [UNKNOWN] 我会唱一个版本的小小恋歌。[UNKNOWN] 但是估计跟你说的版个不一样。[UNKNOWN] 赛车。[UNKNOWN] 海盗JK显卡女服。[UNKNOWN] 我勒个豆显卡居然这么厚吗。[UNKNOWN] 你chose free and。[UNKNOWN] mackackages。[UNKNOWN] love you想要问你行不信我的  (💬 不良 jk / 赛车海盗jk显卡女仆，我是这么排的 / 你会唱一个版本的百战成诗 / 感觉这个jk裙子好长 / 那我一会儿点)
+[45m] ▫️ [UNKNOWN] 嗯。[UNKNOWN] 太妹是什么。[UNKNOWN] 赛车这么厚吗。[UNKNOWN] 你不喜欢赛车。[UNKNOWN] 太妹挣了钱。[UNKNOWN] 好搞笑。[UNKNOWN] 后面知的不知道该出什么的时候。[UNKNOWN] 我就重置护士符号。[UNKNOWN] 哎。[UNKNOWN] 没有那么大的财力  (💬 小N咪 / nn好帅 / 都喜欢，所以要分一二真的很难 / 主播线下穿搭是这种风格吗 / 我的排序是 海盗 太妹 护士 女仆 赛车)
+[47m] 🔥 [UNKNOWN] 辣妹。[UNKNOWN] 嗯哼哼。[UNKNOWN] 应该记得。[UNKNOWN] 这个还是比较。[UNKNOWN] 我也不太能够。[UNKNOWN] 嗯。[UNKNOWN] 谢谢闲鱼喵喵的粉丝牌。[UNKNOWN] 谢白河豚怎么点的钢墨。[UNKNOWN] 护士长的眼神都纯凉的有感觉吗。[UNKNOWN] 啊确实那个时候确实很纯良  (💬 笑蜥了(x3) / 你是？ / 太清纯了 / 那时候，主播还在咕咕诊所兼职（） / 居然原皮还在)
+[48m] 🔥 [UNKNOWN] 各个方面都很各个方面都很纯良。[UNKNOWN] 你发群里那个不是重置护士吗。[UNKNOWN] 哪个。[UNKNOWN] 这个不是这个不是护士。[UNKNOWN] 这个不是护士啊。[UNKNOWN] 这个的话其实我最开始的想法。[UNKNOWN] 特别特别地雷的那种。[UNKNOWN] 所以当时他画的时候  (💬 你看看 / 现在会拿烟烫人了 令人感叹 / 笑蜥了 / 这个真善美 / 笑死)
+[49m] ▫️ [UNKNOWN] 也稍微的融了一下别的元素。[UNKNOWN] 这个很少用了。[UNKNOWN] 三次元里面的这个比例呢。[UNKNOWN] 我未必我我未必会做成。[UNKNOWN] 我未必会做成家居服了。[UNKNOWN] 因为我之前已经。[UNKNOWN] 有过一套家居服了嘛。[UNKNOWN] 嗯。[UNKNOWN] 然后然后之后那个手工服的话  (💬 这个也不赖 / 不太地雷那就是小雷 / 这个真没见过，看古早切片看见的 / 抓心挠肝了 / 你日常穿这种啊)
+[51m] 🔥 [UNKNOWN] 可能会可能不太会做成家居服。[UNKNOWN] 这种可爱一点的风格。[UNKNOWN] 嗯感觉换了一换了画师之后。[UNKNOWN] 反而就是就是前前期嘛前的的。[UNKNOWN] 一衣衣服都在找寻一些合适的格格。[UNKNOWN] 然后然后再再。[UNKNOWN] 再找一些适合的画师。[UNKNOWN] 但是呢就是一直觉得  (💬 家居服怎么这么纯良 / 哪来的甜妹 / 考虑异色瞳吗 / 我的天哪这还是大n老师吗 / 过于纯良了)
+[51m] 🔥 [UNKNOWN] 其实找的画师都不是特别特别合适。[UNKNOWN] 就感觉跟我想要那种风格还是。[UNKNOWN] 差着一点。[UNKNOWN] 所以呢我就我就寻思我说。[UNKNOWN] 唉这个还可以变小孩。[UNKNOWN] 所以后来后来我就我就。[UNKNOWN] 就找了那个。[UNKNOWN] l之后我觉得这个画师非常  (💬 NN最强 / 小N咪 / 想当御姐是吧 / L吗 / 你之前这么纯良？)
+[52m] 🔥 [UNKNOWN] 符合我心目中的这个。[UNKNOWN] 想要的风格。[UNKNOWN] 所以。[UNKNOWN] 所以我就我就一直在找他了。[UNKNOWN] 我之后就没有再找别的画师了。[UNKNOWN] 你根本没。[UNKNOWN] 然后我之后应该也。[UNKNOWN] 之后应该也不太会想换画师了。[UNKNOWN] 搜查官的风格  (💬 想当御姐是吧 / L吗 / 你之前这么纯良？)
+[53m] ▫️ [UNKNOWN] 没有。[UNKNOWN] 还有讨饭的风险吗。[UNKNOWN] 你说乞丐服吗。[UNKNOWN] 一一定要对乞丐服有这么热爱的这个。[UNKNOWN] 想法吗。[UNKNOWN] 真有吗。[UNKNOWN] 这个。[UNKNOWN] 这个三d乞丐服该不可能没有。[UNKNOWN] 真能有吗。[UNKNOWN] 都对我爱现在乞大夫准备好了吧  (💬 笑蜥了 / 调出风格x 天性解放 / 又有黑话 / 喜欢这个 / 还有讨饭的风险吗[dog])
+[54m] 🔥 [UNKNOWN] 已经是不能已已经准备好了我的包。[UNKNOWN] 但是都还一直没穿。[UNKNOWN] 开乞丐服三d你就上剑。[UNKNOWN] 咱们每一个棉花糖也有盖。[UNKNOWN] 不会直接砸在砸在空气上。[UNKNOWN] 有感觉吗。[UNKNOWN] 首先。[UNKNOWN] 你。[UNKNOWN] 要做的团服吗  (💬 必须的，开乞丐3d我就上舰[滑稽] / 大璃说你穿她就穿来着，一定不要嚯嚯同事啊 / 可以开3: / 3D乞丐服很有意思啊，很有梗 / 3d要饭回)
+[56m] 🔥 [UNKNOWN] 团服不能露啊。[UNKNOWN] 那我要露团服的话。[UNKNOWN] 那我要露团服的话。[UNKNOWN] 那我岂不是要把别的也都漏了。[UNKNOWN] 做那么多积分够吗。[UNKNOWN] 哦我们我们不用积分。[UNKNOWN] 我们自己出钱就行。[UNKNOWN] 我们自己出钱就行了呀。[UNKNOWN] 我们还要积分吗  (💬 合同谈一下 / 2d是啥 / 明天因为左脚先踏进公司被开除 / 积分是啥 / 积分说是)
+[56m] 🔥 [UNKNOWN] 我们PSC没有积分啊  (💬 积分说是 / 来个搜查官 / vr那边是流水变积分，积分能用来约稿 / NN最强 / 搜查官很酷啊)
+[58m] 🔥 [UNKNOWN] 不是很适合我的这个风格。[UNKNOWN] 但是我也不知道。[UNKNOWN] 明年那套做什么风格。[UNKNOWN] 我看过。[UNKNOWN] 皮衣那种。[UNKNOWN] 我看过i dose。[UNKNOWN] 嗯警服的话。[UNKNOWN] 其实我对警服的这个。[UNKNOWN] 呃好好感就就像就只有  (💬 笑蜥了 / 我提一个 / 女搜查官系列 / 可以画三个创可贴吗 / 米兰式板甲)
+[58m] 🔥 [UNKNOWN] 衬衫和恭喜大短裙。[UNKNOWN] 嗯我没有我没有别的。[UNKNOWN] 我觉得警服最好看的就是这个搭配。[UNKNOWN] 各位。[UNKNOWN] 警服最好看的就是。[UNKNOWN] 这个搭配没有什么没有什么别的。[UNKNOWN] 嗯就是再加别的的话就有点多了。[UNKNOWN] 最好看的就是衬衫  (💬 我觉得可以出囚服 / 魔女风格呢 / 小N咪 / 好变态啊面总 / 对的)
+[58m] 🔥 [UNKNOWN] 然后加一个短裙。[UNKNOWN] 但是你这样做的那八地就非常。[UNKNOWN] 非常简单非常普通。[UNKNOWN] 所以呢它就不太适合。[UNKNOWN] 我也觉得其实。[UNKNOWN] 呃这种类型的制服。[UNKNOWN] 我就是比较喜欢那种比较复杂的。[UNKNOWN] 比较复杂的风格  (💬 别搞这种制服吧 / 可以搜搜德警的衣服 / 做飞行员风格 / 很干净利索的那种， 跟主播身上一身挂件的风格不贴 / 纯路人吗)
+[59m] 🔥 [UNKNOWN] 太纯路人了啊。[UNKNOWN] 没事儿没事儿。[UNKNOWN] 你四十二级都可以。[UNKNOWN] 说是纯路人有感觉吗。[UNKNOWN] 没看到主播创个电之前你是不会死的。[UNKNOWN] 那我会给你杀了。[UNKNOWN] 绿发魔女魔女啊。[UNKNOWN] 我魔女我只能想那种。[UNKNOWN] 哥特哥特那种感觉一点的  (💬 原来主播是vr的 / 来首vtl吧 / 24级纯路人说是 / 应该叫层次感 / 可以做赛博朋克风格，内藏手臂加农炮和螳螂刀那种)
+[59m] 🔥 [UNKNOWN] 就像类似花礼昨天那个心一样。[UNKNOWN] 哥特那种。[UNKNOWN] 少帅那个差不多。[UNKNOWN] 从袍子那里找领的。[UNKNOWN] 可是袍子的风格跟我不一样呀。[UNKNOWN] 还没办法从袍子那找灵感啊。[UNKNOWN] 搞一个古风小生。[UNKNOWN] 搞一个旗袍。[UNKNOWN] 女人  (💬 应该叫层次感 / 可以做赛博朋克风格，内藏手臂加农炮和螳螂刀那种 / 不开玩笑骑士服真的可以 / 做野人大祭司风格 / 从狍子那找找灵感)
+[60m] 🔥 [UNKNOWN] 哼。[UNKNOWN] 曲世界。[UNKNOWN] 嗯可以参考一下。[UNKNOWN] 阿游其实可以参考一下二游。[UNKNOWN] 但是我玩阿游玩的少。[UNKNOWN] 我我二游玩的东少。[UNKNOWN] 少出一个忍者的东西。[UNKNOWN] 不是特别了解其实。[UNKNOWN] 可以忍游一游者忍忍者  (💬 出古风和塔神炒cp / 飞行员 / 搞一个小n，抄一抄byb0的 / 去碧蓝hx取经吧 / 塔思町又来了)
+[61m] 🔥 [UNKNOWN] 但是忍者的话怎么样才好看啊。[UNKNOWN] 忍者怎么样才好看。[UNKNOWN] 我要搜一下有没什么好看的。[UNKNOWN] 忍者。[UNKNOWN] 其者。[UNKNOWN] 好好看呀这个豆西太朴素了。[UNKNOWN] 好日系呀不搞这不搞这个日系的。[UNKNOWN] 希望每一套衣服都有一个主题  (💬 对魔忍 / 笑蜥了 / 出一个蜥蜴服 / 笑屁了 / 开裆裤和塔神的jk就挺搭的)
+[63m] ▫️ [UNKNOWN] 的期待。[UNKNOWN] 主要是我不太喜欢那种比较玄幻的。[UNKNOWN] 万一你哪天突然就审美有了变化。[UNKNOWN] 民族服饰。[UNKNOWN] 好期待呀好期待呀。[UNKNOWN] 又可以穿衣服了好期待呀。[UNKNOWN] 我有校服没有啊 Jk嘛。[UNKNOWN] 哟。[UNKNOWN] 有啊  (💬 到处擂肥的怪盗如何呢[dog] / 当大法师，身上法器多一点没毛病 / 还在百战成诗 / 日常穿着，莉蔻那种直播日常穿衣风格吗 / 星瞳刚出怪盗)
+[65m] 🔥 [UNKNOWN] 昨天我一。[UNKNOWN] 这不是JK吗。[UNKNOWN] 我有JK呀。[UNKNOWN] 民族服饰不好如果不了解。[UNKNOWN] 可能会被打成易拉罐。[UNKNOWN] 您说的对。[UNKNOWN] 但其实我也不懂赛车。[UNKNOWN] 我甚至在出海盗服之前。[UNKNOWN] 我也没有看过加勒比海盗  (💬 你是？ / 用守宫施法？成龙历险记的老爹？ / 主包还没有泳装 / 矮人打铁套装[花] / 花嫁)
+[65m] 🔥 [UNKNOWN] 还没有泳装。[UNKNOWN] 哎泳装的话。[UNKNOWN] 我觉得泳装是那种。[UNKNOWN] 你实在是实在是你已经出过太多。[UNKNOWN] 太多件衣服了。[UNKNOWN] 是不是。[UNKNOWN] 可能会可能会较介意这方面。[UNKNOWN] 我觉得现在。[UNKNOWN] 现在我你们能想出来的  (💬 花嫁 / 那什么时候一起看 / 矮人矿工和铸造师 / 相对来讲赛车海盗这种无所谓的 / 主播这jk每次看到都会想到咒术高专)
+[67m] 🔥 [UNKNOWN] 我大部分也能想出来但是。[UNKNOWN] 但是也未必感兴趣。[UNKNOWN] 盔甲。[UNKNOWN] 我要变成罗伯t。[UNKNOWN] 罗伯t。[UNKNOWN] 嗯丑丑啊我觉得我们。[UNKNOWN] 这个衣衣服肯定还是要先究究美观。[UNKNOWN] 不是。[UNKNOWN] 是期待画师的智慧  (💬 那就参考国外的传统服饰 / 出外国少数民族服饰x / 矮人套，手上拿铁锤，肩上有守宫，头上带王冠[妙] / 期待画师的智慧 / 乞丐服：我没意见)
+[67m] 🔥 [UNKNOWN] 但是期待画师的智慧。[UNKNOWN] 同时前提上先给个大概参考呀。[UNKNOWN] 如果不给大概参考的话。[UNKNOWN] 其实画师未必能够。[UNKNOWN] 画出你想要的感觉。[UNKNOWN] 那我们还是来讨论一下。[UNKNOWN] 有了还那我们还是来。[UNKNOWN] 讨论一下我们三d乞丐服的合同吧  (💬 笑蜥了(x4) / 乞丐服：我没意见 / 突然感觉忍者也不是不行啊偏现代一点加上一些nn的爬宠元素啥的好像也挺有发挥空间的？ / NN最强 / 可以出一个守宫玩偶服吗)
+[67m] 🔥 [UNKNOWN] 谢谢。[UNKNOWN] 从家的粉丝团。[UNKNOWN] 可以出个手工玩偶服吗。[UNKNOWN] 有的呀有的呀有了。[UNKNOWN] 有了呀。[UNKNOWN] Hello嗯hello。[UNKNOWN] hello这可以hello。[UNKNOWN] 或许有种 Hello。[UNKNOWN] hello hello  (💬 笑蜥了(x4) / 可爱捏 / 回归主线 / 你好小鼻嘎 / 强烈要求逆兔女郎)
+[68m] 🔥 [UNKNOWN] hello。[UNKNOWN] hello怪就怪hello。[UNKNOWN] 清华手工。[UNKNOWN] 不记得未曾我一定。[UNKNOWN] 生气。[UNKNOWN] 手工。[UNKNOWN] 爬行手工来不及。[UNKNOWN] 想要手工服的挂件。[UNKNOWN] 嗯。[UNKNOWN] 额头已经错过了这个手工服  (💬 笑蜥了(x3) / 可爱捏 / 有猪 / 想要个守宫服的挂件 / 小鼻嘎少抽点)
+[68m] 🔥 [UNKNOWN] 作为舰长礼物的这个那个月吗。[UNKNOWN] 徒留多余的感。[UNKNOWN] 这是日推啦  (💬 什么东西粘我屏幕上了 / 给kbq出一个能动的也可以 / 可爱捏 / 邪恶守宫可爱捏 / 别肘)
+[70m] ▫️ [UNKNOWN] 完成的可能会比较慢。[UNKNOWN] 慢慢来 怎么说接不接受大家。[UNKNOWN] 没有那种就像是就像是。[UNKNOWN] 说话不疼太难听了。[UNKNOWN] 什么意思。[UNKNOWN] 什么意思。[UNKNOWN] 我说话很难听吗。[UNKNOWN] 我。[UNKNOWN] 我的我讲话真的很难听吗  (💬 主播主播，最近刷到很多关于你的视频，学到了一句话‘说话不能太南町’ / 沉默 / 笑蜥了 / 完成我干嘛)
+[72m] 🔥 [UNKNOWN] 干嘛。[UNKNOWN] 聪明远扬。[UNKNOWN] 哼。[UNKNOWN] 我说话真的很难听吗。[UNKNOWN] 嗯。[UNKNOWN] 还好吧。[UNKNOWN] 我觉得有进步。[UNKNOWN] 我觉得有进步吧。[UNKNOWN] 我觉得。[UNKNOWN] 我觉得倒是没有那么。[UNKNOWN] 那我名字就这难听了  (💬 南町的🔑 / 又在串 / 字蹦 / 我只是刷到的，我什么都不知道 / 没有真心换真心吗)
+[74m] 🔥 [UNKNOWN] 我说话难听着无可厚非呀。[UNKNOWN] 啊。[UNKNOWN] 你以为你们说话很好听吗。[UNKNOWN] 哦。[UNKNOWN] 有没有可能你们一直在我。[UNKNOWN] 直播间说我说话难听也是一种说话。[UNKNOWN] 难听呢。[UNKNOWN] 哦。[UNKNOWN] 我让你说话你们聋吗  (💬 粉随主播(x3) / 害怕 / 笑蜥了 / 没事的 / 确实南町)
+[75m] 🔥 [UNKNOWN] 我说话有什么问题。[UNKNOWN] 哦。[UNKNOWN] 别管了。[UNKNOWN] 别管了。[UNKNOWN] 故意的那不是更恶劣了。[UNKNOWN] 感觉今天。[UNKNOWN] 啊啊。[UNKNOWN] 终于嗯。[UNKNOWN] 经过了三天的掉粉。[UNKNOWN] 我今天终于达成了。[UNKNOWN] 九万七b  (💬 小N不开心开一把水果忍者吧 / kbq故意的呀，你不是 / 说的就是南町 / 这叫忠言逆耳 / 小N咪)
+[76m] 🔥 [UNKNOWN] 啊。[UNKNOWN] 经过了三天的掉粉。[UNKNOWN] 喂每天一直播就掉粉。[UNKNOWN] 一直播就掉粉一直播就掉粉。[UNKNOWN] 今天终于达成了九万七。[UNKNOWN] 我每天的直播。[UNKNOWN] 我下播之后看那个下播总结。[UNKNOWN] 今天直播四个小时。[UNKNOWN] 竞增粉丝负  (💬 笑蜥了(x4) / 恭喜恭喜恭喜 / 呱唧呱唧👏👏 / 呱唧呱唧呱唧 / 恭喜老公❤️)
+[77m] 🔥 [UNKNOWN] 二十二啊。[UNKNOWN] 你们知道我有多痛苦吗。[UNKNOWN] 每天直播。[UNKNOWN] 每天掉到十万粉吗。[UNKNOWN] 掉到十万粉掉到吗。[UNKNOWN] 掉到十万粉。[UNKNOWN] 行谢痛苦了。[UNKNOWN] 最后三千怎么办。[UNKNOWN] 最后三千就就三千就慢慢来办了  (💬 哪天掉到十万粉 / 笑死 / 笑蜥了 / 9.7万粉坚定了我下播的决心 / 那最后3k怎么办)
+[78m] ▫️ [UNKNOWN] 突然就是哪天嗯。[UNKNOWN] 赛车服放放。[UNKNOWN] 这赛赛车服也挺好看的。[UNKNOWN] 别下放了算。[UNKNOWN] 看呃你们不觉得我。[UNKNOWN] 每套衣服的手工都很有巧思吗。[UNKNOWN] 这个手工是在这个兜里。[UNKNOWN] 然后赛车服是在肩膀上趴着。[UNKNOWN] 然后女仆是在胸口前挡着  (💬 笑蜥了 / 懂了，赛车掉粉，船长涨粉 / 再整点船长服神人小视频 / 再见了抽烟未来[委屈] / 水涨船高是吧)
+[79m] 🔥 [UNKNOWN] 然后JK那套变成挂饰挂在了贝斯上。[UNKNOWN] 海盗服的神人小视频播放量高。[UNKNOWN] 哎我最近刷到一个生日小视频。[UNKNOWN] 但是我在想怎么把它做成。[UNKNOWN] 我怎么把它做成我的这个视频。[UNKNOWN] 但是呢有点想不出来怎么做。[UNKNOWN] 我们还是来唱  (💬 有猪 / 下次能趴在头上吗 / 有没有可能守宫掉粉？[滑稽] / 我是主播的视频粉[花] / 多发视频容易涨粉)
+[80m] 🔥 [UNKNOWN] 这里屏。[UNKNOWN] 你选苹果还是华为。[UNKNOWN] 小乞丐的手工也在肩膀上呀。[UNKNOWN] 每次学一首唐歌。[UNKNOWN] 只要学会一句一直唱。[UNKNOWN] 然后大家也也会被这首歌洗脑。[UNKNOWN] 这个屏你选苹果还是华为。[UNKNOWN] 没听过这首歌吗。[UNKNOWN] 爆太郎OP  (💬 有猪 / 笑蜥了 / 小乞该的守宫呢 / 这又是什么神秘的歌 / 复读b屋檐了)
+[81m] ▫️ [UNKNOWN] 当当受不了再咚。[UNKNOWN] 我嘞个逗这是什么。[UNKNOWN] 包海王是什么东西啊。[UNKNOWN] 我会跳我感觉我会跳的很好笑啊。[UNKNOWN] 是那个吧。[UNKNOWN] 哎呀。[UNKNOWN] 我天  (💬 超级战队(x3) / 能不能和星汐合唱昭和渣男歌？这样就有理由烫山猪屁股了 / 难的 / NN最强 / 那你学呗)
+[83m] ▫️ [UNKNOWN] 得学得学收藏一下  (💬 舞蹈课学吗 / 能不能把歌也唱了 / 笑蜥了 / 定制不是我说了算吗 / 十万粉有什么活动吗)
+[85m] ▫️ [UNKNOWN] 搜一下搜一下这歌名叫什么。[UNKNOWN] 搜一下。[UNKNOWN] 第二世间。[UNKNOWN] 我也不知道叫什么呀。[UNKNOWN] 就这么没写歌名叫什么  (💬 刚好，主播有海盗服，可以学海盗战队的 / 忘了 / 三千粉丝说不定有人买点粉丝就有了 / 开箱小电视？ / 咚太郎，还是咚桃太郎)
+[87m] 🔥 [UNKNOWN] 这是这是什么。[UNKNOWN] 超级战队是吗。[UNKNOWN] 没看过呢。[UNKNOWN] 要等到宝哥的话就要更慢一点了。[UNKNOWN] 因为还要。[UNKNOWN] 录学。[UNKNOWN] 还爱着眼睛。[UNKNOWN] 噔歌还是比较好学的。[UNKNOWN] 还要坐后铁会有点墨迹。[UNKNOWN] 然后就是小时候看那种  (💬 再说主播又没有海盗3D， / 这部超级战队挺好看的 / 这部挺好看的 / 煌辉者害我不浅 / 那你学呗)
+[88m] ▫️ [UNKNOWN] 这剧情就是差不多都很像。[UNKNOWN] 那就记。[UNKNOWN] 然后奥特曼本来在。[UNKNOWN] 日常生活中然正正常的在生活。[UNKNOWN] 然后突然就是变身变身开始打怪兽。[UNKNOWN] 然后就结束。[UNKNOWN] 所有理解。[UNKNOWN] 主播能不能说一句。[UNKNOWN] 我觉得啊我我不觉得呀  (💬 有猪 / 和正常的特摄不太一样 / 没事，超级战队已经亖了 / 笑蜥了 / 那主播能不能说一句我觉得特摄都是小孩子看的东西)
+[89m] 🔥 [UNKNOWN] 我不觉得呀。[UNKNOWN] 我没看过特色。[UNKNOWN] 但是我知道现在有。[UNKNOWN] 很多人都很爱看特色。[UNKNOWN] 我从来不会觉得特色。[UNKNOWN] 是小孩子才看的东西啊啊。[UNKNOWN] 不是啊你。[UNKNOWN] 不会是这么想的吧。[UNKNOWN] 李凤贤啊  (💬 笑蜥了(x5) / 善意引导了 / 善意引导 / 又在引导了 / 日系三大特摄里的战队亖了)
+[89m] 🔥 [UNKNOWN] 没有想到你是这样子的人啊。[UNKNOWN] 那你对现在看特效的观众。[UNKNOWN] 啊啊是不是啊。[UNKNOWN] 你什么意思啊啊。[UNKNOWN] 哼哼。[UNKNOWN] 我没有这么觉得。[UNKNOWN] 终究。[UNKNOWN] 但是我自己个人。[UNKNOWN] 确实不太爱看特效了  (💬 笑蜥了(x5) / 善意引导了 / 善意引导 / 日系三大特摄里的战队亖了 / 还在引导！)
+[89m] 🔥 [UNKNOWN] Thank you。[UNKNOWN] Dont get me做。[UNKNOWN] 独自在on scordt。[UNKNOWN] 滴答你的歌声泪。[UNKNOWN] 当然也不会重新再  (💬 引导网暴UU是吧 / 新出的提欧还真不算传统的奥，更像校园日剧 / nn小时候都看什么 / 我上大学才入坑特摄 / [花])
+[91m] ▫️ [UNKNOWN] 但是也算是吧  (💬 小时候想看啥，得看电视播啥 / 缇欧的女主今天没了 / 这个是真的 / 真的，中午看到的讣告)
+[93m] ▫️ [UNKNOWN] 以前小时候看过那些日剧的话。[UNKNOWN] 新播的一些日剧就觉得好好。[UNKNOWN] 我也没有觉得特别特别好看。[UNKNOWN] 看一些日常项目。[UNKNOWN] 或者说我的是说来话长啊。[UNKNOWN] 大胆的开麦。[UNKNOWN] 虽然这一剧这部日剧非常火。[UNKNOWN] 你刚是说的话我应该看过  (💬 现在的编剧不行 / 李狗嗨什么的还是很好看的 / 好多东西都这样 / 小时候觉得好看 / 不一定，像那个非自然死亡现在看还是很好看)
+[95m] ▫️ [UNKNOWN] 我感觉花说办恋爱的话。[UNKNOWN] 最后还是可以不happy。[UNKNOWN] 夏冬篇和一个什么春秋篇。[UNKNOWN] 嗯这两部都很好看。[UNKNOWN] 假面骑士说人拍gay片的不少。[UNKNOWN] 你这样说很奇怪。[UNKNOWN] 你这样说说像他们下海了一样。[UNKNOWN] 你应该说拍男童片的不少  (💬 笑蜥了 / [OH] / 哎其实也算是预料之中（）感觉没有很突然 / 有一说一，最近假面骑士出道的演员拍钙片不少)
+[96m] 🔥 [UNKNOWN] 唉不对不也不能这么说。[UNKNOWN] 应该拍。[UNKNOWN] 你个。[UNKNOWN] 呃拍。[UNKNOWN] 男男剧的不少啊。[UNKNOWN] 对。[UNKNOWN] 你这样你这样说就。[UNKNOWN] 你这样说就很那个就听。[UNKNOWN] 着有点像那个什么人家下海了一样变。[UNKNOWN] 一直都有啊  (💬 笑蜥了 / 不是最近，是一直 / 还有个日剧那你来做做看啊，这个感觉也还行 / 怎么说都很怪 / 那不还是这个意思嘛)
+[96m] 🔥 [UNKNOWN] 现在日本的那种新时代的。[UNKNOWN] 也不能说新时代的吧。[UNKNOWN] 就是其实很多好几年前也都这样。[UNKNOWN] 你一直是首先你先去演个假面。[UNKNOWN] 骑士没演火再去演一个男童片。[UNKNOWN] 哼。[UNKNOWN] 啊哎那还演个男童片啊。[UNKNOWN] 然后你就能演火了  (💬 那不还是这个意思嘛 / 特摄就是腐剧储备营 / 笑蜥了 / 有猪 / 日本有什么知名钙片吗)
+[97m] 🔥 [UNKNOWN] 演火了再去演别的。[UNKNOWN] 这就是怎么说呢。[UNKNOWN] 黄埔军像我一样吗。[UNKNOWN] 啊受不了了。[UNKNOWN] 因人之上都培养一些。[UNKNOWN] 那个这假面骑士就培养。[UNKNOWN] 一些就拍那个男童剧的那个演员了。[UNKNOWN] 烟火了就去演别的。[UNKNOWN] 的概率都是就就是比一个人要高呀  (💬 日本有什么知名钙片吗 / 😯 / 点名build / 特摄演火了也是去腐剧 / 平成前五年的少，昭和的也少)
+[98m] ▫️ [UNKNOWN] 哪来你。[UNKNOWN] 的那种电视剧什么的看着有点尬呀。[UNKNOWN] 你是什么时候切割。[UNKNOWN] 比较想看一些普通的一点的日剧啊。[UNKNOWN] 有人刚好提醒我吗  (💬 还真是 / 什么时候切割塔斯汀cpf / 懂了，南瓜be了，已经很久没炒了 / 看得是皇叔 / 什么时候跟鼠姐炒炒)
+[101m] ▫️ [UNKNOWN] 可以搜一下。[UNKNOWN] 无所谓的。[UNKNOWN] 都是指那个吧都是指那个。[UNKNOWN] 两个人的不穿衣服的那种吧。[UNKNOWN] 应该应该不是这种吧。[UNKNOWN] 没上大陆院线。[UNKNOWN] 那海海是哪里看的。[UNKNOWN] 不要说跟一瓶吧。[UNKNOWN] 嗯  (💬 笑蜥了 / 越不一样，越吸引眼球，越能活着挣大钱 / 我还没看过真人钙片 / 国内不好说啊 / 我看大n是就爱看血腥的)
+[102m] 🔥 [UNKNOWN] 说的就是那种啊。[UNKNOWN] 原来说的就是那种。[UNKNOWN] 呃。[UNKNOWN] 你别看好吗。[UNKNOWN] 大家都这么有好奇心吗。[UNKNOWN] 哼哼。[UNKNOWN] 好可怕。[UNKNOWN] 我也觉得我突然觉得。[UNKNOWN] 大家你们怎么变得这么肉这么陌生啊  (💬 不知道诶，她没说 / 假面里圣刃的深爱三重奏很日系剧情，好看爱看 / 海海去台湾了吧 / 当然不是啊 / 少看点)
+[103m] 🔥 [UNKNOWN] 啊怎么突然变得这么陌生啊。[UNKNOWN] 怎么嗯。[UNKNOWN] 突然变得这么陌生。[UNKNOWN] 我焦心的我信任的。[UNKNOWN] 我交流的心与心的我爱的卡布。[UNKNOWN] 恰门我不认识了。[UNKNOWN] 嗯。[UNKNOWN] 变得如此陌生。[UNKNOWN] 你们。[UNKNOWN] 会员制餐厅是什么  (💬 笑蜥了(x3) / 越不一样越能吸引眼球。我就是被主播的破烂王人设吸引过来的。 / 刚来，在聊什么嘛 / 不是你们真看过啊 / 难道有人没看过会员制餐厅吗？)
+[103m] 🔥 [UNKNOWN] 我也不知道不知道。[UNKNOWN] 你们在说啥呀。[UNKNOWN] 嗯。[UNKNOWN] 哦。[UNKNOWN] 然后我们之前直播的时候。[UNKNOWN] 我忘了反正这是也有吧。[UNKNOWN] 然后。[UNKNOWN] 然后大鳄的流媒上面有的话就是嗯。[UNKNOWN] 就可能就是嗯大概知道就能看过  (💬 真心换真心的 / 笑蜥了 / 我没看过这些东西 / 这几年日剧和韩剧还有冒头的，台剧好像没有了，记得小时候台剧很火 / 好多黑话啊)
+[105m] 🔥 [UNKNOWN] 你昨天刚看完录播我嘞个刀。[UNKNOWN] 你你不会就是睡觉。[UNKNOWN] 之前会看主播录播那种。[UNKNOWN] 我我明明哎呀。[UNKNOWN] 我明明每天都已经播这么长时间了。[UNKNOWN] 你睡觉之前还要看我的录播。[UNKNOWN] 你太嘎扯了吧。[UNKNOWN] 你太高手了  (💬 笑蜥了(x5) / 小笨蛋 / 爹我能看你同事录播到睡着 / 有猪)
+[105m] 🔥 [UNKNOWN] 每天都播这么长时间了。[UNKNOWN] 哼但是个回魂祭祀是挺好看的。[UNKNOWN] 也不是最近的就近近几年吧。[UNKNOWN] 你为什么不看我录播。[UNKNOWN] 嗯。[UNKNOWN] 我感觉最近声音有点哑。[UNKNOWN] 对我吃点。[UNKNOWN] 我喝一点。[UNKNOWN] 我没水了  (💬 笑蜥了 / 爹我能看你同事录播到睡着 / 有猪 / 看同事煮面录播 / 开始说话南町了)
+[106m] 🔥 [UNKNOWN] 我要是把我的水换一下。[UNKNOWN] 但是现在主播就不换了嘛。[UNKNOWN] 嗯。[UNKNOWN] 是的是的是的。[UNKNOWN] 我们要一起去吃饭吧。[UNKNOWN] 懂爱丽懂爱丽。[UNKNOWN] 没事人情啊没有说请客吧。[UNKNOWN] 只是说要一起去吃吧。[UNKNOWN] 他说要请吗  (💬 鸡又要白死了吗 / 寿司郎吗 / 听大璃说是瓜咪邀请的 / [dog]不知道有没有记错，好像说是瓜咪的请客 / 记得带仇恨之书)
+[107m] 🔥 [UNKNOWN] 嘿呃哎。[UNKNOWN] 着的么。[UNKNOWN] 哎。[UNKNOWN] 啊真真的吗。[UNKNOWN] 没说要请啊只是说一起去吃啊。[UNKNOWN] 不吃椰子鸡好麦片。[UNKNOWN] 支持。[UNKNOWN] 支持于。[UNKNOWN] 一天请客消息了嗯。[UNKNOWN] 没听说过要请客哟  (💬 笑蜥了(x3) / 不吃椰子鸡好没品（） / 支持椰子鸡 / 下午好nn 还没下班 小小摸一下鱼 / 寿司郎jojo联动吧应该是)
+[108m] 🔥 [UNKNOWN] 我只我只听说要去吃药。[UNKNOWN] 没说要请客呀。[UNKNOWN] 那如果真的请客的话。[UNKNOWN] 那我就只能笑他了。[UNKNOWN] 那我就只能秀那么样。[UNKNOWN] 谢谢瑞文的爱心抱枕。[UNKNOWN] 谢谢。[UNKNOWN] 吃椰子鸡更没品呸。[UNKNOWN] 呸  (💬 笑蜥了(x3) / 吃椰子鸡更没！ / 免费的饭最好吃 / 椰子鸡是什么地方的菜啊 / 啥动静)
+[108m] 🔥 [UNKNOWN] 呸呸。[UNKNOWN] 你们这种不能欣赏。[UNKNOWN] 椰子鸡的人无言了。[UNKNOWN] 一直就是有人说是深的。[UNKNOWN] 有人说是海南的。[UNKNOWN] 我也不知道。[UNKNOWN] 我请过吗。[UNKNOWN] 我请过吧。[UNKNOWN] 好像请过。[UNKNOWN] 比较常吃请同事请吃的饭  (💬 可爱捏 / 我昨天煮的乌鸡汤 / 主播请过吗 / 吃椰子鸡的都是异类 / 关于吃不吃椰子鸡引起的战争)
+[108m] 🔥 [UNKNOWN] 就是多爱里多爱里经常请吃饭。[UNKNOWN] 也不是经常请吃饭。[UNKNOWN] 就经常请点奶茶啥的。[UNKNOWN] 还有。[UNKNOWN] 我又我又我最后一直挺挺对的呀。[UNKNOWN] 三十元钱再砸着我看看呢。[UNKNOWN] 我把它缩小一点。[UNKNOWN] 看看呢。[UNKNOWN] 那个  (💬 开擂 / 东北人就这样 / 是哪的不知道，但肯定鸡是白死的 / 有猪 / 擂肥了)
+[110m] 🔥 [UNKNOWN] 呃缩小一点咋看看呢。[UNKNOWN] 看一下位置需不是要调整一下呢。[UNKNOWN] 一稀他咋一下看不出来呀。[UNKNOWN] 哎呀我去。[UNKNOWN] 这给我砸的很。[UNKNOWN] 我嘞个度。[UNKNOWN] 缩小一点好像砸到空气上了。[UNKNOWN] 怎么去。[UNKNOWN] 我就只是问问你们  (💬 贪婪！ / 直播真好做啊 / 这个不准了 / 砸哪去了这是 / 确定了，赛车服砸的是胸，海盗是砸脑瓜)
+[111m] 🔥 [UNKNOWN] 你懂嗯。[UNKNOWN] 都砸的是头吧。[UNKNOWN] 因为我调过我那个嗯干嘛来着。[UNKNOWN] 就是校准过的。[UNKNOWN] 对的校准过的。[UNKNOWN] I like听。[UNKNOWN] 所。[UNKNOWN] 我这帽子戴上来就是。[UNKNOWN] 为了防御一些攻击。[UNKNOWN] 防御一些攻击  (💬 笑蜥了 / 都砸在帽子上了，头没坏 / 不能砸胸吗 / 不骗，明抢 / 砸在主播身上，痛在我心上，我不送了)
+[112m] ▫️ [UNKNOWN] 我唱起了情歌。[UNKNOWN] 我的妈呀给我砸出残疾儿了都。[UNKNOWN] 呃。[UNKNOWN] 谢谢曾野的一些晚上多吃点。[UNKNOWN] Ok ok啊。[UNKNOWN] 我要真的确定确定。[UNKNOWN] 是那个李小龙要请客吗。[UNKNOWN] 确定李小龙说过要请客吗。[UNKNOWN] 嗯嗯哼我要吃我要吃那个我要去  (💬 笑蜥了 / 嗯造黑碟 / 给的诱惑 / 说起吃，海鲜自助吃了吗 / 寿司郎吗，可以请我吃个金碟吗)
+[113m] 🔥 [UNKNOWN] 哎但是说起来说实话。[UNKNOWN] 哪个哪哪个颜色碟子最贵啊。[UNKNOWN] 我要吃二十块钱。[UNKNOWN] 一碟的那个我要吃十碟。[UNKNOWN] 爱情。[UNKNOWN] 没听说过谁说的。[UNKNOWN] 都是谁说李小龙要请客呀。[UNKNOWN] 啊说。[UNKNOWN] 你告了个大笑的  (💬 黑色 / 黑的吧？ / 吃饭小礼说没说啊 你就吃吧 / 大璃只说了礼小龙邀请她吃饭，没说请客 / 笑蜥了)
+[113m] 🔥 [UNKNOWN] 我还说哎什么没听说过呀。[UNKNOWN] 邀请客那我们可劲可劲造。[UNKNOWN] 咋这样啊。[UNKNOWN] 那种空灰洗衣场。[UNKNOWN] 我讨厌你。[UNKNOWN] 啊哎还以为还以为。[UNKNOWN] 有那个有那个什么呢。[UNKNOWN] 大姨子说六龙邀请吃饭。[UNKNOWN] 没事请客是吧  (💬 笑蜥了(x5) / 大璃只说了礼小龙邀请她吃饭，没说请客 / 狍哥昨晚说礼小笼请要她今天吃饭 / 给孩子剥点虾把 / 我举报！是他说的)
+[113m] 🔥 [UNKNOWN] 我也寻思呢我也寻思呢。[UNKNOWN] 应该应该没有说。[UNKNOWN] 我也没有听说过要请客是个谁。[UNKNOWN] 我要进行弹幕追猎了。[UNKNOWN] 刚刚谁说要谁说李小龙说要请客的。[UNKNOWN] 我说白了吧。[UNKNOWN] 我看一眼。[UNKNOWN] 我要我要我要找到这个我要注意力  (💬 笑蜥了(x10) / 狍哥昨晚说礼小笼请要她今天吃饭 / 给孩子剥点虾把 / 我举报！是他说的 / 到时候吃完了告诉你aa)
+[114m] 🔥 [UNKNOWN] 是谁。[UNKNOWN] 谁说的。[UNKNOWN] 寻觅。[UNKNOWN] ok。[UNKNOWN] 找到了。[UNKNOWN] 怎么又是睡不着的夜。[UNKNOWN] 肯定不是因为想你才失了眠。[UNKNOWN] 删不掉的照片。[UNKNOWN] 删不了的泪 And。[UNKNOWN] 算了就在来看一找到了  (💬 笑蜥了(x7) / 有猪 / 保护 / 别杀我kbq兄弟 / 你把其他几个人都通知一下，那么瓜咪请客就会变成事实了)
+[114m] 🔥 [UNKNOWN] 你不会让我知道你有了。[UNKNOWN] 谁不说了。[UNKNOWN] 我像我给我上个舰长。[UNKNOWN] 咱们这个事儿就算结束了。[UNKNOWN] 就算你请我吃的。[UNKNOWN] 嗯总不能让我空欢欣场嘛。[UNKNOWN] 到底有什刚说。[UNKNOWN] 刚刚我我本来没觉得有人要请客  (💬 保护(x3) / 出列 / 弄他，搞他，带人冲他 / 还就那个逮到 / 但是大璃说瓜咪请她吃饭啊)
+[115m] 🔥 [UNKNOWN] 我还我就是自己吃的。[UNKNOWN] 我也没觉得有啥。[UNKNOWN] 但你说有人要请客。[UNKNOWN] 但是其实不是。[UNKNOWN] 这事没个劲场真过不去了。[UNKNOWN] 我说白了多长。[UNKNOWN] 我说白了吧我说有多深我说。[UNKNOWN] 我说没有听说过有人要请客呀  (💬 笑蜥了 / 主包挂粉丝啦 / 保护 / 开蕾 / 你说白了吧你白说了)
+[115m] 🔥 [UNKNOWN] 你这么一说。[UNKNOWN] 我还以为真有人请客呢。[UNKNOWN] I了are you。[UNKNOWN] 本来以为我能吃到免费的晚餐。[UNKNOWN] 结果现在你你跟我说。[UNKNOWN] 没人听没人没人听说过这个。[UNKNOWN] 那这个免费的晚餐。[UNKNOWN] 我今天是必须得吃上了虚假的任务  (💬 笑蜥了(x4) / 快跑 / 开蕾 / 你说白了吧你白说了 / 擂肥来了)
+[115m] 🔥 [UNKNOWN] 今天没有一个店长的事。[UNKNOWN] 我真的是过不去了。[UNKNOWN] 说实话。[UNKNOWN] 说实话吧这个事情真的很严重的。[UNKNOWN] 你知道这个你本来可以不用这么说。[UNKNOWN] 你这让我空欢喜一场。[UNKNOWN] 你知道对一个破烂王来说。[UNKNOWN] 一顿瘦司王是多么贵吗  (💬 笑蜥了(x7) / 快跑 / 是我已经离开直播间了 / 逗逗你的呀 / 友友被吓跑了)
+[116m] 🔥 [UNKNOWN] 我也上次去吃寿司的。[UNKNOWN] 人均车两百块钱。[UNKNOWN] 你懂我意思吧。[UNKNOWN] 好。[UNKNOWN] 我不说了。[UNKNOWN] 我希望这个人自觉一点。[UNKNOWN] 人已经跑了。[UNKNOWN] 我已经记住他了。[UNKNOWN] 我会追猎的。[UNKNOWN] 我会追猎的  (💬 笑蜥了(x6) / 友友被吓跑了 / 人已经跑了气不气 / 快跑 / 掩护兄弟)
+[116m] 🔥 [UNKNOWN] 仇恨之书写上名字了已经。[UNKNOWN] 别惹矮人不变。[UNKNOWN] 矮人不能惹矮人。[UNKNOWN] 不能惹穷人不能惹。[UNKNOWN] 你又你又惹了矮人。[UNKNOWN] 又惹了穷人你完蛋了。[UNKNOWN] 重新遇见。[UNKNOWN] 这你王道了。[UNKNOWN] 我跟你说啊  (💬 笑蜥了 / 巡征追猎～ / ？一个人吃寿司郎能吃200啊 / 改名字怎么杀 / 改个名字改个头像再来怎么说)
+[117m] 🔥 [UNKNOWN] 我很边我去之前之前。[UNKNOWN] 确实啊跟同事们去吃寿司郎。[UNKNOWN] 人均真的吃了两百块钱。[UNKNOWN] 我靠吃巨多。[UNKNOWN] 当时是小马我李默和香蕉烧烤。[UNKNOWN] 我们四个人去吃的。[UNKNOWN] 我们四个人吃了八百多八百块钱吧。[UNKNOWN] 好像刚好八百  (💬 笑蜥了 / 恁能吃 / 搜索，歼灭🤬 / 都这么能吃吗 / 肯定礼墨吃的最多)
+[117m] 🔥 [UNKNOWN] 妈呀太太贵了也吃的那寿司啊。[UNKNOWN] 有这么贵吗。[UNKNOWN] 就到了。[UNKNOWN] 好的太能吃了。[UNKNOWN] 可能吃的比较贵吧。[UNKNOWN] 我不知道啊。[UNKNOWN] 反正就是收了两百块钱中去看。[UNKNOWN] 然后然后上次的。[UNKNOWN] 然后在在上一次吃瘦子糖  (💬 肯定礼墨吃的最多 / 破烂王的含金量 / 好奇小礼吃了多少 / 抠抠搜搜 / 好像是说过lmsm饭量很大)
+[117m] 🔥 [UNKNOWN] 是跟是跟我两个其他。[UNKNOWN] 的朋友去吃的 然后。[UNKNOWN] 他们他们就是我们三个人吃的话。[UNKNOWN] 就是就是好像是。[UNKNOWN] 是才吃个三百块钱左右吧。[UNKNOWN] 人均一百。[UNKNOWN] 但是但是我感觉可能。[UNKNOWN] 是因为那天大家都不是很饿  (💬 礼墨一个人400吗 / 瓜咪一个人吃了400 / 外来的厨艺好赚钱 / 都怪小马吃饭太香了 / 寿司郎一顿200很正常吧)
+[117m] 🔥 [UNKNOWN] 但是跟那个跟同事们一起吃。[UNKNOWN] 那个盘子摞起来真的摞超高。[UNKNOWN] 二十这八块这个九块。[UNKNOWN] 虚假的真物我都不会忘记你的。[UNKNOWN] 今天晚上我花的全都算在你的头上。[UNKNOWN] 两个人吃五百。[UNKNOWN] 那吃的有点多。[UNKNOWN] 上次我们三个人吃了三百左右吧  (💬 都怪小马吃饭太香了 / 寿司郎一顿200很正常吧 / 日菜西餐溢价太高了 / 点两碗拉面就饱了 / 男的吃寿司吃到饱也就差不多200[dog])
+[119m] 🔥 [UNKNOWN] 而且还留了一些没吃完呢。[UNKNOWN] 啊但是我觉得我跟你们讲。[UNKNOWN] 我觉得寿司郎前段时间。[UNKNOWN] 出的也不知道是新品还是什么。[UNKNOWN] 它是一个小卷 然后。[UNKNOWN] 那个小卷它中间会包了一个蒜苔。[UNKNOWN] 那个非常好吃。[UNKNOWN] 我各位  (💬 nn要去吃寿司郎吗 / 皇叔大胃袋 / 吃定彩虹 / 笑蜥了 / 蒜苔吗)
+[119m] 🔥 [UNKNOWN] 非常好吃。[UNKNOWN] 中间包了蒜苔。[UNKNOWN] 还有什么一个小卷非常好吃。[UNKNOWN] 但是我忘记是啥了。[UNKNOWN] 但是它不它不仅仅有蒜苔。[UNKNOWN] 谢老玉嘻嘻笑。[UNKNOWN] 心态。[UNKNOWN] 有没有两百杠二。[UNKNOWN] 你们这钢蹦想打也没地方打  (💬 吃定彩虹 / 笑蜥了 / 蒜苔吗 / 放纵餐必须放纵 / 寿司郎还是工作日去吃，不用排队)
+[121m] ▫️ [UNKNOWN] 你一天不用一天就浪费了。[UNKNOWN] 打打钢蹦钢蹦还留着的  (💬 6723 / 太多黄牛在排队的 / 上次周日吃的，排好长直接在闲鱼买的号 / 上周三去寿司郎吃，然后排了一个多小时)
+[122m] ▫️ [UNKNOWN] 但是我觉得寿司郎。[UNKNOWN] 那么多是为了小垃圾吗。[UNKNOWN] 纯粹就是大为带。[UNKNOWN] 回转寿司店就是冰寿司  (💬 吃那么多是为了小辣鸡吗 / 吃定彩虹 / ！？滨郎？！ / 广东的ssl连小垃圾都没有 / 好可惜，那次寿司郎没有海胆可以选)
+[124m] 🔥 [UNKNOWN] 哎呀好饿呀。[UNKNOWN] 说到吃的给我说饿死了怎么办呢。[UNKNOWN] 给我说的有点饿了。[UNKNOWN] 我要不早点下播吧。[UNKNOWN] 我早点下播早点去吃饭。[UNKNOWN] 如何呢。[UNKNOWN] 新大概率食材不新鲜和被窝。[UNKNOWN] 对呀就是食材不新鲜。[UNKNOWN] 我觉得就是食材的问题  (💬 白白白白(x3) / 丨吧宝宝(x3) / 拜拜拜拜拜拜拜拜拜 / 拜拜拜拜 / 你想几点下)
+[124m] 🔥 [UNKNOWN] 天去。[UNKNOWN] 干嘛。[UNKNOWN] 我还没说我还没说确定要下呢。[UNKNOWN] 怎么就已经有人拜拜了。[UNKNOWN] 我说拜了只是赶我走。[UNKNOWN] 赶我走吗。[UNKNOWN] 这是这是在赶我走吗。[UNKNOWN] 这是在对我进行一个驱逐吗。[UNKNOWN] 我分明都没有穿乞丐服  (💬 丨吧宝宝(x3) / 白白白白 / 拜拜拜拜拜拜拜拜拜 / 拜拜拜拜 / 允许吃饭)
+[124m] 🔥 [UNKNOWN] 你就要驱逐一个正常的人类吗我去。[UNKNOWN] on riright。[UNKNOWN] 你们是在驱逐我吗。[UNKNOWN] 啊。[UNKNOWN] 感情的。[UNKNOWN] 要什么。[UNKNOWN] 什么意思呀。[UNKNOWN] 面对空空洞的目购物。[UNKNOWN] 凭什么。[UNKNOWN] 呃海盗这个衣服很很华丽很正常  (💬 拜拜拜拜拜拜拜拜拜 / 拜拜拜拜 / 丨吧宝宝 / 她开播了 / 去看别的女人了)
+[125m] ▫️ [UNKNOWN] 凭啥嗯凭。[UNKNOWN] 完了之后。[UNKNOWN] 然后然后完了之后我就下播下播。[UNKNOWN] 我去洗个澡洗个头。[UNKNOWN] 然后我再出门吃饭。[UNKNOWN] 这样子是不是吃完饭之后回来开播。[UNKNOWN] 有感觉吗。[UNKNOWN] 有感觉吗。[UNKNOWN] 非常愉悦的一场这个直播呀  (💬 面总真是霸气蓝人味 / 批准 / 化妆吗 / 有啥感觉 / 又沙一个？)
+[126m] 🔥 [UNKNOWN] 欢迎抽水一天呢。[UNKNOWN] 化妆呃化啥妆啊不化。[UNKNOWN] 出去吃饭还化妆。[UNKNOWN] 哎呀。[UNKNOWN] 我。[UNKNOWN] 我知道了。[UNKNOWN] 我知道了什么。[UNKNOWN] 想跟我一起吃饭。[UNKNOWN] 是不是。[UNKNOWN] 因为是不是因为  (💬 喜多 / 晚上我要倒灌，不方便 / 这里不是加勒比，禁海盗的 / 又不是跟我吃 / 加入加入)
+[127m] 🔥 [UNKNOWN] 是不是因为想找个人a钱呀。[UNKNOWN] 想找个人a钱这种饭我不吃啊。[UNKNOWN] 想找人一天种饭我不吃了。[UNKNOWN] 我们我可以吃。[UNKNOWN] 但是我们不吃贵的。[UNKNOWN] 我们吃便宜的。[UNKNOWN] 找找人a钱给我吃的话。[UNKNOWN] 我们只能吃  (💬 你太聪明了 / 喜多 / nn什么时候请我吃饭 / A什么钱，不是你请吗 / 还A钱，不是你来么)
+[127m] 🔥 [UNKNOWN] 最多只能吃人均一百的多了。[UNKNOWN] 我就吃不起了。[UNKNOWN] 十万还要我来不赔钱呀。[UNKNOWN] 那不吃了那不吃了。[UNKNOWN] 我天哪你要跟我出去吃饭。[UNKNOWN] 我说我我能a你一百块已经。[UNKNOWN] 是这个最大的让步了。[UNKNOWN] 最大的让步了  (💬 你来你来(x3) / a你也a不出几个子 / N神请，我路边摊也吃啊 / 不A凭什么和你一起吃[花] / 可以，我们就吃100的东西，你a我100)
+[128m] 🔥 [UNKNOWN] 结果你还要我来。[UNKNOWN] 人心邪恶世态炎凉啊。[UNKNOWN] 那个咋这样啊。[UNKNOWN] 我怎么还是我来啊。[UNKNOWN] 那不行那不给你们吃了。[UNKNOWN] 那我那我去找那种跟我a钱的人吃。[UNKNOWN] 一me to make。[UNKNOWN] greoody一啊鹅  (💬 你来你来(x3) / 可以，我们就吃100的东西，你a我100 / 你给我钱，我来 / 那吃人均50的你A100也行 / 我请客，你掏钱)
+[128m] 🔥 [UNKNOWN] 我们我们要我我们出去吃饭。[UNKNOWN] 我们要这样子就是你点你的。[UNKNOWN] 我点我的我只出我只吃我的饭。[UNKNOWN] 你只吃你的饭。[UNKNOWN] 然后我们各自分各自付各自的钱。[UNKNOWN] 怎么样。[UNKNOWN] 怎么样。[UNKNOWN] 哎有感觉吗。[UNKNOWN] 大诺西德  (💬 你来你来 / 分餐制了说是 / 好菜 / 这话说得，还给我梦上了 / 猛猛去你盘子里偷菜)
+[128m] 🔥 [UNKNOWN] 你来你来你来你来你们来你们来呀。[UNKNOWN] 我要吃枸杞。[UNKNOWN] 只是钱都不给谁跟你们出去吃饭。[UNKNOWN] 有我。[UNKNOWN] 我只跟跟我a钱的人出去吃饭。[UNKNOWN] 不跟我一钱的人。[UNKNOWN] 不许跟我吃饭。[UNKNOWN] 那是。[UNKNOWN] 吃饭 我是我的你也是我的不行  (💬 这话说得，还给我梦上了 / 你来你来 / 猛猛去你盘子里偷菜 / 哪吃你的，我也吃你的 / 好的路边摊不比一般的五星餐厅差)
+[129m] 🔥 [UNKNOWN] 我嘞个豆。[UNKNOWN] 我可太抠了吧。[UNKNOWN] 这卡不下咋这么抠啊。[UNKNOWN] 你们不来就算了。[UNKNOWN] 你们不来就算了。[UNKNOWN] 你们还要我一天。[UNKNOWN] 我说你吃你的。[UNKNOWN] 我是我的你还要吃我的。[UNKNOWN] 算了不吃了啊不要  (💬 请客也不能跟你去吗 / 跟主包学的 / 抠抠搜搜 / kbq来了全吃了 / 我吃你的，你看着（)
+[129m] ▫️ [UNKNOWN] 我不会再跟我不会再就是思考。[UNKNOWN] 哦你们发没发现我。[UNKNOWN] 这个光更明显一些。[UNKNOWN] 看到没。[UNKNOWN] 哇细节。[UNKNOWN] 这个是细节。[UNKNOWN] 可以请你们吃饭。[UNKNOWN] 我我。[UNKNOWN] 我有点事情我先走了。[UNKNOWN] 我有点事情我先走了  (💬 不能跟我们吃饭，可以请我们吃饭 / nn拜拜~出门工了 / 吃完饭发给主包能A我点米吗 / wow / 还好只是付出金钱)
+[130m] 🔥 [UNKNOWN] 我那个我先离开一下。[UNKNOWN] 咱们这个直播呢。[UNKNOWN] 今天也差不多了。[UNKNOWN] 什啊。[UNKNOWN] 咱们直播差不多了。[UNKNOWN] 就是也该结束了。[UNKNOWN] 就是说再不结束。[UNKNOWN] 你要雷飞到我兜里来了那不行。[UNKNOWN] 一朵  (💬 有猪 / 你有个图这个耳环就是发光的 / 别走好吗 / 白白白白 / 哪里抢的耳坠)
+[130m] 🔥 [UNKNOWN] 那不行啊。[UNKNOWN] 啊。[UNKNOWN] 真是QQ又搜搜啊。[UNKNOWN] 什么一个嘻嘻哈哈。[UNKNOWN] 都给了一个才一个嘻哈哈而已。[UNKNOWN] 我嘞多的心愿花随多行。[UNKNOWN] 然后就下播。[UNKNOWN] 我先加入。[UNKNOWN] 嗯。[UNKNOWN] 然后我唱一首歌等待  (💬 加入(x10) / 真是扣扣又搜搜啊 / 加人)
+[132m] 🔥 [UNKNOWN] 唱个什么歌呢。[UNKNOWN] 大家想听什么。[UNKNOWN] 今天你能把遗言说开就是。[UNKNOWN] 胜利。[UNKNOWN] Ok ok ok ok啊ok ok。[UNKNOWN] 啊。[UNKNOWN] 中了周三上侄子。[UNKNOWN] 行嘿。[UNKNOWN] 爱惜行。[UNKNOWN] 嗯  (💬 加入(x6) / 中了周三上紫紫 / 笑蜥了 / 小小恋歌 / 作为主包第97000的老粉，有什么福利吗？[花])
+[132m] 🔥 [UNKNOWN] 折叠拼你选苹果还是华为。[UNKNOWN] 傻小恋歌我我不会唱那个啥。[UNKNOWN] 我只会唱这个。[UNKNOWN] 傻小恋歌。[UNKNOWN] 应该不是你听的版本。[UNKNOWN] 应该不是你听的版本。[UNKNOWN] 但是我觉得也蛮好听的。[UNKNOWN] 你可以。[UNKNOWN] 尝试一下啊  (💬 加入(x4) / 作为主包第97000的老粉，有什么福利吗？[花] / 俺也一样 / 町町 / 笑蜥了)
+[132m] 🔥 [UNKNOWN] 嗯  (💬 加入 / NN最强 / 笑蜥了 / [UPOWER_1329085897_打call])
+[134m] 🔥 [UNKNOWN] Good morning。[UNKNOWN] 咪诺妈没头发。[UNKNOWN] 知道我no。[UNKNOWN] 几个陪待。[UNKNOWN] 不不哭。[UNKNOWN] 无所在一个一迷路。[UNKNOWN] 意大利你发给我偷袭的希望。[UNKNOWN] 我都是的。[UNKNOWN] 梦一玉米诺我所有在一  (💬 NN最强(x14) / 加入 / [UPOWER_1329085897_打call])
+[134m] 🔥 [UNKNOWN] 一个蝴蝶的世界你曾。[UNKNOWN] 我心的。[UNKNOWN] 不顾更议的抹不。[UNKNOWN] 那可对。[UNKNOWN] kimi我不故的看那样一点。[UNKNOWN] 不一首你  (💬 NN最强(x9) / [UPOWER_1329085897_打call] / 加入)
+[136m] ▫️ [UNKNOWN] 你对我我一直做己的一个。[UNKNOWN] 人一定不是得  (💬 NN最强(x7))
+[138m] 🔥 [UNKNOWN] 哎难听伪奏了。[UNKNOWN] 嗯ok来。[UNKNOWN] 今天我们就。[UNKNOWN] 我们就关前五啊。[UNKNOWN] 关倒数第五名。[UNKNOWN] 不是很爱听啊。[UNKNOWN] 廖旭哎。[UNKNOWN] 就在催我下播哟。[UNKNOWN] 同事疑似快被饿死了。[UNKNOWN] 所以你们也搞快一点好吧  (💬 笑蜥了(x8) / NN最强 / 加入 / 我去直播间页面回来了，舒服了 / 南町南町真好听)
+[139m] 🔥 [UNKNOWN] 我们这个直播流程。[UNKNOWN] 呢就是加快一下速度。[UNKNOWN] 人呢。[UNKNOWN] 是我是我咋了。[UNKNOWN] Break。[UNKNOWN] rick rick。[UNKNOWN] rick。[UNKNOWN] big。[UNKNOWN] big。[UNKNOWN] big  (💬 笑蜥了(x4) / 凶手是南町Nightin... / nn！我还没加入！ / 加入！ / 0秒猜到哪个同事快饿死了)
+[139m] 🔥 [UNKNOWN] big。[UNKNOWN] 算你一个哦我直接抽中你怎么样。[UNKNOWN] 同事的命有卡不下心情状吗。[UNKNOWN] 啊。[UNKNOWN] 他失去的可是一条生命。[UNKNOWN] 而卡布萨失去的。[UNKNOWN] 可是被关小黑屋的。[UNKNOWN] 心情呀简直太严重了。[UNKNOWN] 哼  (💬 笑蜥了(x4) / 什么情况 / 等会抽到我了你报销舰长就行 / 让他饿着 / 哈哈哈哈哈哈)
+[139m] 🔥 [UNKNOWN] 什么又见一帘幽梦见过。[UNKNOWN] 你这是抽人禁言呢。[UNKNOWN] 真多喜欢你呀。[UNKNOWN] 人呢。[UNKNOWN] 真的真的喜欢你。[UNKNOWN] 快很急。[UNKNOWN] 不。[UNKNOWN] 啊我的侄子消失了。[UNKNOWN] 我的侄子消失了。[UNKNOWN] 可恶哦我也被我也被淘汰了  (💬 笑蜥了 / NN最强 / 这是在干嘛 / 会有升舱环节嘛 / 骇帕)
+[141m] 🔥 [UNKNOWN] 我也被淘汰了。[UNKNOWN] 行。[UNKNOWN] 我有两个打官。[UNKNOWN] 两个打官辈儿的双双殒命。[UNKNOWN] 可以出动。[UNKNOWN] 你别这么说别这么说。[UNKNOWN] 我们明天还可以。[UNKNOWN] 我们明天还可以再来一次呢。[UNKNOWN] 那个露理ok剩下两个是谁啊  (💬 笑蜥了(x4) / 哈哈哈，我是无敌哒 / 我加入了吗 / 不给布总吃好的吗 / 要开始略n了吗？)
+[142m] 🔥 [UNKNOWN] 你们能知道是谁吗。[UNKNOWN] 你们能知道是谁吗。[UNKNOWN] 你们有没有对自己对对自己有参加。[UNKNOWN] 不加入这个事有没有一个印象。[UNKNOWN] 是不是又有了是不是。[UNKNOWN] 有些什么。[UNKNOWN] 嗯。[UNKNOWN] 哦。[UNKNOWN] 下一个一  (💬 笑蜥了(x6) / 我加入了吗 / 不给布总吃好的吗 / 要开始略n了吗？ / 不知道啊，刚刚有我吗)
+[142m] 🔥 [UNKNOWN] 叮叮当叮当。[UNKNOWN] 有吗。[UNKNOWN] 有的吧。[UNKNOWN] 谢歪头客的蔚蓝电台。[UNKNOWN] 谢谢。[UNKNOWN] 谢。[UNKNOWN] 这这人是谁啊。[UNKNOWN] 那这最后一个是谁啊。[UNKNOWN] 那这最后一个会是谁呢。[UNKNOWN] 好姑陈俊福听不到  (💬 笑蜥了(x4) / 嗯嗯，敢来打赌嘛[哇] / 我已倒下 / 惨败‘ / 窝趣，我四个号依旧完美脱身)
+[142m] 🔥 [UNKNOWN] 是谁就在我心里面。[UNKNOWN] 流风午夜。[UNKNOWN] 昨天的第二今天的第一。[UNKNOWN] 我去。[UNKNOWN] 昨天逃过一劫。[UNKNOWN] 今天这是命中注定。[UNKNOWN] 我只能说这是命中注定好吧。[UNKNOWN] 这是。[UNKNOWN] 这是这是命中注。[UNKNOWN] 昨天昨天让你淘掉了  (💬 笑蜥了(x4) / 完美犯罪 / 昨天逃过一劫 / 哈哈哈哈哈哈哈 / 今天还是被逮到了)
+[143m] 🔥 [UNKNOWN] 今天这个。[UNKNOWN] 这个没什么好讲的。[UNKNOWN] 我建议你去买一张彩票。[UNKNOWN] 说不定你最近这个中奖的运气很好。[UNKNOWN] 这这叫叫跑得过一一跑不过手。[UNKNOWN] 这个叫做这个嗯。[UNKNOWN] 嗯没事我明天再来一次。[UNKNOWN] 找于来。[UNKNOWN] 好吧也行  (💬 升舱！ / 话说主播的b站第一个粉丝是谁呀 / 我在打本 我什么都不知道 / 恭喜升舱！ / 或者给nn打赏个飞机也行[哇])
+[144m] 🔥 [UNKNOWN] 活着也嗯也行猫。[UNKNOWN] 好那我准备下播了。[UNKNOWN] 各位。[UNKNOWN] 那我今天直播到这里就结束了。[UNKNOWN] 好吧 呃我也是赶紧要那个。[UNKNOWN] 避免我们这个同事被饿死。[UNKNOWN] 这个结局呢。[UNKNOWN] 就是你要赶紧只能收拾出门吃饭了  (💬 丨吧宝宝(x3) / 拜拜拜拜拜拜拜拜拜拜拜拜拜拜 / 小N咪 / 拜拜拜拜 / 嗯？怎么对他如此温柔[妙])
+[144m] 🔥 [UNKNOWN] 没有关注。[UNKNOWN] 我的朋友们呢就是呃点个关注啊。[UNKNOWN] 点个关注的朋友们可以卡个牌子。[UNKNOWN] 卡的牌子。[UNKNOWN] 朋友们给上个这种猪猪虾。[UNKNOWN] 非常感谢我们今天粉丝也。[UNKNOWN] 是达到了这个今天正正的九万七啊。[UNKNOWN] 就是非常开心的一件事情啊  (💬 拜拜拜拜拜拜拜拜拜拜拜拜拜拜 / 小N咪 / 拜拜拜拜 / 笑蜥了 / 拜拜，晚上来吗)
+[145m] 🔥 [UNKNOWN] 所以呢大家没有关注。[UNKNOWN] 我的朋友们一定要给我点个关注。[UNKNOWN] 非常感谢大家拜拜。[UNKNOWN] 拜拜谢谢。[UNKNOWN] 真的喜欢的钢棒。[UNKNOWN] 拜。[UNKNOWN] 那我今天就先到这里啦。[UNKNOWN] 拜。[UNKNOWN] 晚上见了晚上可能会开个电台吧  (💬 拜拜拜拜 / 我应该是第九万的粉丝 / 拜拜宝宝 / b拜拜拜拜 / 小N咪)
+[145m] 🔥 [UNKNOWN] 晚上可能会回来开个电台。[UNKNOWN] 好吧。[UNKNOWN] 拜。[UNKNOWN] 拜拜。[UNKNOWN] 也将在紧觅的牵引之中  (💬 拜拜宝宝 / b拜拜拜拜 / 拜拜拜拜 / 小N咪)
