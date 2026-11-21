@@ -1,0 +1,198 @@
+## 晚安回复
+
+---
+generatedAt: "2026-11-21T17:26:34.387Z"
+sourceHighlight: "录制-1986461465-20261121-210657-957-唱歌~_AI_HIGHLIGHT.txt"
+provider: "daiYu"
+model: "gpt-6-luna"
+fallback: false
+attempts:
+  - provider: "daiYu"
+    model: "gpt-6-luna"
+    status: "success"
+    finishReason: "completed"
+    maxTokens: 100000
+    completionTokens: 462
+    promptTokens: 29921
+    cachedTokens: 4224
+    cacheWriteTokens: 0
+    reasoningTokens: 365
+    apiModeRequested: "responses"
+    apiModeUsed: "responses"
+    sharedPromptCacheKey: "025ab61b54ce0a066b0ffd277e69540aff6026e59a331757816046c614de2e6a"
+    sharedPromptPrefixChars: 38556
+    explicitPromptCache: "implicit_routed"
+    promptCacheRolloutBucket: 9291
+    totalTokens: 30383
+    requestId: "5aeffeb2-53a9-4b36-8d48-3ad94a72e05c"
+    responseId: "resp_0cf4dd29c105b0db016b01d44265c887d09c431c907d508522"
+    requestStarted: true
+---
+“热不热不要紧，反正不着凉就行”这句太有画面了，厚羽绒服穿着唱歌，麦架撞歪了还拖着唱，认真又可爱。今晚从《永不失联的爱》唱到《雨爱》，雅团子听得好开心，喜欢你，也支持你，收播后快好好歇歇呀。
+
+---
+
+## Highlight
+
+【摘要】(保留率: 前35%热度 + 10%随机)
+---
+【参与者】计划参与: 无
+【参与者】实际出声: 无
+【归属说明】名单不证明逐句身份；实际出声仅指音轨匹配，也可能来自被观看内容。UNKNOWN和匿名标签不可归给房主。
+---
+[0m] ▫️ [UNKNOWN] 嗯。[UNKNOWN] 啊还能见到白熊妹妹吗。[UNKNOWN] 台湾怎么不是善解的版本。[UNKNOWN] 你不忠诚。[UNKNOWN] 哎呦哦什么意思呢。[UNKNOWN] 现在又想念上杰版本了。[UNKNOWN] 说是什么意思呢。[UNKNOWN] 到底那到底要听什么呢。[UNKNOWN] 不烂尾吗  (💬 嘻嘻(x7) / 点歌 永不失联的爱 / 才发现怎么不是单姐的版本你不忠诚 / 还能见到美人鱼妹妹吗 / 就喜欢大爪子)
+[1m] 🔥 [UNKNOWN] 感动他他一共就三天 Ok ok。[UNKNOWN] 赶紧让我解脱。[UNKNOWN] 啊我我们看下上限是多少手啊。[UNKNOWN] 永不誓言的爱我看看。[UNKNOWN] 怎么宽度变得这么宽。[UNKNOWN] 嗯。[UNKNOWN] 晚安。[UNKNOWN] 哦不对啊我们这不是有一个吗。[UNKNOWN] 我还以为没有呢  (💬 再无悲喜(x3) / 怎么每次点进来你都在直播 / 想被白熊妹妹的大肉垫扇巴掌了 / 呃呃 / 单姐永不失联的爱还是没得黑)
+[3m] 🔥 [UNKNOWN] 我又搞一个嗯我眼瞎了。[UNKNOWN] 我眼瞎了。[UNKNOWN] 五六五七吗。[UNKNOWN] 五九凌转ok了。[UNKNOWN] 然后刚才是加什么。[UNKNOWN] 善解永不失人的暧昧的。[UNKNOWN] 黑哼。[UNKNOWN] 烧烤的。[UNKNOWN] 现在弄是发卡不可。[UNKNOWN] 我现在就  (💬 蜜蜂冰块(x5) / 点歌 雨爱(x3) / 点歌 斯卡布罗集市(x3) / 点歌 R&B All Night(x3) / 点歌 潜伏期(x3))
+[4m] 🔥 [UNKNOWN] 经济的边界线draft food。[UNKNOWN] ok。[UNKNOWN] 啊啊嗯。[UNKNOWN] 然后我记得我们。[UNKNOWN] 前几天欠了一首上剑歌。[UNKNOWN] 这个我不知道当时。[UNKNOWN] 那个宝还在不在啊。[UNKNOWN] 现在操我们当时欠了一首歌。[UNKNOWN] 我想我记得但是欠的是啥歌来着  (💬 蜜蜂冰块(x6) / 再无悲喜 / 点上歌的是给 / 点上的是给，点不上的是给，主播也是给 / 点歌 点歌的是给)
+[4m] 🔥 [UNKNOWN] 我有点忘了他。[UNKNOWN] 当他当时点了个什么嗯。[UNKNOWN] 哼嗯。[UNKNOWN] 我看看你们都点了什么与爱DJ版。[UNKNOWN] 嗯有没有点重复的。[UNKNOWN] 唉好奇怪呀。[UNKNOWN] 我看到这个列表里面有一个。[UNKNOWN] imflosion包super恰点的  (💬 蜜蜂冰块(x4) / 再无悲喜 / 之前的 / 点歌 点歌的是给 / 你还欠了我首星间飞行)
+[5m] 🔥 [UNKNOWN] 但是为什么我super恰。[UNKNOWN] 记录里面没有他这个super恰呀。[UNKNOWN] 哎这是刚super恰点的吗。[UNKNOWN] 什么随便什么喷一下。[UNKNOWN] 哦我就在说这什么我没有记录呢。[UNKNOWN] 我就说那那我点掉。[UNKNOWN] 但但是是没清的吗。[UNKNOWN] 但是他这个说随便跟着哼两句  (💬 嘻嘻(x3) / 蜜蜂冰块 / 再无悲喜 / 之前的 / 是上次的)
+[5m] 🔥 [UNKNOWN] 是跟什么东西跟着哼两句啊。[UNKNOWN] 他也没说清楚。[UNKNOWN] 现在看也不知道这个啥SS行了。[UNKNOWN] 我当时没哼吗。[UNKNOWN] 应该只是单纯没点掉吧。[UNKNOWN] 应该是清了的。[UNKNOWN] 我记得谢谢阿斯堡的。[UNKNOWN] 发卡forever young善解版  (💬 嘻嘻(x4) / 之前你点歌机没点掉 / 哼过了 / 对啊你没删 / 不让我白嫖是吧)
+[5m] 🔥 [UNKNOWN] 本清醒。[UNKNOWN] 什么意思。[UNKNOWN] 不是今天晚上怎么善烤的这么多。[UNKNOWN] 喝一味啊。[UNKNOWN] 太难唱了。[UNKNOWN] 就挡着位置。[UNKNOWN] 我稍微搞长一点点嘛。[UNKNOWN] 没人点无情话。[UNKNOWN] 赶紧唱赶紧唱呃赶紧赶紧集  (💬 嘻嘻(x4) / 哈噫 / 粉随主播罢了 / 呃呃了 / 雅神点歌机可以拉长拉宽一点吗，现在看歌名好麻烦)
+[8m] 🔥 [UNKNOWN] 赶紧截纯享壁纸。[UNKNOWN] 快这个摆姿适中。[UNKNOWN] 摆姿适中。[UNKNOWN] 嗯嗯好的好的嗯下一张嗯。[UNKNOWN] ok ok了讲了没有。[UNKNOWN] 讲了没有。[UNKNOWN] 嗯加名没了没了。[UNKNOWN] 嗯哼。[UNKNOWN] 哎真奇了怪了。[UNKNOWN] 那个自己怎么又回来了  (💬 再无悲喜(x4) / 嘻嘻(x3) / 呃呃 / 她真可爱 / 比心)
+[8m] 🔥 [UNKNOWN] 我真是服了  (💬 嘻嘻 / 好可爱的猪头肉，我吃 / 开生鲜灯的肉铺不要买 / obs开智了 / 有人点飞我去星吗)
+[10m] 🔥 [UNKNOWN] 哎何一伟怎么卡住了。[UNKNOWN] 何何有呀。[UNKNOWN] why cat住why car住y卡。[UNKNOWN] 住。[UNKNOWN] 哦不是卡住了。[UNKNOWN] 是因为我音乐暂停了。[UNKNOWN] 所以停住了。[UNKNOWN] 我傻了。[UNKNOWN] 我还在我以为他卡住了  (💬 再无悲喜(x16) / 蜜蜂冰块(x9) / iceb(x7) / 呃呃(x4) / 点歌机隐身了)
+[10m] 🔥 [UNKNOWN] 是我把音乐暂停了。[UNKNOWN] 所以人家停住了。[UNKNOWN] 哦哦原来是这样啊哈哦。[UNKNOWN] 原来是这样吗。[UNKNOWN] 啊这个字体好像又回来了。[UNKNOWN] 字体没那么细了。[UNKNOWN] 虽然好像还是有点咸哦。[UNKNOWN] 原来是这样羽毛特效啊。[UNKNOWN] 你们要吗  (💬 蜜蜂冰块(x7) / iceb(x6) / 再无悲喜(x4) / 呃呃 / 冰福)
+[10m] 🔥 [UNKNOWN] 哎妖魔我看一下啊。[UNKNOWN] 栗子特效。[UNKNOWN] 等等哒哒等哒。[UNKNOWN] 还是什么花呢。[UNKNOWN] 抢不到哥的直播间绝望了。[UNKNOWN] 感觉这当时就没有人点歌啊。[UNKNOWN] 当时没有人有就是有这个兴趣。[UNKNOWN] 就是点歌什么的。[UNKNOWN] 大家就是哦你随便随便唱唱啥都行  (💬 签了弹幕合同 / 下雨吧 / 感觉像是什么年纪大了记忆力下降依然努力直播的老年人 / 蜜蜂冰块 / 唱鸟之诗的时候适合)
+[12m] 🔥 [UNKNOWN] 这个得同单点嘛。[UNKNOWN] 同单点什么都行。[UNKNOWN] 就唱什么听什么的。[UNKNOWN] 但是怎么回事呢。[UNKNOWN] 感觉感觉是感觉是直播间风气变了。[UNKNOWN] 单纯是大家变得热衷于点歌。[UNKNOWN] 嗯就是点点上歌这件事情。[UNKNOWN] 突然有了难度  (💬 嘻嘻(x8) / 呃呃(x4) / 可能大部分都是全肯定民 / 紫字都抢不到 / 大主播了)
+[12m] 🔥 [UNKNOWN] 然后大家就没有难度的时候。[UNKNOWN] 大家反而懒得做。[UNKNOWN] 有了难度。[UNKNOWN] 大家反而就喜欢挑战自己了。[UNKNOWN] 就想哎我可能也没有特别想听什么。[UNKNOWN] 但我就来抢一抢试试。[UNKNOWN] 我就要玩一玩。[UNKNOWN] 我就看我就抢不抢得上  (💬 呃呃(x4) / 再无悲喜(x3) / 嘻嘻 / 克罗雅变大边了 / 都是rsq民来了)
+[12m] 🔥 [UNKNOWN] 嗯以后悔我好难受。[UNKNOWN] 脑子里一开始不点歌是吧。[UNKNOWN] 嗯。[UNKNOWN] 谢嘟嘟的钢蹦对。[UNKNOWN] 这个三百铜街居然都能。[UNKNOWN] 呃谢谢豆豆是的卡打算洗了。[UNKNOWN] 尽量就是多走会儿路散会儿步。[UNKNOWN] 我都是点半只的。[UNKNOWN] 今天卡的船了  (💬 再无悲喜(x4) / 呃呃(x3) / 向同担猛攻 / 物以稀为贵 / 喜多)
+[14m] 🔥 [UNKNOWN] 是哦我点个机关掉了。[UNKNOWN] 嗯吃完了现在是不是。[UNKNOWN] 我知一是嗯啊我把。[UNKNOWN] 右上角的字也改一个字体颜色。[UNKNOWN] 爸我在啦。[UNKNOWN] 嗯嗯。[UNKNOWN] 嗯远调远调。[UNKNOWN] 老谭康敏中。[UNKNOWN] 阿姨阿姨阿姨加班了  (💬 再来一首 / 点歌机又被卡没了 / 烤鸭还是挺腻的 / 胃口这么好 / 半只其实分量也不小了)
+[15m] 🔥 [UNKNOWN] 阿姨加班了今天看看。[UNKNOWN] 能年月一人唱醉我。[UNKNOWN] 举杯饮尽了风雪。[UNKNOWN] 嗯是谁的饭。[UNKNOWN] 寝是鬼若尘埃深。[UNKNOWN] 飞云似阵。[UNKNOWN] 几分的。[UNKNOWN] 为你所美哭红颜换不会哎。[UNKNOWN] 我只群意飘爱了解  (💬 再来一首(x21) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x3) / 嘻嘻 / 无情无尽的老痰… / 这个老谭怎么这么坏)
+[16m] ▫️ [UNKNOWN] 我就算唱感动。[UNKNOWN] 哎要明天让回忆挑真爱。[UNKNOWN] 我有无悔。[UNKNOWN] 嗯。[UNKNOWN] 擦了谁变成醉昏醺的旋律。[UNKNOWN] 狼雅远伊人憔悴。[UNKNOWN] 我举杯饮尽了风雪。[UNKNOWN] 是谁打翻。[UNKNOWN] 前世归若尘埃身非缘自醉  (💬 再来一首(x10) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅­雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\­雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/­\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅)
+[17m] ▫️ [UNKNOWN] 你所眉眷红颜换不回。[UNKNOWN] 我分伤感动了谁。[UNKNOWN] 你要明天人回忆矫街。[UNKNOWN] 眼泪看我等待等老了谁。[UNKNOWN] 哎要明天人每一张卷。[UNKNOWN] 爱在月光下弯。[UNKNOWN] 你发如雪纷飞了。[UNKNOWN] 眼泪若等待苍到了谁。[UNKNOWN] 红尘在爱为追寻的岁月  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 再来一首(x5) / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\­雅雅/\雅雅/\雅雅 / 点歌 怎么又满了 / 雅雅/\雅雅/\雅雅/\­雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅)
+[19m] 🔥 [UNKNOWN] 我永无悔。[UNKNOWN] 可永世爱你责备哎。[UNKNOWN] 啦啦妈妈啦。[UNKNOWN] 曾经应无邪月战马。[UNKNOWN] 为你若三月今生我把酒奉陪。[UNKNOWN] 来那人啦。[UNKNOWN] 那人啦了啦嗯。[UNKNOWN] 啦同情应无邪。[UNKNOWN] 也将那为你如三夜  (💬 再来一首(x14) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x5) / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅­雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅­/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/­\雅雅)
+[19m] 🔥 [UNKNOWN] 今生我把酒奉陪。[UNKNOWN] 我去拿一下我的药。[UNKNOWN] 那这样我把我的药吃了。[UNKNOWN] 我想起来。[UNKNOWN] 我就说怎么这么热饿了。[UNKNOWN] 我回家以后。[UNKNOWN] 我一直没有脱我的羽绒服。[UNKNOWN] 我就说咋这么就人。[UNKNOWN] 嗯嗯  (💬 再无悲喜(x5) / 再来一首(x4) / 嘻嘻 / 雅雅/\雅雅/\雅雅/\雅雅/­\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/)
+[20m] 🔥 [UNKNOWN] 然后把药吃一下。[UNKNOWN] 这个这个人吃银路。[UNKNOWN] 哈。[UNKNOWN] 我今天你知道吗。[UNKNOWN] 小雅今天穿的羽绒服。[UNKNOWN] 很厚的。[UNKNOWN] 怎么说呢。[UNKNOWN] 就是反正穿个非常厚的出门啊。[UNKNOWN] 我差点在外面被热死  (💬 再无悲喜(x10) / 哎？ / 神人 / 嘻嘻 / 蜜蜂冰块)
+[21m] 🔥 [UNKNOWN] 别说着凉了。[UNKNOWN] 我差点在外面被热死了。[UNKNOWN] 他急眼啊。[UNKNOWN] 好热。[UNKNOWN] 什么颜色羽绒服我去不告诉你。[UNKNOWN] 反正是羽绒服六十。[UNKNOWN] 嗯我要放。[UNKNOWN] 广东也是要穿羽绒服了。[UNKNOWN] 大家这冷的时候还是冷的真的  (💬 再无悲喜(x4) / 什么颜色的羽绒服，白色的吗 / 广州今天才10多度吧 / 那穿个秋衣估计都得热了 / 广东为啥要穿羽绒服啊？)
+[21m] 🔥 [UNKNOWN] 只不过现在就穿。[UNKNOWN] 可能确实是这哎呀。[UNKNOWN] 主要是我懒得思考那么多嘛对吧。[UNKNOWN] 因为如果你这个穿别的。[UNKNOWN] 你可能就要稍微思考一下啊。[UNKNOWN] 这个够不够厚或者怎么的。[UNKNOWN] 但是穿上羽绒服。[UNKNOWN] 你就什么都不用忧愁了  (💬 她虚 / onp / 穿的靴子吗 / 确实是需要穿 / 还得是你啊)
+[22m] 🔥 [UNKNOWN] 大家你直接就是往一套就行了。[UNKNOWN] 绝对不会着凉的。[UNKNOWN] 热不热不要紧。[UNKNOWN] 反正不着凉就行。[UNKNOWN] 不生病不受凉就行。[UNKNOWN] 嗯。[UNKNOWN] 喂好奇怪哦另一半要。[UNKNOWN] 妈妈哦我知道放哪儿。[UNKNOWN] 啊克呀哎呀这么说来还真是克啊  (💬 呃呃 / 今天穿件薄外套出门就够了 / 已经完全放弃思考了 / 那我知道会不会了 / 体育生来了)
+[23m] ▫️ [UNKNOWN] 嗯大件的东西。[UNKNOWN] 嗯不能忘了不能忘。[UNKNOWN] 嗯我还能活着吗。[UNKNOWN] 哎。[UNKNOWN] 真的真的比较有死亡危险。[UNKNOWN] 嗯。[UNKNOWN] 永不失联的爱人蛋啊。[UNKNOWN] 每次吃那种胶囊的药。[UNKNOWN] 我就感觉好多那里。[UNKNOWN] 就它下不去那个药  (💬 再无悲喜(x4) / 嘻嘻 / 克罗雅只买小件货 / 你懂的就好[傲娇] / 400同接也能车万楼吗)
+[23m] 🔥 [UNKNOWN] 嗯嗯。[UNKNOWN] 那种那种那种粘住扒住的感觉。[UNKNOWN] 是。[UNKNOWN] 嗯嗯。[UNKNOWN] 嗯。[UNKNOWN] 三。[UNKNOWN] 哎不对不对善解版本是吧。[UNKNOWN] 嗯差点搞错了啊。[UNKNOWN] 有什么心事还无法释怀。[UNKNOWN] 你给我这一辈子都不想失恋的  (💬 黏住 / 再无悲喜 / 你迟到这么多次谁车你了 / 能分一口牛胸口油不 有点馋了 / 原来在你眼里雅团子都是家暴男)
+[25m] 🔥 [UNKNOWN] 想心爱的尘土就是星辰大海。[UNKNOWN] 美好剧情不会更改。[UNKNOWN] 是命运最好的安排。[UNKNOWN] 爱你是我这一辈子  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x5) / 再来一首(x4) / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅­雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅­/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 比心)
+[27m] ▫️ [UNKNOWN] 我也怕我失落在茫茫人海。[UNKNOWN] 嗯你给我这一辈子都不像。[UNKNOWN] 失恋的爱你的每条讯息都是心跳。[UNKNOWN] 节拍每秒都想。[UNKNOWN] 拥你入怀。[UNKNOWN] 这一辈你最可爱。[UNKNOWN] 你是我这一辈子都不想失恋的  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 再来一首(x5) / 雅雅/­\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅­/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/­\雅雅/\雅雅/\雅雅/\雅雅/\雅雅)
+[29m] 🔥 [UNKNOWN] 妈呀我刚刚开头唱的时候。[UNKNOWN] 撞到一下我的麦。[UNKNOWN] 撞到一下给他撞撞歪。[UNKNOWN] 然后撞的有点松。[UNKNOWN] 我全程拖着我的那个。[UNKNOWN] 拖着我的那个架子唱。[UNKNOWN] 撞到一下。[UNKNOWN] 永不失年的爱我歌了。[UNKNOWN] 我先走  (💬 再无悲喜(x4) / 单考落泪 / 何意味 / 嗓子状态一般 / 小🐷冲击)
+[29m] ▫️ [UNKNOWN] 何一位啊。[UNKNOWN] 贪图远吧多一点大俗的歌名呀。[UNKNOWN] 哒。[UNKNOWN] who do we do。[UNKNOWN] 不哭闹。[UNKNOWN] 哭萎可以哭萎住诺娜等。[UNKNOWN] 吧嗒吧嗒你哭的天如火。[UNKNOWN] 多蔓延的特点去计算个月的题用。[UNKNOWN] 可能的的只能一直把他那么行  (💬 再来一首(x10) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x4) / 比心 / 要摇滚乐队主唱的风范 / 雅神NB)
+[31m] 🔥 [UNKNOWN] 他答应压的过多。[UNKNOWN] 一次磨我的一言也太孤独。[UNKNOWN] 有你个夜猪西马鞭。[UNKNOWN] 他经验更的女的甜。[UNKNOWN] 哭过谁在怎么办。[UNKNOWN] 我的告诉我看激得说不定。[UNKNOWN] 如果你替命问一马。[UNKNOWN] 四个牵着我你的一诺既有魔归  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x17) / 再来一首(x6) / 比心(x3) / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/­\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\­雅雅/\雅雅)
+[31m] 🔥 [UNKNOWN] 多莫归多错落西边。[UNKNOWN] 你走你所自己和别人的道那一点。[UNKNOWN] 那给你哈密斯罗哈吉尼。[UNKNOWN] 谁给我又凭什么。[UNKNOWN] 躲在森林的抽了夜。[UNKNOWN] 嗯嗯。[UNKNOWN] to笔告诉我们是不肯。[UNKNOWN] 的可能的可点魂多浓。[UNKNOWN] 却不能再淹没那的哭泣练习梦啊  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x17) / 再来一首(x3) / 雅雅/\雅雅/\雅雅/­\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅­/\雅雅/\雅雅/\雅雅 / 雅雅/­\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅)
+[32m] 🔥 [UNKNOWN] 你也难以抚吻诺些如何不可。[UNKNOWN] 你开启怒多着弄玩。[UNKNOWN] 又瓦萨米逃灭着自由。[UNKNOWN] 他我希望我可见那个他的梦细蒙。[UNKNOWN] 提笔下那个大的风。[UNKNOWN] 那一抹几洒演谁的字。[UNKNOWN] 你你的脸嗯。[UNKNOWN] 霹雳色天怎么办  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x18) / 再来一首(x7) / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\­雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/­\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / [喝彩])
+[32m] 🔥 [UNKNOWN] 我懂被寂诺又明月二十点。[UNKNOWN] 他决定要爱你的日马店。[UNKNOWN] 你可恨我思念婆婆。[UNKNOWN] 落叶富贵多富贵多快递一点小个人。[UNKNOWN] 你的电路呢别律呼吸。[UNKNOWN] 你请明哥明明可以直口憋住了的。[UNKNOWN] 我哭的诺坦的也听闻。[UNKNOWN] 我在进你梦的旅途  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x18) / 再来一首(x5) / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅­/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/­\雅雅 / 雅雅/\雅雅/\雅雅/­\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅)
+[33m] 🔥 [UNKNOWN] 你和你来的夜通。[UNKNOWN] 打电摩卡有我一起地心。[UNKNOWN] 你入你有。[UNKNOWN] 梦那以慢慢醒了。[UNKNOWN] 你答应你。[UNKNOWN] 空问心怎么懂某都不够。[UNKNOWN] 我看记得错过你。[UNKNOWN] 如过你给你万一吗。[UNKNOWN] 斯个天中我你洒曾一诺  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x17) / 再来一首(x4) / 再无悲喜 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅­雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅­雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅)
+[33m] 🔥 [UNKNOWN] 即有莫为多莫为多。[UNKNOWN] 它星静天一索自己DCP。[UNKNOWN] 我又比什么。[UNKNOWN] 走在思念的熟懒夜  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x12) / 再来一首 / 雅雅/\雅雅/\雅雅/\­雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅­/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\­雅雅/\雅雅/\雅雅/\雅雅/\雅雅)
+[35m] ▫️ [UNKNOWN] 很神秘。[UNKNOWN] 有吗。[UNKNOWN] 我后面再研究一下吧。[UNKNOWN] 你第五次这次我决定点点进来听歌。[UNKNOWN] 怎么说的跟第一天。[UNKNOWN] 第一次点进直播间看一样呢。[UNKNOWN] 何一味啊。[UNKNOWN] 嗯。[UNKNOWN] forever young禁忌的边界  (💬 但是感觉也没什么变化 / 小雅很生气！ / 难以驯服的直播间和电脑 / 哼哼唧唧 / 咋就哈气了)
+[36m] 🔥 [UNKNOWN] 线。[UNKNOWN] 三个三个那个唱唱要塞课。[UNKNOWN] 我们穿插的来来个forever。[UNKNOWN] young。[UNKNOWN] forever young。[UNKNOWN] 五过家门而不入。[UNKNOWN] 感觉没什么变化。[UNKNOWN] 就不是爱你两把就ok ok  (💬 再无悲喜 / 呃呃 / 嘻嘻 / 本质不熟 / 先试试，再考虑机架那边搞搞)
+[38m] 🔥 [UNKNOWN] 活的高空低落高空跌落。[UNKNOWN] 有个沙漏在心中荡漾。[UNKNOWN] 默许时间让皱纹蔓延了。[UNKNOWN] 最在意的失手也握紧了。[UNKNOWN] 不愿逃过结果可无可有不限命运。[UNKNOWN] 这是我最深爱的时间啊。[UNKNOWN] 没有明天扳回或者。[UNKNOWN] 没有明天的去爱一场foevery  (💬 再来一首(x8) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅­/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅­雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\­雅雅)
+[39m] ▫️ [UNKNOWN] 却不会放我多骄傲。[UNKNOWN] 你深爱着那样的我。[UNKNOWN] 对吗。[UNKNOWN] 遇到每个的女孩。[UNKNOWN] 我都会告诉她。[UNKNOWN] 你该那样爱上是forever。[UNKNOWN] young。[UNKNOWN] forever young嗯。[UNKNOWN] 啊啊  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x5) / 再来一首(x5) / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/­\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 比心 / 雅雅/\雅雅/\雅雅/\­雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅)
+[40m] ▫️ [UNKNOWN] 像婴儿那样哭着闹着我哄。[UNKNOWN] 他说你改变成信徒。[UNKNOWN] 嗯我一横一竖描上过程。[UNKNOWN] 我要是你的模样。[UNKNOWN] 来北分。[UNKNOWN] 嗯。[UNKNOWN] 我还是人样我愿一阵一呀。[UNKNOWN] 你该那样爱上forever。[UNKNOWN] 啊  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 再来一首 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\­雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\­雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\­雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅)
+[44m] ▫️ [UNKNOWN] 谢谢碰送的打call。[UNKNOWN] 原版其实就很夸张  (💬 再无悲喜 / 听那句转音就知道单姐已经不是你的最爱了 / 诶诶 / 你就不能同时记忆两份 / 单考子畏惧了)
+[48m] 🔥 [UNKNOWN] 也没体密。[UNKNOWN] 一段这里的归的。[UNKNOWN] 可你也。[UNKNOWN] 可见看。[UNKNOWN] 多大。[UNKNOWN] 记住。[UNKNOWN] 要哭托我哭。[UNKNOWN] 土北。[UNKNOWN] 的心脏怎能大哥。[UNKNOWN] 苦恼是很难。[UNKNOWN] 苦独吧  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x17) / 再来一首(x9) / 这首我是真喜欢 / 雅雅/\雅雅/­\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/­\雅雅/\雅雅/\雅雅/\雅雅)
+[48m] 🔥 [UNKNOWN] 打给人最谈花。[UNKNOWN] 的那一永苦我么。[UNKNOWN] 念 Oh你爱do。[UNKNOWN] 一颗星提名有一码头的你。[UNKNOWN] 一轮梦一迷茫。[UNKNOWN] 那颗心。[UNKNOWN] 的哭图我哭图美的的错。[UNKNOWN] 你眼泪锁链。[UNKNOWN] 自把自。[UNKNOWN] 你明天  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x18) / 再来一首(x4) / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\­雅雅 / 雅雅/\­雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/­\雅雅/\雅雅/\雅雅/\雅雅)
+[50m] 🔥 [UNKNOWN] 用每晚一米根。[UNKNOWN] 一朵低烟的滚着。[UNKNOWN] 那光迷眼内可掩盖。[UNKNOWN] 这个。[UNKNOWN] 托我哭痛悲的天空。[UNKNOWN] 可惜在做的的哭。[UNKNOWN] 可乐天很难。[UNKNOWN] 你对。[UNKNOWN] 终久。[UNKNOWN] 一个。[UNKNOWN] 谢谢露露的call  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x16) / 再来一首(x9) / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅­/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅­雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅­/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅)
+[52m] 🔥 [UNKNOWN] 谢自我模式的打call。[UNKNOWN] 谢谢渣渣的打扣行破龙的打call。[UNKNOWN] 孤独娱乐。[UNKNOWN] 唱这个再去上吧。[UNKNOWN] 唱着个再上吧。[UNKNOWN] 哼允许说是。[UNKNOWN] 不许来玩憋憋尿。[UNKNOWN] 上厕所还打报告什么。[UNKNOWN] 给你们不是申请一下嘛  (💬 再无悲喜(x5) / 开动了(x3) / 干杯 / 去吧，这种事情 以后不用跟我说。 / 憋着)
+[53m] 🔥 [UNKNOWN] 真是的。[UNKNOWN] 允许去厕所孤独呀。[UNKNOWN] 谁要去厕所孤独晕了。[UNKNOWN] 我先孤独晕了完再去厕所。[UNKNOWN] 嗯哼。[UNKNOWN] 啊那独乐乐不如众乐乐啊。[UNKNOWN] 不去厕所一个人孤独娱乐。[UNKNOWN] 我们就跟大家一起娱乐。[UNKNOWN] 唉我是不是深四个调哦  (💬 再无悲喜(x4) / 再来一首(x3) / 哎？ / 哈噫 / 憋尿play？)
+[53m] 🔥 [UNKNOWN] 深色调。[UNKNOWN] 天闷了云昏了半冷半热风。[UNKNOWN] 念了雨哭了半泪半渴。[UNKNOWN] 我听见了图文快乐。[UNKNOWN] 为什么你无视坎坷。[UNKNOWN] 醒怒了人到了地球寒转。[UNKNOWN] 分离的无解的。[UNKNOWN] 再那么狠光随无形。[UNKNOWN] 来不及的  (💬 再来一首(x6) / 再无悲喜(x3) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x3) / 零人不让你上 / 你别直接漏了好吗)
+[54m] 🔥 [UNKNOWN] 你来的正好正好见证了。[UNKNOWN] 我拿孤独当娱乐缓慢。[UNKNOWN] 苦涩。[UNKNOWN] 瞧着几年的班。[UNKNOWN] 好半饿半想脸就活着。[UNKNOWN] 我那首孤独。[UNKNOWN] 原来跟谁。[UNKNOWN] 真的。[UNKNOWN] 一千呼略的静好莫誓言。[UNKNOWN] 一瞬间真的成了一线灯  (💬 再来一首(x10) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x7) / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅­雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/­\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\­雅雅/\雅雅/\雅雅)
+[55m] 🔥 [UNKNOWN] 成了隐形的嗯。[UNKNOWN] 爱不起。[UNKNOWN] 嗯。[UNKNOWN] 哭心酸的和的出现。[UNKNOWN] 这是懂不懂的。[UNKNOWN] 你一送你心中对再见。[UNKNOWN] 一生没背影挡碎了想了。[UNKNOWN] 嗯我知道到世间本黑的。[UNKNOWN] 但是日风沙能静静的也是我  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x15) / 再来一首(x5) / [Neuro sama收藏集_姐姐打call] / 雅雅/\雅雅/\雅雅/\雅雅/\­雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\­雅雅/\雅雅)
+[56m] 🔥 [UNKNOWN] 嗯我眼吹不走泪不浪飞。[UNKNOWN] 不认你静一。[UNKNOWN] 我难过我走在幸运了。[UNKNOWN] 简单。[UNKNOWN] 独单。[UNKNOWN] 等过几年把风只变成每个爱颜色。[UNKNOWN] 我的这孤独有了。[UNKNOWN] 我爱着。[UNKNOWN] 都气一滴曾无语前夫吧  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x18) / 再来一首(x9) / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅­雅/\雅雅/\雅雅/\雅雅/\雅雅 / 这么急吗，声音都颤了 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅­/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅)
+[56m] 🔥 [UNKNOWN] 其他不说啊。[UNKNOWN] 他的痛病临快乐。[UNKNOWN] 嗯。[UNKNOWN] 痛心疼快乐。[UNKNOWN] 嗯。[UNKNOWN] 不用了  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x8) / 再来一首(x5) / 冲刺！冲刺！冲刺！冲刺！冲刺！冲刺！冲刺！冲刺！冲刺！冲刺！冲刺！冲刺！冲刺！冲 / 开动了 / 无奈，没辙)
+[58m] ▫️ [UNKNOWN] 无边。[UNKNOWN] 我回来了。[UNKNOWN] 谢谢克兰的刚部。[UNKNOWN] 最近想出门散心。[UNKNOWN] 追寻一下风景不管晴天下雨。[UNKNOWN] 曾经许下的约定要一起去旅行。[UNKNOWN] 这啥歌呢。[UNKNOWN] 歌词啊。[UNKNOWN] 哎回来回来了。[UNKNOWN] 这么快洗手了吗  (💬 嘻嘻(x3) / 这么快洗手了吗 / 好快 / 哈哈哈 / 哎？)
+[59m] 🔥 [UNKNOWN] 我刚刚歌没结束。[UNKNOWN] 我就去了真是的哼。[UNKNOWN] 禁忌的边界线不录音CD of。[UNKNOWN] stars。[UNKNOWN] 先来个CD of stars吧。[UNKNOWN] 娱乐不孤独娱乐的。[UNKNOWN] 说赶紧写呀。[UNKNOWN] 真是的。[UNKNOWN] 我我现在有一个目标  (💬 嘻嘻 / 那我知道雅神喜欢什么玩法了 / 那就是没洗手（ / 羞死了 / 呵呵)
+[60m] 🔥 [UNKNOWN] 大家克尔有个小目标。[UNKNOWN] 就是这个冬天不要生病。[UNKNOWN] 我们看我们能不能做到怎么样。[UNKNOWN] 大家。[UNKNOWN] 就是到呃到什么时候。[UNKNOWN] 截止呢。[UNKNOWN] 我想想嗯。[UNKNOWN] 到呃二月底到二月底为止。[UNKNOWN] 勉强算冬天结束  (💬 再无悲喜 / 呵呵 / 不把我sc唱完我怎么黑听（ / 很遗憾了 / 这由不得你)
+[60m] 🔥 [UNKNOWN] 做不到什么惩罚呢。[UNKNOWN] 惩罚小雅多吃几条大黄鱼吧。[UNKNOWN] 那就罚罚你们。[UNKNOWN] 那要是小雅生病了。[UNKNOWN] 那就罚罚你们这个这个照顾。[UNKNOWN] 小雅生病吧。[UNKNOWN] 挺难的看运气唉。[UNKNOWN] 就是万事做到小心吧。[UNKNOWN] 唉  (💬 再来一首(x3) / 再无悲喜 / 比心 / 我宣布挑战失败！、 / 只能是希望)
+[60m] 🔥 [UNKNOWN] 哼。[UNKNOWN] 哦忘了降回来点嗯。[UNKNOWN] just for me。[UNKNOWN] 欢迎为人扛底。[UNKNOWN] 哦。[UNKNOWN] 嗯我嗯。[UNKNOWN] she knew san。[UNKNOWN] 我已衰凝至风靡。[UNKNOWN] 心底有所嗯ose。[UNKNOWN] 你is so much that i  (💬 再来一首(x5) / 比心(x3) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/ / 法法ytz吗 4i直播间畏惧了 / 别法好吗)
+[61m] 🔥 [UNKNOWN] can see。[UNKNOWN] daring the boars。[UNKNOWN] and through the。[UNKNOWN] smooth。[UNKNOWN] remove。[UNKNOWN] the crowd in the。[UNKNOWN] ruturaround。[UNKNOWN] 不是its呢  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 再来一首(x6) / 雅雅/\雅雅/\雅雅/\­雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 🐷🎤🎵😭🐷🎤🎵😭🐷🎤🎵😭 / 雅雅/\雅雅/\雅雅­/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅)
+[62m] 🔥 [UNKNOWN] Yes。[UNKNOWN] all were looking。[UNKNOWN] for。[UNKNOWN] this love from。[UNKNOWN] someone now。[UNKNOWN] 不是。[UNKNOWN] arrush one。[UNKNOWN] So touch adbuse a  (💬 再来一首(x6) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 雅雅/\雅雅/\­雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\­雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/­\雅雅/\雅雅/\雅雅/\雅雅)
+[62m] 🔥 [UNKNOWN] book in somebody。[UNKNOWN] size to light。[UNKNOWN] up the skies to。[UNKNOWN] open the world。[UNKNOWN] Decended really a。[UNKNOWN] voice that say。[UNKNOWN] shyll be here  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 再来一首(x5) / 雅雅/\雅雅/\­雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/­\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\­雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅)
+[63m] 🔥 [UNKNOWN] and you be alright。[UNKNOWN] I dont cif。[UNKNOWN] I know。[UNKNOWN] just where i will。[UNKNOWN] go。[UNKNOWN] cause song that i。[UNKNOWN] need。[UNKNOWN] This is me feeling  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x5) / 再来一首(x5) / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/­\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\­雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 比心)
+[63m] 🔥 [UNKNOWN] a。[UNKNOWN] read that tid of。[UNKNOWN] my heart。[UNKNOWN] think can。[UNKNOWN] you want need to。[UNKNOWN] stay。[UNKNOWN] 哎。[UNKNOWN] brially。[UNKNOWN] 嗯  (💬 再来一首(x5) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x3) / 🐷🎤🎵😭🐷🎤🎵😭🐷🎤🎵😭 / 雅雅/\雅雅/\­雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅­/\雅雅/\雅雅)
+[64m] ▫️ [UNKNOWN] 这一下我看一下吧。[UNKNOWN] 哼不让黑听。[UNKNOWN] 那你别黑听了干嘛。[UNKNOWN] 为什么非让黑。[UNKNOWN] 听什么意思啊。[UNKNOWN] 那最后一个再唱你剩下的那首歌啊。[UNKNOWN] 想走好了那我知道。[UNKNOWN] 该不该把你的歌放最后一个唱了。[UNKNOWN] 嗯  (💬 再无悲喜(x4) / 哈噫 / 可以一起看吗 / 好看好看 / 太大众了宝宝，别看了)
+[64m] 🔥 [UNKNOWN] 谢谢右少潜伏期潜伏期哼。[UNKNOWN] 想逃之前去看了imax好看。[UNKNOWN] 电影的就是嗯就是大致那个介绍。[UNKNOWN] 然后我就不没没什么兴趣来着。[UNKNOWN] 嗯但是看好像拿了那么多奖项。[UNKNOWN] 应该没有那么普通。[UNKNOWN] 应该没有那么一般。[UNKNOWN] 应该没那么一般AABE吗  (💬 再无悲喜 / 这帮人又要团建了老大，别唱他的 / 预定下播曲来了 / lalaland可以 / 库奇马其以给给 马其以给给)
+[65m] 🔥 [UNKNOWN] 嗯。[UNKNOWN] 你好坏女人不坏男人不爱。[UNKNOWN] 是我一个人看哼。[UNKNOWN] 看了不知道他这个这个的版权。[UNKNOWN] 现在国内的版权是在哪个平台上。[UNKNOWN] 到手。[UNKNOWN] 看看这这嗯。[UNKNOWN] 嗯带待的人。[UNKNOWN] 类型的那种电影啊  (💬 呃呃(x7) / 蜜蜂冰块 / 剧情确实挺老套，但是视听效果好 / 哈噫 / 歌太好了 视听效果好)
+[67m] ▫️ [UNKNOWN] 嗯。[UNKNOWN] 我才看到第一句歌词呢。[UNKNOWN] 这上面这是要把全家都写进来吗。[UNKNOWN] 写这么多这个制作人员名单。[UNKNOWN] 这歌词有必要喘这么多吗。[UNKNOWN] 跟我谈了半天。[UNKNOWN] 我才看见第一句话叫。[UNKNOWN] 妈呀什么一大堆。[UNKNOWN] 一乱七八糟的  (💬 嘻嘻(x5) / 再无悲喜 / 没活可以同步视听，这部的话还是愿意再看一遍的 / 哈哈哈哈 / 不然呢)
+[67m] 🔥 [UNKNOWN] 毫无征兆或线索。[UNKNOWN] 嗯。[UNKNOWN] 刺痛。[UNKNOWN] 那些语言逐渐沉印不断。[UNKNOWN] 一次性展示所有的。[UNKNOWN] 是嗯哼哼  (💬 再来一首(x3) / 嘻嘻 / 你懂尊重工作人员吗 / 与有荣焉！ / 这个叫尊重工作人员 邓紫棋也是一堆啊[傲娇])
+[70m] ▫️ [UNKNOWN] 成了一种病原体  (💬 再来一首(x6) / 哎？)
+[72m] ▫️ [UNKNOWN] 成了一种病原体。[UNKNOWN] 在我自以为平静的。[UNKNOWN] 我要的不多  (💬 再来一首)
+[74m] ▫️ [UNKNOWN] 谢宅男的打call。[UNKNOWN] 好好谢嘟的的call。[UNKNOWN] 真好听。[UNKNOWN] 四川的吧嗯。[UNKNOWN] 我们唱月光浴吧。[UNKNOWN] 菩提娑簌鼓  (💬 比心 / 还好吧 / 还好吧 没这么冷门 / 嘻嘻 / crash)
+[77m] ▫️ [UNKNOWN] 我看啊。[UNKNOWN] 诉得你哭不跌颠呼吸。[UNKNOWN] 真的  (💬 再来一首(x3) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/ / 或者是买物品，然后物品送一个码，你输入那个码就算你一票 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅­/\雅雅)
+[84m] ▫️ [UNKNOWN] 天空中哗啦啦的多多的的  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 再来一首(x3) / 再无悲喜 / 哎？ / 记忆力没问题)
+[85m] 🔥 [UNKNOWN] 这个玩我i are铁人自尊。[UNKNOWN] 多么担心。[UNKNOWN] 当给你哭脸跌的红。[UNKNOWN] 我都把诺言散细散落。[UNKNOWN] 大伊斯基德的野狗不能目够迷茫。[UNKNOWN] 你写太多那。[UNKNOWN] baby呀要拼命问我那着能。[UNKNOWN] 你孤独能哭的这么多东西  (💬 再来一首(x6) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/­\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/­\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/­\雅雅/\雅雅/\雅雅)
+[86m] 🔥 [UNKNOWN] 总要哭过不放作说到。[UNKNOWN] 就那边我已经都一。[UNKNOWN] 靠实得无所代么。[UNKNOWN] I love no要。[UNKNOWN] i loheyou i。[UNKNOWN] love you。[UNKNOWN] 在往弯儿走吧。[UNKNOWN] 谁要我算你呢。[UNKNOWN] 但你懂你你能那一下  (💬 再来一首(x9) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 比心 / 雅雅/\雅雅/\雅雅/\雅雅/­\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\­雅雅)
+[87m] 🔥 [UNKNOWN] 我做的不的天算。[UNKNOWN] 那过独如果的的就醉在你啊。[UNKNOWN] 魔幻老阿里baby温和。[UNKNOWN] 你有你相思别飞我心一辈子。[UNKNOWN] 怎么你太多的心底怎么了。[UNKNOWN] 妈那表的你来昨天证你我。[UNKNOWN] 阿姨的别了一的颠故。[UNKNOWN] 给你和吗  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x7) / 再来一首(x5) / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅­/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/­\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅­雅/\雅雅)
+[87m] 🔥 [UNKNOWN] 我的我三几年。[UNKNOWN] 我已经有孤单么。[UNKNOWN] 道理么。[UNKNOWN] 都可能妈妈一。[UNKNOWN] 为何留没有你在大些年更。[UNKNOWN] 所有苦过我好多次的那边。[UNKNOWN] 我已经有一个天你无所代梦。[UNKNOWN] 很努易诺有的勇敢。[UNKNOWN] 但怎么零时的  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 再来一首(x5) / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅­雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/­\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/­\雅雅/\雅雅/\雅雅/\雅雅)
+[88m] 🔥 [UNKNOWN] 一的大路。[UNKNOWN] 你懂我心边。[UNKNOWN] 那一醒灭太阳三十一光来电。[UNKNOWN] 他卖我永远的。[UNKNOWN] 我一直等爱的天年。[UNKNOWN] 该的变速度。[UNKNOWN] 一他给你哦吗。[UNKNOWN] 老婆偷偷我看几天。[UNKNOWN] 我一起走护在你摸到你的  (💬 再来一首(x12) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 好听好听 / 雅雅/\雅雅/\雅雅­/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅­雅/\雅雅/\雅雅/\雅雅/\雅雅)
+[88m] 🔥 [UNKNOWN] 他多多可能。[UNKNOWN] my hearting。[UNKNOWN] feelings。[UNKNOWN] i dont变你。[UNKNOWN] 这又怎么。[UNKNOWN] 嗯的我一起落一个baby我的路题。[UNKNOWN] 我要skkiner有蝴蝶。[UNKNOWN] 嗯嗯。[UNKNOWN] 这个是真好久没唱谢迎风送的  (💬 再来一首(x5) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x3) / 雅雅/\雅雅/\雅­雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/­\雅雅/\雅雅/\雅雅 / ­雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅)
+[89m] 🔥 [UNKNOWN] 摸摸头谢谢嘟嘟的打call  (💬 雅雅/\­雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 再来一首 / 雅雅­/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 咋这样呢 / 哈哈哈)
+[91m] 🔥 [UNKNOWN] 你字面阿天空以无心蝶。[UNKNOWN] 不干么折叠我一卡黑点。[UNKNOWN] 大跌多梦都是你的词典。[UNKNOWN] 每到每到七点都。[UNKNOWN] 你告我多那不个忽卫。[UNKNOWN] 我多那次你来住。[UNKNOWN] 打开了摩托多尼。[UNKNOWN] 共了哆罗咪答一诺三个一  (💬 再来一首(x14) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 听懂了 / 净化)
+[91m] 🔥 [UNKNOWN] 给你给你爱一天。[UNKNOWN] 哪里我的你都记得吗。[UNKNOWN] 随便街头万习。[UNKNOWN] 给你给你my善良的度情也痛。[UNKNOWN] 一十七个多切的可能一个。[UNKNOWN] 摩托面爱了。[UNKNOWN] 滴答西嘟噜。[UNKNOWN] 因为皮卡的火朵他给我的听。[UNKNOWN] 因人莫威的说多爱你们土  (💬 再来一首(x16) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 听懂了 / 净化 / 哎？)
+[92m] 🔥 [UNKNOWN] 还是如for多me也的孤独。[UNKNOWN] 还不难以难以。[UNKNOWN] 你一黑夜万抹 No。[UNKNOWN] 我明白我把你的。[UNKNOWN] 你不然我摩哒么哒。[UNKNOWN] 的心底爱的苦涩姐姐。[UNKNOWN] 我要给你给滴爱。[UNKNOWN] 给你给你爱一天。[UNKNOWN] 你喜爱昨天的有可乐到三  (💬 再来一首(x6) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 比心 / 哈噫)
+[94m] 🔥 [UNKNOWN] 叫我come morning。[UNKNOWN] 给你给你爱一天呢。[UNKNOWN] 给我我的那。[UNKNOWN] 我一次变马大大。[UNKNOWN] 滴哩滴哩慢。[UNKNOWN] 淡薄的秘密。[UNKNOWN] 本身也不看点歌的记录呀。[UNKNOWN] 谢谢沾的打call。[UNKNOWN] 进啊  (💬 再来一首(x9) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x5) / 再无悲喜 / 比心)
+[95m] ▫️ [UNKNOWN] 坚持到现在没黑听。[UNKNOWN] 累积记录  (💬 再无悲喜(x3) / 嘻嘻 / 对呀，我累计记录全没了；； / 仅仅这种程度就坚持不到了吗 / 好感度重置)
+[97m] 🔥 [UNKNOWN] 终于找到借口。[UNKNOWN] 趁着醉意上心头。[UNKNOWN] 表达我所有感受。[UNKNOWN] 最后一定总是我双眼角炫酷。[UNKNOWN] 我陷入都快变的快温柔。[UNKNOWN] 成全了你吻着那种爱的天。[UNKNOWN] 能否我爱着上妞。[UNKNOWN] 我只剩彼此分手。[UNKNOWN] 别在互相成那  (💬 再来一首(x9) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 黑话 / 我去，感觉一万年没听雅神唱天后了 / [哇])
+[99m] 🔥 [UNKNOWN] 因为我们都有错。[UNKNOWN] 推开总来的的手。[UNKNOWN] 推开怎么的思的手管。[UNKNOWN] 你有多么失从。[UNKNOWN] 也在角。[UNKNOWN] 我心软是最沉迷你的脆。[UNKNOWN] 我我心抖懂却任凭死的笑中。[UNKNOWN] 我嫉妒你的爱情。[UNKNOWN] 深空像个人群  (💬 再来一首(x14) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / p😭q(x3) / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅­雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅­雅/\雅雅/\雅雅/\雅雅/\雅雅)
+[100m] 🔥 [UNKNOWN] 高举不下的天空。[UNKNOWN] 你要的不是我。[UNKNOWN] 而是一种虚荣。[UNKNOWN] 有人疼才显得多么重。[UNKNOWN] 我陷入盲目狂恋的困。[UNKNOWN] 成全了你万种宠爱的天空。[UNKNOWN] 若爱只剩诱惑。[UNKNOWN] 只剩彼此忍受。[UNKNOWN] 别再互相争  (💬 再来一首(x15) / p😭q(x11) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x7) / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/­\雅雅 / 雅雅/\雅雅/\雅雅­/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅)
+[100m] 🔥 [UNKNOWN] 因为我们都有错。[UNKNOWN] 我嫉妒你的爱情深如虹。[UNKNOWN] 像个人群高举不舍的天空。[UNKNOWN] 你要的不是我。[UNKNOWN] 而是一种虚荣。[UNKNOWN] 有人疼才显得多么重。[UNKNOWN] 我麻木麻木狂恋的宽容。[UNKNOWN] 成全了你稳重宠爱的天赋。[UNKNOWN] 若爱这剩诱惑  (💬 再来一首(x16) / p😭q(x11) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x7) / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅­ / 比心)
+[101m] 🔥 [UNKNOWN] 只剩彼此忍受。[UNKNOWN] 别再互相着。[UNKNOWN] 因为我们都有错。[UNKNOWN] 看看。[UNKNOWN] 谢谢。[UNKNOWN] 暴走四零四的嘴八枪。[UNKNOWN] 雅雅具体GTA男主当。[UNKNOWN] 脱衣牛郎剧情泡了的。[UNKNOWN] 背景音乐里有你喜欢的歌点歌  (💬 p😭q(x7) / 再来一首(x5) / 再无悲喜(x3) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/ / 啊？)
+[102m] 🔥 [UNKNOWN] 想当你的努力啊。[UNKNOWN] 切啊。[UNKNOWN] 谢阿死的发卡。[UNKNOWN] 最近有唱过空心吗。[UNKNOWN] 没有的话来一首。[UNKNOWN] 你自己看唱两首歌后面嘛。[UNKNOWN] 我现在想要去想当你的奴隶。[UNKNOWN] 说是。[UNKNOWN] 嗯嗯想想当你的奴隶是不是  (💬 再无悲喜(x4) / 啊？ / 雅雅/\雅雅/\雅雅/\雅雅/\­雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅天后别离开我😭😭 / 感觉一万年没听过雅神唱天后了)
+[102m] 🔥 [UNKNOWN] 嗯嗯好敢啊。[UNKNOWN] 妈  (💬 再无悲喜 / 中文好直白，我们能说家乡话吗 / 哎？ / 你现在就开了吧 / 现在就开吧)
+[104m] ▫️ [UNKNOWN] 心破城的打call。[UNKNOWN] 谢谢浓浓的真好听。[UNKNOWN] 噔。[UNKNOWN] 现在嗯原来这种哦。[UNKNOWN] 我觉得过不了审。[UNKNOWN] 我觉得取不了唱歌名。[UNKNOWN] 说实话有一点。[UNKNOWN] 我我也觉得过不了。[UNKNOWN] 嗯。[UNKNOWN] i wanna be you  (💬 嘻嘻 / 克罗雅一点也S不起来但是 / 想当直说 / 原来是这首... / sc字数不够，你也字数不够)
+[106m] 🔥 [UNKNOWN] safe。[UNKNOWN] I wanna。[UNKNOWN] a you your musti。[UNKNOWN] I ananna。[UNKNOWN] make you hot being。[UNKNOWN] wrong。[UNKNOWN] like。[UNKNOWN] grthe constton  (💬 再来一首(x17) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 比心 / 太有韵味了 / 燃歌是对的✌️)
+[106m] 🔥 [UNKNOWN] I wanna a be。[UNKNOWN] a good boy wanto。[UNKNOWN] be against er。[UNKNOWN] cause you could be。[UNKNOWN] the beauty。[UNKNOWN] I could be the。[UNKNOWN] monston  (💬 再来一首(x21) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 比心 / 太有韵味了 / 燃歌是对的✌️)
+[106m] 🔥 [UNKNOWN] I love。[UNKNOWN] you seeing this。[UNKNOWN] morning。[UNKNOWN] not。[UNKNOWN] just first matting。[UNKNOWN] I wanna ch。[UNKNOWN] your body so。[UNKNOWN] fucking in  (💬 再来一首(x20) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 太有韵味了 / 燃歌是对的✌️ / 雅小妹好飒好S)
+[106m] 🔥 [UNKNOWN] electing II know。[UNKNOWN] you cateme you。[UNKNOWN] sawant to think。[UNKNOWN] fedi wanna my。[UNKNOWN] tea and II to。[UNKNOWN] think a fghting。[UNKNOWN] I wanna make you  (💬 再来一首(x25) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 燃歌是对的✌️ / 雅小妹好飒好S)
+[106m] 🔥 [UNKNOWN] hungry。[UNKNOWN] Then i ananna feel。[UNKNOWN] you。[UNKNOWN] i wanna。[UNKNOWN] put ink feace。[UNKNOWN] like your我美梦。[UNKNOWN] 的lisa。[UNKNOWN] I wnnbe be唱篇  (💬 再来一首(x22) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x5) / 燃歌是对的✌️ / 雅小妹好飒好S / 最有素质的一集)
+[107m] 🔥 [UNKNOWN] 文的比有loser好一点。[UNKNOWN] 你也快个在just我的没有人还忘到。[UNKNOWN] 比有谁算又会你有继承。[UNKNOWN] I wanna be you see。[UNKNOWN] 的我的。[UNKNOWN] be a preacher。[UNKNOWN] I wna没有了me  (💬 再来一首(x21) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 燃歌是对的✌️ / 雅小妹好飒好S / 最有素质的一集)
+[107m] 🔥 [UNKNOWN] 一边那里边。[UNKNOWN] baby and music。[UNKNOWN] baby看就吗。[UNKNOWN] 太够了。[UNKNOWN] 哎呀不。[UNKNOWN] 嗯。[UNKNOWN] 应该是在的。[UNKNOWN] 在夜我胡涩情个人变成爱让过。[UNKNOWN] 也苦色气氛变成听了苦涩情话  (💬 再来一首(x19) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 最有素质的一集)
+[107m] 🔥 [UNKNOWN] 变身把the fourteen色苦涩。[UNKNOWN] 青蛙。[UNKNOWN] 人生都i哭诉ching her。[UNKNOWN] 能生的光的苦涩情怀半生。[UNKNOWN] friebye你死群过于登山。[UNKNOWN] 把烦放听墨色苦的轻风与单纯  (💬 再来一首(x12) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 最有素质的一集)
+[109m] 🔥 [UNKNOWN] i wanna be。[UNKNOWN] you saven wana。[UNKNOWN] be your master。[UNKNOWN] 妈的妈的妈的。[UNKNOWN] 谢谢诺么的call。[UNKNOWN] 谢谢不嘟嘟的打颗。[UNKNOWN] 谢谢破损的call。[UNKNOWN] 喂等一下这个妹塔是谁改的名啊  (💬 再来一首(x3) / hhh / fusion / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅­/\雅雅/\雅雅/\雅雅/\雅雅 / 净化)
+[110m] 🔥 [UNKNOWN] 看似很s实则纯棉吗。[UNKNOWN] 这话什么意思。[UNKNOWN] 我困了。[UNKNOWN] 嗯嗯。[UNKNOWN] 做什么东西都可以的可爱。[UNKNOWN] 这个可可那个那话怎么说来着。[UNKNOWN] 什么可甜可盐啊。[UNKNOWN] 什么什么可怜可怜那个来着。[UNKNOWN] 你看  (💬 嘻嘻 / 哈哈哈 / 比心 / ？？？？ / hhhhhhh)
+[110m] 🔥 [UNKNOWN] 空信。[UNKNOWN] 嗯嗯。[UNKNOWN] 在那时候简单的好想。[UNKNOWN] 你的浑身。[UNKNOWN] 我的伤痛。[UNKNOWN] 空面成长。[UNKNOWN] 这你是的爱都有翅膀。[UNKNOWN] 怎么拥抱它终究要飞翔。[UNKNOWN] 即空虚也想被。[UNKNOWN] 奈何思念比恨更顽强  (💬 再来一首(x5) / 嘻嘻 / 可攻可受 / 本质m / 怎么看都是软糯m)
+[112m] 🔥 [UNKNOWN] 有个怀抱暖的像张床。[UNKNOWN] 又风闪了微笑多晴朗。[UNKNOWN] 有一张多没理由疯狂  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x9) / 再来一首(x7) / 净化)
+[113m] 🔥 [UNKNOWN] 可思念比很干完成。[UNKNOWN] 妈。[UNKNOWN] 我也是。[UNKNOWN] 分层。[UNKNOWN] 是爱着不想遇。[UNKNOWN] 没有人是啊  (💬 再来一首(x12) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x8) / 雅雅/\雅雅/\雅雅/\雅雅/\雅­雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅­雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅­/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅)
+[115m] ▫️ [UNKNOWN] 你说的f word是中文的还是英文的。[UNKNOWN] 唉我不小心把弹幕删了。[UNKNOWN] 谢谢破上的铁铁  (💬 再来一首 / 嘻嘻 / 原曲是英文，含有歌曲原名的SC都发不出 / 中文哪有fword / 主要是有点那种倾向的，其实都会被审查)
+[117m] ▫️ [UNKNOWN] 嗯的。[UNKNOWN] 想越走越远的回忆。[UNKNOWN] 舍不得你尽了爱的友谊。[UNKNOWN] 来嗯似语已经远离。[UNKNOWN] 我还在原地。[UNKNOWN] 来不及心。[UNKNOWN] 一种异性。[UNKNOWN] 啊。[UNKNOWN] 蓝的一移心远离。[UNKNOWN] 我还在想  (💬 再来一首(x6) / 国哥有奴隶这词，但也不能在直播随便唱( / 哎？)
+[119m] ▫️ [UNKNOWN] 同样空气  (💬 再来一首(x8) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6))
+[120m] ▫️ [UNKNOWN] 嗯爱色雨已经远离。[UNKNOWN] 我还在身人自己  (💬 再来一首(x8) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x5) / 比心)
+[123m] 🔥 [UNKNOWN] 阿贝马里亚与艾丁君拜拜。[UNKNOWN] 天马真的唱吧。[UNKNOWN] 不然等会儿更不舒服的。[UNKNOWN] 更不好唱了把他们的圣母颂唱了。[UNKNOWN] 嗯。[UNKNOWN] 今晚我感觉是有点嗯看。[UNKNOWN] 总监加油唱  (💬 再无悲喜(x4) / 嘻嘻(x3) / 什么时候黄渤 / 哎？ / 雅雅原来不能甩飞吗.....宋娜)
+[124m] 🔥 [UNKNOWN] 啊。[UNKNOWN] 好啊。[UNKNOWN] 我的。[UNKNOWN] 没有。[UNKNOWN] 空。[UNKNOWN] 啊。[UNKNOWN] 我的。[UNKNOWN] 哦。[UNKNOWN] 好。[UNKNOWN] 我必。[UNKNOWN] 啊。[UNKNOWN] 别嗯。[UNKNOWN] 谢天铺什么打call  (💬 再来一首(x12) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x5) / 比心(x4) / 嘻嘻 / 净化)
+[127m] 🔥 [UNKNOWN] 谢天铺什么都好听。[UNKNOWN] 夹一夹可爱。[UNKNOWN] 明天泡沫明天唱吧等等  (💬 再来一首 / 雅神多爱大米啊 唱歌都一直念叨moneymoney的 / 比心 / 这次居然没滑 / 鸭肾伟大)
+[130m] ▫️ [UNKNOWN] 是否承认的世界被最后总又怎。[UNKNOWN] 一天被睡眠你的分岔路。[UNKNOWN] 我怀念过去单纯美好的小幸福。[UNKNOWN] 我走在每天必须面对的分岔路。[UNKNOWN] 我怀念过去单纯美好的小幸福。[UNKNOWN] 爱总是让人哭。[UNKNOWN] 让人觉都不满足。[UNKNOWN] 天空很大却看不清楚好孤独  (💬 再来一首(x9) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6))
+[131m] 🔥 [UNKNOWN] 天黑的时候。[UNKNOWN] 我又想起那首歌。[UNKNOWN] 突然期待下起安静的。[UNKNOWN] 是原来外婆的道理。[UNKNOWN] 早就唱给我听。[UNKNOWN] 下起雨也要勇敢陷情。[UNKNOWN] 我相信一切都会平息。[UNKNOWN] 我现在好想回家。[UNKNOWN] 谁嗯  (💬 再来一首(x9) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x7) / 比心 / 雅雅/\雅雅/\­雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅­/\雅雅/\雅雅)
+[132m] 🔥 [UNKNOWN] 听哦哦空杯落寞啊。[UNKNOWN] 谢谢哲哲的打call。[UNKNOWN] 特务钩特务狗。[UNKNOWN] 是泡沫明天唱的跳个街。[UNKNOWN] 明天唱的。[UNKNOWN] 你是点了这首歌。[UNKNOWN] 啊是有首歌叫偷袭吗。[UNKNOWN] 这个意思吗。[UNKNOWN] 我给他弄掉了  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x4) / 再来一首 / 雅雅/\雅­雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 雅雅/\雅雅/­\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅 / 比心)
+[134m] 🔥 [UNKNOWN] 我已经点掉了。[UNKNOWN] 哎。[UNKNOWN] 今天没老瘫好。[UNKNOWN] 那人这个药还是有用的。[UNKNOWN] 其实还是有但是不会那么夸张的。[UNKNOWN] 老谭还是有老谭。[UNKNOWN] 但是没有那么疯狂的老谭了。[UNKNOWN] 我去。[UNKNOWN] 打架的那你快说啊  (💬 再无悲喜(x6) / 咋这样呢 / 笑死 / 禁止偷袭！ / 克罗雅也偷袭了)
+[135m] ▫️ [UNKNOWN] 他刚刚说换吗  (💬 换续写 / 他说换续写你没看到 / 续写 / 再无悲喜 / 来偷袭来骗)
+[136m] ▫️ [UNKNOWN] 没理由抓起他放进了嘴巴细绝。[UNKNOWN] 不够确定。[UNKNOWN] 感情。[UNKNOWN] 少了挥发多了些你太多。[UNKNOWN] 可谓的应该庆幸是否要更生死。[UNKNOWN] 更千里更伤心再转阴。[UNKNOWN] 不欢起痛苦流涕。[UNKNOWN] 再难长了几都流尽。[UNKNOWN] 因为一空  (💬 再来一首(x11) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6))
+[138m] ▫️ [UNKNOWN] 少了会吗。[UNKNOWN] 找不到你信任的眼神。[UNKNOWN] 少了挥发多了些。[UNKNOWN] 谢谢。[UNKNOWN] 太难了哦太考太难考了。[UNKNOWN] 你这多一个字太难考了。[UNKNOWN] 你们自己改去吧。[UNKNOWN] 太难唱女爱DJ  (💬 再来一首(x11) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6))
+[142m] ▫️ [UNKNOWN] 钉钩这种叫法王涛在哪儿听说过丁哥。[UNKNOWN] 我正常版去哪。[UNKNOWN] 当。[UNKNOWN] 那不明天唱嘛  (💬 再无悲喜(x4) / 我换ラピスラズリ吧 / 丁沟 / 还有钉宫 / 你找个录音室的版本)
+[146m] 🔥 [UNKNOWN] 冒险开眼。[UNKNOWN] 那些最像。[UNKNOWN] 一是这些鲜艳的字。[UNKNOWN] 是我的身边我爱谁。[UNKNOWN] 也不能为谁。[UNKNOWN] 我是爱情本来的坚点。[UNKNOWN] 完美的舞水冰冻全场焦点。[UNKNOWN] 把你定格在爱情萌间。[UNKNOWN] 划破满城黑夜香水  (💬 再来一首(x14) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x5))
+[147m] ▫️ [UNKNOWN] 完美的无坠邪分难捏摧毁。[UNKNOWN] 爱情有世界戒着皆失恋。[UNKNOWN] 能完美的舞追戏氛拿捏最后悔  (💬 再来一首(x8) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6))
+[149m] ▫️ [UNKNOWN] 之前也是有的。[UNKNOWN] 你们要是有印象的话。[UNKNOWN] 嗯我还记得是有人。[UNKNOWN] 恶物狗。[UNKNOWN] 哎我们明天是播什么来着。[UNKNOWN] 大家明天下午零时。[UNKNOWN] 明天晚上是干嘛来着。[UNKNOWN] 大家。[UNKNOWN] 然后就是这个月大概  (💬 周表(x4) / 我记得给你发过教程 / 无伤大雅 / 那我知道是谁发的了 / 特务丁)
+[150m] 🔥 [UNKNOWN] 就是月底的时候七月。[UNKNOWN] 八月九月的东西都会发都会发哦。[UNKNOWN] 我就写了个写周表是吗。[UNKNOWN] 行。[UNKNOWN] 嗯嗯当。[UNKNOWN] 泡沫明年唱。[UNKNOWN] 是呃我感觉先低不下去。[UNKNOWN] 比英语更。[UNKNOWN] 我们把雨爱DJ版唱了吧  (💬 再来一首(x9) / 周表(x3) / 再无悲喜(x3) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/ / [UPOWER_2091418780_对的对的])
+[150m] 🔥 [UNKNOWN] 你家DJ版来了。[UNKNOWN] 嗯。[UNKNOWN] 进的好快。[UNKNOWN] 但是你的身你一滴滴清晰。[UNKNOWN] 的希望与无声。[UNKNOWN] 让上面继。[UNKNOWN] 改变。[UNKNOWN] 爱上给我勇气的。[UNKNOWN] 你的雨滴。[UNKNOWN] 一滴滴累积负面的事情  (💬 再来一首(x20) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x4) / 再无悲喜 / 💃🏻💃🏻💃🏻💃🏻💃🏻💃🏻💃🏻💃🏻💃🏻💃🏻 / 也就是说，是克罗雅赢了！)
+[151m] 🔥 [UNKNOWN] 想初次爱你自己。[UNKNOWN] 云安。[UNKNOWN] 秘密。[UNKNOWN] 别着。[UNKNOWN] 也许我相信。[UNKNOWN] 每次唱这个你们都刷起来。[UNKNOWN] 你们累吗。[UNKNOWN] 不是你们不腻吗。[UNKNOWN] 受不了了二次元又在刷嗯。[UNKNOWN] 插件  (💬 再来一首(x10) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x9) / 嘻嘻(x4) / 💃🏻💃🏻💃🏻💃🏻💃🏻💃🏻💃🏻💃🏻💃🏻💃🏻 / 也就是说，是克罗雅赢了！)
+[152m] 🔥 [UNKNOWN] 你们随时随地就能打。[UNKNOWN] 还这种差别干什么。[UNKNOWN] 他跟你为什么。[UNKNOWN] 随时随地就有这种内有吗。[UNKNOWN] 你的等于一滴滴清心。[UNKNOWN] 你的发生一生。[UNKNOWN] 的希望。[UNKNOWN] 让你伤。[UNKNOWN] 继续。[UNKNOWN] 一边  (💬 再来一首(x8) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 💃🏻💃🏻💃🏻💃🏻💃🏻💃🏻💃🏻💃🏻💃🏻💃🏻 / 体再次恢复 / 比心)
+[153m] 🔥 [UNKNOWN] 爱上给我。[UNKNOWN] 勇气的的雨滴。[UNKNOWN] 一滴滴泪。[UNKNOWN] 我曾爱�的记忆。[UNKNOWN] 珍惜。[UNKNOWN] 你爱。[UNKNOWN] 秘密。[UNKNOWN] 的也许我相信。[UNKNOWN] 为他。[UNKNOWN] 美丽。[UNKNOWN] 什么叫我以后开上  (💬 再来一首(x10) / \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x6) / 比心(x3) / 又新又好 / 但是在杀气同源的影响下，左殇所承受的伤害被大大削弱，在闭心之术的治疗下，左殇的身)
+[153m] 🔥 [UNKNOWN] 独轮车也会懂你们的。[UNKNOWN] 我也要开独轮车吗。[UNKNOWN] 我开个头的独轮车。[UNKNOWN] 好像车谁呀。[UNKNOWN] 啊真是的。[UNKNOWN] 五号才不开独轮车呢。[UNKNOWN] 没有这一天。[UNKNOWN] 谁出个模术的问题。[UNKNOWN] 我要唱我自己吗  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x7) / 你不是夏日唱歌接力的时候车过同期?(x3) / 再来一首 / 笑着脱下自己的外套，说：“哈哈！尽管来吧！”虎杖同样大笑着拍上了老师的肩膀，在他 / 里武林的幻境在剑气中湮灭，废墟之中，拼尽全力护住自己的魂，无力地靠在残破的建筑上)
+[154m] 🔥 [UNKNOWN] 我们直播间。[UNKNOWN] 哼哼。[UNKNOWN] 哎好了好了。[UNKNOWN] 好了别扯了别成没成啊。[UNKNOWN] 剩个六个。[UNKNOWN] 上个任务哥明天来吧。[UNKNOWN] 我看看十一点四十一分。[UNKNOWN] 我想想我的药塞回去。[UNKNOWN] 这个艾斯什么。[UNKNOWN] 下去  (💬 \雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/\雅雅/(x4) / 你不是夏日唱歌接力的时候车过同期?(x3) / 雅团子们都看着呢 让我再耍会帅吧 / 般的压力【千年未有的紧张感再一次浮上心头】。五条悟的拳头毫不留情砸向魔虚罗，致命 / 在真龙之躯发动前的41秒内，断魂山再次响起了左殇的吟唱：)
+[155m] 🔥 [UNKNOWN] 我想起昨天我就是。[UNKNOWN] 感觉有惊无险啊哈。[UNKNOWN] 等你成为管人充点钱。[UNKNOWN] 我怎么成为啊无法成为啊。[UNKNOWN] 哎呀我的毒没解药。[UNKNOWN] 这似乎这这似乎跟。[UNKNOWN] 他们刷的不同一种吧。[UNKNOWN] 这这个我知道这个我看过  (💬 肯恰那 / 肘 我们回被窝 / 明天来吧 早睡早睡 / 能不能先给你的加湿器加水 / [UPOWER_2091418780_敲木鱼])
+[155m] 🔥 [UNKNOWN] 不不对不对搞错错了不对不对。[UNKNOWN] 看错了我还以为是那个呢。[UNKNOWN] 我的匕首我的小刀是涂的。[UNKNOWN] 涂了毒的。[UNKNOWN] 不。[UNKNOWN] 对这个不是那个这个。[UNKNOWN] 不是那个搞错了告错了。[UNKNOWN] 先给你的加湿器加水。[UNKNOWN] 我现在去加猫加湿器比较麻烦的  (💬 肯恰那(x3) / 嘻嘻 / 当了管人只会厌恶管人痴是吧 / 不是那个 / 今天大老梗)
+[155m] 🔥 [UNKNOWN] 我等会去弄。[UNKNOWN] 慢搞错了搞错了。[UNKNOWN] 啃恰ina。[UNKNOWN] 我的毒没有解药。[UNKNOWN] 这是什么梗啊。[UNKNOWN] 啃恰ina。[UNKNOWN] 我这个有点。[UNKNOWN] 打包那个。[UNKNOWN] 大家学了很多词啊。[UNKNOWN] 小雅学了不少词  (💬 再无悲喜 / 呃呃，雅神看过勇者义彦吗 / 什么经典涂毒小刀 / 呃呃 / 还在勇者)
+[157m] 🔥 [UNKNOWN] 从宫心计里面以后。[UNKNOWN] 这个直播可以这个使用使用呆胆。[UNKNOWN] 是好啊嗯。[UNKNOWN] no类only呸一下皮哈。[UNKNOWN] 满嘴。[UNKNOWN] 啊本质外地人也也要。[UNKNOWN] 选把你们就是本正爱你人吗嗯。[UNKNOWN] 不看珠光宝沁。[UNKNOWN] 虽然那个毕竟是  (💬 再无悲喜(x4) / 呃呃(x3) / 嘻嘻(x3) / 哎？ / 那你听得懂吗)
+[157m] 🔥 [UNKNOWN] 很多年前的电视剧了。[UNKNOWN] 他那个什么就那种什么。[UNKNOWN] 比如说什么金钗上面那个特效。[UNKNOWN] 那个光特非常的五毛特效啊。[UNKNOWN] 感觉像剪映假的。[UNKNOWN] 嗯哼想看就看非得说学艺。[UNKNOWN] 顺便可以学学嘛真是的。[UNKNOWN] 顺便可以学学啊啊  (💬 嘻嘻(x3) / 再无悲喜(x3) / 呃呃 / 你说什么鸟语 / 大蛋？！)
+[157m] 🔥 [UNKNOWN] 我还学的什么来着。[UNKNOWN] 我突然有点忘了。[UNKNOWN] 那选了很多这个。[UNKNOWN] 选了很多很多不错的词台词啊。[UNKNOWN] 什么什么什么看你个你个大胆贱婢。[UNKNOWN] 竟然嗯什么冲浪本宫。[UNKNOWN] 嗯还有什么嗯嗯。[UNKNOWN] 嗯嗯。[UNKNOWN] 七这是骂人是吧  (💬 再无悲喜(x3) / 呃呃 / 大蛋来了 / 没有剪映那么先进 / 看TVB学粤语确实能学的挺快的)
+[158m] ▫️ [UNKNOWN] 什么什么骂人啊。[UNKNOWN] 我只是这个念台词啊  (💬 就撞你就撞你，我顶死你 / 加深啥啊，阿兹海默能记住吗（ / 行行行 / 我顶死你！ / 蜜蜂冰块)
+[160m] 🔥 [UNKNOWN] 一九一多姐才离感觉啊。[UNKNOWN] 多姐我鸭鸭狗呀。[UNKNOWN] 多解压狗勾勾腰耳杯。[UNKNOWN] baby给敢讲了。[UNKNOWN] 哎你敢头。[UNKNOWN] 嗯。[UNKNOWN] 多紧多紧谢谢店长。[UNKNOWN] 谢谢一九一宝定的魔盒。[UNKNOWN] 我去有粤语份了  (💬 再无悲喜(x11) / 够雅(x9) / 哈噫(x4) / 你这真的是粤语不是什么鸟语吗？(x3) / 够雅­)
+[160m] 🔥 [UNKNOWN] 我去粤语份来了啊。[UNKNOWN] 我粤语粉来了啊。[UNKNOWN] 嗯嗯应该睡觉了。[UNKNOWN] 大家要十二点了。[UNKNOWN] 谢卡拉斯的的call。[UNKNOWN] 晚安了晚安了啊。[UNKNOWN] 你刚刚都会粤语翻音。[UNKNOWN] 阿琳卡都。[UNKNOWN] 晚安晚安晚安嗯  (💬 再无悲喜(x4) / 够雅(x3) / 呃呃(x3) / 够雅­ / 丨吧小公主)
+[160m] 🔥 [UNKNOWN] 可以独立完成越语直播吗。[UNKNOWN] 我觉得以看看完宫心计就可以了。[UNKNOWN] 哎宫心计只有一部吧。[UNKNOWN] 大家还是他有分什么。[UNKNOWN] 上下或者一二两部的呀。[UNKNOWN] 我没印象吗。[UNKNOWN] 谢谢佳家的么么头。[UNKNOWN] 我等会儿再去小打包  (💬 再无悲喜(x3) / bb88 / 晚安晚安 / 呃呃 / 丨吧宝宝)
+[161m] 🔥 [UNKNOWN] 一会儿那个还还有点没那个撕。[UNKNOWN] 没撕完呢。[UNKNOWN] 那个条就是没封完的那明信片。[UNKNOWN] 谢谢晴。[UNKNOWN] 你的么么头谢四云四的这个墙。[UNKNOWN] 晚安好梦点个原CG视频。[UNKNOWN] 可以快进到四十秒开始。[UNKNOWN] 帽子是男主是什么  (💬 再无悲喜(x4) / ？？？？(x3) / 啾啾 / 老广大大方方往里进 / 丨吧宝宝)
+[162m] 🔥 [UNKNOWN] 唉这个有点不能播吧。[UNKNOWN] 我再放小一点。[UNKNOWN] 我一定要看吗。[UNKNOWN] 我能不看吗。[UNKNOWN] 这些人在干什么。[UNKNOWN] 我去。[UNKNOWN] 哎哎不看了不看。[UNKNOWN] 了减三十了减三十了。[UNKNOWN] 拜。[UNKNOWN] 晚安晚安很容易写红SC吗  (💬 ？？？？(x4) / 再无悲喜(x4) / 酒吧舞了 / gta6 / 这能看吗)
+[162m] 🔥 [UNKNOWN] 我去他们不会有人直播。[UNKNOWN] 就还玩这些吧。[UNKNOWN] 他们不会有人直播。[UNKNOWN] 所以就这画面直接放出来吧。[UNKNOWN] 那有点大胆了。[UNKNOWN] 晚安晚安。[UNKNOWN] 妈呀妈呀晚安晚安。[UNKNOWN] 同原来同单下播就在做这个吗。[UNKNOWN] 我去那有点大胆了  (💬 再无悲喜(x9) / 比心(x4) / 啾啾 / 呃呃 / 88888)
+[163m] 🔥 [UNKNOWN] 养生要不以后直播乐音混合奖吧。[UNKNOWN] 啊鱼香不是。[UNKNOWN] 要成功。[UNKNOWN] Ok呀ok啊ok过奶了。[UNKNOWN] my god过奶过奶。[UNKNOWN] 带个哥奶。[UNKNOWN] 来一个阿珂奶嗯嗯。[UNKNOWN] 太阳给了带一个过奶。[UNKNOWN] 嗯  (💬 再无悲喜(x9) / 比心(x7) / 啾啾(x5) / 呃呃 / BB88)
+[163m] 🔥 [UNKNOWN] 呃明呀没明走。[UNKNOWN] 我在同代家工。[UNKNOWN] 搞morning呢。[UNKNOWN] good morgood。[UNKNOWN] good morning啊。[UNKNOWN] 大哥晚安哦哦。[UNKNOWN] 我晚晚安晚安good night。[UNKNOWN] 晚安晚安晚安good那一套  (💬 比心(x6) / 再无悲喜(x4) / 唔哎(x3) / 啾啾(x3) / 呃呃)
+[164m] 🔥 [UNKNOWN] 我晚安怎么又愿意说。[UNKNOWN] 我还真不知道呢。[UNKNOWN] 晚晚安好像就他们。[UNKNOWN] 不会这样的说法去说啊。[UNKNOWN] 晚安是怎么说的。[UNKNOWN] 他们好像不是会这样说的。[UNKNOWN] 怎么个说法呢。[UNKNOWN] 查询一下。[UNKNOWN] 哦晚安是凿头啊  (💬 呃呃(x3) / 比心(x3) / 再无悲喜(x3) / 早透 / 早投)
+[164m] 🔥 [UNKNOWN] 走筒ZOTOU凿凿桶谢灵剖就的。[UNKNOWN] 高猛我去谁在我谁把我在street。[UNKNOWN] club的工作录像都发出来了。[UNKNOWN] 宝宝你咋这样。[UNKNOWN] 你的录像被人发出来了吗。[UNKNOWN] 那有点危险了。[UNKNOWN] 你跟他你跟他交易一下吧。[UNKNOWN] 让他把视频删了  (💬 呃呃(x5) / 再无悲喜(x5) / 哈噫(x4) / 蜜蜂冰块(x3) / 今天的直播好无聊，送外卖都没劲)
+[164m] 🔥 [UNKNOWN] 你跟他说一下跟他说一下呃。[UNKNOWN] 私下解决一下晚安。[UNKNOWN] 人家晚安哦不是明早。[UNKNOWN] 明天下午。[UNKNOWN] 哎哎im说你说你说。[UNKNOWN] 你说你说你哎呀这呀哎。[UNKNOWN] im说你这这我搞搞错。[UNKNOWN] 我搞错做说说你。[UNKNOWN] sorry  (💬 呃呃(x6) / 再无悲喜(x5) / 蜜蜂冰块(x3) / 啾啾 / 今天的直播好无聊，送外卖都没劲)
+[165m] 🔥 [UNKNOWN] sorry。[UNKNOWN] sorry。[UNKNOWN] II go。[UNKNOWN] I。[UNKNOWN] sorry。[UNKNOWN] i made a mistake。[UNKNOWN] Its its not。[UNKNOWN] morning。[UNKNOWN] Its。[UNKNOWN] be afternoon  (💬 啾啾(x6) / 呃呃(x5) / 比心(x4) / 再无悲喜(x3) / 蜜蜂冰块)
+[165m] 🔥 [UNKNOWN] 呃的哈姆哈姆扫扫ham打一个。[UNKNOWN] 明明天听呀好嗯。[UNKNOWN] 美容顶紧呢。[UNKNOWN] 拜拜奶个拜拜。[UNKNOWN] 拜two PM拜拜。[UNKNOWN] 哎呀妈呀晚安晚安晚安安啊。[UNKNOWN] 我将用哎哎。[UNKNOWN] 我将用什么最直白的言语回应你  (💬 啾啾(x6) / 比心(x5) / 呃呃(x4) / 再无悲喜(x3) / 丨吧宝宝)
+[165m] 🔥 [UNKNOWN] 傻妈妈拜。[UNKNOWN] 拜拜晚安。[UNKNOWN] 那。[UNKNOWN] 晚安晚安。[UNKNOWN] 哇欢事。[UNKNOWN] 晚安明天下午见  (💬 比心(x6) / 啾啾(x5) / 净化 / 丨吧宝宝 / 不哄我不睡了！！！)
+[166m] ▫️ [UNKNOWN] 行吧我你让我选。[UNKNOWN] 我有选择郁症啊。[UNKNOWN] 我自己想不出来啊。[UNKNOWN] 你想了什么温柔点的歌。[UNKNOWN] 嗯嗯。[UNKNOWN] 你会唱的那个什么叫那个。[UNKNOWN] 这这不是废话吗。[UNKNOWN] 我还能唱我不会的吗。[UNKNOWN] 那个  (💬 再无悲喜 / 宝贝 / 赖了 / 嘻嘻 / 就是你会唱的那个)
+[167m] 🔥 [UNKNOWN] 啊你说我刚刚说的。[UNKNOWN] 我只会唱的那个摇篮曲啊。[UNKNOWN] 那个好像是是舒伯特版本。[UNKNOWN] 但是这个是不是有点太幼儿版了。[UNKNOWN] 是嗯只剩一一前。[UNKNOWN] 为何我的何处不愿却。[UNKNOWN] 不给给你你呀。[UNKNOWN] 哎呀喜欢你  (💬 哼1 / 睡吧睡吧 / 睡吧睡吧，我亲爱的 / 关门唱， / 再无悲喜)
+[169m] 🔥 [UNKNOWN] 声音一切没。[UNKNOWN] 你好的的春永远这。[UNKNOWN] 啊不给嗯。[UNKNOWN] 呀的心电话你。[UNKNOWN] 嗯  (💬 比心(x11) / 啾啾(x7) / 开动了 / bb88 / 关门吧)
